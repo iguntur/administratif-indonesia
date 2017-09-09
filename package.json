@@ -1,0 +1,17 @@
+{
+	"name": "administratif-indonesia",
+	"version": "0.0.0",
+	"description": "Daftar wilayah administratif Indonesia",
+	"license": "MIT",
+	"repository": "iguntur/administratif-indonesia",
+	"author": {
+		"name": "Guntur Poetra",
+		"email": "poetra.guntur@gmail.com",
+		"url": "github.com/iguntur"
+	},
+	"scripts": {
+	},
+	"files": [
+		"index.js"
+	]
+}
