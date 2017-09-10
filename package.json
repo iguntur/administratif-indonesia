@@ -10,8 +10,20 @@
 		"url": "github.com/iguntur"
 	},
 	"scripts": {
+		"download": "node scripts/download.js",
+		"parse": "node scripts/parser.js",
+		"test": "ava",
+		"lint": "xo",
+		"lint:fix": "xo --fix"
 	},
 	"files": [
 		"index.js"
-	]
+	],
+	"devDependencies": {
+		"ava": "^0.22.0",
+		"got": "^7.1.0",
+		"make-dir": "^1.0.0",
+		"pdf2json": "^1.1.7",
+		"xo": "^0.18.2"
+	}
 }
