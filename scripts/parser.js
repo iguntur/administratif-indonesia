@@ -1,8 +1,8 @@
 'use strict';
 const fs = require('fs');
 const path = require('path');
+const {Transform} = require('stream');
 const PDFParser = require('pdf2json');
-const { Transform } = require('stream');
 const paths = require('../lib/paths');
 
 class JSONStringifyStream extends Transform {
