@@ -1,7 +1,7 @@
 import test from 'ava';
 import fn from '../lib/file-name';
 
-test('filename', t => {
+test('filename to dash-case', t => {
 	t.is(fn('11._filename'), '11-filename');
 	t.is(fn('11._file_name_'), '11-file-name');
 	t.is(fn('11.file_name-'), '11-file-name');
