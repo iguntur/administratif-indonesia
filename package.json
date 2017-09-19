@@ -12,6 +12,7 @@
 	"scripts": {
 		"download": "node scripts/download.js",
 		"convert": "node scripts/convert.js",
+		"build": "node scripts/build.js",
 		"test": "xo && nyc ava",
 		"test:report": "nyc report --reporter=html ava"
 	},
