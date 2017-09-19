@@ -11,7 +11,7 @@
 	},
 	"scripts": {
 		"download": "node scripts/download.js",
-		"parse": "node scripts/parser.js",
+		"convert": "node scripts/convert.js",
 		"test": "xo && nyc ava",
 		"test:report": "nyc report --reporter=html ava"
 	},
