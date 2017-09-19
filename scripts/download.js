@@ -17,7 +17,7 @@ got('http://www.kemendagri.go.id/pages/data-wilayah')
 	))
 	.then(links => {
 		links.forEach(link => got.stream(link)
-			.pipe(fs.createWriteStream(paths('.cache/pdf', path.basename(link))))
+			.pipe(fs.createWriteStream(paths('.tmp', 'pdf', path.basename(link))))
 		);
 	})
 	.catch(err => {
