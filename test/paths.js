@@ -1,18 +1,29 @@
-import os from 'os';
 import fs from 'fs';
-import crypto from 'crypto';
-import p from 'path';
+import path from 'path';
 import test from 'ava';
 import paths from '../lib/paths';
 
-test('file exists', t => {
-	const filename = crypto.createHmac('md5', new Date().toString()).digest('hex');
-	const filepath = paths(os.tmpdir(), `${filename}.txt`);
-	const x = p.resolve(os.tmpdir(), `${filename}.txt`);
+const pkg = require('../package.json');
+
+const pkgCacheDir = path.resolve(process.cwd(), 'node_modules', '.cache', pkg.name);
+const uniqTempFile = require('./helpers/uniq-temp-file');
+
+test('paths()', t => {
+	t.true(typeof paths === 'function');
+
+	const tempfile = uniqTempFile();
+	const filepath = paths(tempfile);
+
+	t.is(filepath, tempfile);
+	t.true(filepath === tempfile);
 
 	fs.writeFileSync(filepath, 'ツ');
+	t.true(fs.existsSync(filepath));
+});
 
-	t.is(filepath, x);
-	t.true(filepath === x);
-	t.true(fs.existsSync(x));
+test('paths.cache()', t => {
+	t.is(paths.cache(), pkgCacheDir);
+	t.true(paths.cache() === pkgCacheDir);
+	t.is(paths.cache('foo.txt'), path.join(pkgCacheDir, 'foo.txt'));
+	t.true(paths.cache('foo.bar').endsWith('foo.bar'));
 });
