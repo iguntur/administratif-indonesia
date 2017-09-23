@@ -22,17 +22,17 @@ test('validate context', async t => {
 
 	x.forEach(res => {
 		res.ctx.forEach(o => {
-			t.true('id' in o);
+			t.true('code' in o);
 			t.true('type' in o);
-			t.true('value' in o);
+			t.true('name' in o);
 
-			t.true(typeof o.id === 'string');
+			t.true(typeof o.code === 'string');
 			t.true(typeof o.type === 'string');
-			t.true(typeof o.value === 'string');
+			t.true(typeof o.name === 'string');
 
-			t.true(o.value.length !== 0);
-			t.true(o.value.length > 1);
-			t.false(o.value.includes('%20'));
+			t.true(o.name.length !== 0);
+			t.true(o.name.length > 1);
+			t.false(o.name.includes('%20'));
 		});
 	});
 });
