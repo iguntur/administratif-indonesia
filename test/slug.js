@@ -1,12 +1,6 @@
 import test from 'ava';
 import fn from '../lib/slug';
 
-test('throws', t => {
-	t.throws(() => fn(), TypeError);
-	t.throws(() => fn([]), TypeError);
-	t.throws(() => fn({}), TypeError);
-});
-
 test('slugify', t => {
 	t.is(fn('11.foo.bar'), '11-foo-bar');
 	t.is(fn('11_foo_bar'), '11-foo-bar');
@@ -32,4 +26,13 @@ test('slugify', t => {
 	t.is(fn('  FOO-BAR  '), 'foo-bar');
 	t.is(fn('  FOO-   BAR  '), 'foo-bar');
 	t.is(fn('  FOO BAR  '), 'foo-bar');
+});
+
+test('slugify - multiple args', t => {
+	t.is(fn('FOO', 'BAR'), 'foo-bar');
+	t.is(fn('FOO', '-BAR'), 'foo-bar');
+	t.is(fn('FOO-', 'BAR'), 'foo-bar');
+	t.is(fn('FOO_', 'BAR'), 'foo-bar');
+	t.is(fn('FOO_', 'BAR'), 'foo-bar');
+	t.is(fn('FOO_', '_BAR_', 'baz'), 'foo-bar-baz');
 });

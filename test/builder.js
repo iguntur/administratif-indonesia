@@ -10,10 +10,10 @@ test('should return array[34] with attributes', async t => {
 	t.true(x.length === 34);
 
 	x.forEach(res => {
-		t.true('filename' in res);
-		t.true('ctx' in res);
-		t.true(Array.isArray(res.ctx));
-		t.is(path.extname(res.filename), '.json');
+		t.true('path' in res);
+		t.true('data' in res);
+		t.true(Array.isArray(res.data));
+		t.is(path.extname(res.path), '.json');
 	});
 });
 
@@ -21,7 +21,7 @@ test('validate context', async t => {
 	const x = await fn.run();
 
 	x.forEach(res => {
-		res.ctx.forEach(o => {
+		res.data.forEach(o => {
 			t.true('code' in o);
 			t.true('type' in o);
 			t.true('name' in o);
