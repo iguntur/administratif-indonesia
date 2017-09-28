@@ -3,7 +3,9 @@ const fs = require('fs');
 const path = require('path');
 const url = require('url');
 const got = require('got');
-const paths = require('../lib/paths');
+const pathEnsure = require('path-ensure');
+
+const paths = pathEnsure();
 
 /**
  * Download all PDF files
