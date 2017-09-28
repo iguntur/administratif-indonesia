@@ -1,9 +1,9 @@
 import test from 'ava';
-import paths from '../lib/paths';
+import path from 'path';
 import fn from '../lib/get-source';
 
 test('get sources', async t => {
-	const x = await fn(paths.cache('31-dki-jakarta.json.gz'));
+	const x = await fn(path.resolve(__dirname, 'fixtures', 'compressed.json.gz'));
 
 	t.true(typeof x === 'object');
 	t.true(Array.isArray(x));
