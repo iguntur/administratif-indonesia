@@ -18,9 +18,10 @@ got('http://www.kemendagri.go.id/pages/data-wilayah')
 		links => url.resolve('http://www.kemendagri.go.id/media/filemanager/', links)
 	))
 	.then(links => {
-		links.forEach(link => got.stream(link)
-			.pipe(fs.createWriteStream(paths('.tmp', 'pdf', path.basename(link))))
-		);
+		links.forEach(link => {
+			paths('.tmp', 'pdf', path.basename(link))
+				.then(fp => got.stream(link).pipe(fs.createWriteStream(fp)));
+		});
 	})
 	.catch(err => {
 		if (err) {
