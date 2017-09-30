@@ -4,8 +4,7 @@ const path = require('path');
 const zlib = require('zlib');
 const {Transform} = require('stream');
 const PDFParser = require('pdf2json');
-const slug = require('../lib/slug');
-const paths = require('../lib/paths');
+const cache = require('../lib/cache');
 
 class StringifyStream extends Transform {
 	constructor() {
@@ -27,17 +26,12 @@ class StringifyStream extends Transform {
 }
 
 try {
-	fs.readdirSync(paths('.tmp', 'pdf')).forEach(filename => {
-		fs.createReadStream(paths('.tmp', 'pdf', filename))
+	fs.readdirSync(path.resolve('.tmp', 'pdf')).forEach(filename => {
+		fs.createReadStream(path.resolve('.tmp', 'pdf', filename))
 			.pipe(new PDFParser())
 			.pipe(new StringifyStream())
 			.pipe(zlib.createGzip())
-			.pipe(fs.createWriteStream(
-				paths.cache(path.format({
-					name: slug(path.parse(filename).name),
-					ext: '.json.gz'
-				}))
-			));
+			.pipe(cache.write.stream(`${path.parse(filename).name}.json.gz`));
 	});
 } catch (err) {
 	console.error(err);
