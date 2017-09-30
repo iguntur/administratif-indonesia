@@ -24,6 +24,7 @@
 		"del": "^3.0.0",
 		"find-cache-dir": "^1.0.0",
 		"got": "^7.1.0",
+		"lodash.kebabcase": "^4.1.1",
 		"lodash.sortby": "^4.7.0",
 		"nyc": "^11.2.1",
 		"path-ensure": "^1.1.0",
