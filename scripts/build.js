@@ -12,7 +12,7 @@ const fsP = {
 
 const storage = (() => {
 	const STORAGE_DIR = path.resolve(__dirname, '..', 'storages');
-	const paths = pathEnsure({ cwd: STORAGE_DIR });
+	const paths = pathEnsure({cwd: STORAGE_DIR});
 
 	return {
 		dir: STORAGE_DIR,

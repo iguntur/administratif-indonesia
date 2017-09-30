@@ -1,5 +1,5 @@
-import test from 'ava';
 import path from 'path';
+import test from 'ava';
 import fn from '../lib/get-source';
 
 test('get sources', async t => {
