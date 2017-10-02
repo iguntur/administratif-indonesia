@@ -1,8 +1,8 @@
 import path from 'path';
 import test from 'ava';
-import fn from '../lib/get-source';
+import fn from '../lib/uncompress';
 
-test('get sources', async t => {
+test('uncompress', async t => {
 	const x = await fn(path.resolve(__dirname, 'fixtures', 'compressed.json.gz'));
 
 	t.true(typeof x === 'object');
