@@ -9,7 +9,7 @@ const findCacheDir = require('find-cache-dir');
 const pkg = require('../package.json');
 
 const CACHE_DIR = findCacheDir({name: pkg.name});
-const paths = pathEnsure({ cwd: CACHE_DIR });
+const paths = pathEnsure({cwd: CACHE_DIR});
 
 class StringifyStream extends Transform {
 	constructor() {
