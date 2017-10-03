@@ -17,6 +17,7 @@
 		"test:report": "nyc report --reporter=html ava"
 	},
 	"files": [
+		"storages",
 		"index.js"
 	],
 	"devDependencies": {
@@ -24,6 +25,7 @@
 		"del": "^3.0.0",
 		"find-cache-dir": "^1.0.0",
 		"got": "^7.1.0",
+		"listr": "^0.12.0",
 		"lodash.kebabcase": "^4.1.1",
 		"lodash.sortby": "^4.7.0",
 		"nyc": "^11.2.1",
