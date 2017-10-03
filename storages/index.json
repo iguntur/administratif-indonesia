@@ -1,0 +1,172 @@
+[
+	{
+		"code": "53",
+		"type": "provinsi",
+		"name": "NUSA TENGGARA TIMUR"
+	},
+	{
+		"code": "65",
+		"type": "provinsi",
+		"name": "KALIMANTAN UTARA"
+	},
+	{
+		"code": "35",
+		"type": "provinsi",
+		"name": "JAWA TIMUR"
+	},
+	{
+		"code": "32",
+		"type": "provinsi",
+		"name": "JAWA BARAT"
+	},
+	{
+		"code": "73",
+		"type": "provinsi",
+		"name": "SULAWESI SELATAN"
+	},
+	{
+		"code": "75",
+		"type": "provinsi",
+		"name": "GORONTALO"
+	},
+	{
+		"code": "12",
+		"type": "provinsi",
+		"name": "SUMATERA UTARA"
+	},
+	{
+		"code": "92",
+		"type": "provinsi",
+		"name": "PAPUA BARAT"
+	},
+	{
+		"code": "62",
+		"type": "provinsi",
+		"name": "KALIMANTAN TENGAH"
+	},
+	{
+		"code": "21",
+		"type": "provinsi",
+		"name": "KEPULAUAN RIAU"
+	},
+	{
+		"code": "72",
+		"type": "provinsi",
+		"name": "SULAWESI TENGAH"
+	},
+	{
+		"code": "18",
+		"type": "provinsi",
+		"name": "LAMPUNG"
+	},
+	{
+		"code": "19",
+		"type": "provinsi",
+		"name": "KEPULAUAN BANGKA BELITUNG"
+	},
+	{
+		"code": "31",
+		"type": "provinsi",
+		"name": "DKI JAKARTA"
+	},
+	{
+		"code": "64",
+		"type": "provinsi",
+		"name": "KALIMANTAN TIMUR"
+	},
+	{
+		"code": "16",
+		"type": "provinsi",
+		"name": "SUMATERA SELATAN"
+	},
+	{
+		"code": "76",
+		"type": "provinsi",
+		"name": "SULAWESI BARAT"
+	},
+	{
+		"code": "61",
+		"type": "provinsi",
+		"name": "KALIMANTAN BARAT"
+	},
+	{
+		"code": "33",
+		"type": "provinsi",
+		"name": "JAWA TENGAH"
+	},
+	{
+		"code": "15",
+		"type": "provinsi",
+		"name": "JAMBI"
+	},
+	{
+		"code": "91",
+		"type": "provinsi",
+		"name": "PAPUA"
+	},
+	{
+		"code": "63",
+		"type": "provinsi",
+		"name": "KALIMANTAN SELATAN"
+	},
+	{
+		"code": "51",
+		"type": "provinsi",
+		"name": "BALI"
+	},
+	{
+		"code": "34",
+		"type": "provinsi",
+		"name": "YOGYAKARTA"
+	},
+	{
+		"code": "17",
+		"type": "provinsi",
+		"name": "BENGKULU"
+	},
+	{
+		"code": "36",
+		"type": "provinsi",
+		"name": "BANTEN"
+	},
+	{
+		"code": "13",
+		"type": "provinsi",
+		"name": "SUMATERA BARAT"
+	},
+	{
+		"code": "52",
+		"type": "provinsi",
+		"name": "NUSA TENGGARA BARAT"
+	},
+	{
+		"code": "81",
+		"type": "provinsi",
+		"name": "MALUKU"
+	},
+	{
+		"code": "71",
+		"type": "provinsi",
+		"name": "SULAWESI UTARA"
+	},
+	{
+		"code": "82",
+		"type": "provinsi",
+		"name": "MALUKU UTARA"
+	},
+	{
+		"code": "74",
+		"type": "provinsi",
+		"name": "SULAWESI TENGGARA"
+	},
+	{
+		"code": "14",
+		"type": "provinsi",
+		"name": "RIAU"
+	},
+	{
+		"code": "11",
+		"type": "provinsi",
+		"name": "ACEH"
+	}
+]

@@ -1,0 +1,1592 @@
+[
+	{
+		"code": "31",
+		"type": "provinsi",
+		"name": "DKI JAKARTA"
+	},
+	{
+		"code": "31.01",
+		"type": "kabupaten",
+		"name": "KAB. ADM. KEP. SERIBU"
+	},
+	{
+		"code": "31.01.01",
+		"type": "kecamatan",
+		"name": "KEPULAUAN SERIBU UTARA"
+	},
+	{
+		"code": "31.01.01.1001",
+		"type": "kelurahan",
+		"name": "PULAU PANGGANG"
+	},
+	{
+		"code": "31.01.01.1002",
+		"type": "kelurahan",
+		"name": "PULAU KELAPA"
+	},
+	{
+		"code": "31.01.01.1003",
+		"type": "kelurahan",
+		"name": "PULAU HARAPAN"
+	},
+	{
+		"code": "31.01.02",
+		"type": "kecamatan",
+		"name": "KEPULAUAN SERIBU SELATAN."
+	},
+	{
+		"code": "31.01.02.1001",
+		"type": "kelurahan",
+		"name": "PULAU UNTUNG JAWA"
+	},
+	{
+		"code": "31.01.02.1002",
+		"type": "kelurahan",
+		"name": "PULAU TIDUNG"
+	},
+	{
+		"code": "31.01.02.1003",
+		"type": "kelurahan",
+		"name": "PULAU PARI"
+	},
+	{
+		"code": "31.71",
+		"type": "kabupaten",
+		"name": "KOTA ADM. JAKARTA PUSAT"
+	},
+	{
+		"code": "31.71.01",
+		"type": "kecamatan",
+		"name": "GAMBIR"
+	},
+	{
+		"code": "31.71.01.1001",
+		"type": "kelurahan",
+		"name": "GAMBIR"
+	},
+	{
+		"code": "31.71.01.1002",
+		"type": "kelurahan",
+		"name": "CIDENG"
+	},
+	{
+		"code": "31.71.01.1003",
+		"type": "kelurahan",
+		"name": "PETOJO UTARA"
+	},
+	{
+		"code": "31.71.01.1004",
+		"type": "kelurahan",
+		"name": "PETOJO SELATAN"
+	},
+	{
+		"code": "31.71.01.1005",
+		"type": "kelurahan",
+		"name": "KEBON KELAPA"
+	},
+	{
+		"code": "31.71.01.1006",
+		"type": "kelurahan",
+		"name": "DURI PULO"
+	},
+	{
+		"code": "31.71.02",
+		"type": "kecamatan",
+		"name": "SAWAH BESAR"
+	},
+	{
+		"code": "31.71.02.1001",
+		"type": "kelurahan",
+		"name": "PASAR BARU"
+	},
+	{
+		"code": "31.71.02.1002",
+		"type": "kelurahan",
+		"name": "KARANG ANYAR"
+	},
+	{
+		"code": "31.71.02.1003",
+		"type": "kelurahan",
+		"name": "KARTINI"
+	},
+	{
+		"code": "31.71.02.1004",
+		"type": "kelurahan",
+		"name": "GUNUNG SAHARI UTARA"
+	},
+	{
+		"code": "31.71.02.1005",
+		"type": "kelurahan",
+		"name": "MANGGA DUA SELATAN"
+	},
+	{
+		"code": "31.71.03",
+		"type": "kecamatan",
+		"name": "KEMAYORAN"
+	},
+	{
+		"code": "31.71.03.1001",
+		"type": "kelurahan",
+		"name": "KEMAYORAN"
+	},
+	{
+		"code": "31.71.03.1002",
+		"type": "kelurahan",
+		"name": "KEBON KOSONG"
+	},
+	{
+		"code": "31.71.03.1003",
+		"type": "kelurahan",
+		"name": "HARAPAN MULIA"
+	},
+	{
+		"code": "31.71.03.1004",
+		"type": "kelurahan",
+		"name": "SERDANG"
+	},
+	{
+		"code": "31.71.03.1005",
+		"type": "kelurahan",
+		"name": "GUNUNG SAHARI SELATAN"
+	},
+	{
+		"code": "31.71.03.1006",
+		"type": "kelurahan",
+		"name": "CEMPAKA BARU"
+	},
+	{
+		"code": "31.71.03.1007",
+		"type": "kelurahan",
+		"name": "SUMUR BATU"
+	},
+	{
+		"code": "31.71.03.1008",
+		"type": "kelurahan",
+		"name": "UTAN PANJANG"
+	},
+	{
+		"code": "31.71.04",
+		"type": "kecamatan",
+		"name": "SENEN"
+	},
+	{
+		"code": "31.71.04.1001",
+		"type": "kelurahan",
+		"name": "SENEN"
+	},
+	{
+		"code": "31.71.04.1002",
+		"type": "kelurahan",
+		"name": "KENARI"
+	},
+	{
+		"code": "31.71.04.1003",
+		"type": "kelurahan",
+		"name": "PASEBAN"
+	},
+	{
+		"code": "31.71.04.1004",
+		"type": "kelurahan",
+		"name": "KRAMAT"
+	},
+	{
+		"code": "31.71.04.1005",
+		"type": "kelurahan",
+		"name": "KWITANG"
+	},
+	{
+		"code": "31.71.04.1006",
+		"type": "kelurahan",
+		"name": "BUNGUR"
+	},
+	{
+		"code": "31.71.05",
+		"type": "kecamatan",
+		"name": "CEMPAKA PUTIH"
+	},
+	{
+		"code": "31.71.05.1001",
+		"type": "kelurahan",
+		"name": "CEMPAKA PUTIH TIMUR"
+	},
+	{
+		"code": "31.71.05.1002",
+		"type": "kelurahan",
+		"name": "CEMPAKA PUTIH BARAT"
+	},
+	{
+		"code": "31.71.05.1003",
+		"type": "kelurahan",
+		"name": "RAWASARI"
+	},
+	{
+		"code": "31.71.06",
+		"type": "kecamatan",
+		"name": "MENTENG"
+	},
+	{
+		"code": "31.71.06.1001",
+		"type": "kelurahan",
+		"name": "MENTENG"
+	},
+	{
+		"code": "31.71.06.1002",
+		"type": "kelurahan",
+		"name": "PEGANGSAAN"
+	},
+	{
+		"code": "31.71.06.1003",
+		"type": "kelurahan",
+		"name": "CIKINI"
+	},
+	{
+		"code": "31.71.06.1004",
+		"type": "kelurahan",
+		"name": "GONDANGDIA"
+	},
+	{
+		"code": "31.71.06.1005",
+		"type": "kelurahan",
+		"name": "KEBON SIRIH"
+	},
+	{
+		"code": "31.71.07",
+		"type": "kecamatan",
+		"name": "TANAH ABANG"
+	},
+	{
+		"code": "31.71.07.1001",
+		"type": "kelurahan",
+		"name": "GELORA"
+	},
+	{
+		"code": "31.71.07.1002",
+		"type": "kelurahan",
+		"name": "BENDUNGAN HILIR"
+	},
+	{
+		"code": "31.71.07.1003",
+		"type": "kelurahan",
+		"name": "KARET TENGSIN"
+	},
+	{
+		"code": "31.71.07.1004",
+		"type": "kelurahan",
+		"name": "PETAMBURAN"
+	},
+	{
+		"code": "31.71.07.1005",
+		"type": "kelurahan",
+		"name": "KEBON MELATI"
+	},
+	{
+		"code": "31.71.07.1006",
+		"type": "kelurahan",
+		"name": "KEBON KACANG"
+	},
+	{
+		"code": "31.71.07.1007",
+		"type": "kelurahan",
+		"name": "KAMPUNG BALI"
+	},
+	{
+		"code": "31.71.08",
+		"type": "kecamatan",
+		"name": "JOHAR BARU"
+	},
+	{
+		"code": "31.71.08.1001",
+		"type": "kelurahan",
+		"name": "JOHAR BARU"
+	},
+	{
+		"code": "31.71.08.1002",
+		"type": "kelurahan",
+		"name": "KAMPUNG RAWA"
+	},
+	{
+		"code": "31.71.08.1003",
+		"type": "kelurahan",
+		"name": "GALUR"
+	},
+	{
+		"code": "31.71.08.1004",
+		"type": "kelurahan",
+		"name": "TANAH TINGGI"
+	},
+	{
+		"code": "31.72",
+		"type": "kabupaten",
+		"name": "KOTA ADM. JAKARTA UTARA"
+	},
+	{
+		"code": "31.72.01",
+		"type": "kecamatan",
+		"name": "PENJARINGAN"
+	},
+	{
+		"code": "31.72.01.1001",
+		"type": "kelurahan",
+		"name": "PENJARINGAN"
+	},
+	{
+		"code": "31.72.01.1002",
+		"type": "kelurahan",
+		"name": "KAMAL MUARA"
+	},
+	{
+		"code": "31.72.01.1003",
+		"type": "kelurahan",
+		"name": "KAPUK MUARA"
+	},
+	{
+		"code": "31.72.01.1004",
+		"type": "kelurahan",
+		"name": "PEJAGALAN"
+	},
+	{
+		"code": "31.72.01.1005",
+		"type": "kelurahan",
+		"name": "PLUIT"
+	},
+	{
+		"code": "31.72.02",
+		"type": "kecamatan",
+		"name": "TANJUNG PRIOK"
+	},
+	{
+		"code": "31.72.02.1001",
+		"type": "kelurahan",
+		"name": "TANJUNG PRIOK"
+	},
+	{
+		"code": "31.72.02.1002",
+		"type": "kelurahan",
+		"name": "SUNTER JAYA"
+	},
+	{
+		"code": "31.72.02.1003",
+		"type": "kelurahan",
+		"name": "PAPANGGO"
+	},
+	{
+		"code": "31.72.02.1004",
+		"type": "kelurahan",
+		"name": "SUNGAI BAMBU"
+	},
+	{
+		"code": "31.72.02.1005",
+		"type": "kelurahan",
+		"name": "KEBON BAWANG"
+	},
+	{
+		"code": "31.72.02.1006",
+		"type": "kelurahan",
+		"name": "SUNTER AGUNG"
+	},
+	{
+		"code": "31.72.02.1007",
+		"type": "kelurahan",
+		"name": "WARAKAS"
+	},
+	{
+		"code": "31.72.03",
+		"type": "kecamatan",
+		"name": "KOJA"
+	},
+	{
+		"code": "31.72.03.1001",
+		"type": "kelurahan",
+		"name": "KOJA"
+	},
+	{
+		"code": "31.72.03.1002",
+		"type": "kelurahan",
+		"name": "TUGU UTARA"
+	},
+	{
+		"code": "31.72.03.1003",
+		"type": "kelurahan",
+		"name": "LAGOA"
+	},
+	{
+		"code": "31.72.03.1004",
+		"type": "kelurahan",
+		"name": "RAWA BADAK UTARA"
+	},
+	{
+		"code": "31.72.03.1005",
+		"type": "kelurahan",
+		"name": "TUGU SELATAN"
+	},
+	{
+		"code": "31.72.03.1006",
+		"type": "kelurahan",
+		"name": "RAWA BADAK SELATAN"
+	},
+	{
+		"code": "31.72.04",
+		"type": "kecamatan",
+		"name": "CILINCING"
+	},
+	{
+		"code": "31.72.04.1001",
+		"type": "kelurahan",
+		"name": "CILINCING"
+	},
+	{
+		"code": "31.72.04.1002",
+		"type": "kelurahan",
+		"name": "SUKAPURA"
+	},
+	{
+		"code": "31.72.04.1003",
+		"type": "kelurahan",
+		"name": "MARUNDA"
+	},
+	{
+		"code": "31.72.04.1004",
+		"type": "kelurahan",
+		"name": "KALIBARU"
+	},
+	{
+		"code": "31.72.04.1005",
+		"type": "kelurahan",
+		"name": "SEMPER TIMUR"
+	},
+	{
+		"code": "31.72.04.1006",
+		"type": "kelurahan",
+		"name": "ROROTAN"
+	},
+	{
+		"code": "31.72.04.1007",
+		"type": "kelurahan",
+		"name": "SEMPER BARAT"
+	},
+	{
+		"code": "31.72.05",
+		"type": "kecamatan",
+		"name": "PADEMANGAN"
+	},
+	{
+		"code": "31.72.05.1001",
+		"type": "kelurahan",
+		"name": "PADEMANGAN TIMUR"
+	},
+	{
+		"code": "31.72.05.1002",
+		"type": "kelurahan",
+		"name": "PADEMANGAN BARAT"
+	},
+	{
+		"code": "31.72.05.1003",
+		"type": "kelurahan",
+		"name": "ANCOL"
+	},
+	{
+		"code": "31.72.06",
+		"type": "kecamatan",
+		"name": "KELAPA GADING"
+	},
+	{
+		"code": "31.72.06.1001",
+		"type": "kelurahan",
+		"name": "KELAPA GADING TIMUR"
+	},
+	{
+		"code": "31.72.06.1002",
+		"type": "kelurahan",
+		"name": "PEGANGSAAN DUA"
+	},
+	{
+		"code": "31.72.06.1003",
+		"type": "kelurahan",
+		"name": "KELAPA GADING BARAT"
+	},
+	{
+		"code": "31.73",
+		"type": "kabupaten",
+		"name": "KOTA ADM. JAKARTA BARAT"
+	},
+	{
+		"code": "31.73.01",
+		"type": "kecamatan",
+		"name": "CENGKARENG"
+	},
+	{
+		"code": "31.73.01.1001",
+		"type": "kelurahan",
+		"name": "CENGKARENG BARAT"
+	},
+	{
+		"code": "31.73.01.1002",
+		"type": "kelurahan",
+		"name": "DURI KOSAMBI"
+	},
+	{
+		"code": "31.73.01.1003",
+		"type": "kelurahan",
+		"name": "RAWA BUAYA"
+	},
+	{
+		"code": "31.73.01.1004",
+		"type": "kelurahan",
+		"name": "KEDAUNG KALI ANGKE"
+	},
+	{
+		"code": "31.73.01.1005",
+		"type": "kelurahan",
+		"name": "KAPUK"
+	},
+	{
+		"code": "31.73.01.1006",
+		"type": "kelurahan",
+		"name": "CENGKARENG TIMUR"
+	},
+	{
+		"code": "31.73.02",
+		"type": "kecamatan",
+		"name": "GROGOL PETAMBURAN"
+	},
+	{
+		"code": "31.73.02.1001",
+		"type": "kelurahan",
+		"name": "GROGOL"
+	},
+	{
+		"code": "31.73.02.1002",
+		"type": "kelurahan",
+		"name": "TANJUNG DUREN UTARA"
+	},
+	{
+		"code": "31.73.02.1003",
+		"type": "kelurahan",
+		"name": "TOMANG"
+	},
+	{
+		"code": "31.73.02.1004",
+		"type": "kelurahan",
+		"name": "JELAMBAR"
+	},
+	{
+		"code": "31.73.02.1005",
+		"type": "kelurahan",
+		"name": "TANJUNG DUREN SELATAN"
+	},
+	{
+		"code": "31.73.02.1006",
+		"type": "kelurahan",
+		"name": "JELAMBAR BARU"
+	},
+	{
+		"code": "31.73.02.1007",
+		"type": "kelurahan",
+		"name": "WIJAYA KUSUMA"
+	},
+	{
+		"code": "31.73.03",
+		"type": "kecamatan",
+		"name": "TAMAN SARI"
+	},
+	{
+		"code": "31.73.03.1001",
+		"type": "kelurahan",
+		"name": "TAMAN SARI"
+	},
+	{
+		"code": "31.73.03.1002",
+		"type": "kelurahan",
+		"name": "KRUKUT"
+	},
+	{
+		"code": "31.73.03.1003",
+		"type": "kelurahan",
+		"name": "MAPHAR"
+	},
+	{
+		"code": "31.73.03.1004",
+		"type": "kelurahan",
+		"name": "TANGKI"
+	},
+	{
+		"code": "31.73.03.1005",
+		"type": "kelurahan",
+		"name": "MANGGA BESAR"
+	},
+	{
+		"code": "31.73.03.1006",
+		"type": "kelurahan",
+		"name": "KEAGUNGAN"
+	},
+	{
+		"code": "31.73.03.1007",
+		"type": "kelurahan",
+		"name": "GLODOK"
+	},
+	{
+		"code": "31.73.03.1008",
+		"type": "kelurahan",
+		"name": "PINANGSIA"
+	},
+	{
+		"code": "31.73.04",
+		"type": "kecamatan",
+		"name": "TAMBORA"
+	},
+	{
+		"code": "31.73.04.1001",
+		"type": "kelurahan",
+		"name": "TAMBORA"
+	},
+	{
+		"code": "31.73.04.1002",
+		"type": "kelurahan",
+		"name": "KALI ANYAR"
+	},
+	{
+		"code": "31.73.04.1003",
+		"type": "kelurahan",
+		"name": "DURI UTARA"
+	},
+	{
+		"code": "31.73.04.1004",
+		"type": "kelurahan",
+		"name": "TANAH SEREAL"
+	},
+	{
+		"code": "31.73.04.1005",
+		"type": "kelurahan",
+		"name": "KRENDANG"
+	},
+	{
+		"code": "31.73.04.1006",
+		"type": "kelurahan",
+		"name": "JEMBATAN BESI"
+	},
+	{
+		"code": "31.73.04.1007",
+		"type": "kelurahan",
+		"name": "ANGKE"
+	},
+	{
+		"code": "31.73.04.1008",
+		"type": "kelurahan",
+		"name": "JEMBATAN LIMA"
+	},
+	{
+		"code": "31.73.04.1009",
+		"type": "kelurahan",
+		"name": "PEKOJAN"
+	},
+	{
+		"code": "31.73.04.1010",
+		"type": "kelurahan",
+		"name": "ROA MALAKA"
+	},
+	{
+		"code": "31.73.04.1011",
+		"type": "kelurahan",
+		"name": "DURI SELATAN"
+	},
+	{
+		"code": "31.73.05",
+		"type": "kecamatan",
+		"name": "KEBON JERUK"
+	},
+	{
+		"code": "31.73.05.1001",
+		"type": "kelurahan",
+		"name": "KEBON JERUK"
+	},
+	{
+		"code": "31.73.05.1002",
+		"type": "kelurahan",
+		"name": "SUKABUMI UTARA"
+	},
+	{
+		"code": "31.73.05.1003",
+		"type": "kelurahan",
+		"name": "SUKABUMI SELATAN"
+	},
+	{
+		"code": "31.73.05.1004",
+		"type": "kelurahan",
+		"name": "KELAPA DUA"
+	},
+	{
+		"code": "31.73.05.1005",
+		"type": "kelurahan",
+		"name": "DURI KEPA"
+	},
+	{
+		"code": "31.73.05.1006",
+		"type": "kelurahan",
+		"name": "KEDOYA UTARA"
+	},
+	{
+		"code": "31.73.05.1007",
+		"type": "kelurahan",
+		"name": "KEDOYA SELATAN"
+	},
+	{
+		"code": "31.73.06",
+		"type": "kecamatan",
+		"name": "KALIDERES"
+	},
+	{
+		"code": "31.73.06.1001",
+		"type": "kelurahan",
+		"name": "KALIDERES"
+	},
+	{
+		"code": "31.73.06.1002",
+		"type": "kelurahan",
+		"name": "SEMANAN"
+	},
+	{
+		"code": "31.73.06.1003",
+		"type": "kelurahan",
+		"name": "TEGAL ALUR"
+	},
+	{
+		"code": "31.73.06.1004",
+		"type": "kelurahan",
+		"name": "KAMAL"
+	},
+	{
+		"code": "31.73.06.1005",
+		"type": "kelurahan",
+		"name": "PEGADUNGAN"
+	},
+	{
+		"code": "31.73.07",
+		"type": "kecamatan",
+		"name": "PAL MERAH"
+	},
+	{
+		"code": "31.73.07.1001",
+		"type": "kelurahan",
+		"name": "PALMERAH"
+	},
+	{
+		"code": "31.73.07.1002",
+		"type": "kelurahan",
+		"name": "SLIPI"
+	},
+	{
+		"code": "31.73.07.1003",
+		"type": "kelurahan",
+		"name": "KOTA BAMBU UTARA"
+	},
+	{
+		"code": "31.73.07.1004",
+		"type": "kelurahan",
+		"name": "JATIPULO"
+	},
+	{
+		"code": "31.73.07.1005",
+		"type": "kelurahan",
+		"name": "KEMANGGISAN"
+	},
+	{
+		"code": "31.73.07.1006",
+		"type": "kelurahan",
+		"name": "KOTA BAMBU SELATAN"
+	},
+	{
+		"code": "31.73.08",
+		"type": "kecamatan",
+		"name": "KEMBANGAN"
+	},
+	{
+		"code": "31.73.08.1001",
+		"type": "kelurahan",
+		"name": "KEMBANGAN UTARA"
+	},
+	{
+		"code": "31.73.08.1002",
+		"type": "kelurahan",
+		"name": "MERUYA UTARA"
+	},
+	{
+		"code": "31.73.08.1003",
+		"type": "kelurahan",
+		"name": "MERUYA SELATAN"
+	},
+	{
+		"code": "31.73.08.1004",
+		"type": "kelurahan",
+		"name": "SRENGSENG"
+	},
+	{
+		"code": "31.73.08.1005",
+		"type": "kelurahan",
+		"name": "JOGLO"
+	},
+	{
+		"code": "31.73.08.1006",
+		"type": "kelurahan",
+		"name": "KEMBANGAN SELATAN"
+	},
+	{
+		"code": "31.74",
+		"type": "kabupaten",
+		"name": "KOTA ADM. JAKARTA SELATAN"
+	},
+	{
+		"code": "31.74.01",
+		"type": "kecamatan",
+		"name": "TEBET"
+	},
+	{
+		"code": "31.74.01.1001",
+		"type": "kelurahan",
+		"name": "TEBET TIMUR"
+	},
+	{
+		"code": "31.74.01.1002",
+		"type": "kelurahan",
+		"name": "TEBET BARAT"
+	},
+	{
+		"code": "31.74.01.1003",
+		"type": "kelurahan",
+		"name": "MENTENG DALAM"
+	},
+	{
+		"code": "31.74.01.1004",
+		"type": "kelurahan",
+		"name": "KEBON BARU"
+	},
+	{
+		"code": "31.74.01.1005",
+		"type": "kelurahan",
+		"name": "BUKIT DURI"
+	},
+	{
+		"code": "31.74.01.1006",
+		"type": "kelurahan",
+		"name": "MANGGARAI SELATAN"
+	},
+	{
+		"code": "31.74.01.1007",
+		"type": "kelurahan",
+		"name": "MANGGARAI"
+	},
+	{
+		"code": "31.74.02",
+		"type": "kecamatan",
+		"name": "SETIABUDI"
+	},
+	{
+		"code": "31.74.02.1001",
+		"type": "kelurahan",
+		"name": "SETIA BUDI"
+	},
+	{
+		"code": "31.74.02.1002",
+		"type": "kelurahan",
+		"name": "KARET SEMANGGI"
+	},
+	{
+		"code": "31.74.02.1003",
+		"type": "kelurahan",
+		"name": "KARET KUNINGAN"
+	},
+	{
+		"code": "31.74.02.1004",
+		"type": "kelurahan",
+		"name": "KARET"
+	},
+	{
+		"code": "31.74.02.1005",
+		"type": "kelurahan",
+		"name": "MENTENG ATAS"
+	},
+	{
+		"code": "31.74.02.1006",
+		"type": "kelurahan",
+		"name": "PASAR MANGGIS"
+	},
+	{
+		"code": "31.74.02.1007",
+		"type": "kelurahan",
+		"name": "GUNTUR"
+	},
+	{
+		"code": "31.74.02.1008",
+		"type": "kelurahan",
+		"name": "KUNINGAN TIMUR"
+	},
+	{
+		"code": "31.74.03",
+		"type": "kecamatan",
+		"name": "MAMPANG PRAPATAN"
+	},
+	{
+		"code": "31.74.03.1001",
+		"type": "kelurahan",
+		"name": "MAMPANG PRAPATAN"
+	},
+	{
+		"code": "31.74.03.1002",
+		"type": "kelurahan",
+		"name": "BANGKA"
+	},
+	{
+		"code": "31.74.03.1003",
+		"type": "kelurahan",
+		"name": "PELA MAMPANG"
+	},
+	{
+		"code": "31.74.03.1004",
+		"type": "kelurahan",
+		"name": "TEGAL PARANG"
+	},
+	{
+		"code": "31.74.03.1005",
+		"type": "kelurahan",
+		"name": "KUNINGAN BARAT"
+	},
+	{
+		"code": "31.74.04",
+		"type": "kecamatan",
+		"name": "PASAR MINGGU"
+	},
+	{
+		"code": "31.74.04.1001",
+		"type": "kelurahan",
+		"name": "PASAR MINGGU"
+	},
+	{
+		"code": "31.74.04.1002",
+		"type": "kelurahan",
+		"name": "JATI PADANG"
+	},
+	{
+		"code": "31.74.04.1003",
+		"type": "kelurahan",
+		"name": "CILANDAK TIMUR"
+	},
+	{
+		"code": "31.74.04.1004",
+		"type": "kelurahan",
+		"name": "RAGUNAN"
+	},
+	{
+		"code": "31.74.04.1005",
+		"type": "kelurahan",
+		"name": "PEJATEN TIMUR"
+	},
+	{
+		"code": "31.74.04.1006",
+		"type": "kelurahan",
+		"name": "PEJATEN BARAT"
+	},
+	{
+		"code": "31.74.04.1007",
+		"type": "kelurahan",
+		"name": "KEBAGUSAN"
+	},
+	{
+		"code": "31.74.05",
+		"type": "kecamatan",
+		"name": "KEBAYORAN LAMA"
+	},
+	{
+		"code": "31.74.05.1001",
+		"type": "kelurahan",
+		"name": "KEBAYORAN LAMA UTARA"
+	},
+	{
+		"code": "31.74.05.1002",
+		"type": "kelurahan",
+		"name": "PONDOK PINANG"
+	},
+	{
+		"code": "31.74.05.1003",
+		"type": "kelurahan",
+		"name": "CIPULIR"
+	},
+	{
+		"code": "31.74.05.1004",
+		"type": "kelurahan",
+		"name": "GROGOL UTARA"
+	},
+	{
+		"code": "31.74.05.1005",
+		"type": "kelurahan",
+		"name": "GROGOL SELATAN"
+	},
+	{
+		"code": "31.74.05.1006",
+		"type": "kelurahan",
+		"name": "KEBAYORAN LAMA SELATAN"
+	},
+	{
+		"code": "31.74.06",
+		"type": "kecamatan",
+		"name": "CILANDAK"
+	},
+	{
+		"code": "31.74.06.1001",
+		"type": "kelurahan",
+		"name": "CILANDAK BARAT"
+	},
+	{
+		"code": "31.74.06.1002",
+		"type": "kelurahan",
+		"name": "LEBAK BULUS"
+	},
+	{
+		"code": "31.74.06.1003",
+		"type": "kelurahan",
+		"name": "PONDOK LABU"
+	},
+	{
+		"code": "31.74.06.1004",
+		"type": "kelurahan",
+		"name": "GANDARIA SELATAN"
+	},
+	{
+		"code": "31.74.06.1005",
+		"type": "kelurahan",
+		"name": "CIPETE SELATAN"
+	},
+	{
+		"code": "31.74.07",
+		"type": "kecamatan",
+		"name": "KEBAYORAN BARU"
+	},
+	{
+		"code": "31.74.07.1001",
+		"type": "kelurahan",
+		"name": "MELAWAI"
+	},
+	{
+		"code": "31.74.07.1002",
+		"type": "kelurahan",
+		"name": "GUNUNG"
+	},
+	{
+		"code": "31.74.07.1003",
+		"type": "kelurahan",
+		"name": "KRAMAT PELA"
+	},
+	{
+		"code": "31.74.07.1004",
+		"type": "kelurahan",
+		"name": "SELONG"
+	},
+	{
+		"code": "31.74.07.1005",
+		"type": "kelurahan",
+		"name": "RAWA BARAT"
+	},
+	{
+		"code": "31.74.07.1006",
+		"type": "kelurahan",
+		"name": "SENAYAN"
+	},
+	{
+		"code": "31.74.07.1007",
+		"type": "kelurahan",
+		"name": "PULO"
+	},
+	{
+		"code": "31.74.07.1008",
+		"type": "kelurahan",
+		"name": "PETOGOGAN"
+	},
+	{
+		"code": "31.74.07.1009",
+		"type": "kelurahan",
+		"name": "GANDARIA UTARA"
+	},
+	{
+		"code": "31.74.07.1010",
+		"type": "kelurahan",
+		"name": "CIPETE UTARA"
+	},
+	{
+		"code": "31.74.08",
+		"type": "kecamatan",
+		"name": "PANCORAN"
+	},
+	{
+		"code": "31.74.08.1001",
+		"type": "kelurahan",
+		"name": "PANCORAN"
+	},
+	{
+		"code": "31.74.08.1002",
+		"type": "kelurahan",
+		"name": "KALIBATA"
+	},
+	{
+		"code": "31.74.08.1003",
+		"type": "kelurahan",
+		"name": "RAWAJATI"
+	},
+	{
+		"code": "31.74.08.1004",
+		"type": "kelurahan",
+		"name": "DUREN TIGA"
+	},
+	{
+		"code": "31.74.08.1005",
+		"type": "kelurahan",
+		"name": "PENGADEGAN"
+	},
+	{
+		"code": "31.74.08.1006",
+		"type": "kelurahan",
+		"name": "CIKOKO"
+	},
+	{
+		"code": "31.74.09",
+		"type": "kecamatan",
+		"name": "JAGAKARSA"
+	},
+	{
+		"code": "31.74.09.1001",
+		"type": "kelurahan",
+		"name": "JAGAKARSA"
+	},
+	{
+		"code": "31.74.09.1002",
+		"type": "kelurahan",
+		"name": "SRENGSENG SAWAH"
+	},
+	{
+		"code": "31.74.09.1003",
+		"type": "kelurahan",
+		"name": "CIGANJUR"
+	},
+	{
+		"code": "31.74.09.1004",
+		"type": "kelurahan",
+		"name": "LENTENG AGUNG"
+	},
+	{
+		"code": "31.74.09.1005",
+		"type": "kelurahan",
+		"name": "TANJUNG BARAT"
+	},
+	{
+		"code": "31.74.09.1006",
+		"type": "kelurahan",
+		"name": "CIPEDAK"
+	},
+	{
+		"code": "31.74.10",
+		"type": "kecamatan",
+		"name": "PESANGGRAHAN"
+	},
+	{
+		"code": "31.74.10.1001",
+		"type": "kelurahan",
+		"name": "PESANGGRAHAN"
+	},
+	{
+		"code": "31.74.10.1002",
+		"type": "kelurahan",
+		"name": "BINTARO"
+	},
+	{
+		"code": "31.74.10.1003",
+		"type": "kelurahan",
+		"name": "PETUKANGAN UTARA"
+	},
+	{
+		"code": "31.74.10.1004",
+		"type": "kelurahan",
+		"name": "PETUKANGAN SELATAN"
+	},
+	{
+		"code": "31.74.10.1005",
+		"type": "kelurahan",
+		"name": "ULUJAMI"
+	},
+	{
+		"code": "31.75",
+		"type": "kabupaten",
+		"name": "KOTA ADM. JAKARTA TIMUR"
+	},
+	{
+		"code": "31.75.01",
+		"type": "kecamatan",
+		"name": "MATRAMAN"
+	},
+	{
+		"code": "31.75.01.1001",
+		"type": "kelurahan",
+		"name": "PISANGAN BARU"
+	},
+	{
+		"code": "31.75.01.1002",
+		"type": "kelurahan",
+		"name": "UTAN KAYU UTARA"
+	},
+	{
+		"code": "31.75.01.1003",
+		"type": "kelurahan",
+		"name": "KAYU MANIS"
+	},
+	{
+		"code": "31.75.01.1004",
+		"type": "kelurahan",
+		"name": "PALMERIAM"
+	},
+	{
+		"code": "31.75.01.1005",
+		"type": "kelurahan",
+		"name": "KEBON MANGGIS"
+	},
+	{
+		"code": "31.75.01.1006",
+		"type": "kelurahan",
+		"name": "UTAN KAYU SELATAN"
+	},
+	{
+		"code": "31.75.02",
+		"type": "kecamatan",
+		"name": "PULOGADUNG"
+	},
+	{
+		"code": "31.75.02.1001",
+		"type": "kelurahan",
+		"name": "PULO GADUNG"
+	},
+	{
+		"code": "31.75.02.1002",
+		"type": "kelurahan",
+		"name": "PISANGAN TIMUR"
+	},
+	{
+		"code": "31.75.02.1003",
+		"type": "kelurahan",
+		"name": "CIPINANG"
+	},
+	{
+		"code": "31.75.02.1004",
+		"type": "kelurahan",
+		"name": "JATINEGARA KAUM"
+	},
+	{
+		"code": "31.75.02.1005",
+		"type": "kelurahan",
+		"name": "RAWAMANGUN"
+	},
+	{
+		"code": "31.75.02.1006",
+		"type": "kelurahan",
+		"name": "KAYU PUTIH"
+	},
+	{
+		"code": "31.75.02.1007",
+		"type": "kelurahan",
+		"name": "JATI"
+	},
+	{
+		"code": "31.75.03",
+		"type": "kecamatan",
+		"name": "JATINEGARA"
+	},
+	{
+		"code": "31.75.03.1001",
+		"type": "kelurahan",
+		"name": "KAMPUNG MELAYU"
+	},
+	{
+		"code": "31.75.03.1002",
+		"type": "kelurahan",
+		"name": "BIDARA CINA"
+	},
+	{
+		"code": "31.75.03.1003",
+		"type": "kelurahan",
+		"name": "BALI MESTER"
+	},
+	{
+		"code": "31.75.03.1004",
+		"type": "kelurahan",
+		"name": "RAWA BUNGA"
+	},
+	{
+		"code": "31.75.03.1005",
+		"type": "kelurahan",
+		"name": "CIPINANG CEMPEDAK"
+	},
+	{
+		"code": "31.75.03.1006",
+		"type": "kelurahan",
+		"name": "CIPINANG MUARA"
+	},
+	{
+		"code": "31.75.03.1007",
+		"type": "kelurahan",
+		"name": "CIPINANG BESAR SELATAN"
+	},
+	{
+		"code": "31.75.03.1008",
+		"type": "kelurahan",
+		"name": "CIPINANG BESAR UTARA"
+	},
+	{
+		"code": "31.75.04",
+		"type": "kecamatan",
+		"name": "KRAMATJATI"
+	},
+	{
+		"code": "31.75.04.1001",
+		"type": "kelurahan",
+		"name": "KRAMATJATI"
+	},
+	{
+		"code": "31.75.04.1002",
+		"type": "kelurahan",
+		"name": "TENGAH"
+	},
+	{
+		"code": "31.75.04.1003",
+		"type": "kelurahan",
+		"name": "DUKUH"
+	},
+	{
+		"code": "31.75.04.1004",
+		"type": "kelurahan",
+		"name": "BATU AMPAR"
+	},
+	{
+		"code": "31.75.04.1005",
+		"type": "kelurahan",
+		"name": "BALEKAMBANG"
+	},
+	{
+		"code": "31.75.04.1006",
+		"type": "kelurahan",
+		"name": "CILILITAN"
+	},
+	{
+		"code": "31.75.04.1007",
+		"type": "kelurahan",
+		"name": "CAWANG"
+	},
+	{
+		"code": "31.75.05",
+		"type": "kecamatan",
+		"name": "PASAR REBO"
+	},
+	{
+		"code": "31.75.05.1001",
+		"type": "kelurahan",
+		"name": "GEDONG"
+	},
+	{
+		"code": "31.75.05.1002",
+		"type": "kelurahan",
+		"name": "BARU"
+	},
+	{
+		"code": "31.75.05.1003",
+		"type": "kelurahan",
+		"name": "CIJANTUNG"
+	},
+	{
+		"code": "31.75.05.1004",
+		"type": "kelurahan",
+		"name": "KALISARI"
+	},
+	{
+		"code": "31.75.05.1005",
+		"type": "kelurahan",
+		"name": "PEKAYON"
+	},
+	{
+		"code": "31.75.06",
+		"type": "kecamatan",
+		"name": "CAKUNG"
+	},
+	{
+		"code": "31.75.06.1001",
+		"type": "kelurahan",
+		"name": "JATINEGARA"
+	},
+	{
+		"code": "31.75.06.1002",
+		"type": "kelurahan",
+		"name": "RAWA TERATE"
+	},
+	{
+		"code": "31.75.06.1003",
+		"type": "kelurahan",
+		"name": "PENGGILINGAN"
+	},
+	{
+		"code": "31.75.06.1004",
+		"type": "kelurahan",
+		"name": "CAKUNG TIMUR"
+	},
+	{
+		"code": "31.75.06.1005",
+		"type": "kelurahan",
+		"name": "PULO GEBANG"
+	},
+	{
+		"code": "31.75.06.1006",
+		"type": "kelurahan",
+		"name": "UJUNG MENTENG"
+	},
+	{
+		"code": "31.75.06.1007",
+		"type": "kelurahan",
+		"name": "CAKUNG BARAT"
+	},
+	{
+		"code": "31.75.07",
+		"type": "kecamatan",
+		"name": "DUREN SAWIT"
+	},
+	{
+		"code": "31.75.07.1001",
+		"type": "kelurahan",
+		"name": "DUREN SAWIT"
+	},
+	{
+		"code": "31.75.07.1002",
+		"type": "kelurahan",
+		"name": "PONDOK BAMBU"
+	},
+	{
+		"code": "31.75.07.1003",
+		"type": "kelurahan",
+		"name": "KLENDER"
+	},
+	{
+		"code": "31.75.07.1004",
+		"type": "kelurahan",
+		"name": "PONDOK KELAPA"
+	},
+	{
+		"code": "31.75.07.1005",
+		"type": "kelurahan",
+		"name": "MALAKA SARI"
+	},
+	{
+		"code": "31.75.07.1006",
+		"type": "kelurahan",
+		"name": "MALAKA JAYA"
+	},
+	{
+		"code": "31.75.07.1007",
+		"type": "kelurahan",
+		"name": "PONDOK KOPI"
+	},
+	{
+		"code": "31.75.08",
+		"type": "kecamatan",
+		"name": "MAKASAR"
+	},
+	{
+		"code": "31.75.08.1001",
+		"type": "kelurahan",
+		"name": "MAKASAR"
+	},
+	{
+		"code": "31.75.08.1002",
+		"type": "kelurahan",
+		"name": "PINANGRANTI"
+	},
+	{
+		"code": "31.75.08.1003",
+		"type": "kelurahan",
+		"name": "KEBON PALA"
+	},
+	{
+		"code": "31.75.08.1004",
+		"type": "kelurahan",
+		"name": "HALIM PERDANA KUSUMA"
+	},
+	{
+		"code": "31.75.08.1005",
+		"type": "kelurahan",
+		"name": "CIPINANG MELAYU"
+	},
+	{
+		"code": "31.75.09",
+		"type": "kecamatan",
+		"name": "CIRACAS"
+	},
+	{
+		"code": "31.75.09.1001",
+		"type": "kelurahan",
+		"name": "CIRACAS"
+	},
+	{
+		"code": "31.75.09.1002",
+		"type": "kelurahan",
+		"name": "CIBUBUR"
+	},
+	{
+		"code": "31.75.09.1003",
+		"type": "kelurahan",
+		"name": "KELAPA DUA WETAN"
+	},
+	{
+		"code": "31.75.09.1004",
+		"type": "kelurahan",
+		"name": "SUSUKAN"
+	},
+	{
+		"code": "31.75.09.1005",
+		"type": "kelurahan",
+		"name": "RAMBUTAN"
+	},
+	{
+		"code": "31.75.10",
+		"type": "kecamatan",
+		"name": "CIPAYUNG"
+	},
+	{
+		"code": "31.75.10.1001",
+		"type": "kelurahan",
+		"name": "CIPAYUNG"
+	},
+	{
+		"code": "31.75.10.1002",
+		"type": "kelurahan",
+		"name": "CILANGKAP"
+	},
+	{
+		"code": "31.75.10.1003",
+		"type": "kelurahan",
+		"name": "PONDOK RANGGON"
+	},
+	{
+		"code": "31.75.10.1004",
+		"type": "kelurahan",
+		"name": "MUNJUL"
+	},
+	{
+		"code": "31.75.10.1005",
+		"type": "kelurahan",
+		"name": "SETU"
+	},
+	{
+		"code": "31.75.10.1006",
+		"type": "kelurahan",
+		"name": "BAMBU APUS"
+	},
+	{
+		"code": "31.75.10.1007",
+		"type": "kelurahan",
+		"name": "LUBANG BUAYA"
+	},
+	{
+		"code": "31.75.10.1008",
+		"type": "kelurahan",
+		"name": "CEGER"
+	}
+]

@@ -1,0 +1,3917 @@
+[
+	{
+		"code": "51",
+		"type": "provinsi",
+		"name": "BALI"
+	},
+	{
+		"code": "51.01",
+		"type": "kabupaten",
+		"name": "KAB. JEMBRANA"
+	},
+	{
+		"code": "51.01.01",
+		"type": "kecamatan",
+		"name": "NEGARA"
+	},
+	{
+		"code": "51.01.01.1006",
+		"type": "kelurahan",
+		"name": "BALER BALE AGUNG"
+	},
+	{
+		"code": "51.01.01.1008",
+		"type": "kelurahan",
+		"name": "BANJAR TENGAH"
+	},
+	{
+		"code": "51.01.01.1013",
+		"type": "kelurahan",
+		"name": "LELATENG"
+	},
+	{
+		"code": "51.01.01.1014",
+		"type": "kelurahan",
+		"name": "LOLOAN BARAT"
+	},
+	{
+		"code": "51.01.01.2001",
+		"type": "desa",
+		"name": "CUPEL"
+	},
+	{
+		"code": "51.01.01.2002",
+		"type": "desa",
+		"name": "BALUK"
+	},
+	{
+		"code": "51.01.01.2003",
+		"type": "desa",
+		"name": "BANYU BIRU"
+	},
+	{
+		"code": "51.01.01.2004",
+		"type": "desa",
+		"name": "KALIAKAH"
+	},
+	{
+		"code": "51.01.01.2005",
+		"type": "desa",
+		"name": "BERANGBANG"
+	},
+	{
+		"code": "51.01.01.2009",
+		"type": "desa",
+		"name": "TEGAL BADENG TIMUR"
+	},
+	{
+		"code": "51.01.01.2010",
+		"type": "desa",
+		"name": "TEGAL BADENG BARAT"
+	},
+	{
+		"code": "51.01.01.2011",
+		"type": "desa",
+		"name": "PENGAMBENGAN"
+	},
+	{
+		"code": "51.01.02",
+		"type": "kecamatan",
+		"name": "MENDOYO"
+	},
+	{
+		"code": "51.01.02.1006",
+		"type": "kelurahan",
+		"name": "TEGALCANGKRING"
+	},
+	{
+		"code": "51.01.02.2001",
+		"type": "desa",
+		"name": "MENDOYO DAUH TUKAD"
+	},
+	{
+		"code": "51.01.02.2002",
+		"type": "desa",
+		"name": "POHSANTEN"
+	},
+	{
+		"code": "51.01.02.2003",
+		"type": "desa",
+		"name": "MENDOYO DANGIN TUKAD"
+	},
+	{
+		"code": "51.01.02.2004",
+		"type": "desa",
+		"name": "PERGUNG"
+	},
+	{
+		"code": "51.01.02.2005",
+		"type": "desa",
+		"name": "DELODBERAWAH"
+	},
+	{
+		"code": "51.01.02.2007",
+		"type": "desa",
+		"name": "PENYARINGAN"
+	},
+	{
+		"code": "51.01.02.2008",
+		"type": "desa",
+		"name": "YEHEMBANG"
+	},
+	{
+		"code": "51.01.02.2009",
+		"type": "desa",
+		"name": "YEH SUMBUL"
+	},
+	{
+		"code": "51.01.02.2010",
+		"type": "desa",
+		"name": "YEHEMBANG KAUH"
+	},
+	{
+		"code": "51.01.02.2011",
+		"type": "desa",
+		"name": "YEHEMBANG KANGIN"
+	},
+	{
+		"code": "51.01.03",
+		"type": "kecamatan",
+		"name": "PEKUTATAN"
+	},
+	{
+		"code": "51.01.03.2001",
+		"type": "desa",
+		"name": "MEDEWI"
+	},
+	{
+		"code": "51.01.03.2002",
+		"type": "desa",
+		"name": "PULUKAN"
+	},
+	{
+		"code": "51.01.03.2003",
+		"type": "desa",
+		"name": "ASAHDUREN"
+	},
+	{
+		"code": "51.01.03.2004",
+		"type": "desa",
+		"name": "PEKUTATAN"
+	},
+	{
+		"code": "51.01.03.2005",
+		"type": "desa",
+		"name": "PANGYANGAN"
+	},
+	{
+		"code": "51.01.03.2006",
+		"type": "desa",
+		"name": "GUMBRIH"
+	},
+	{
+		"code": "51.01.03.2007",
+		"type": "desa",
+		"name": "MANGGISSARI"
+	},
+	{
+		"code": "51.01.03.2008",
+		"type": "desa",
+		"name": "PENGRAGOAN"
+	},
+	{
+		"code": "51.01.04",
+		"type": "kecamatan",
+		"name": "MELAYA"
+	},
+	{
+		"code": "51.01.04.1001",
+		"type": "kelurahan",
+		"name": "GILIMANUK"
+	},
+	{
+		"code": "51.01.04.2002",
+		"type": "desa",
+		"name": "MELAYA"
+	},
+	{
+		"code": "51.01.04.2003",
+		"type": "desa",
+		"name": "BELIMBINGSARI"
+	},
+	{
+		"code": "51.01.04.2004",
+		"type": "desa",
+		"name": "EKASARI"
+	},
+	{
+		"code": "51.01.04.2005",
+		"type": "desa",
+		"name": "NUSASARI"
+	},
+	{
+		"code": "51.01.04.2006",
+		"type": "desa",
+		"name": "WARNASARI"
+	},
+	{
+		"code": "51.01.04.2007",
+		"type": "desa",
+		"name": "CANDIKUSUMA"
+	},
+	{
+		"code": "51.01.04.2008",
+		"type": "desa",
+		"name": "TUWED"
+	},
+	{
+		"code": "51.01.04.2009",
+		"type": "desa",
+		"name": "TUKADAYA"
+	},
+	{
+		"code": "51.01.04.2010",
+		"type": "desa",
+		"name": "MANISTUTU"
+	},
+	{
+		"code": "51.01.05",
+		"type": "kecamatan",
+		"name": "JEMBRANA"
+	},
+	{
+		"code": "51.01.05.1001",
+		"type": "kelurahan",
+		"name": "PENDEM"
+	},
+	{
+		"code": "51.01.05.1003",
+		"type": "kelurahan",
+		"name": "LOLOAN TIMUR"
+	},
+	{
+		"code": "51.01.05.1005",
+		"type": "kelurahan",
+		"name": "DAUHWARU"
+	},
+	{
+		"code": "51.01.05.1009",
+		"type": "kelurahan",
+		"name": "SANGKARAGUNG"
+	},
+	{
+		"code": "51.01.05.2002",
+		"type": "desa",
+		"name": "PERANCAK"
+	},
+	{
+		"code": "51.01.05.2004",
+		"type": "desa",
+		"name": "BATU AGUNG"
+	},
+	{
+		"code": "51.01.05.2006",
+		"type": "desa",
+		"name": "BUDENG"
+	},
+	{
+		"code": "51.01.05.2007",
+		"type": "desa",
+		"name": "AIR KUNING"
+	},
+	{
+		"code": "51.01.05.2008",
+		"type": "desa",
+		"name": "YEHKUNING"
+	},
+	{
+		"code": "51.01.05.2010",
+		"type": "desa",
+		"name": "DANGIN TUKADAYA"
+	},
+	{
+		"code": "51.02",
+		"type": "kabupaten",
+		"name": "KAB. TABANAN"
+	},
+	{
+		"code": "51.02.01",
+		"type": "kecamatan",
+		"name": "SELEMADEG"
+	},
+	{
+		"code": "51.02.01.2001",
+		"type": "desa",
+		"name": "BAJERA"
+	},
+	{
+		"code": "51.02.01.2002",
+		"type": "desa",
+		"name": "WANAGIRI"
+	},
+	{
+		"code": "51.02.01.2003",
+		"type": "desa",
+		"name": "PUPUAN SAWAH"
+	},
+	{
+		"code": "51.02.01.2004",
+		"type": "desa",
+		"name": "BEREMBENG"
+	},
+	{
+		"code": "51.02.01.2005",
+		"type": "desa",
+		"name": "SELEMADEG"
+	},
+	{
+		"code": "51.02.01.2006",
+		"type": "desa",
+		"name": "SARAMPINGAN"
+	},
+	{
+		"code": "51.02.01.2007",
+		"type": "desa",
+		"name": "ANTAP"
+	},
+	{
+		"code": "51.02.01.2008",
+		"type": "desa",
+		"name": "WANAGIRI KAUH"
+	},
+	{
+		"code": "51.02.01.2009",
+		"type": "desa",
+		"name": "MANIKYANG"
+	},
+	{
+		"code": "51.02.01.2010",
+		"type": "desa",
+		"name": "BAJERA UTARA"
+	},
+	{
+		"code": "51.02.02",
+		"type": "kecamatan",
+		"name": "SALAMADEG TIMUR"
+	},
+	{
+		"code": "51.02.02.2001",
+		"type": "desa",
+		"name": "GUNUNG SALAK"
+	},
+	{
+		"code": "51.02.02.2002",
+		"type": "desa",
+		"name": "GADUNGAN"
+	},
+	{
+		"code": "51.02.02.2003",
+		"type": "desa",
+		"name": "BANTAS"
+	},
+	{
+		"code": "51.02.02.2004",
+		"type": "desa",
+		"name": "MAMBANG"
+	},
+	{
+		"code": "51.02.02.2005",
+		"type": "desa",
+		"name": "MEGATI"
+	},
+	{
+		"code": "51.02.02.2006",
+		"type": "desa",
+		"name": "TANGGUNTITI"
+	},
+	{
+		"code": "51.02.02.2007",
+		"type": "desa",
+		"name": "BERABAN"
+	},
+	{
+		"code": "51.02.02.2008",
+		"type": "desa",
+		"name": "TEGAL MENGKEB"
+	},
+	{
+		"code": "51.02.02.2009",
+		"type": "desa",
+		"name": "DALANG"
+	},
+	{
+		"code": "51.02.02.2010",
+		"type": "desa",
+		"name": "GADUNGSARI"
+	},
+	{
+		"code": "51.02.03",
+		"type": "kecamatan",
+		"name": "SALEMADEG BARAT"
+	},
+	{
+		"code": "51.02.03.2001",
+		"type": "desa",
+		"name": "MUNDEH"
+	},
+	{
+		"code": "51.02.03.2002",
+		"type": "desa",
+		"name": "MUNDEH KANGIN"
+	},
+	{
+		"code": "51.02.03.2003",
+		"type": "desa",
+		"name": "LALANGLINGGAH"
+	},
+	{
+		"code": "51.02.03.2004",
+		"type": "desa",
+		"name": "ANTOSARI"
+	},
+	{
+		"code": "51.02.03.2005",
+		"type": "desa",
+		"name": "LUMBUNG"
+	},
+	{
+		"code": "51.02.03.2006",
+		"type": "desa",
+		"name": "LUMBUNG KAUH"
+	},
+	{
+		"code": "51.02.03.2007",
+		"type": "desa",
+		"name": "TIING GADING"
+	},
+	{
+		"code": "51.02.03.2008",
+		"type": "desa",
+		"name": "MUNDEH KAUH"
+	},
+	{
+		"code": "51.02.03.2009",
+		"type": "desa",
+		"name": "ANGKAH"
+	},
+	{
+		"code": "51.02.03.2010",
+		"type": "desa",
+		"name": "SELABIH"
+	},
+	{
+		"code": "51.02.03.2011",
+		"type": "desa",
+		"name": "BENGKEL SARI"
+	},
+	{
+		"code": "51.02.04",
+		"type": "kecamatan",
+		"name": "KERAMBITAN"
+	},
+	{
+		"code": "51.02.04.2001",
+		"type": "desa",
+		"name": "TIBUBIU"
+	},
+	{
+		"code": "51.02.04.2002",
+		"type": "desa",
+		"name": "KELATING"
+	},
+	{
+		"code": "51.02.04.2003",
+		"type": "desa",
+		"name": "PENARUKAN"
+	},
+	{
+		"code": "51.02.04.2004",
+		"type": "desa",
+		"name": "BELUMBANG"
+	},
+	{
+		"code": "51.02.04.2005",
+		"type": "desa",
+		"name": "TISTA"
+	},
+	{
+		"code": "51.02.04.2006",
+		"type": "desa",
+		"name": "KERAMBITAN"
+	},
+	{
+		"code": "51.02.04.2007",
+		"type": "desa",
+		"name": "PANGKUNG KARUNG"
+	},
+	{
+		"code": "51.02.04.2008",
+		"type": "desa",
+		"name": "SAMSAM"
+	},
+	{
+		"code": "51.02.04.2009",
+		"type": "desa",
+		"name": "KUKUH"
+	},
+	{
+		"code": "51.02.04.2010",
+		"type": "desa",
+		"name": "BATURITI"
+	},
+	{
+		"code": "51.02.04.2011",
+		"type": "desa",
+		"name": "MELILING"
+	},
+	{
+		"code": "51.02.04.2012",
+		"type": "desa",
+		"name": "SEMBUNG GEDE"
+	},
+	{
+		"code": "51.02.04.2013",
+		"type": "desa",
+		"name": "BATUAJI"
+	},
+	{
+		"code": "51.02.04.2014",
+		"type": "desa",
+		"name": "KESIUT"
+	},
+	{
+		"code": "51.02.04.2015",
+		"type": "desa",
+		"name": "TIMPAG"
+	},
+	{
+		"code": "51.02.05",
+		"type": "kecamatan",
+		"name": "TABANAN"
+	},
+	{
+		"code": "51.02.05.2001",
+		"type": "desa",
+		"name": "SUDIMARA"
+	},
+	{
+		"code": "51.02.05.2002",
+		"type": "desa",
+		"name": "GUBUG"
+	},
+	{
+		"code": "51.02.05.2003",
+		"type": "desa",
+		"name": "BONGAN"
+	},
+	{
+		"code": "51.02.05.2004",
+		"type": "desa",
+		"name": "DELOD PEKEN"
+	},
+	{
+		"code": "51.02.05.2005",
+		"type": "desa",
+		"name": "DAUH PEKEN"
+	},
+	{
+		"code": "51.02.05.2006",
+		"type": "desa",
+		"name": "DAJAN PEKEN"
+	},
+	{
+		"code": "51.02.05.2007",
+		"type": "desa",
+		"name": "DENBANTAS"
+	},
+	{
+		"code": "51.02.05.2008",
+		"type": "desa",
+		"name": "SUBAMIA"
+	},
+	{
+		"code": "51.02.05.2009",
+		"type": "desa",
+		"name": "WANASARI"
+	},
+	{
+		"code": "51.02.05.2010",
+		"type": "desa",
+		"name": "TUNJUK"
+	},
+	{
+		"code": "51.02.05.2011",
+		"type": "desa",
+		"name": "BUAHAN"
+	},
+	{
+		"code": "51.02.05.2012",
+		"type": "desa",
+		"name": "SEDANDAN"
+	},
+	{
+		"code": "51.02.06",
+		"type": "kecamatan",
+		"name": "KEDIRI"
+	},
+	{
+		"code": "51.02.06.2001",
+		"type": "desa",
+		"name": "BENGKEL"
+	},
+	{
+		"code": "51.02.06.2002",
+		"type": "desa",
+		"name": "PANGKUNG TIBAH"
+	},
+	{
+		"code": "51.02.06.2003",
+		"type": "desa",
+		"name": "BELALANG"
+	},
+	{
+		"code": "51.02.06.2004",
+		"type": "desa",
+		"name": "BERABAN"
+	},
+	{
+		"code": "51.02.06.2005",
+		"type": "desa",
+		"name": "BUWIT"
+	},
+	{
+		"code": "51.02.06.2006",
+		"type": "desa",
+		"name": "CEPAKA"
+	},
+	{
+		"code": "51.02.06.2007",
+		"type": "desa",
+		"name": "KABA-KABA"
+	},
+	{
+		"code": "51.02.06.2008",
+		"type": "desa",
+		"name": "NYAMBU"
+	},
+	{
+		"code": "51.02.06.2009",
+		"type": "desa",
+		"name": "PANDAK BANDUNG"
+	},
+	{
+		"code": "51.02.06.2010",
+		"type": "desa",
+		"name": "PANDAK GEDE"
+	},
+	{
+		"code": "51.02.06.2011",
+		"type": "desa",
+		"name": "NYITDAH"
+	},
+	{
+		"code": "51.02.06.2012",
+		"type": "desa",
+		"name": "PEJATEN"
+	},
+	{
+		"code": "51.02.06.2013",
+		"type": "desa",
+		"name": "KEDIRI"
+	},
+	{
+		"code": "51.02.06.2014",
+		"type": "desa",
+		"name": "ABIAN TUWUNG"
+	},
+	{
+		"code": "51.02.06.2015",
+		"type": "desa",
+		"name": "BANJAR ANYAR"
+	},
+	{
+		"code": "51.02.07",
+		"type": "kecamatan",
+		"name": "MARGA"
+	},
+	{
+		"code": "51.02.07.2001",
+		"type": "desa",
+		"name": "KUKUH"
+	},
+	{
+		"code": "51.02.07.2002",
+		"type": "desa",
+		"name": "BERINGKIT"
+	},
+	{
+		"code": "51.02.07.2003",
+		"type": "desa",
+		"name": "PEKEN"
+	},
+	{
+		"code": "51.02.07.2004",
+		"type": "desa",
+		"name": "BATANNYUH"
+	},
+	{
+		"code": "51.02.07.2005",
+		"type": "desa",
+		"name": "TEGALJADI"
+	},
+	{
+		"code": "51.02.07.2006",
+		"type": "desa",
+		"name": "KUWUM"
+	},
+	{
+		"code": "51.02.07.2007",
+		"type": "desa",
+		"name": "SELANBAWAK"
+	},
+	{
+		"code": "51.02.07.2008",
+		"type": "desa",
+		"name": "MARGA"
+	},
+	{
+		"code": "51.02.07.2009",
+		"type": "desa",
+		"name": "PETIGA"
+	},
+	{
+		"code": "51.02.07.2010",
+		"type": "desa",
+		"name": "CAU BELAYU"
+	},
+	{
+		"code": "51.02.07.2011",
+		"type": "desa",
+		"name": "TUA"
+	},
+	{
+		"code": "51.02.07.2012",
+		"type": "desa",
+		"name": "PAYANGAN"
+	},
+	{
+		"code": "51.02.07.2013",
+		"type": "desa",
+		"name": "MARGA DAJAN PURI"
+	},
+	{
+		"code": "51.02.07.2014",
+		"type": "desa",
+		"name": "MARGA DAUH PURI"
+	},
+	{
+		"code": "51.02.07.2015",
+		"type": "desa",
+		"name": "GELUNTUNG"
+	},
+	{
+		"code": "51.02.07.2016",
+		"type": "desa",
+		"name": "BARU"
+	},
+	{
+		"code": "51.02.08",
+		"type": "kecamatan",
+		"name": "PENEBEL"
+	},
+	{
+		"code": "51.02.08.2001",
+		"type": "desa",
+		"name": "REJASA"
+	},
+	{
+		"code": "51.02.08.2002",
+		"type": "desa",
+		"name": "JEGU"
+	},
+	{
+		"code": "51.02.08.2003",
+		"type": "desa",
+		"name": "RIANG GEDE"
+	},
+	{
+		"code": "51.02.08.2004",
+		"type": "desa",
+		"name": "BURUAN"
+	},
+	{
+		"code": "51.02.08.2005",
+		"type": "desa",
+		"name": "BIAUNG"
+	},
+	{
+		"code": "51.02.08.2006",
+		"type": "desa",
+		"name": "PITRA"
+	},
+	{
+		"code": "51.02.08.2007",
+		"type": "desa",
+		"name": "PENATAHAN"
+	},
+	{
+		"code": "51.02.08.2008",
+		"type": "desa",
+		"name": "TENGKUDAK"
+	},
+	{
+		"code": "51.02.08.2009",
+		"type": "desa",
+		"name": "MENGESTA"
+	},
+	{
+		"code": "51.02.08.2010",
+		"type": "desa",
+		"name": "PENEBEL"
+	},
+	{
+		"code": "51.02.08.2011",
+		"type": "desa",
+		"name": "BABAKAN"
+	},
+	{
+		"code": "51.02.08.2012",
+		"type": "desa",
+		"name": "SENGANAN"
+	},
+	{
+		"code": "51.02.08.2013",
+		"type": "desa",
+		"name": "JATILUWIH"
+	},
+	{
+		"code": "51.02.08.2014",
+		"type": "desa",
+		"name": "WONGAYA GEDE"
+	},
+	{
+		"code": "51.02.08.2015",
+		"type": "desa",
+		"name": "TAJEN"
+	},
+	{
+		"code": "51.02.08.2016",
+		"type": "desa",
+		"name": "TEGALLINGGAH"
+	},
+	{
+		"code": "51.02.08.2017",
+		"type": "desa",
+		"name": "PESAGI"
+	},
+	{
+		"code": "51.02.08.2018",
+		"type": "desa",
+		"name": "SANGKETAN"
+	},
+	{
+		"code": "51.02.09",
+		"type": "kecamatan",
+		"name": "BATURITI"
+	},
+	{
+		"code": "51.02.09.2001",
+		"type": "desa",
+		"name": "PEREAN"
+	},
+	{
+		"code": "51.02.09.2002",
+		"type": "desa",
+		"name": "LUWUS"
+	},
+	{
+		"code": "51.02.09.2003",
+		"type": "desa",
+		"name": "APUAN"
+	},
+	{
+		"code": "51.02.09.2004",
+		"type": "desa",
+		"name": "ANGSERI"
+	},
+	{
+		"code": "51.02.09.2005",
+		"type": "desa",
+		"name": "BANGLI"
+	},
+	{
+		"code": "51.02.09.2006",
+		"type": "desa",
+		"name": "BATURITI"
+	},
+	{
+		"code": "51.02.09.2007",
+		"type": "desa",
+		"name": "ANTAPAN"
+	},
+	{
+		"code": "51.02.09.2008",
+		"type": "desa",
+		"name": "CANDIKUNING"
+	},
+	{
+		"code": "51.02.09.2009",
+		"type": "desa",
+		"name": "MEKARSARI"
+	},
+	{
+		"code": "51.02.09.2010",
+		"type": "desa",
+		"name": "BATUNYA"
+	},
+	{
+		"code": "51.02.09.2011",
+		"type": "desa",
+		"name": "PEREAN TENGAH"
+	},
+	{
+		"code": "51.02.09.2012",
+		"type": "desa",
+		"name": "PEREAN KANGIN"
+	},
+	{
+		"code": "51.02.10",
+		"type": "kecamatan",
+		"name": "PUPUAN"
+	},
+	{
+		"code": "51.02.10.2001",
+		"type": "desa",
+		"name": "BELIMBING"
+	},
+	{
+		"code": "51.02.10.2002",
+		"type": "desa",
+		"name": "SANDA"
+	},
+	{
+		"code": "51.02.10.2003",
+		"type": "desa",
+		"name": "BATUNGSEL"
+	},
+	{
+		"code": "51.02.10.2004",
+		"type": "desa",
+		"name": "KEBON PADANGAN"
+	},
+	{
+		"code": "51.02.10.2005",
+		"type": "desa",
+		"name": "MUNDUK TEMU"
+	},
+	{
+		"code": "51.02.10.2006",
+		"type": "desa",
+		"name": "PUJUNGAN"
+	},
+	{
+		"code": "51.02.10.2007",
+		"type": "desa",
+		"name": "PUPUAN"
+	},
+	{
+		"code": "51.02.10.2008",
+		"type": "desa",
+		"name": "BANTIRAN"
+	},
+	{
+		"code": "51.02.10.2009",
+		"type": "desa",
+		"name": "PADANGAN"
+	},
+	{
+		"code": "51.02.10.2010",
+		"type": "desa",
+		"name": "JELIJIH PUNGGUNG"
+	},
+	{
+		"code": "51.02.10.2011",
+		"type": "desa",
+		"name": "BELATUNGAN"
+	},
+	{
+		"code": "51.02.10.2012",
+		"type": "desa",
+		"name": "PAJAHAN"
+	},
+	{
+		"code": "51.02.10.2013",
+		"type": "desa",
+		"name": "KARYASARI"
+	},
+	{
+		"code": "51.02.10.2014",
+		"type": "desa",
+		"name": "SAI"
+	},
+	{
+		"code": "51.03",
+		"type": "kabupaten",
+		"name": "KAB. BADUNG"
+	},
+	{
+		"code": "51.03.01",
+		"type": "kecamatan",
+		"name": "KUTA"
+	},
+	{
+		"code": "51.03.01.1001",
+		"type": "kelurahan",
+		"name": "TUBAN"
+	},
+	{
+		"code": "51.03.01.1002",
+		"type": "kelurahan",
+		"name": "KUTA"
+	},
+	{
+		"code": "51.03.01.1003",
+		"type": "kelurahan",
+		"name": "KEDONGANAN"
+	},
+	{
+		"code": "51.03.01.1004",
+		"type": "kelurahan",
+		"name": "LEGIAN"
+	},
+	{
+		"code": "51.03.01.1005",
+		"type": "kelurahan",
+		"name": "SEMINYAK"
+	},
+	{
+		"code": "51.03.02",
+		"type": "kecamatan",
+		"name": "MENGWI"
+	},
+	{
+		"code": "51.03.02.1004",
+		"type": "kelurahan",
+		"name": "KAPAL"
+	},
+	{
+		"code": "51.03.02.1005",
+		"type": "kelurahan",
+		"name": "SEMPIDI"
+	},
+	{
+		"code": "51.03.02.1014",
+		"type": "kelurahan",
+		"name": "ABIANBASE"
+	},
+	{
+		"code": "51.03.02.1015",
+		"type": "kelurahan",
+		"name": "SADING"
+	},
+	{
+		"code": "51.03.02.1016",
+		"type": "kelurahan",
+		"name": "LUKLUK"
+	},
+	{
+		"code": "51.03.02.2001",
+		"type": "desa",
+		"name": "MUNGGU"
+	},
+	{
+		"code": "51.03.02.2002",
+		"type": "desa",
+		"name": "BUDUK"
+	},
+	{
+		"code": "51.03.02.2003",
+		"type": "desa",
+		"name": "MENGWITANI"
+	},
+	{
+		"code": "51.03.02.2006",
+		"type": "desa",
+		"name": "PENARUNGAN"
+	},
+	{
+		"code": "51.03.02.2007",
+		"type": "desa",
+		"name": "SEMBUNG"
+	},
+	{
+		"code": "51.03.02.2008",
+		"type": "desa",
+		"name": "BAHA"
+	},
+	{
+		"code": "51.03.02.2009",
+		"type": "desa",
+		"name": "MENGWI"
+	},
+	{
+		"code": "51.03.02.2010",
+		"type": "desa",
+		"name": "KEKERAN"
+	},
+	{
+		"code": "51.03.02.2011",
+		"type": "desa",
+		"name": "SOBANGAN"
+	},
+	{
+		"code": "51.03.02.2012",
+		"type": "desa",
+		"name": "GULINGAN"
+	},
+	{
+		"code": "51.03.02.2013",
+		"type": "desa",
+		"name": "WERDI BHUWANA"
+	},
+	{
+		"code": "51.03.02.2017",
+		"type": "desa",
+		"name": "CEMAGI"
+	},
+	{
+		"code": "51.03.02.2018",
+		"type": "desa",
+		"name": "PERERENAN"
+	},
+	{
+		"code": "51.03.02.2019",
+		"type": "desa",
+		"name": "TUMBAKBAYUH"
+	},
+	{
+		"code": "51.03.02.2020",
+		"type": "desa",
+		"name": "KUWUN"
+	},
+	{
+		"code": "51.03.03",
+		"type": "kecamatan",
+		"name": "ABIANSEMAL"
+	},
+	{
+		"code": "51.03.03.2001",
+		"type": "desa",
+		"name": "DARMASABA"
+	},
+	{
+		"code": "51.03.03.2002",
+		"type": "desa",
+		"name": "SIBANG KAJA"
+	},
+	{
+		"code": "51.03.03.2003",
+		"type": "desa",
+		"name": "SIBANG GEDE"
+	},
+	{
+		"code": "51.03.03.2004",
+		"type": "desa",
+		"name": "JAGAPATI"
+	},
+	{
+		"code": "51.03.03.2005",
+		"type": "desa",
+		"name": "ANGANTAKA"
+	},
+	{
+		"code": "51.03.03.2006",
+		"type": "desa",
+		"name": "SEDANG"
+	},
+	{
+		"code": "51.03.03.2007",
+		"type": "desa",
+		"name": "MAMBAL"
+	},
+	{
+		"code": "51.03.03.2008",
+		"type": "desa",
+		"name": "ABIANSEMAL"
+	},
+	{
+		"code": "51.03.03.2009",
+		"type": "desa",
+		"name": "BONGKASA"
+	},
+	{
+		"code": "51.03.03.2010",
+		"type": "desa",
+		"name": "TAMAN"
+	},
+	{
+		"code": "51.03.03.2011",
+		"type": "desa",
+		"name": "BLAHKIUH"
+	},
+	{
+		"code": "51.03.03.2012",
+		"type": "desa",
+		"name": "AYUNAN"
+	},
+	{
+		"code": "51.03.03.2013",
+		"type": "desa",
+		"name": "SANGEH"
+	},
+	{
+		"code": "51.03.03.2014",
+		"type": "desa",
+		"name": "PUNGGUL"
+	},
+	{
+		"code": "51.03.03.2015",
+		"type": "desa",
+		"name": "MEKAR BHUWANA"
+	},
+	{
+		"code": "51.03.03.2016",
+		"type": "desa",
+		"name": "DAUH YEH CANI"
+	},
+	{
+		"code": "51.03.03.2017",
+		"type": "desa",
+		"name": "SELAT"
+	},
+	{
+		"code": "51.03.03.2018",
+		"type": "desa",
+		"name": "BONGKASA PERTIWI"
+	},
+	{
+		"code": "51.03.04",
+		"type": "kecamatan",
+		"name": "PETANG"
+	},
+	{
+		"code": "51.03.04.2001",
+		"type": "desa",
+		"name": "CARANGSARI"
+	},
+	{
+		"code": "51.03.04.2002",
+		"type": "desa",
+		"name": "PETANG"
+	},
+	{
+		"code": "51.03.04.2003",
+		"type": "desa",
+		"name": "BELOK SIDAN"
+	},
+	{
+		"code": "51.03.04.2004",
+		"type": "desa",
+		"name": "PELAGA"
+	},
+	{
+		"code": "51.03.04.2005",
+		"type": "desa",
+		"name": "GETASAN"
+	},
+	{
+		"code": "51.03.04.2006",
+		"type": "desa",
+		"name": "PANGSAN"
+	},
+	{
+		"code": "51.03.04.2007",
+		"type": "desa",
+		"name": "SULANGAI"
+	},
+	{
+		"code": "51.03.05",
+		"type": "kecamatan",
+		"name": "KUTA SELATAN"
+	},
+	{
+		"code": "51.03.05.1004",
+		"type": "kelurahan",
+		"name": "BENOA"
+	},
+	{
+		"code": "51.03.05.1005",
+		"type": "kelurahan",
+		"name": "TANJUNG BENOA"
+	},
+	{
+		"code": "51.03.05.1006",
+		"type": "kelurahan",
+		"name": "JIMBARAN"
+	},
+	{
+		"code": "51.03.05.2001",
+		"type": "desa",
+		"name": "PECATU"
+	},
+	{
+		"code": "51.03.05.2002",
+		"type": "desa",
+		"name": "UNGASAN"
+	},
+	{
+		"code": "51.03.05.2003",
+		"type": "desa",
+		"name": "KUTUH"
+	},
+	{
+		"code": "51.03.06",
+		"type": "kecamatan",
+		"name": "KUTA UTARA"
+	},
+	{
+		"code": "51.03.06.1001",
+		"type": "kelurahan",
+		"name": "KEROBOKAN KELOD"
+	},
+	{
+		"code": "51.03.06.1002",
+		"type": "kelurahan",
+		"name": "KEROBOKAN"
+	},
+	{
+		"code": "51.03.06.1003",
+		"type": "kelurahan",
+		"name": "KEROBOKAN KAJA"
+	},
+	{
+		"code": "51.03.06.2004",
+		"type": "desa",
+		"name": "TIBUBENENG"
+	},
+	{
+		"code": "51.03.06.2005",
+		"type": "desa",
+		"name": "CANGGU"
+	},
+	{
+		"code": "51.03.06.2006",
+		"type": "desa",
+		"name": "DALUNG"
+	},
+	{
+		"code": "51.04",
+		"type": "kabupaten",
+		"name": "KAB. GIANYAR"
+	},
+	{
+		"code": "51.04.01",
+		"type": "kecamatan",
+		"name": "SUKAWATI"
+	},
+	{
+		"code": "51.04.01.2001",
+		"type": "desa",
+		"name": "BATUBULAN"
+	},
+	{
+		"code": "51.04.01.2002",
+		"type": "desa",
+		"name": "KETEWEL"
+	},
+	{
+		"code": "51.04.01.2003",
+		"type": "desa",
+		"name": "GUWANG"
+	},
+	{
+		"code": "51.04.01.2004",
+		"type": "desa",
+		"name": "SUKAWATI"
+	},
+	{
+		"code": "51.04.01.2005",
+		"type": "desa",
+		"name": "CELUK"
+	},
+	{
+		"code": "51.04.01.2006",
+		"type": "desa",
+		"name": "SINGAPADU"
+	},
+	{
+		"code": "51.04.01.2007",
+		"type": "desa",
+		"name": "BATUAN"
+	},
+	{
+		"code": "51.04.01.2008",
+		"type": "desa",
+		"name": "KEMENUH"
+	},
+	{
+		"code": "51.04.01.2009",
+		"type": "desa",
+		"name": "BATUBULAN KANGIN"
+	},
+	{
+		"code": "51.04.01.2010",
+		"type": "desa",
+		"name": "SINGAPADU TENGAH"
+	},
+	{
+		"code": "51.04.01.2011",
+		"type": "desa",
+		"name": "SINGAPADU KALER"
+	},
+	{
+		"code": "51.04.01.2012",
+		"type": "desa",
+		"name": "BATUAN KALER"
+	},
+	{
+		"code": "51.04.02",
+		"type": "kecamatan",
+		"name": "BLAHBATUH"
+	},
+	{
+		"code": "51.04.02.2001",
+		"type": "desa",
+		"name": "SABA"
+	},
+	{
+		"code": "51.04.02.2002",
+		"type": "desa",
+		"name": "PERING"
+	},
+	{
+		"code": "51.04.02.2003",
+		"type": "desa",
+		"name": "KERAMAS"
+	},
+	{
+		"code": "51.04.02.2004",
+		"type": "desa",
+		"name": "BELEGA"
+	},
+	{
+		"code": "51.04.02.2005",
+		"type": "desa",
+		"name": "BLAHBATUH"
+	},
+	{
+		"code": "51.04.02.2006",
+		"type": "desa",
+		"name": "BURUAN"
+	},
+	{
+		"code": "51.04.02.2007",
+		"type": "desa",
+		"name": "BEDULU"
+	},
+	{
+		"code": "51.04.02.2008",
+		"type": "desa",
+		"name": "MEDAHAN"
+	},
+	{
+		"code": "51.04.02.2009",
+		"type": "desa",
+		"name": "BONA"
+	},
+	{
+		"code": "51.04.03",
+		"type": "kecamatan",
+		"name": "GIANYAR"
+	},
+	{
+		"code": "51.04.03.1003",
+		"type": "kelurahan",
+		"name": "SAMPLANGAN"
+	},
+	{
+		"code": "51.04.03.1005",
+		"type": "kelurahan",
+		"name": "ABIANBASE"
+	},
+	{
+		"code": "51.04.03.1006",
+		"type": "kelurahan",
+		"name": "GIANYAR"
+	},
+	{
+		"code": "51.04.03.1007",
+		"type": "kelurahan",
+		"name": "BITERA"
+	},
+	{
+		"code": "51.04.03.1008",
+		"type": "kelurahan",
+		"name": "BENG"
+	},
+	{
+		"code": "51.04.03.2001",
+		"type": "desa",
+		"name": "TULIKUP"
+	},
+	{
+		"code": "51.04.03.2002",
+		"type": "desa",
+		"name": "SIDAN"
+	},
+	{
+		"code": "51.04.03.2004",
+		"type": "desa",
+		"name": "LEBIH"
+	},
+	{
+		"code": "51.04.03.2009",
+		"type": "desa",
+		"name": "BABAKAN"
+	},
+	{
+		"code": "51.04.03.2010",
+		"type": "desa",
+		"name": "SIANGAN"
+	},
+	{
+		"code": "51.04.03.2011",
+		"type": "desa",
+		"name": "SUWAT"
+	},
+	{
+		"code": "51.04.03.2012",
+		"type": "desa",
+		"name": "PETAK"
+	},
+	{
+		"code": "51.04.03.2013",
+		"type": "desa",
+		"name": "SERONGGA"
+	},
+	{
+		"code": "51.04.03.2014",
+		"type": "desa",
+		"name": "PETAK KAJA"
+	},
+	{
+		"code": "51.04.03.2015",
+		"type": "desa",
+		"name": "TEMESI"
+	},
+	{
+		"code": "51.04.03.2016",
+		"type": "desa",
+		"name": "SUMITA"
+	},
+	{
+		"code": "51.04.03.2017",
+		"type": "desa",
+		"name": "TEGAL TUGU"
+	},
+	{
+		"code": "51.04.04",
+		"type": "kecamatan",
+		"name": "TAMPAKSIRING"
+	},
+	{
+		"code": "51.04.04.2001",
+		"type": "desa",
+		"name": "PEJENG"
+	},
+	{
+		"code": "51.04.04.2002",
+		"type": "desa",
+		"name": "SANDING"
+	},
+	{
+		"code": "51.04.04.2003",
+		"type": "desa",
+		"name": "TAMPAKSIRING"
+	},
+	{
+		"code": "51.04.04.2004",
+		"type": "desa",
+		"name": "MANUKAYA"
+	},
+	{
+		"code": "51.04.04.2005",
+		"type": "desa",
+		"name": "PEJENG KAWAN"
+	},
+	{
+		"code": "51.04.04.2006",
+		"type": "desa",
+		"name": "PEJENG KAJA"
+	},
+	{
+		"code": "51.04.04.2007",
+		"type": "desa",
+		"name": "PEJENG KANGIN"
+	},
+	{
+		"code": "51.04.04.2008",
+		"type": "desa",
+		"name": "PEJENG KELOD"
+	},
+	{
+		"code": "51.04.05",
+		"type": "kecamatan",
+		"name": "UBUD"
+	},
+	{
+		"code": "51.04.05.1005",
+		"type": "kelurahan",
+		"name": "UBUD"
+	},
+	{
+		"code": "51.04.05.2001",
+		"type": "desa",
+		"name": "LODTUNDUH"
+	},
+	{
+		"code": "51.04.05.2002",
+		"type": "desa",
+		"name": "MAS"
+	},
+	{
+		"code": "51.04.05.2003",
+		"type": "desa",
+		"name": "SINGAKERTA"
+	},
+	{
+		"code": "51.04.05.2004",
+		"type": "desa",
+		"name": "KEDEWATAN"
+	},
+	{
+		"code": "51.04.05.2006",
+		"type": "desa",
+		"name": "PELIATAN"
+	},
+	{
+		"code": "51.04.05.2007",
+		"type": "desa",
+		"name": "PETULU"
+	},
+	{
+		"code": "51.04.05.2008",
+		"type": "desa",
+		"name": "SAYAN"
+	},
+	{
+		"code": "51.04.06",
+		"type": "kecamatan",
+		"name": "TEGALALLANG"
+	},
+	{
+		"code": "51.04.06.2001",
+		"type": "desa",
+		"name": "KELIKI"
+	},
+	{
+		"code": "51.04.06.2002",
+		"type": "desa",
+		"name": "TEGALLALANG"
+	},
+	{
+		"code": "51.04.06.2003",
+		"type": "desa",
+		"name": "KENDERAN"
+	},
+	{
+		"code": "51.04.06.2004",
+		"type": "desa",
+		"name": "KEDISAN"
+	},
+	{
+		"code": "51.04.06.2005",
+		"type": "desa",
+		"name": "PUPUAN"
+	},
+	{
+		"code": "51.04.06.2006",
+		"type": "desa",
+		"name": "SEBATU"
+	},
+	{
+		"code": "51.04.06.2007",
+		"type": "desa",
+		"name": "TARO"
+	},
+	{
+		"code": "51.04.07",
+		"type": "kecamatan",
+		"name": "PAYANGAN"
+	},
+	{
+		"code": "51.04.07.2001",
+		"type": "desa",
+		"name": "MELINGGIH"
+	},
+	{
+		"code": "51.04.07.2002",
+		"type": "desa",
+		"name": "KELUSA"
+	},
+	{
+		"code": "51.04.07.2003",
+		"type": "desa",
+		"name": "BUKIAN"
+	},
+	{
+		"code": "51.04.07.2004",
+		"type": "desa",
+		"name": "PUHU"
+	},
+	{
+		"code": "51.04.07.2005",
+		"type": "desa",
+		"name": "BUAHAN"
+	},
+	{
+		"code": "51.04.07.2006",
+		"type": "desa",
+		"name": "KERTA"
+	},
+	{
+		"code": "51.04.07.2007",
+		"type": "desa",
+		"name": "MELINGGIH KELOD"
+	},
+	{
+		"code": "51.04.07.2008",
+		"type": "desa",
+		"name": "BUAHAN KAJA"
+	},
+	{
+		"code": "51.04.07.2009",
+		"type": "desa",
+		"name": "BRESELA"
+	},
+	{
+		"code": "51.05",
+		"type": "kabupaten",
+		"name": "KAB. KLUNGKUNG"
+	},
+	{
+		"code": "51.05.01",
+		"type": "kecamatan",
+		"name": "NUSA PENIDA"
+	},
+	{
+		"code": "51.05.01.2001",
+		"type": "desa",
+		"name": "SAKTI"
+	},
+	{
+		"code": "51.05.01.2002",
+		"type": "desa",
+		"name": "BATUMADEG"
+	},
+	{
+		"code": "51.05.01.2003",
+		"type": "desa",
+		"name": "KLUMPU"
+	},
+	{
+		"code": "51.05.01.2004",
+		"type": "desa",
+		"name": "BATUKANDIK"
+	},
+	{
+		"code": "51.05.01.2005",
+		"type": "desa",
+		"name": "SEKARTAJI"
+	},
+	{
+		"code": "51.05.01.2006",
+		"type": "desa",
+		"name": "TANGLAD"
+	},
+	{
+		"code": "51.05.01.2007",
+		"type": "desa",
+		"name": "SUANA"
+	},
+	{
+		"code": "51.05.01.2008",
+		"type": "desa",
+		"name": "BATUNUNGGUL"
+	},
+	{
+		"code": "51.05.01.2009",
+		"type": "desa",
+		"name": "KUTAMPI"
+	},
+	{
+		"code": "51.05.01.2010",
+		"type": "desa",
+		"name": "PED"
+	},
+	{
+		"code": "51.05.01.2011",
+		"type": "desa",
+		"name": "KAMPUNG TOYAPAKEH"
+	},
+	{
+		"code": "51.05.01.2012",
+		"type": "desa",
+		"name": "LEMBONGAN"
+	},
+	{
+		"code": "51.05.01.2013",
+		"type": "desa",
+		"name": "JUNGUTBATU"
+	},
+	{
+		"code": "51.05.01.2014",
+		"type": "desa",
+		"name": "PEJUKUTAN"
+	},
+	{
+		"code": "51.05.01.2015",
+		"type": "desa",
+		"name": "KUTAMPI KALER"
+	},
+	{
+		"code": "51.05.01.2016",
+		"type": "desa",
+		"name": "BUNGA MEKAR"
+	},
+	{
+		"code": "51.05.02",
+		"type": "kecamatan",
+		"name": "BANJARANGKAN"
+	},
+	{
+		"code": "51.05.02.2001",
+		"type": "desa",
+		"name": "NEGARI"
+	},
+	{
+		"code": "51.05.02.2002",
+		"type": "desa",
+		"name": "TAKMUNG"
+	},
+	{
+		"code": "51.05.02.2003",
+		"type": "desa",
+		"name": "BANJARANGKAN"
+	},
+	{
+		"code": "51.05.02.2004",
+		"type": "desa",
+		"name": "TUSAN"
+	},
+	{
+		"code": "51.05.02.2005",
+		"type": "desa",
+		"name": "BAKAS"
+	},
+	{
+		"code": "51.05.02.2006",
+		"type": "desa",
+		"name": "GETAKAN"
+	},
+	{
+		"code": "51.05.02.2007",
+		"type": "desa",
+		"name": "TIHINGAN"
+	},
+	{
+		"code": "51.05.02.2008",
+		"type": "desa",
+		"name": "AAN"
+	},
+	{
+		"code": "51.05.02.2009",
+		"type": "desa",
+		"name": "NYALIAN"
+	},
+	{
+		"code": "51.05.02.2010",
+		"type": "desa",
+		"name": "BUNGBUNGAN"
+	},
+	{
+		"code": "51.05.02.2011",
+		"type": "desa",
+		"name": "TIMUHUN"
+	},
+	{
+		"code": "51.05.02.2012",
+		"type": "desa",
+		"name": "NYANGLAN"
+	},
+	{
+		"code": "51.05.02.2013",
+		"type": "desa",
+		"name": "TOHPATI"
+	},
+	{
+		"code": "51.05.03",
+		"type": "kecamatan",
+		"name": "KLUNGKUNG"
+	},
+	{
+		"code": "51.05.03.1008",
+		"type": "kelurahan",
+		"name": "SEMARAPURA KAJA"
+	},
+	{
+		"code": "51.05.03.1009",
+		"type": "kelurahan",
+		"name": "SEMARAPURA KAUH"
+	},
+	{
+		"code": "51.05.03.1010",
+		"type": "kelurahan",
+		"name": "SEMARAPURA TENGAH"
+	},
+	{
+		"code": "51.05.03.1011",
+		"type": "kelurahan",
+		"name": "SEMARAPURA KANGIN"
+	},
+	{
+		"code": "51.05.03.1012",
+		"type": "kelurahan",
+		"name": "SEMARAPURA KELOD KANGIN"
+	},
+	{
+		"code": "51.05.03.1013",
+		"type": "kelurahan",
+		"name": "SEMARAPURA KELOD"
+	},
+	{
+		"code": "51.05.03.2001",
+		"type": "desa",
+		"name": "SATRA"
+	},
+	{
+		"code": "51.05.03.2002",
+		"type": "desa",
+		"name": "TOJAN"
+	},
+	{
+		"code": "51.05.03.2003",
+		"type": "desa",
+		"name": "GELGEL"
+	},
+	{
+		"code": "51.05.03.2004",
+		"type": "desa",
+		"name": "KAMPUNG GELGEL"
+	},
+	{
+		"code": "51.05.03.2005",
+		"type": "desa",
+		"name": "JUMPAI"
+	},
+	{
+		"code": "51.05.03.2006",
+		"type": "desa",
+		"name": "TANGKAS"
+	},
+	{
+		"code": "51.05.03.2007",
+		"type": "desa",
+		"name": "KAMASAN"
+	},
+	{
+		"code": "51.05.03.2014",
+		"type": "desa",
+		"name": "AKAH"
+	},
+	{
+		"code": "51.05.03.2015",
+		"type": "desa",
+		"name": "MANDUANG"
+	},
+	{
+		"code": "51.05.03.2016",
+		"type": "desa",
+		"name": "SELAT"
+	},
+	{
+		"code": "51.05.03.2017",
+		"type": "desa",
+		"name": "TEGAK"
+	},
+	{
+		"code": "51.05.03.2018",
+		"type": "desa",
+		"name": "SELISIHAN"
+	},
+	{
+		"code": "51.05.04",
+		"type": "kecamatan",
+		"name": "DAWAN"
+	},
+	{
+		"code": "51.05.04.2001",
+		"type": "desa",
+		"name": "PAKSEBALI"
+	},
+	{
+		"code": "51.05.04.2002",
+		"type": "desa",
+		"name": "SAMPALAN TENGAH"
+	},
+	{
+		"code": "51.05.04.2003",
+		"type": "desa",
+		"name": "SAMPALAN KELOD"
+	},
+	{
+		"code": "51.05.04.2004",
+		"type": "desa",
+		"name": "SULANG"
+	},
+	{
+		"code": "51.05.04.2005",
+		"type": "desa",
+		"name": "GUNAKSA"
+	},
+	{
+		"code": "51.05.04.2006",
+		"type": "desa",
+		"name": "KUSAMBA"
+	},
+	{
+		"code": "51.05.04.2007",
+		"type": "desa",
+		"name": "KAMPUNG KUSAMBA"
+	},
+	{
+		"code": "51.05.04.2008",
+		"type": "desa",
+		"name": "PESINGGAHAN"
+	},
+	{
+		"code": "51.05.04.2009",
+		"type": "desa",
+		"name": "DAWAN KELOD"
+	},
+	{
+		"code": "51.05.04.2010",
+		"type": "desa",
+		"name": "PIKAT"
+	},
+	{
+		"code": "51.05.04.2011",
+		"type": "desa",
+		"name": "DAWAN KALER"
+	},
+	{
+		"code": "51.05.04.2012",
+		"type": "desa",
+		"name": "BESAN"
+	},
+	{
+		"code": "51.06",
+		"type": "kabupaten",
+		"name": "KAB. BANGLI"
+	},
+	{
+		"code": "51.06.01",
+		"type": "kecamatan",
+		"name": "SUSUT"
+	},
+	{
+		"code": "51.06.01.2001",
+		"type": "desa",
+		"name": "APUAN"
+	},
+	{
+		"code": "51.06.01.2002",
+		"type": "desa",
+		"name": "DEMULIH"
+	},
+	{
+		"code": "51.06.01.2003",
+		"type": "desa",
+		"name": "ABUAN"
+	},
+	{
+		"code": "51.06.01.2004",
+		"type": "desa",
+		"name": "SUSUT"
+	},
+	{
+		"code": "51.06.01.2005",
+		"type": "desa",
+		"name": "SULAHAN"
+	},
+	{
+		"code": "51.06.01.2006",
+		"type": "desa",
+		"name": "PENGLUMBARAN"
+	},
+	{
+		"code": "51.06.01.2007",
+		"type": "desa",
+		"name": "TIGA"
+	},
+	{
+		"code": "51.06.01.2008",
+		"type": "desa",
+		"name": "SELAT"
+	},
+	{
+		"code": "51.06.01.2009",
+		"type": "desa",
+		"name": "PENGIANGAN"
+	},
+	{
+		"code": "51.06.02",
+		"type": "kecamatan",
+		"name": "BANGLI"
+	},
+	{
+		"code": "51.06.02.1003",
+		"type": "kelurahan",
+		"name": "BEBALANG"
+	},
+	{
+		"code": "51.06.02.1004",
+		"type": "kelurahan",
+		"name": "KAWAN"
+	},
+	{
+		"code": "51.06.02.1005",
+		"type": "kelurahan",
+		"name": "CEMPAGA"
+	},
+	{
+		"code": "51.06.02.1006",
+		"type": "kelurahan",
+		"name": "KUBU"
+	},
+	{
+		"code": "51.06.02.2001",
+		"type": "desa",
+		"name": "BUNUTIN"
+	},
+	{
+		"code": "51.06.02.2002",
+		"type": "desa",
+		"name": "TAMANBALI"
+	},
+	{
+		"code": "51.06.02.2007",
+		"type": "desa",
+		"name": "KAYUBIHI"
+	},
+	{
+		"code": "51.06.02.2008",
+		"type": "desa",
+		"name": "PENGOTAN"
+	},
+	{
+		"code": "51.06.02.2009",
+		"type": "desa",
+		"name": "LANDIH"
+	},
+	{
+		"code": "51.06.03",
+		"type": "kecamatan",
+		"name": "TEMBUKU"
+	},
+	{
+		"code": "51.06.03.2001",
+		"type": "desa",
+		"name": "JEHEM"
+	},
+	{
+		"code": "51.06.03.2002",
+		"type": "desa",
+		"name": "TEMBUKU"
+	},
+	{
+		"code": "51.06.03.2003",
+		"type": "desa",
+		"name": "YANGAPI"
+	},
+	{
+		"code": "51.06.03.2004",
+		"type": "desa",
+		"name": "UNDISAN"
+	},
+	{
+		"code": "51.06.03.2005",
+		"type": "desa",
+		"name": "BANGBANG"
+	},
+	{
+		"code": "51.06.03.2006",
+		"type": "desa",
+		"name": "PENINJOAN"
+	},
+	{
+		"code": "51.06.04",
+		"type": "kecamatan",
+		"name": "KINTAMANI"
+	},
+	{
+		"code": "51.06.04.2001",
+		"type": "desa",
+		"name": "MENGANI"
+	},
+	{
+		"code": "51.06.04.2002",
+		"type": "desa",
+		"name": "BINYAN"
+	},
+	{
+		"code": "51.06.04.2003",
+		"type": "desa",
+		"name": "ULIAN"
+	},
+	{
+		"code": "51.06.04.2004",
+		"type": "desa",
+		"name": "BUNUTIN"
+	},
+	{
+		"code": "51.06.04.2005",
+		"type": "desa",
+		"name": "LANGGAHAN"
+	},
+	{
+		"code": "51.06.04.2006",
+		"type": "desa",
+		"name": "LEMBEAN"
+	},
+	{
+		"code": "51.06.04.2007",
+		"type": "desa",
+		"name": "MANIKLIYU"
+	},
+	{
+		"code": "51.06.04.2008",
+		"type": "desa",
+		"name": "BAYUNG CERIK"
+	},
+	{
+		"code": "51.06.04.2009",
+		"type": "desa",
+		"name": "MANGGUH"
+	},
+	{
+		"code": "51.06.04.2010",
+		"type": "desa",
+		"name": "BELANCAN"
+	},
+	{
+		"code": "51.06.04.2011",
+		"type": "desa",
+		"name": "KATUNG"
+	},
+	{
+		"code": "51.06.04.2012",
+		"type": "desa",
+		"name": "BANUA"
+	},
+	{
+		"code": "51.06.04.2013",
+		"type": "desa",
+		"name": "ABUAN"
+	},
+	{
+		"code": "51.06.04.2014",
+		"type": "desa",
+		"name": "BONYOH"
+	},
+	{
+		"code": "51.06.04.2015",
+		"type": "desa",
+		"name": "SEKAAN"
+	},
+	{
+		"code": "51.06.04.2016",
+		"type": "desa",
+		"name": "BAYUNG GEDE"
+	},
+	{
+		"code": "51.06.04.2017",
+		"type": "desa",
+		"name": "SEKARDADI"
+	},
+	{
+		"code": "51.06.04.2018",
+		"type": "desa",
+		"name": "KEDISAN"
+	},
+	{
+		"code": "51.06.04.2019",
+		"type": "desa",
+		"name": "BUAHAN"
+	},
+	{
+		"code": "51.06.04.2020",
+		"type": "desa",
+		"name": "ABANGSONGAN"
+	},
+	{
+		"code": "51.06.04.2021",
+		"type": "desa",
+		"name": "SUTER"
+	},
+	{
+		"code": "51.06.04.2022",
+		"type": "desa",
+		"name": "BATUDINDING"
+	},
+	{
+		"code": "51.06.04.2023",
+		"type": "desa",
+		"name": "TERUNYAN"
+	},
+	{
+		"code": "51.06.04.2024",
+		"type": "desa",
+		"name": "SONGAN A"
+	},
+	{
+		"code": "51.06.04.2025",
+		"type": "desa",
+		"name": "SONGAN B"
+	},
+	{
+		"code": "51.06.04.2026",
+		"type": "desa",
+		"name": "BATUR SELATAN"
+	},
+	{
+		"code": "51.06.04.2027",
+		"type": "desa",
+		"name": "BATUR TENGAH"
+	},
+	{
+		"code": "51.06.04.2028",
+		"type": "desa",
+		"name": "BATUR UTARA"
+	},
+	{
+		"code": "51.06.04.2029",
+		"type": "desa",
+		"name": "KINTAMANI"
+	},
+	{
+		"code": "51.06.04.2030",
+		"type": "desa",
+		"name": "SERAI"
+	},
+	{
+		"code": "51.06.04.2031",
+		"type": "desa",
+		"name": "DAUP"
+	},
+	{
+		"code": "51.06.04.2032",
+		"type": "desa",
+		"name": "AWAN"
+	},
+	{
+		"code": "51.06.04.2033",
+		"type": "desa",
+		"name": "GUNUNGBAU"
+	},
+	{
+		"code": "51.06.04.2034",
+		"type": "desa",
+		"name": "BELANGA"
+	},
+	{
+		"code": "51.06.04.2035",
+		"type": "desa",
+		"name": "BATUKAANG"
+	},
+	{
+		"code": "51.06.04.2036",
+		"type": "desa",
+		"name": "BELANTIH"
+	},
+	{
+		"code": "51.06.04.2037",
+		"type": "desa",
+		"name": "CATUR"
+	},
+	{
+		"code": "51.06.04.2038",
+		"type": "desa",
+		"name": "PENGEJARAN"
+	},
+	{
+		"code": "51.06.04.2039",
+		"type": "desa",
+		"name": "SELULUNG"
+	},
+	{
+		"code": "51.06.04.2040",
+		"type": "desa",
+		"name": "SATRA"
+	},
+	{
+		"code": "51.06.04.2041",
+		"type": "desa",
+		"name": "DAUSA"
+	},
+	{
+		"code": "51.06.04.2042",
+		"type": "desa",
+		"name": "BANTANG"
+	},
+	{
+		"code": "51.06.04.2043",
+		"type": "desa",
+		"name": "SUKAWANA"
+	},
+	{
+		"code": "51.06.04.2044",
+		"type": "desa",
+		"name": "KUTUH"
+	},
+	{
+		"code": "51.06.04.2045",
+		"type": "desa",
+		"name": "SUBAYA"
+	},
+	{
+		"code": "51.06.04.2046",
+		"type": "desa",
+		"name": "SIAKIN"
+	},
+	{
+		"code": "51.06.04.2047",
+		"type": "desa",
+		"name": "PINGGAN"
+	},
+	{
+		"code": "51.06.04.2048",
+		"type": "desa",
+		"name": "BELANDINGAN"
+	},
+	{
+		"code": "51.07",
+		"type": "kabupaten",
+		"name": "KAB. KARANGASEM"
+	},
+	{
+		"code": "51.07.01",
+		"type": "kecamatan",
+		"name": "RENDANG"
+	},
+	{
+		"code": "51.07.01.2001",
+		"type": "desa",
+		"name": "NONGAN"
+	},
+	{
+		"code": "51.07.01.2002",
+		"type": "desa",
+		"name": "RENDANG"
+	},
+	{
+		"code": "51.07.01.2003",
+		"type": "desa",
+		"name": "MENANGA"
+	},
+	{
+		"code": "51.07.01.2004",
+		"type": "desa",
+		"name": "BESAKIH"
+	},
+	{
+		"code": "51.07.01.2005",
+		"type": "desa",
+		"name": "PEMPATAN"
+	},
+	{
+		"code": "51.07.01.2006",
+		"type": "desa",
+		"name": "PESABAN"
+	},
+	{
+		"code": "51.07.02",
+		"type": "kecamatan",
+		"name": "SIDEMEN"
+	},
+	{
+		"code": "51.07.02.2001",
+		"type": "desa",
+		"name": "TANGKUP"
+	},
+	{
+		"code": "51.07.02.2002",
+		"type": "desa",
+		"name": "TALIBENG"
+	},
+	{
+		"code": "51.07.02.2003",
+		"type": "desa",
+		"name": "SIDEMEN"
+	},
+	{
+		"code": "51.07.02.2004",
+		"type": "desa",
+		"name": "SANGKAN GUNUNG"
+	},
+	{
+		"code": "51.07.02.2005",
+		"type": "desa",
+		"name": "TELAGA TAWANG"
+	},
+	{
+		"code": "51.07.02.2006",
+		"type": "desa",
+		"name": "SINDUWATI"
+	},
+	{
+		"code": "51.07.02.2007",
+		"type": "desa",
+		"name": "TRI EKA BUANA"
+	},
+	{
+		"code": "51.07.02.2008",
+		"type": "desa",
+		"name": "KERTA BUANA"
+	},
+	{
+		"code": "51.07.02.2009",
+		"type": "desa",
+		"name": "LAKASARI"
+	},
+	{
+		"code": "51.07.02.2010",
+		"type": "desa",
+		"name": "WISMAKERTA"
+	},
+	{
+		"code": "51.07.03",
+		"type": "kecamatan",
+		"name": "MANGGIS"
+	},
+	{
+		"code": "51.07.03.2001",
+		"type": "desa",
+		"name": "GEGELANG"
+	},
+	{
+		"code": "51.07.03.2002",
+		"type": "desa",
+		"name": "ANTIGA"
+	},
+	{
+		"code": "51.07.03.2003",
+		"type": "desa",
+		"name": "ULAKAN"
+	},
+	{
+		"code": "51.07.03.2004",
+		"type": "desa",
+		"name": "MANGGIS"
+	},
+	{
+		"code": "51.07.03.2005",
+		"type": "desa",
+		"name": "NYUH TEBEL"
+	},
+	{
+		"code": "51.07.03.2006",
+		"type": "desa",
+		"name": "TENGANAN"
+	},
+	{
+		"code": "51.07.03.2007",
+		"type": "desa",
+		"name": "NGIS"
+	},
+	{
+		"code": "51.07.03.2008",
+		"type": "desa",
+		"name": "SELUMBUNG"
+	},
+	{
+		"code": "51.07.03.2009",
+		"type": "desa",
+		"name": "PADANGBAI"
+	},
+	{
+		"code": "51.07.03.2010",
+		"type": "desa",
+		"name": "ANTIGA KELOD"
+	},
+	{
+		"code": "51.07.03.2011",
+		"type": "desa",
+		"name": "PASEDAHAN"
+	},
+	{
+		"code": "51.07.03.2012",
+		"type": "desa",
+		"name": "SENGKIDU"
+	},
+	{
+		"code": "51.07.04",
+		"type": "kecamatan",
+		"name": "KARANGASEM"
+	},
+	{
+		"code": "51.07.04.1002",
+		"type": "kelurahan",
+		"name": "SUBAGAN"
+	},
+	{
+		"code": "51.07.04.1003",
+		"type": "kelurahan",
+		"name": "PADANG KERTA"
+	},
+	{
+		"code": "51.07.04.1004",
+		"type": "kelurahan",
+		"name": "KARANG ASEM"
+	},
+	{
+		"code": "51.07.04.2001",
+		"type": "desa",
+		"name": "BUGBUG"
+	},
+	{
+		"code": "51.07.04.2005",
+		"type": "desa",
+		"name": "TUMBU"
+	},
+	{
+		"code": "51.07.04.2006",
+		"type": "desa",
+		"name": "SERAYA"
+	},
+	{
+		"code": "51.07.04.2007",
+		"type": "desa",
+		"name": "SERAYA BARAT"
+	},
+	{
+		"code": "51.07.04.2008",
+		"type": "desa",
+		"name": "SERAYA TIMUR"
+	},
+	{
+		"code": "51.07.04.2009",
+		"type": "desa",
+		"name": "PERTIMA"
+	},
+	{
+		"code": "51.07.04.2010",
+		"type": "desa",
+		"name": "TEGALINGGAH"
+	},
+	{
+		"code": "51.07.04.2011",
+		"type": "desa",
+		"name": "BUKIT"
+	},
+	{
+		"code": "51.07.05",
+		"type": "kecamatan",
+		"name": "ABANG"
+	},
+	{
+		"code": "51.07.05.2001",
+		"type": "desa",
+		"name": "ABABI"
+	},
+	{
+		"code": "51.07.05.2002",
+		"type": "desa",
+		"name": "TIYING TALI"
+	},
+	{
+		"code": "51.07.05.2003",
+		"type": "desa",
+		"name": "BUNUTAN"
+	},
+	{
+		"code": "51.07.05.2004",
+		"type": "desa",
+		"name": "TISTA"
+	},
+	{
+		"code": "51.07.05.2005",
+		"type": "desa",
+		"name": "ABANG"
+	},
+	{
+		"code": "51.07.05.2006",
+		"type": "desa",
+		"name": "PIDPID"
+	},
+	{
+		"code": "51.07.05.2007",
+		"type": "desa",
+		"name": "DATAH"
+	},
+	{
+		"code": "51.07.05.2008",
+		"type": "desa",
+		"name": "CULIK"
+	},
+	{
+		"code": "51.07.05.2009",
+		"type": "desa",
+		"name": "PURWAKERTI"
+	},
+	{
+		"code": "51.07.05.2010",
+		"type": "desa",
+		"name": "KERTA MANDALA"
+	},
+	{
+		"code": "51.07.05.2011",
+		"type": "desa",
+		"name": "LABASARI"
+	},
+	{
+		"code": "51.07.05.2012",
+		"type": "desa",
+		"name": "NAWA KERTI"
+	},
+	{
+		"code": "51.07.05.2013",
+		"type": "desa",
+		"name": "KESIMPAR"
+	},
+	{
+		"code": "51.07.05.2014",
+		"type": "desa",
+		"name": "TRIBUANA"
+	},
+	{
+		"code": "51.07.06",
+		"type": "kecamatan",
+		"name": "BEBANDEM"
+	},
+	{
+		"code": "51.07.06.2001",
+		"type": "desa",
+		"name": "BUNGAYA"
+	},
+	{
+		"code": "51.07.06.2002",
+		"type": "desa",
+		"name": "BUDEKELING"
+	},
+	{
+		"code": "51.07.06.2003",
+		"type": "desa",
+		"name": "BEBANDEN"
+	},
+	{
+		"code": "51.07.06.2004",
+		"type": "desa",
+		"name": "SIBETAN"
+	},
+	{
+		"code": "51.07.06.2005",
+		"type": "desa",
+		"name": "JUNGUTAN"
+	},
+	{
+		"code": "51.07.06.2006",
+		"type": "desa",
+		"name": "BUNGAYA KANGIN"
+	},
+	{
+		"code": "51.07.06.2007",
+		"type": "desa",
+		"name": "BUANA GIRI"
+	},
+	{
+		"code": "51.07.06.2008",
+		"type": "desa",
+		"name": "MACANG"
+	},
+	{
+		"code": "51.07.07",
+		"type": "kecamatan",
+		"name": "SELAT"
+	},
+	{
+		"code": "51.07.07.2001",
+		"type": "desa",
+		"name": "MUNCAN"
+	},
+	{
+		"code": "51.07.07.2002",
+		"type": "desa",
+		"name": "SELAT"
+	},
+	{
+		"code": "51.07.07.2003",
+		"type": "desa",
+		"name": "DUDA"
+	},
+	{
+		"code": "51.07.07.2004",
+		"type": "desa",
+		"name": "SEBUDI"
+	},
+	{
+		"code": "51.07.07.2005",
+		"type": "desa",
+		"name": "DUDA UTARA"
+	},
+	{
+		"code": "51.07.07.2006",
+		"type": "desa",
+		"name": "DUDA TIMUR"
+	},
+	{
+		"code": "51.07.07.2007",
+		"type": "desa",
+		"name": "PERING SARI"
+	},
+	{
+		"code": "51.07.07.2008",
+		"type": "desa",
+		"name": "AMERTA BHUANA"
+	},
+	{
+		"code": "51.07.08",
+		"type": "kecamatan",
+		"name": "KUBU"
+	},
+	{
+		"code": "51.07.08.2001",
+		"type": "desa",
+		"name": "BAN"
+	},
+	{
+		"code": "51.07.08.2002",
+		"type": "desa",
+		"name": "DUKUH"
+	},
+	{
+		"code": "51.07.08.2003",
+		"type": "desa",
+		"name": "KUBU"
+	},
+	{
+		"code": "51.07.08.2004",
+		"type": "desa",
+		"name": "TIANYAR"
+	},
+	{
+		"code": "51.07.08.2005",
+		"type": "desa",
+		"name": "TIANYAR BARAT"
+	},
+	{
+		"code": "51.07.08.2006",
+		"type": "desa",
+		"name": "TIANYAR TENGAH"
+	},
+	{
+		"code": "51.07.08.2007",
+		"type": "desa",
+		"name": "TULAMBEN"
+	},
+	{
+		"code": "51.07.08.2008",
+		"type": "desa",
+		"name": "BATURINGGIT"
+	},
+	{
+		"code": "51.07.08.2009",
+		"type": "desa",
+		"name": "SUKADANA"
+	},
+	{
+		"code": "51.08",
+		"type": "kabupaten",
+		"name": "KAB. BULELENG"
+	},
+	{
+		"code": "51.08.01",
+		"type": "kecamatan",
+		"name": "GEROKGAK"
+	},
+	{
+		"code": "51.08.01.2001",
+		"type": "desa",
+		"name": "SUMBER KELAMPOK"
+	},
+	{
+		"code": "51.08.01.2002",
+		"type": "desa",
+		"name": "PEJARAKAN"
+	},
+	{
+		"code": "51.08.01.2003",
+		"type": "desa",
+		"name": "SUMBERKIMA"
+	},
+	{
+		"code": "51.08.01.2004",
+		"type": "desa",
+		"name": "PEMUTERAN"
+	},
+	{
+		"code": "51.08.01.2005",
+		"type": "desa",
+		"name": "BANYUPOH"
+	},
+	{
+		"code": "51.08.01.2006",
+		"type": "desa",
+		"name": "PENYAMBANGAN"
+	},
+	{
+		"code": "51.08.01.2007",
+		"type": "desa",
+		"name": "MUSI"
+	},
+	{
+		"code": "51.08.01.2008",
+		"type": "desa",
+		"name": "SANGGALANGIT"
+	},
+	{
+		"code": "51.08.01.2009",
+		"type": "desa",
+		"name": "GEROKGAK"
+	},
+	{
+		"code": "51.08.01.2010",
+		"type": "desa",
+		"name": "PATAS"
+	},
+	{
+		"code": "51.08.01.2011",
+		"type": "desa",
+		"name": "PENGULON"
+	},
+	{
+		"code": "51.08.01.2012",
+		"type": "desa",
+		"name": "TINGA-TINGA"
+	},
+	{
+		"code": "51.08.01.2013",
+		"type": "desa",
+		"name": "CELUKAN BAWANG"
+	},
+	{
+		"code": "51.08.01.2014",
+		"type": "desa",
+		"name": "TUKAD SUMAGA"
+	},
+	{
+		"code": "51.08.02",
+		"type": "kecamatan",
+		"name": "SERIRIT"
+	},
+	{
+		"code": "51.08.02.1015",
+		"type": "kelurahan",
+		"name": "SERIRIT"
+	},
+	{
+		"code": "51.08.02.2001",
+		"type": "desa",
+		"name": "UNGGAHAN"
+	},
+	{
+		"code": "51.08.02.2002",
+		"type": "desa",
+		"name": "ULARAN"
+	},
+	{
+		"code": "51.08.02.2003",
+		"type": "desa",
+		"name": "RINGDIKIT"
+	},
+	{
+		"code": "51.08.02.2004",
+		"type": "desa",
+		"name": "RANGDU"
+	},
+	{
+		"code": "51.08.02.2005",
+		"type": "desa",
+		"name": "MAYONG"
+	},
+	{
+		"code": "51.08.02.2006",
+		"type": "desa",
+		"name": "GUNUNG SARI"
+	},
+	{
+		"code": "51.08.02.2007",
+		"type": "desa",
+		"name": "MUNDUK BESTALA"
+	},
+	{
+		"code": "51.08.02.2008",
+		"type": "desa",
+		"name": "BESTALA"
+	},
+	{
+		"code": "51.08.02.2009",
+		"type": "desa",
+		"name": "KALIANGET"
+	},
+	{
+		"code": "51.08.02.2010",
+		"type": "desa",
+		"name": "JOANYAR"
+	},
+	{
+		"code": "51.08.02.2011",
+		"type": "desa",
+		"name": "TANGGUSIA"
+	},
+	{
+		"code": "51.08.02.2012",
+		"type": "desa",
+		"name": "SULANYAH"
+	},
+	{
+		"code": "51.08.02.2013",
+		"type": "desa",
+		"name": "BUBUNAN"
+	},
+	{
+		"code": "51.08.02.2014",
+		"type": "desa",
+		"name": "PETEMON"
+	},
+	{
+		"code": "51.08.02.2016",
+		"type": "desa",
+		"name": "PENGASTULAN"
+	},
+	{
+		"code": "51.08.02.2017",
+		"type": "desa",
+		"name": "KALO PAKSA"
+	},
+	{
+		"code": "51.08.02.2018",
+		"type": "desa",
+		"name": "PANGKUNG PARUK"
+	},
+	{
+		"code": "51.08.02.2019",
+		"type": "desa",
+		"name": "BANJARASEM"
+	},
+	{
+		"code": "51.08.02.2020",
+		"type": "desa",
+		"name": "KALISADA"
+	},
+	{
+		"code": "51.08.02.2021",
+		"type": "desa",
+		"name": "UMEANYAR"
+	},
+	{
+		"code": "51.08.03",
+		"type": "kecamatan",
+		"name": "BUSUNG BIU"
+	},
+	{
+		"code": "51.08.03.2001",
+		"type": "desa",
+		"name": "SEPANG"
+	},
+	{
+		"code": "51.08.03.2002",
+		"type": "desa",
+		"name": "TISTA"
+	},
+	{
+		"code": "51.08.03.2003",
+		"type": "desa",
+		"name": "BONGANCINA"
+	},
+	{
+		"code": "51.08.03.2004",
+		"type": "desa",
+		"name": "PUCAKSARI"
+	},
+	{
+		"code": "51.08.03.2005",
+		"type": "desa",
+		"name": "TELAGA"
+	},
+	{
+		"code": "51.08.03.2006",
+		"type": "desa",
+		"name": "TITAB"
+	},
+	{
+		"code": "51.08.03.2007",
+		"type": "desa",
+		"name": "SUBUK"
+	},
+	{
+		"code": "51.08.03.2008",
+		"type": "desa",
+		"name": "TINGGASARI"
+	},
+	{
+		"code": "51.08.03.2009",
+		"type": "desa",
+		"name": "KEDIS"
+	},
+	{
+		"code": "51.08.03.2010",
+		"type": "desa",
+		"name": "KEKERAN"
+	},
+	{
+		"code": "51.08.03.2011",
+		"type": "desa",
+		"name": "BUSUNGBIU"
+	},
+	{
+		"code": "51.08.03.2012",
+		"type": "desa",
+		"name": "PELAPUAN"
+	},
+	{
+		"code": "51.08.03.2013",
+		"type": "desa",
+		"name": "BENGKEL"
+	},
+	{
+		"code": "51.08.03.2014",
+		"type": "desa",
+		"name": "UMEJERO"
+	},
+	{
+		"code": "51.08.03.2015",
+		"type": "desa",
+		"name": "SEPANG KELOD"
+	},
+	{
+		"code": "51.08.04",
+		"type": "kecamatan",
+		"name": "BANJAR"
+	},
+	{
+		"code": "51.08.04.2001",
+		"type": "desa",
+		"name": "BANYUSERI"
+	},
+	{
+		"code": "51.08.04.2002",
+		"type": "desa",
+		"name": "TIRTASARI"
+	},
+	{
+		"code": "51.08.04.2003",
+		"type": "desa",
+		"name": "KAYUPUTIH"
+	},
+	{
+		"code": "51.08.04.2004",
+		"type": "desa",
+		"name": "BANYATIS"
+	},
+	{
+		"code": "51.08.04.2005",
+		"type": "desa",
+		"name": "GESING"
+	},
+	{
+		"code": "51.08.04.2006",
+		"type": "desa",
+		"name": "MUNDUK"
+	},
+	{
+		"code": "51.08.04.2007",
+		"type": "desa",
+		"name": "GOBLEG"
+	},
+	{
+		"code": "51.08.04.2008",
+		"type": "desa",
+		"name": "PEDAWA"
+	},
+	{
+		"code": "51.08.04.2009",
+		"type": "desa",
+		"name": "CEMPAGA"
+	},
+	{
+		"code": "51.08.04.2010",
+		"type": "desa",
+		"name": "SIDETAPA"
+	},
+	{
+		"code": "51.08.04.2011",
+		"type": "desa",
+		"name": "TAMPEKAN"
+	},
+	{
+		"code": "51.08.04.2012",
+		"type": "desa",
+		"name": "BANJAR TEGEHA"
+	},
+	{
+		"code": "51.08.04.2013",
+		"type": "desa",
+		"name": "BANJAR"
+	},
+	{
+		"code": "51.08.04.2014",
+		"type": "desa",
+		"name": "DENCARIK"
+	},
+	{
+		"code": "51.08.04.2015",
+		"type": "desa",
+		"name": "TEMUKUS"
+	},
+	{
+		"code": "51.08.04.2016",
+		"type": "desa",
+		"name": "TIGAWASA"
+	},
+	{
+		"code": "51.08.04.2017",
+		"type": "desa",
+		"name": "KALIASEM"
+	},
+	{
+		"code": "51.08.05",
+		"type": "kecamatan",
+		"name": "SUKASADA"
+	},
+	{
+		"code": "51.08.05.1009",
+		"type": "kelurahan",
+		"name": "SUKASADA"
+	},
+	{
+		"code": "51.08.05.2001",
+		"type": "desa",
+		"name": "PANCASARI"
+	},
+	{
+		"code": "51.08.05.2002",
+		"type": "desa",
+		"name": "WANAGIRI"
+	},
+	{
+		"code": "51.08.05.2003",
+		"type": "desa",
+		"name": "AMBENGAN"
+	},
+	{
+		"code": "51.08.05.2004",
+		"type": "desa",
+		"name": "GITGIT"
+	},
+	{
+		"code": "51.08.05.2005",
+		"type": "desa",
+		"name": "PEGAYAMAN"
+	},
+	{
+		"code": "51.08.05.2006",
+		"type": "desa",
+		"name": "SILANGJANA"
+	},
+	{
+		"code": "51.08.05.2007",
+		"type": "desa",
+		"name": "PEGADUNGAN"
+	},
+	{
+		"code": "51.08.05.2008",
+		"type": "desa",
+		"name": "PADANGBULIA"
+	},
+	{
+		"code": "51.08.05.2010",
+		"type": "desa",
+		"name": "SAMBANGAN"
+	},
+	{
+		"code": "51.08.05.2011",
+		"type": "desa",
+		"name": "PANJI"
+	},
+	{
+		"code": "51.08.05.2012",
+		"type": "desa",
+		"name": "PANJI ANOM"
+	},
+	{
+		"code": "51.08.05.2013",
+		"type": "desa",
+		"name": "TEGALLINGGAH"
+	},
+	{
+		"code": "51.08.05.2014",
+		"type": "desa",
+		"name": "SELAT"
+	},
+	{
+		"code": "51.08.05.2015",
+		"type": "desa",
+		"name": "KAYU PUTIH"
+	},
+	{
+		"code": "51.08.06",
+		"type": "kecamatan",
+		"name": "BULELENG"
+	},
+	{
+		"code": "51.08.06.1006",
+		"type": "kelurahan",
+		"name": "BANYUASARI"
+	},
+	{
+		"code": "51.08.06.1007",
+		"type": "kelurahan",
+		"name": "BANJAR TEGAL"
+	},
+	{
+		"code": "51.08.06.1008",
+		"type": "kelurahan",
+		"name": "KENDRAN"
+	},
+	{
+		"code": "51.08.06.1009",
+		"type": "kelurahan",
+		"name": "PAKET AGUNG"
+	},
+	{
+		"code": "51.08.06.1010",
+		"type": "kelurahan",
+		"name": "KAMPUNG SINGARAJA"
+	},
+	{
+		"code": "51.08.06.1011",
+		"type": "kelurahan",
+		"name": "LILIGUNDI"
+	},
+	{
+		"code": "51.08.06.1012",
+		"type": "kelurahan",
+		"name": "BERATAN"
+	},
+	{
+		"code": "51.08.06.1019",
+		"type": "kelurahan",
+		"name": "BANYUNING"
+	},
+	{
+		"code": "51.08.06.1020",
+		"type": "kelurahan",
+		"name": "PENARUKAN"
+	},
+	{
+		"code": "51.08.06.1021",
+		"type": "kelurahan",
+		"name": "KAMPUNG KAJANAN"
+	},
+	{
+		"code": "51.08.06.1022",
+		"type": "kelurahan",
+		"name": "ASTINA"
+	},
+	{
+		"code": "51.08.06.1023",
+		"type": "kelurahan",
+		"name": "BANJAR JAWA"
+	},
+	{
+		"code": "51.08.06.1024",
+		"type": "kelurahan",
+		"name": "KALIUNTU"
+	},
+	{
+		"code": "51.08.06.1025",
+		"type": "kelurahan",
+		"name": "KAMPUNG ANYAR"
+	},
+	{
+		"code": "51.08.06.1026",
+		"type": "kelurahan",
+		"name": "KAMPUNG BUGIS"
+	},
+	{
+		"code": "51.08.06.1027",
+		"type": "kelurahan",
+		"name": "BANJAR BALI"
+	},
+	{
+		"code": "51.08.06.1029",
+		"type": "kelurahan",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "51.08.06.2001",
+		"type": "desa",
+		"name": "KALIBUKBUK"
+	},
+	{
+		"code": "51.08.06.2002",
+		"type": "desa",
+		"name": "ANTURAN"
+	},
+	{
+		"code": "51.08.06.2003",
+		"type": "desa",
+		"name": "TUKAD MUNGGA"
+	},
+	{
+		"code": "51.08.06.2004",
+		"type": "desa",
+		"name": "PEMARON"
+	},
+	{
+		"code": "51.08.06.2005",
+		"type": "desa",
+		"name": "BAKTI SERAGA"
+	},
+	{
+		"code": "51.08.06.2013",
+		"type": "desa",
+		"name": "SARIMEKAR"
+	},
+	{
+		"code": "51.08.06.2014",
+		"type": "desa",
+		"name": "NAGA SEPAHA"
+	},
+	{
+		"code": "51.08.06.2015",
+		"type": "desa",
+		"name": "PETANDAKAN"
+	},
+	{
+		"code": "51.08.06.2016",
+		"type": "desa",
+		"name": "ALASANGKER"
+	},
+	{
+		"code": "51.08.06.2017",
+		"type": "desa",
+		"name": "POH BENGONG"
+	},
+	{
+		"code": "51.08.06.2018",
+		"type": "desa",
+		"name": "JINENG DALEM"
+	},
+	{
+		"code": "51.08.06.2028",
+		"type": "desa",
+		"name": "PENGELATAN"
+	},
+	{
+		"code": "51.08.07",
+		"type": "kecamatan",
+		"name": "SAWAN"
+	},
+	{
+		"code": "51.08.07.2001",
+		"type": "desa",
+		"name": "LEMUKIH"
+	},
+	{
+		"code": "51.08.07.2002",
+		"type": "desa",
+		"name": "GALUNGAN"
+	},
+	{
+		"code": "51.08.07.2003",
+		"type": "desa",
+		"name": "SEKUMPUL"
+	},
+	{
+		"code": "51.08.07.2004",
+		"type": "desa",
+		"name": "BEBETIN"
+	},
+	{
+		"code": "51.08.07.2005",
+		"type": "desa",
+		"name": "SUDAJI"
+	},
+	{
+		"code": "51.08.07.2006",
+		"type": "desa",
+		"name": "SAWAN"
+	},
+	{
+		"code": "51.08.07.2007",
+		"type": "desa",
+		"name": "MENYALI"
+	},
+	{
+		"code": "51.08.07.2008",
+		"type": "desa",
+		"name": "SUWUG"
+	},
+	{
+		"code": "51.08.07.2009",
+		"type": "desa",
+		"name": "JAGARAGA"
+	},
+	{
+		"code": "51.08.07.2010",
+		"type": "desa",
+		"name": "SINABUN"
+	},
+	{
+		"code": "51.08.07.2011",
+		"type": "desa",
+		"name": "KEROBOKAN"
+	},
+	{
+		"code": "51.08.07.2012",
+		"type": "desa",
+		"name": "SANGSIT"
+	},
+	{
+		"code": "51.08.07.2013",
+		"type": "desa",
+		"name": "BUNGKULAN"
+	},
+	{
+		"code": "51.08.07.2014",
+		"type": "desa",
+		"name": "GIRI EMAS"
+	},
+	{
+		"code": "51.08.08",
+		"type": "kecamatan",
+		"name": "KUBUTAMBAHAN"
+	},
+	{
+		"code": "51.08.08.2001",
+		"type": "desa",
+		"name": "TAMBAKAN"
+	},
+	{
+		"code": "51.08.08.2002",
+		"type": "desa",
+		"name": "PAKISAN"
+	},
+	{
+		"code": "51.08.08.2003",
+		"type": "desa",
+		"name": "BONTIHING"
+	},
+	{
+		"code": "51.08.08.2004",
+		"type": "desa",
+		"name": "TAJUN"
+	},
+	{
+		"code": "51.08.08.2005",
+		"type": "desa",
+		"name": "TUNJUNG"
+	},
+	{
+		"code": "51.08.08.2006",
+		"type": "desa",
+		"name": "DEPEHE"
+	},
+	{
+		"code": "51.08.08.2007",
+		"type": "desa",
+		"name": "TAMBLANG"
+	},
+	{
+		"code": "51.08.08.2008",
+		"type": "desa",
+		"name": "BULIAN"
+	},
+	{
+		"code": "51.08.08.2009",
+		"type": "desa",
+		"name": "BILA"
+	},
+	{
+		"code": "51.08.08.2010",
+		"type": "desa",
+		"name": "BENGKALA"
+	},
+	{
+		"code": "51.08.08.2011",
+		"type": "desa",
+		"name": "KUBUTAMBAHAN"
+	},
+	{
+		"code": "51.08.08.2012",
+		"type": "desa",
+		"name": "BUKTI"
+	},
+	{
+		"code": "51.08.08.2013",
+		"type": "desa",
+		"name": "MENGENING"
+	},
+	{
+		"code": "51.08.09",
+		"type": "kecamatan",
+		"name": "TEJAKULA"
+	},
+	{
+		"code": "51.08.09.2001",
+		"type": "desa",
+		"name": "SEMBIRAN"
+	},
+	{
+		"code": "51.08.09.2002",
+		"type": "desa",
+		"name": "PACUNG"
+	},
+	{
+		"code": "51.08.09.2003",
+		"type": "desa",
+		"name": "JULAH"
+	},
+	{
+		"code": "51.08.09.2004",
+		"type": "desa",
+		"name": "MADENAN"
+	},
+	{
+		"code": "51.08.09.2005",
+		"type": "desa",
+		"name": "BONDALEM"
+	},
+	{
+		"code": "51.08.09.2006",
+		"type": "desa",
+		"name": "TEJAKULA"
+	},
+	{
+		"code": "51.08.09.2007",
+		"type": "desa",
+		"name": "LES"
+	},
+	{
+		"code": "51.08.09.2008",
+		"type": "desa",
+		"name": "PENUKTUKAN"
+	},
+	{
+		"code": "51.08.09.2009",
+		"type": "desa",
+		"name": "SAMBIRENTENG"
+	},
+	{
+		"code": "51.08.09.2010",
+		"type": "desa",
+		"name": "TEMBOK"
+	},
+	{
+		"code": "51.71",
+		"type": "kabupaten",
+		"name": "KOTA DENPASAR"
+	},
+	{
+		"code": "51.71.01",
+		"type": "kecamatan",
+		"name": "DENPASAR SELATAN"
+	},
+	{
+		"code": "51.71.01.1001",
+		"type": "kelurahan",
+		"name": "SERANGAN"
+	},
+	{
+		"code": "51.71.01.1002",
+		"type": "kelurahan",
+		"name": "PEDUNGAN"
+	},
+	{
+		"code": "51.71.01.1003",
+		"type": "kelurahan",
+		"name": "SESETAN"
+	},
+	{
+		"code": "51.71.01.1004",
+		"type": "kelurahan",
+		"name": "PANJER"
+	},
+	{
+		"code": "51.71.01.1005",
+		"type": "kelurahan",
+		"name": "RENON"
+	},
+	{
+		"code": "51.71.01.1006",
+		"type": "kelurahan",
+		"name": "SANUR"
+	},
+	{
+		"code": "51.71.01.2007",
+		"type": "desa",
+		"name": "SIDAKARYA"
+	},
+	{
+		"code": "51.71.01.2008",
+		"type": "desa",
+		"name": "PEMOGAN"
+	},
+	{
+		"code": "51.71.01.2009",
+		"type": "desa",
+		"name": "SANUR KAJA"
+	},
+	{
+		"code": "51.71.01.2010",
+		"type": "desa",
+		"name": "SANUR KAUH"
+	},
+	{
+		"code": "51.71.02",
+		"type": "kecamatan",
+		"name": "DENPASAR TIMUR"
+	},
+	{
+		"code": "51.71.02.1003",
+		"type": "kelurahan",
+		"name": "KESIMAN"
+	},
+	{
+		"code": "51.71.02.1006",
+		"type": "kelurahan",
+		"name": "SUMERTA"
+	},
+	{
+		"code": "51.71.02.1010",
+		"type": "kelurahan",
+		"name": "DANGIN PURI"
+	},
+	{
+		"code": "51.71.02.1014",
+		"type": "kelurahan",
+		"name": "PENATIH"
+	},
+	{
+		"code": "51.71.02.2001",
+		"type": "desa",
+		"name": "DANGIN PURI KELOD"
+	},
+	{
+		"code": "51.71.02.2002",
+		"type": "desa",
+		"name": "SUMERTA KELOD"
+	},
+	{
+		"code": "51.71.02.2004",
+		"type": "desa",
+		"name": "KESIMAN PETILAN"
+	},
+	{
+		"code": "51.71.02.2005",
+		"type": "desa",
+		"name": "KESIMAN KERTALANGU"
+	},
+	{
+		"code": "51.71.02.2007",
+		"type": "desa",
+		"name": "SUMERTA KAJA"
+	},
+	{
+		"code": "51.71.02.2008",
+		"type": "desa",
+		"name": "SUMERTA KAUH"
+	},
+	{
+		"code": "51.71.02.2015",
+		"type": "desa",
+		"name": "PENATIH DANGIN PURI"
+	},
+	{
+		"code": "51.71.03",
+		"type": "kecamatan",
+		"name": "DENPASAR BARAT"
+	},
+	{
+		"code": "51.71.03.1005",
+		"type": "kelurahan",
+		"name": "DAUH PURI"
+	},
+	{
+		"code": "51.71.03.1007",
+		"type": "kelurahan",
+		"name": "PEMECUTAN"
+	},
+	{
+		"code": "51.71.03.1010",
+		"type": "kelurahan",
+		"name": "PADANGSAMBIAN"
+	},
+	{
+		"code": "51.71.03.2001",
+		"type": "desa",
+		"name": "PADANGSAMBIAN KELOD"
+	},
+	{
+		"code": "51.71.03.2002",
+		"type": "desa",
+		"name": "PEMECUTAN KELOD"
+	},
+	{
+		"code": "51.71.03.2003",
+		"type": "desa",
+		"name": "DAUH PURI KAUH"
+	},
+	{
+		"code": "51.71.03.2004",
+		"type": "desa",
+		"name": "DAUH PURI KELOD"
+	},
+	{
+		"code": "51.71.03.2006",
+		"type": "desa",
+		"name": "DAUH PURI KANGIN"
+	},
+	{
+		"code": "51.71.03.2008",
+		"type": "desa",
+		"name": "TEGAL HARUM"
+	},
+	{
+		"code": "51.71.03.2009",
+		"type": "desa",
+		"name": "TEGAL KERTHA"
+	},
+	{
+		"code": "51.71.03.2011",
+		"type": "desa",
+		"name": "PADANG SAMBIAN KAJA"
+	},
+	{
+		"code": "51.71.04",
+		"type": "kecamatan",
+		"name": "DENPASAR UTARA"
+	},
+	{
+		"code": "51.71.04.1004",
+		"type": "kelurahan",
+		"name": "TONJA"
+	},
+	{
+		"code": "51.71.04.1007",
+		"type": "kelurahan",
+		"name": "UBUNG"
+	},
+	{
+		"code": "51.71.04.1009",
+		"type": "kelurahan",
+		"name": "PEGUYANGAN"
+	},
+	{
+		"code": "51.71.04.2001",
+		"type": "desa",
+		"name": "DANGIN PURI KANGIN"
+	},
+	{
+		"code": "51.71.04.2002",
+		"type": "desa",
+		"name": "DANGIN PURI KAUH"
+	},
+	{
+		"code": "51.71.04.2003",
+		"type": "desa",
+		"name": "DANGIN PURI KAJA"
+	},
+	{
+		"code": "51.71.04.2005",
+		"type": "desa",
+		"name": "PEMECUTAN KAJA"
+	},
+	{
+		"code": "51.71.04.2006",
+		"type": "desa",
+		"name": "DAUH PURI KAJA"
+	},
+	{
+		"code": "51.71.04.2008",
+		"type": "desa",
+		"name": "UBUNG KAJA"
+	},
+	{
+		"code": "51.71.04.2010",
+		"type": "desa",
+		"name": "PEGUYANGAN KAJA"
+	},
+	{
+		"code": "51.71.04.2011",
+		"type": "desa",
+		"name": "PEGUYANGAN KANGIN"
+	}
+]

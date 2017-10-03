@@ -1,0 +1,12267 @@
+[
+	{
+		"code": "74",
+		"type": "provinsi",
+		"name": "SULAWESI TENGGARA"
+	},
+	{
+		"code": "74.01",
+		"type": "kabupaten",
+		"name": "KAB. KOLAKA"
+	},
+	{
+		"code": "74.01.01",
+		"type": "kecamatan",
+		"name": "WUNDULAKO"
+	},
+	{
+		"code": "74.01.01.1001",
+		"type": "kelurahan",
+		"name": "19 NOPEMBER"
+	},
+	{
+		"code": "74.01.01.1002",
+		"type": "kelurahan",
+		"name": "WUNDULAKO"
+	},
+	{
+		"code": "74.01.01.1003",
+		"type": "kelurahan",
+		"name": "LAMEKONGGA"
+	},
+	{
+		"code": "74.01.01.1004",
+		"type": "kelurahan",
+		"name": "KOWIOHA"
+	},
+	{
+		"code": "74.01.01.1005",
+		"type": "kelurahan",
+		"name": "SILEA"
+	},
+	{
+		"code": "74.01.01.1011",
+		"type": "kelurahan",
+		"name": "NGAPA"
+	},
+	{
+		"code": "74.01.01.2006",
+		"type": "desa",
+		"name": "TOWUA I"
+	},
+	{
+		"code": "74.01.01.2007",
+		"type": "desa",
+		"name": "BENDE"
+	},
+	{
+		"code": "74.01.01.2008",
+		"type": "desa",
+		"name": "UNAMENDAA"
+	},
+	{
+		"code": "74.01.01.2009",
+		"type": "desa",
+		"name": "TIKONU"
+	},
+	{
+		"code": "74.01.01.2010",
+		"type": "desa",
+		"name": "SABIONA"
+	},
+	{
+		"code": "74.01.04",
+		"type": "kecamatan",
+		"name": "KOLAKA"
+	},
+	{
+		"code": "74.01.04.1001",
+		"type": "kelurahan",
+		"name": "LAMOKATO"
+	},
+	{
+		"code": "74.01.04.1002",
+		"type": "kelurahan",
+		"name": "WATULIANDU"
+	},
+	{
+		"code": "74.01.04.1003",
+		"type": "kelurahan",
+		"name": "BALANDETE"
+	},
+	{
+		"code": "74.01.04.1004",
+		"type": "kelurahan",
+		"name": "LALOMBAA"
+	},
+	{
+		"code": "74.01.04.1005",
+		"type": "kelurahan",
+		"name": "SABILAMBO"
+	},
+	{
+		"code": "74.01.04.1006",
+		"type": "kelurahan",
+		"name": "LALOEHA"
+	},
+	{
+		"code": "74.01.04.1007",
+		"type": "kelurahan",
+		"name": "TAHOA"
+	},
+	{
+		"code": "74.01.07",
+		"type": "kecamatan",
+		"name": "POMALAA"
+	},
+	{
+		"code": "74.01.07.1001",
+		"type": "kelurahan",
+		"name": "DAWI-DAWI"
+	},
+	{
+		"code": "74.01.07.1002",
+		"type": "kelurahan",
+		"name": "POMALAA"
+	},
+	{
+		"code": "74.01.07.1009",
+		"type": "kelurahan",
+		"name": "TONGGONI"
+	},
+	{
+		"code": "74.01.07.1011",
+		"type": "kelurahan",
+		"name": "KUMORO"
+	},
+	{
+		"code": "74.01.07.2003",
+		"type": "desa",
+		"name": "HUKO-HUKO"
+	},
+	{
+		"code": "74.01.07.2004",
+		"type": "desa",
+		"name": "PELAMBUA"
+	},
+	{
+		"code": "74.01.07.2005",
+		"type": "desa",
+		"name": "TAMBEA"
+	},
+	{
+		"code": "74.01.07.2006",
+		"type": "desa",
+		"name": "SOPURA"
+	},
+	{
+		"code": "74.01.07.2007",
+		"type": "desa",
+		"name": "PESOUHA"
+	},
+	{
+		"code": "74.01.07.2008",
+		"type": "desa",
+		"name": "TOTOBO"
+	},
+	{
+		"code": "74.01.07.2010",
+		"type": "desa",
+		"name": "OKO-OKO"
+	},
+	{
+		"code": "74.01.07.2012",
+		"type": "desa",
+		"name": "HAKATUTOBU"
+	},
+	{
+		"code": "74.01.08",
+		"type": "kecamatan",
+		"name": "WATUBANGGA"
+	},
+	{
+		"code": "74.01.08.1001",
+		"type": "kelurahan",
+		"name": "WATUBANGGA"
+	},
+	{
+		"code": "74.01.08.1006",
+		"type": "kelurahan",
+		"name": "TANDEBURA"
+	},
+	{
+		"code": "74.01.08.1015",
+		"type": "kelurahan",
+		"name": "WOLULU"
+	},
+	{
+		"code": "74.01.08.2002",
+		"type": "desa",
+		"name": "LAMUNDRE"
+	},
+	{
+		"code": "74.01.08.2007",
+		"type": "desa",
+		"name": "KUKUTIO"
+	},
+	{
+		"code": "74.01.08.2011",
+		"type": "desa",
+		"name": "LANGGOSIPI"
+	},
+	{
+		"code": "74.01.08.2012",
+		"type": "desa",
+		"name": "SUMBER REJEKI"
+	},
+	{
+		"code": "74.01.08.2016",
+		"type": "desa",
+		"name": "PEOHO"
+	},
+	{
+		"code": "74.01.08.2017",
+		"type": "desa",
+		"name": "MATAOSU"
+	},
+	{
+		"code": "74.01.08.2018",
+		"type": "desa",
+		"name": "POLENGA"
+	},
+	{
+		"code": "74.01.08.2020",
+		"type": "desa",
+		"name": "KASTURA"
+	},
+	{
+		"code": "74.01.08.2023",
+		"type": "desa",
+		"name": "GUNUNG SARI"
+	},
+	{
+		"code": "74.01.08.2025",
+		"type": "desa",
+		"name": "MATAOSU UJUNG"
+	},
+	{
+		"code": "74.01.08.2026",
+		"type": "desa",
+		"name": "RANOTETA"
+	},
+	{
+		"code": "74.01.10",
+		"type": "kecamatan",
+		"name": "WOLO"
+	},
+	{
+		"code": "74.01.10.1001",
+		"type": "kelurahan",
+		"name": "WOLO"
+	},
+	{
+		"code": "74.01.10.1007",
+		"type": "kelurahan",
+		"name": "ULU WOLO"
+	},
+	{
+		"code": "74.01.10.2002",
+		"type": "desa",
+		"name": "DONGGALA"
+	},
+	{
+		"code": "74.01.10.2003",
+		"type": "desa",
+		"name": "ULULAPAO-PAO"
+	},
+	{
+		"code": "74.01.10.2008",
+		"type": "desa",
+		"name": "TOLOWE PONREWARU"
+	},
+	{
+		"code": "74.01.10.2009",
+		"type": "desa",
+		"name": "LAPAO-PAO"
+	},
+	{
+		"code": "74.01.10.2010",
+		"type": "desa",
+		"name": "LANGGOMALI"
+	},
+	{
+		"code": "74.01.10.2011",
+		"type": "desa",
+		"name": "LALONAHA"
+	},
+	{
+		"code": "74.01.10.2012",
+		"type": "desa",
+		"name": "LANA"
+	},
+	{
+		"code": "74.01.10.2015",
+		"type": "desa",
+		"name": "LALONGGOPI"
+	},
+	{
+		"code": "74.01.10.2016",
+		"type": "desa",
+		"name": "MUARA LAPAO-PAO"
+	},
+	{
+		"code": "74.01.10.2018",
+		"type": "desa",
+		"name": "SAMAENRE"
+	},
+	{
+		"code": "74.01.10.2019",
+		"type": "desa",
+		"name": "IWOIMOPURO"
+	},
+	{
+		"code": "74.01.10.2021",
+		"type": "desa",
+		"name": "ULU RINA"
+	},
+	{
+		"code": "74.01.12",
+		"type": "kecamatan",
+		"name": "BAULA"
+	},
+	{
+		"code": "74.01.12.1001",
+		"type": "kelurahan",
+		"name": "PUUNDOHO"
+	},
+	{
+		"code": "74.01.12.2002",
+		"type": "desa",
+		"name": "LONGORI"
+	},
+	{
+		"code": "74.01.12.2003",
+		"type": "desa",
+		"name": "PUUBUNGA"
+	},
+	{
+		"code": "74.01.12.2004",
+		"type": "desa",
+		"name": "PUULEMO"
+	},
+	{
+		"code": "74.01.12.2005",
+		"type": "desa",
+		"name": "PUUBENUA"
+	},
+	{
+		"code": "74.01.12.2006",
+		"type": "desa",
+		"name": "BAULA"
+	},
+	{
+		"code": "74.01.12.2007",
+		"type": "desa",
+		"name": "PEWUTAA"
+	},
+	{
+		"code": "74.01.12.2008",
+		"type": "desa",
+		"name": "WATALARA"
+	},
+	{
+		"code": "74.01.12.2009",
+		"type": "desa",
+		"name": "PUURODA"
+	},
+	{
+		"code": "74.01.12.2010",
+		"type": "desa",
+		"name": "ULU BAULA"
+	},
+	{
+		"code": "74.01.14",
+		"type": "kecamatan",
+		"name": "LATAMBAGA"
+	},
+	{
+		"code": "74.01.14.1001",
+		"type": "kelurahan",
+		"name": "MANGOLO"
+	},
+	{
+		"code": "74.01.14.1002",
+		"type": "kelurahan",
+		"name": "KOLAKAASI"
+	},
+	{
+		"code": "74.01.14.1003",
+		"type": "kelurahan",
+		"name": "SEA"
+	},
+	{
+		"code": "74.01.14.1004",
+		"type": "kelurahan",
+		"name": "LATAMBAGA"
+	},
+	{
+		"code": "74.01.14.1005",
+		"type": "kelurahan",
+		"name": "SAKULI"
+	},
+	{
+		"code": "74.01.14.1006",
+		"type": "kelurahan",
+		"name": "INDUHA"
+	},
+	{
+		"code": "74.01.14.1007",
+		"type": "kelurahan",
+		"name": "ULUNGGOLAKA"
+	},
+	{
+		"code": "74.01.18",
+		"type": "kecamatan",
+		"name": "TANGGETADA"
+	},
+	{
+		"code": "74.01.18.1003",
+		"type": "kelurahan",
+		"name": "ANAIWOI"
+	},
+	{
+		"code": "74.01.18.2001",
+		"type": "desa",
+		"name": "LAMEDAI"
+	},
+	{
+		"code": "74.01.18.2002",
+		"type": "desa",
+		"name": "TANGGETADA"
+	},
+	{
+		"code": "74.01.18.2004",
+		"type": "desa",
+		"name": "PEWISOA JAYA"
+	},
+	{
+		"code": "74.01.18.2005",
+		"type": "desa",
+		"name": "TONDOWOLIO"
+	},
+	{
+		"code": "74.01.18.2006",
+		"type": "desa",
+		"name": "POPALIA"
+	},
+	{
+		"code": "74.01.18.2007",
+		"type": "desa",
+		"name": "LALONGGOLOSUA"
+	},
+	{
+		"code": "74.01.18.2008",
+		"type": "desa",
+		"name": "PETUDUA"
+	},
+	{
+		"code": "74.01.18.2009",
+		"type": "desa",
+		"name": "RAHANGGADA"
+	},
+	{
+		"code": "74.01.18.2010",
+		"type": "desa",
+		"name": "PALEWAI"
+	},
+	{
+		"code": "74.01.18.2011",
+		"type": "desa",
+		"name": "PUUNDAPIA"
+	},
+	{
+		"code": "74.01.18.2012",
+		"type": "desa",
+		"name": "ONEEHA"
+	},
+	{
+		"code": "74.01.18.2013",
+		"type": "desa",
+		"name": "LAMOIKO"
+	},
+	{
+		"code": "74.01.18.2014",
+		"type": "desa",
+		"name": "TINGGO"
+	},
+	{
+		"code": "74.01.20",
+		"type": "kecamatan",
+		"name": "SAMATURU"
+	},
+	{
+		"code": "74.01.20.1001",
+		"type": "kelurahan",
+		"name": "TOSIBA"
+	},
+	{
+		"code": "74.01.20.1013",
+		"type": "kelurahan",
+		"name": "TONGANAPO"
+	},
+	{
+		"code": "74.01.20.2002",
+		"type": "desa",
+		"name": "KONAWEHA"
+	},
+	{
+		"code": "74.01.20.2003",
+		"type": "desa",
+		"name": "KALOLOA"
+	},
+	{
+		"code": "74.01.20.2004",
+		"type": "desa",
+		"name": "TAMBOLI"
+	},
+	{
+		"code": "74.01.20.2005",
+		"type": "desa",
+		"name": "LAMBOLEMO"
+	},
+	{
+		"code": "74.01.20.2006",
+		"type": "desa",
+		"name": "AMAMUTU"
+	},
+	{
+		"code": "74.01.20.2007",
+		"type": "desa",
+		"name": "LAWULO"
+	},
+	{
+		"code": "74.01.20.2008",
+		"type": "desa",
+		"name": "AWA"
+	},
+	{
+		"code": "74.01.20.2009",
+		"type": "desa",
+		"name": "LATUO"
+	},
+	{
+		"code": "74.01.20.2010",
+		"type": "desa",
+		"name": "WAWO TAMBALI"
+	},
+	{
+		"code": "74.01.20.2011",
+		"type": "desa",
+		"name": "MALAHA"
+	},
+	{
+		"code": "74.01.20.2012",
+		"type": "desa",
+		"name": "SANI-SANI"
+	},
+	{
+		"code": "74.01.20.2014",
+		"type": "desa",
+		"name": "ULU KONAWEHA"
+	},
+	{
+		"code": "74.01.20.2015",
+		"type": "desa",
+		"name": "PUU TAMBOLI"
+	},
+	{
+		"code": "74.01.20.2016",
+		"type": "desa",
+		"name": "ULAWENG"
+	},
+	{
+		"code": "74.01.20.2017",
+		"type": "desa",
+		"name": "PUU LAWULO"
+	},
+	{
+		"code": "74.01.20.2018",
+		"type": "desa",
+		"name": "LIKU"
+	},
+	{
+		"code": "74.01.20.2019",
+		"type": "desa",
+		"name": "MEURA"
+	},
+	{
+		"code": "74.01.24",
+		"type": "kecamatan",
+		"name": "TOARI"
+	},
+	{
+		"code": "74.01.24.1003",
+		"type": "kelurahan",
+		"name": "RANOMENTAA"
+	},
+	{
+		"code": "74.01.24.2001",
+		"type": "desa",
+		"name": "TOARI"
+	},
+	{
+		"code": "74.01.24.2002",
+		"type": "desa",
+		"name": "LAKITO"
+	},
+	{
+		"code": "74.01.24.2004",
+		"type": "desa",
+		"name": "ANAWUA"
+	},
+	{
+		"code": "74.01.24.2005",
+		"type": "desa",
+		"name": "WOWOLI"
+	},
+	{
+		"code": "74.01.24.2006",
+		"type": "desa",
+		"name": "RANO JAYA"
+	},
+	{
+		"code": "74.01.24.2007",
+		"type": "desa",
+		"name": "RAHABITE"
+	},
+	{
+		"code": "74.01.24.2008",
+		"type": "desa",
+		"name": "WONUA RAYA"
+	},
+	{
+		"code": "74.01.24.2009",
+		"type": "desa",
+		"name": "RANO SANGIA"
+	},
+	{
+		"code": "74.01.24.2010",
+		"type": "desa",
+		"name": "HORONGKULI"
+	},
+	{
+		"code": "74.01.25",
+		"type": "kecamatan",
+		"name": "POLINGGONA"
+	},
+	{
+		"code": "74.01.25.1001",
+		"type": "kelurahan",
+		"name": "POLINGGONA"
+	},
+	{
+		"code": "74.01.25.2002",
+		"type": "desa",
+		"name": "PUUDONGI"
+	},
+	{
+		"code": "74.01.25.2003",
+		"type": "desa",
+		"name": "PLASMA JAYA"
+	},
+	{
+		"code": "74.01.25.2004",
+		"type": "desa",
+		"name": "TANGGEAU"
+	},
+	{
+		"code": "74.01.25.2005",
+		"type": "desa",
+		"name": "WULONGGERE"
+	},
+	{
+		"code": "74.01.25.2006",
+		"type": "desa",
+		"name": "PONDOUWAEE"
+	},
+	{
+		"code": "74.01.25.2007",
+		"type": "desa",
+		"name": "LAMONDAPE"
+	},
+	{
+		"code": "74.01.27",
+		"type": "kecamatan",
+		"name": "IWOIMENDAA"
+	},
+	{
+		"code": "74.01.27.2001",
+		"type": "desa",
+		"name": "TAMBORASI"
+	},
+	{
+		"code": "74.01.27.2002",
+		"type": "desa",
+		"name": "LADAHAI"
+	},
+	{
+		"code": "74.01.27.2003",
+		"type": "desa",
+		"name": "LASIROKU"
+	},
+	{
+		"code": "74.01.27.2004",
+		"type": "desa",
+		"name": "IWOIMENDAA"
+	},
+	{
+		"code": "74.01.27.2005",
+		"type": "desa",
+		"name": "LAMBOPINI"
+	},
+	{
+		"code": "74.01.27.2006",
+		"type": "desa",
+		"name": "ULU KALO"
+	},
+	{
+		"code": "74.01.27.2007",
+		"type": "desa",
+		"name": "WONUALAKU"
+	},
+	{
+		"code": "74.01.27.2008",
+		"type": "desa",
+		"name": "LAWOLIA"
+	},
+	{
+		"code": "74.01.27.2009",
+		"type": "desa",
+		"name": "WATUMELEWE"
+	},
+	{
+		"code": "74.01.27.2010",
+		"type": "desa",
+		"name": "LANDOULA"
+	},
+	{
+		"code": "74.02",
+		"type": "kabupaten",
+		"name": "KAB. KONAWE"
+	},
+	{
+		"code": "74.02.01",
+		"type": "kecamatan",
+		"name": "LAMBUYA"
+	},
+	{
+		"code": "74.02.01.1001",
+		"type": "kelurahan",
+		"name": "LAMBUYA"
+	},
+	{
+		"code": "74.02.01.2006",
+		"type": "desa",
+		"name": "AWULITI"
+	},
+	{
+		"code": "74.02.01.2007",
+		"type": "desa",
+		"name": "ASAKI"
+	},
+	{
+		"code": "74.02.01.2011",
+		"type": "desa",
+		"name": "AMBERI"
+	},
+	{
+		"code": "74.02.01.2012",
+		"type": "desa",
+		"name": "WAWORAHA"
+	},
+	{
+		"code": "74.02.01.2015",
+		"type": "desa",
+		"name": "TANGGOBU"
+	},
+	{
+		"code": "74.02.01.2016",
+		"type": "desa",
+		"name": "ULU MERAKA"
+	},
+	{
+		"code": "74.02.01.2027",
+		"type": "desa",
+		"name": "MERAKA"
+	},
+	{
+		"code": "74.02.01.2035",
+		"type": "desa",
+		"name": "WANUA HOA"
+	},
+	{
+		"code": "74.02.01.2036",
+		"type": "desa",
+		"name": "WATAREMA"
+	},
+	{
+		"code": "74.02.01.2037",
+		"type": "desa",
+		"name": "TETEMBOMUA"
+	},
+	{
+		"code": "74.02.02",
+		"type": "kecamatan",
+		"name": "UNAAHA"
+	},
+	{
+		"code": "74.02.02.1001",
+		"type": "kelurahan",
+		"name": "PUUNAAHA"
+	},
+	{
+		"code": "74.02.02.1002",
+		"type": "kelurahan",
+		"name": "TUMPAS"
+	},
+	{
+		"code": "74.02.02.1003",
+		"type": "kelurahan",
+		"name": "LATOMA"
+	},
+	{
+		"code": "74.02.02.1004",
+		"type": "kelurahan",
+		"name": "AMBEKAIRI"
+	},
+	{
+		"code": "74.02.02.1005",
+		"type": "kelurahan",
+		"name": "AROMBU"
+	},
+	{
+		"code": "74.02.02.1006",
+		"type": "kelurahan",
+		"name": "ASINUA"
+	},
+	{
+		"code": "74.02.02.1011",
+		"type": "kelurahan",
+		"name": "WAWONGGOLE"
+	},
+	{
+		"code": "74.02.02.1012",
+		"type": "kelurahan",
+		"name": "TUOY"
+	},
+	{
+		"code": "74.02.02.1013",
+		"type": "kelurahan",
+		"name": "UNAAHA"
+	},
+	{
+		"code": "74.02.02.1015",
+		"type": "kelurahan",
+		"name": "INOLOBUNGGADUE"
+	},
+	{
+		"code": "74.02.02.1016",
+		"type": "kelurahan",
+		"name": "ASAMBU"
+	},
+	{
+		"code": "74.02.02.1017",
+		"type": "kelurahan",
+		"name": "TOBEU"
+	},
+	{
+		"code": "74.02.03",
+		"type": "kecamatan",
+		"name": "WAWOTOBI"
+	},
+	{
+		"code": "74.02.03.1001",
+		"type": "kelurahan",
+		"name": "WAWOTOBI"
+	},
+	{
+		"code": "74.02.03.1002",
+		"type": "kelurahan",
+		"name": "INALAHI"
+	},
+	{
+		"code": "74.02.03.1006",
+		"type": "kelurahan",
+		"name": "LALOSABILA"
+	},
+	{
+		"code": "74.02.03.1007",
+		"type": "kelurahan",
+		"name": "HOPA-HOPA"
+	},
+	{
+		"code": "74.02.03.1008",
+		"type": "kelurahan",
+		"name": "KULAHI"
+	},
+	{
+		"code": "74.02.03.1009",
+		"type": "kelurahan",
+		"name": "RANOEYA"
+	},
+	{
+		"code": "74.02.03.1010",
+		"type": "kelurahan",
+		"name": "PALARAHI"
+	},
+	{
+		"code": "74.02.03.1011",
+		"type": "kelurahan",
+		"name": "KASUPUTE"
+	},
+	{
+		"code": "74.02.03.1019",
+		"type": "kelurahan",
+		"name": "NOHU - NOHU"
+	},
+	{
+		"code": "74.02.03.1020",
+		"type": "kelurahan",
+		"name": "INOLOBU"
+	},
+	{
+		"code": "74.02.03.1027",
+		"type": "kelurahan",
+		"name": "BOSE-BOSE"
+	},
+	{
+		"code": "74.02.03.1028",
+		"type": "kelurahan",
+		"name": "PUUSINAUWI"
+	},
+	{
+		"code": "74.02.03.2013",
+		"type": "desa",
+		"name": "NARIO INDAH"
+	},
+	{
+		"code": "74.02.03.2017",
+		"type": "desa",
+		"name": "ANGGOTOA"
+	},
+	{
+		"code": "74.02.03.2018",
+		"type": "desa",
+		"name": "ANALAHUMBUTI"
+	},
+	{
+		"code": "74.02.03.2025",
+		"type": "desa",
+		"name": "KARANDU"
+	},
+	{
+		"code": "74.02.03.2026",
+		"type": "desa",
+		"name": "KORUMBA"
+	},
+	{
+		"code": "74.02.04",
+		"type": "kecamatan",
+		"name": "PONDIDAHA"
+	},
+	{
+		"code": "74.02.04.1001",
+		"type": "kelurahan",
+		"name": "PONDIDAHA"
+	},
+	{
+		"code": "74.02.04.2013",
+		"type": "desa",
+		"name": "HONGOA"
+	},
+	{
+		"code": "74.02.04.2016",
+		"type": "desa",
+		"name": "MUMUNDOWU"
+	},
+	{
+		"code": "74.02.04.2019",
+		"type": "desa",
+		"name": "AHUAWATU"
+	},
+	{
+		"code": "74.02.04.2025",
+		"type": "desa",
+		"name": "TIRAWUTA"
+	},
+	{
+		"code": "74.02.04.2030",
+		"type": "desa",
+		"name": "AMBULANU"
+	},
+	{
+		"code": "74.02.04.2031",
+		"type": "desa",
+		"name": "BELATU"
+	},
+	{
+		"code": "74.02.04.2034",
+		"type": "desa",
+		"name": "AMESIU"
+	},
+	{
+		"code": "74.02.04.2035",
+		"type": "desa",
+		"name": "PUUMBINISI"
+	},
+	{
+		"code": "74.02.04.2039",
+		"type": "desa",
+		"name": "WAWOLEMO"
+	},
+	{
+		"code": "74.02.04.2051",
+		"type": "desa",
+		"name": "WONUA MONAPA"
+	},
+	{
+		"code": "74.02.04.2052",
+		"type": "desa",
+		"name": "LAHONGGUMBI"
+	},
+	{
+		"code": "74.02.05",
+		"type": "kecamatan",
+		"name": "SAMPARA"
+	},
+	{
+		"code": "74.02.05.1001",
+		"type": "kelurahan",
+		"name": "SAMPARA"
+	},
+	{
+		"code": "74.02.05.1007",
+		"type": "kelurahan",
+		"name": "RAWUA"
+	},
+	{
+		"code": "74.02.05.2006",
+		"type": "desa",
+		"name": "ANDEPALI"
+	},
+	{
+		"code": "74.02.05.2008",
+		"type": "desa",
+		"name": "ANDAROA"
+	},
+	{
+		"code": "74.02.05.2009",
+		"type": "desa",
+		"name": "PUULORO"
+	},
+	{
+		"code": "74.02.05.2010",
+		"type": "desa",
+		"name": "ANGGALOMOARE"
+	},
+	{
+		"code": "74.02.05.2011",
+		"type": "desa",
+		"name": "ABELISAWAH"
+	},
+	{
+		"code": "74.02.05.2012",
+		"type": "desa",
+		"name": "ANDADOWI"
+	},
+	{
+		"code": "74.02.05.2016",
+		"type": "desa",
+		"name": "TABANGGELE"
+	},
+	{
+		"code": "74.02.05.2027",
+		"type": "desa",
+		"name": "TOTOMBE JAYA"
+	},
+	{
+		"code": "74.02.05.2028",
+		"type": "desa",
+		"name": "BOA BOA"
+	},
+	{
+		"code": "74.02.05.2029",
+		"type": "desa",
+		"name": "LAKOMEA"
+	},
+	{
+		"code": "74.02.05.2030",
+		"type": "desa",
+		"name": "WAWOLIMBUE"
+	},
+	{
+		"code": "74.02.05.2036",
+		"type": "desa",
+		"name": "BAENI"
+	},
+	{
+		"code": "74.02.05.2038",
+		"type": "desa",
+		"name": "POLUA"
+	},
+	{
+		"code": "74.02.05.2039",
+		"type": "desa",
+		"name": "GALU"
+	},
+	{
+		"code": "74.02.05.2041",
+		"type": "desa",
+		"name": "POHARA"
+	},
+	{
+		"code": "74.02.05.2042",
+		"type": "desa",
+		"name": "PUUSANGI"
+	},
+	{
+		"code": "74.02.05.2048",
+		"type": "desa",
+		"name": "BONDOALA"
+	},
+	{
+		"code": "74.02.05.2050",
+		"type": "desa",
+		"name": "LASOSO"
+	},
+	{
+		"code": "74.02.05.2052",
+		"type": "desa",
+		"name": "KONGGA MEA"
+	},
+	{
+		"code": "74.02.10",
+		"type": "kecamatan",
+		"name": "ABUKI"
+	},
+	{
+		"code": "74.02.10.1001",
+		"type": "kelurahan",
+		"name": "ABUKI"
+	},
+	{
+		"code": "74.02.10.2007",
+		"type": "desa",
+		"name": "SAMBEANI"
+	},
+	{
+		"code": "74.02.10.2008",
+		"type": "desa",
+		"name": "ASOLU"
+	},
+	{
+		"code": "74.02.10.2009",
+		"type": "desa",
+		"name": "PUNGGALUKU"
+	},
+	{
+		"code": "74.02.10.2012",
+		"type": "desa",
+		"name": "WALAY"
+	},
+	{
+		"code": "74.02.10.2015",
+		"type": "desa",
+		"name": "EPEEYA"
+	},
+	{
+		"code": "74.02.10.2016",
+		"type": "desa",
+		"name": "PADANGGUNI"
+	},
+	{
+		"code": "74.02.10.2017",
+		"type": "desa",
+		"name": "ALOSIKA"
+	},
+	{
+		"code": "74.02.10.2018",
+		"type": "desa",
+		"name": "LANGGEA"
+	},
+	{
+		"code": "74.02.10.2023",
+		"type": "desa",
+		"name": "SAMBAOSU"
+	},
+	{
+		"code": "74.02.10.2024",
+		"type": "desa",
+		"name": "KUMAPO"
+	},
+	{
+		"code": "74.02.10.2029",
+		"type": "desa",
+		"name": "ATODOPOI"
+	},
+	{
+		"code": "74.02.10.2030",
+		"type": "desa",
+		"name": "ALEUTI"
+	},
+	{
+		"code": "74.02.10.2031",
+		"type": "desa",
+		"name": "MATANGGORAI"
+	},
+	{
+		"code": "74.02.10.2034",
+		"type": "desa",
+		"name": "PADANG MEKAR"
+	},
+	{
+		"code": "74.02.10.2037",
+		"type": "desa",
+		"name": "GARUDA"
+	},
+	{
+		"code": "74.02.10.2038",
+		"type": "desa",
+		"name": "KASUWURA INDAH"
+	},
+	{
+		"code": "74.02.10.2039",
+		"type": "desa",
+		"name": "ARUBIA"
+	},
+	{
+		"code": "74.02.10.2040",
+		"type": "desa",
+		"name": "PADANGGUNI UTAMA"
+	},
+	{
+		"code": "74.02.10.2041",
+		"type": "desa",
+		"name": "MEKARJAYA"
+	},
+	{
+		"code": "74.02.11",
+		"type": "kecamatan",
+		"name": "SOROPIA"
+	},
+	{
+		"code": "74.02.11.1001",
+		"type": "kelurahan",
+		"name": "TORONIPA"
+	},
+	{
+		"code": "74.02.11.2002",
+		"type": "desa",
+		"name": "ATOWATU"
+	},
+	{
+		"code": "74.02.11.2004",
+		"type": "desa",
+		"name": "WAWORAHA"
+	},
+	{
+		"code": "74.02.11.2006",
+		"type": "desa",
+		"name": "SORUE JAYA"
+	},
+	{
+		"code": "74.02.11.2010",
+		"type": "desa",
+		"name": "SOROPIA"
+	},
+	{
+		"code": "74.02.11.2011",
+		"type": "desa",
+		"name": "TAPULAGA"
+	},
+	{
+		"code": "74.02.11.2012",
+		"type": "desa",
+		"name": "SAWAPUDO"
+	},
+	{
+		"code": "74.02.11.2014",
+		"type": "desa",
+		"name": "BOKORI"
+	},
+	{
+		"code": "74.02.11.2015",
+		"type": "desa",
+		"name": "SAPONDA"
+	},
+	{
+		"code": "74.02.11.2016",
+		"type": "desa",
+		"name": "MEKAR"
+	},
+	{
+		"code": "74.02.11.2017",
+		"type": "desa",
+		"name": "BAJO INDAH"
+	},
+	{
+		"code": "74.02.11.2022",
+		"type": "desa",
+		"name": "TELAGA BIRU"
+	},
+	{
+		"code": "74.02.11.2023",
+		"type": "desa",
+		"name": "LEPPE"
+	},
+	{
+		"code": "74.02.11.2024",
+		"type": "desa",
+		"name": "BAJOE"
+	},
+	{
+		"code": "74.02.11.2025",
+		"type": "desa",
+		"name": "SAPONDA LAUT"
+	},
+	{
+		"code": "74.02.15",
+		"type": "kecamatan",
+		"name": "TONGAUNA"
+	},
+	{
+		"code": "74.02.15.1001",
+		"type": "kelurahan",
+		"name": "TONGAUNA"
+	},
+	{
+		"code": "74.02.15.1002",
+		"type": "kelurahan",
+		"name": "MATA IWOI"
+	},
+	{
+		"code": "74.02.15.1003",
+		"type": "kelurahan",
+		"name": "PUOSU"
+	},
+	{
+		"code": "74.02.15.1004",
+		"type": "kelurahan",
+		"name": "SENDANG MULYA SARI"
+	},
+	{
+		"code": "74.02.15.1005",
+		"type": "kelurahan",
+		"name": "MEKAR SARI"
+	},
+	{
+		"code": "74.02.15.2006",
+		"type": "desa",
+		"name": "LALONGGOWUNA"
+	},
+	{
+		"code": "74.02.15.2007",
+		"type": "desa",
+		"name": "ASAO"
+	},
+	{
+		"code": "74.02.15.2008",
+		"type": "desa",
+		"name": "WAWORODA JAYA"
+	},
+	{
+		"code": "74.02.15.2009",
+		"type": "desa",
+		"name": "SANUANGGAMO"
+	},
+	{
+		"code": "74.02.15.2010",
+		"type": "desa",
+		"name": "PUUNDOPI"
+	},
+	{
+		"code": "74.02.15.2011",
+		"type": "desa",
+		"name": "AMBOPI"
+	},
+	{
+		"code": "74.02.15.2012",
+		"type": "desa",
+		"name": "ANDEPOSUNDE"
+	},
+	{
+		"code": "74.02.15.2013",
+		"type": "desa",
+		"name": "MOMEA"
+	},
+	{
+		"code": "74.02.15.2014",
+		"type": "desa",
+		"name": "ANGGOHU"
+	},
+	{
+		"code": "74.02.15.2015",
+		"type": "desa",
+		"name": "OLUA AO"
+	},
+	{
+		"code": "74.02.15.2019",
+		"type": "desa",
+		"name": "BAROWILA"
+	},
+	{
+		"code": "74.02.15.2020",
+		"type": "desa",
+		"name": "ANDALAMBE"
+	},
+	{
+		"code": "74.02.16",
+		"type": "kecamatan",
+		"name": "LATOMA"
+	},
+	{
+		"code": "74.02.16.1003",
+		"type": "kelurahan",
+		"name": "WAWORAHA"
+	},
+	{
+		"code": "74.02.16.2001",
+		"type": "desa",
+		"name": "LATOMA JAYA"
+	},
+	{
+		"code": "74.02.16.2002",
+		"type": "desa",
+		"name": "AMBEKAERI UTAMA"
+	},
+	{
+		"code": "74.02.16.2004",
+		"type": "desa",
+		"name": "AMBONIKI"
+	},
+	{
+		"code": "74.02.16.2005",
+		"type": "desa",
+		"name": "PINOLE"
+	},
+	{
+		"code": "74.02.16.2006",
+		"type": "desa",
+		"name": "NESOWI"
+	},
+	{
+		"code": "74.02.16.2007",
+		"type": "desa",
+		"name": "WAWOLATOMA"
+	},
+	{
+		"code": "74.02.16.2008",
+		"type": "desa",
+		"name": "ANDOLUTO"
+	},
+	{
+		"code": "74.02.16.2009",
+		"type": "desa",
+		"name": "LALOWATA"
+	},
+	{
+		"code": "74.02.16.2010",
+		"type": "desa",
+		"name": "TITIOA"
+	},
+	{
+		"code": "74.02.17",
+		"type": "kecamatan",
+		"name": "PURIALA"
+	},
+	{
+		"code": "74.02.17.1002",
+		"type": "kelurahan",
+		"name": "WATUNDEHOA"
+	},
+	{
+		"code": "74.02.17.2001",
+		"type": "desa",
+		"name": "PURIALA"
+	},
+	{
+		"code": "74.02.17.2003",
+		"type": "desa",
+		"name": "SONAI"
+	},
+	{
+		"code": "74.02.17.2004",
+		"type": "desa",
+		"name": "LALONGGATU"
+	},
+	{
+		"code": "74.02.17.2005",
+		"type": "desa",
+		"name": "PUANAHA"
+	},
+	{
+		"code": "74.02.17.2006",
+		"type": "desa",
+		"name": "WONUA MOROME"
+	},
+	{
+		"code": "74.02.17.2007",
+		"type": "desa",
+		"name": "AHUAWALI"
+	},
+	{
+		"code": "74.02.17.2008",
+		"type": "desa",
+		"name": "WATUSA"
+	},
+	{
+		"code": "74.02.17.2009",
+		"type": "desa",
+		"name": "PUUSANGI"
+	},
+	{
+		"code": "74.02.17.2010",
+		"type": "desa",
+		"name": "MOKALELEO"
+	},
+	{
+		"code": "74.02.17.2011",
+		"type": "desa",
+		"name": "UNGGULINO"
+	},
+	{
+		"code": "74.02.17.2012",
+		"type": "desa",
+		"name": "TETEWATU"
+	},
+	{
+		"code": "74.02.17.2013",
+		"type": "desa",
+		"name": "TETEHAKA"
+	},
+	{
+		"code": "74.02.17.2014",
+		"type": "desa",
+		"name": "PUUHOPA"
+	},
+	{
+		"code": "74.02.17.2015",
+		"type": "desa",
+		"name": "LALOONAHA"
+	},
+	{
+		"code": "74.02.17.2016",
+		"type": "desa",
+		"name": "WAWOSANGGULA"
+	},
+	{
+		"code": "74.02.18",
+		"type": "kecamatan",
+		"name": "UEPAI"
+	},
+	{
+		"code": "74.02.18.2001",
+		"type": "desa",
+		"name": "UEPAI"
+	},
+	{
+		"code": "74.02.18.2002",
+		"type": "desa",
+		"name": "AMERORO"
+	},
+	{
+		"code": "74.02.18.2003",
+		"type": "desa",
+		"name": "TAWAROTEBOTA"
+	},
+	{
+		"code": "74.02.18.2004",
+		"type": "desa",
+		"name": "ALO-OLOHO"
+	},
+	{
+		"code": "74.02.18.2005",
+		"type": "desa",
+		"name": "MATAHOALU"
+	},
+	{
+		"code": "74.02.18.2006",
+		"type": "desa",
+		"name": "LANGGOMEA"
+	},
+	{
+		"code": "74.02.18.2007",
+		"type": "desa",
+		"name": "RAWUA"
+	},
+	{
+		"code": "74.02.18.2008",
+		"type": "desa",
+		"name": "BARUGA"
+	},
+	{
+		"code": "74.02.18.2009",
+		"type": "desa",
+		"name": "AMAROA"
+	},
+	{
+		"code": "74.02.18.2010",
+		"type": "desa",
+		"name": "TAWAMELEWE"
+	},
+	{
+		"code": "74.02.18.2011",
+		"type": "desa",
+		"name": "ANGGOPIU"
+	},
+	{
+		"code": "74.02.19",
+		"type": "kecamatan",
+		"name": "WONGGEDUKU"
+	},
+	{
+		"code": "74.02.19.1009",
+		"type": "kelurahan",
+		"name": "PUUDURIA"
+	},
+	{
+		"code": "74.02.19.2001",
+		"type": "desa",
+		"name": "PUDAY"
+	},
+	{
+		"code": "74.02.19.2002",
+		"type": "desa",
+		"name": "TETEONA"
+	},
+	{
+		"code": "74.02.19.2003",
+		"type": "desa",
+		"name": "LANONGGASAI"
+	},
+	{
+		"code": "74.02.19.2004",
+		"type": "desa",
+		"name": "DURIAASI"
+	},
+	{
+		"code": "74.02.19.2005",
+		"type": "desa",
+		"name": "LAMBANGI"
+	},
+	{
+		"code": "74.02.19.2006",
+		"type": "desa",
+		"name": "LALOUSU"
+	},
+	{
+		"code": "74.02.19.2007",
+		"type": "desa",
+		"name": "LAMOKUNI"
+	},
+	{
+		"code": "74.02.19.2008",
+		"type": "desa",
+		"name": "WAWOONE"
+	},
+	{
+		"code": "74.02.19.2010",
+		"type": "desa",
+		"name": "WAWOSOLO"
+	},
+	{
+		"code": "74.02.19.2011",
+		"type": "desa",
+		"name": "KASUMOKUNI"
+	},
+	{
+		"code": "74.02.19.2012",
+		"type": "desa",
+		"name": "WAWONGGOLE"
+	},
+	{
+		"code": "74.02.19.2013",
+		"type": "desa",
+		"name": "MASOOSE"
+	},
+	{
+		"code": "74.02.19.2014",
+		"type": "desa",
+		"name": "WONGGEDUKU"
+	},
+	{
+		"code": "74.02.19.2015",
+		"type": "desa",
+		"name": "TETEMOTAHA"
+	},
+	{
+		"code": "74.02.19.2016",
+		"type": "desa",
+		"name": "DAWI-DAWI"
+	},
+	{
+		"code": "74.02.19.2017",
+		"type": "desa",
+		"name": "BENDEWUTA"
+	},
+	{
+		"code": "74.02.19.2018",
+		"type": "desa",
+		"name": "LANGGONAWE"
+	},
+	{
+		"code": "74.02.19.2019",
+		"type": "desa",
+		"name": "LALOHAO"
+	},
+	{
+		"code": "74.02.19.2020",
+		"type": "desa",
+		"name": "TOMULIPU / WAKUSAO"
+	},
+	{
+		"code": "74.02.19.2021",
+		"type": "desa",
+		"name": "LAHUTUTU"
+	},
+	{
+		"code": "74.02.19.2022",
+		"type": "desa",
+		"name": "BARUGA"
+	},
+	{
+		"code": "74.02.19.2026",
+		"type": "desa",
+		"name": "TAWAROLONDO"
+	},
+	{
+		"code": "74.02.20",
+		"type": "kecamatan",
+		"name": "BESULUTU"
+	},
+	{
+		"code": "74.02.20.1003",
+		"type": "kelurahan",
+		"name": "BESULUTU"
+	},
+	{
+		"code": "74.02.20.2001",
+		"type": "desa",
+		"name": "LAWONUA"
+	},
+	{
+		"code": "74.02.20.2002",
+		"type": "desa",
+		"name": "AMOSILU"
+	},
+	{
+		"code": "74.02.20.2004",
+		"type": "desa",
+		"name": "LALOUMERA"
+	},
+	{
+		"code": "74.02.20.2005",
+		"type": "desa",
+		"name": "ASUNDE"
+	},
+	{
+		"code": "74.02.20.2006",
+		"type": "desa",
+		"name": "ULUPOHARA"
+	},
+	{
+		"code": "74.02.20.2007",
+		"type": "desa",
+		"name": "LABELA"
+	},
+	{
+		"code": "74.02.20.2008",
+		"type": "desa",
+		"name": "RANOMOLUA"
+	},
+	{
+		"code": "74.02.20.2009",
+		"type": "desa",
+		"name": "SILEA"
+	},
+	{
+		"code": "74.02.20.2010",
+		"type": "desa",
+		"name": "ONEMBUTE"
+	},
+	{
+		"code": "74.02.20.2011",
+		"type": "desa",
+		"name": "ANDOMESINGGO"
+	},
+	{
+		"code": "74.02.20.2013",
+		"type": "desa",
+		"name": "PUUNDOHO"
+	},
+	{
+		"code": "74.02.20.2014",
+		"type": "desa",
+		"name": "PUNGGALUKU"
+	},
+	{
+		"code": "74.02.21",
+		"type": "kecamatan",
+		"name": "BONDOALA"
+	},
+	{
+		"code": "74.02.21.1003",
+		"type": "kelurahan",
+		"name": "LAOSU"
+	},
+	{
+		"code": "74.02.21.2001",
+		"type": "desa",
+		"name": "PAKU JAYA"
+	},
+	{
+		"code": "74.02.21.2002",
+		"type": "desa",
+		"name": "PEBUNOOHA"
+	},
+	{
+		"code": "74.02.21.2004",
+		"type": "desa",
+		"name": "LALONGGALUKU"
+	},
+	{
+		"code": "74.02.21.2008",
+		"type": "desa",
+		"name": "MENDIKUNO"
+	},
+	{
+		"code": "74.02.21.2009",
+		"type": "desa",
+		"name": "DIOLO"
+	},
+	{
+		"code": "74.02.21.2013",
+		"type": "desa",
+		"name": "MOROSI"
+	},
+	{
+		"code": "74.02.21.2014",
+		"type": "desa",
+		"name": "PUURUI"
+	},
+	{
+		"code": "74.02.21.2015",
+		"type": "desa",
+		"name": "TONDOWATU"
+	},
+	{
+		"code": "74.02.21.2016",
+		"type": "desa",
+		"name": "WONUAMORINI"
+	},
+	{
+		"code": "74.02.21.2018",
+		"type": "desa",
+		"name": "PEBUNOOHA DALAM"
+	},
+	{
+		"code": "74.02.21.2021",
+		"type": "desa",
+		"name": "TANGGOBU"
+	},
+	{
+		"code": "74.02.21.2023",
+		"type": "desa",
+		"name": "RUMBIA"
+	},
+	{
+		"code": "74.02.21.2026",
+		"type": "desa",
+		"name": "BESU"
+	},
+	{
+		"code": "74.02.21.2027",
+		"type": "desa",
+		"name": "PAKU"
+	},
+	{
+		"code": "74.02.21.2028",
+		"type": "desa",
+		"name": "RAMBU KONGGA"
+	},
+	{
+		"code": "74.02.21.2029",
+		"type": "desa",
+		"name": "LAOSU JAYA"
+	},
+	{
+		"code": "74.02.21.2030",
+		"type": "desa",
+		"name": "PORARA"
+	},
+	{
+		"code": "74.02.23",
+		"type": "kecamatan",
+		"name": "ROUTA"
+	},
+	{
+		"code": "74.02.23.1001",
+		"type": "kelurahan",
+		"name": "RUOTA"
+	},
+	{
+		"code": "74.02.23.2002",
+		"type": "desa",
+		"name": "TIRA WONUA"
+	},
+	{
+		"code": "74.02.23.2003",
+		"type": "desa",
+		"name": "PARUDONGKA"
+	},
+	{
+		"code": "74.02.23.2004",
+		"type": "desa",
+		"name": "WALANDAWE"
+	},
+	{
+		"code": "74.02.24",
+		"type": "kecamatan",
+		"name": "ANGGABERI"
+	},
+	{
+		"code": "74.02.24.1001",
+		"type": "kelurahan",
+		"name": "PARAUNA"
+	},
+	{
+		"code": "74.02.24.1002",
+		"type": "kelurahan",
+		"name": "ANGGABERI"
+	},
+	{
+		"code": "74.02.24.1003",
+		"type": "kelurahan",
+		"name": "LAWULO"
+	},
+	{
+		"code": "74.02.24.1004",
+		"type": "kelurahan",
+		"name": "ANDABIA"
+	},
+	{
+		"code": "74.02.24.1005",
+		"type": "kelurahan",
+		"name": "UNAASI"
+	},
+	{
+		"code": "74.02.24.1006",
+		"type": "kelurahan",
+		"name": "TORIKI"
+	},
+	{
+		"code": "74.02.25",
+		"type": "kecamatan",
+		"name": "MELUHU"
+	},
+	{
+		"code": "74.02.25.1003",
+		"type": "kelurahan",
+		"name": "MELUHU"
+	},
+	{
+		"code": "74.02.25.2001",
+		"type": "desa",
+		"name": "WEORAHI"
+	},
+	{
+		"code": "74.02.25.2002",
+		"type": "desa",
+		"name": "LAMELAI"
+	},
+	{
+		"code": "74.02.25.2004",
+		"type": "desa",
+		"name": "AHUHU"
+	},
+	{
+		"code": "74.02.25.2005",
+		"type": "desa",
+		"name": "TUDAMEASO"
+	},
+	{
+		"code": "74.02.25.2006",
+		"type": "desa",
+		"name": "LAROWIU"
+	},
+	{
+		"code": "74.02.28",
+		"type": "kecamatan",
+		"name": "AMONGGEDO"
+	},
+	{
+		"code": "74.02.28.1013",
+		"type": "kelurahan",
+		"name": "AMUNGGEDO BARU"
+	},
+	{
+		"code": "74.02.28.2001",
+		"type": "desa",
+		"name": "ANAHINUNU"
+	},
+	{
+		"code": "74.02.28.2002",
+		"type": "desa",
+		"name": "ULU BENUA"
+	},
+	{
+		"code": "74.02.28.2003",
+		"type": "desa",
+		"name": "PUASANA"
+	},
+	{
+		"code": "74.02.28.2004",
+		"type": "desa",
+		"name": "WATULAWU"
+	},
+	{
+		"code": "74.02.28.2005",
+		"type": "desa",
+		"name": "LALONONA"
+	},
+	{
+		"code": "74.02.28.2006",
+		"type": "desa",
+		"name": "AMONGGEDO"
+	},
+	{
+		"code": "74.02.28.2007",
+		"type": "desa",
+		"name": "DUNGGUA"
+	},
+	{
+		"code": "74.02.28.2008",
+		"type": "desa",
+		"name": "BENUA"
+	},
+	{
+		"code": "74.02.28.2009",
+		"type": "desa",
+		"name": "MATABURA"
+	},
+	{
+		"code": "74.02.28.2010",
+		"type": "desa",
+		"name": "WAWOHINE"
+	},
+	{
+		"code": "74.02.28.2011",
+		"type": "desa",
+		"name": "MENDIKONU"
+	},
+	{
+		"code": "74.02.28.2012",
+		"type": "desa",
+		"name": "WARANDETE"
+	},
+	{
+		"code": "74.02.28.2015",
+		"type": "desa",
+		"name": "LALOMBONDA"
+	},
+	{
+		"code": "74.02.31",
+		"type": "kecamatan",
+		"name": "ASINUA"
+	},
+	{
+		"code": "74.02.31.1004",
+		"type": "kelurahan",
+		"name": "AMBODIAA"
+	},
+	{
+		"code": "74.02.31.2001",
+		"type": "desa",
+		"name": "NEKUDU"
+	},
+	{
+		"code": "74.02.31.2002",
+		"type": "desa",
+		"name": "LASADA"
+	},
+	{
+		"code": "74.02.31.2003",
+		"type": "desa",
+		"name": "ASINUA JAYA"
+	},
+	{
+		"code": "74.02.31.2005",
+		"type": "desa",
+		"name": "ANGOHI"
+	},
+	{
+		"code": "74.02.31.2006",
+		"type": "desa",
+		"name": "AWUA JAYA"
+	},
+	{
+		"code": "74.02.31.2007",
+		"type": "desa",
+		"name": "AWUA SARI"
+	},
+	{
+		"code": "74.02.31.2008",
+		"type": "desa",
+		"name": "ASIPAKO"
+	},
+	{
+		"code": "74.02.32",
+		"type": "kecamatan",
+		"name": "KONAWE"
+	},
+	{
+		"code": "74.02.32.1001",
+		"type": "kelurahan",
+		"name": "BUNGGUOSU"
+	},
+	{
+		"code": "74.02.32.1002",
+		"type": "kelurahan",
+		"name": "TUDAONE"
+	},
+	{
+		"code": "74.02.32.1003",
+		"type": "kelurahan",
+		"name": "KONAWE"
+	},
+	{
+		"code": "74.02.32.1004",
+		"type": "kelurahan",
+		"name": "TAWANGA"
+	},
+	{
+		"code": "74.02.32.2005",
+		"type": "desa",
+		"name": "SANGGONA"
+	},
+	{
+		"code": "74.02.32.2006",
+		"type": "desa",
+		"name": "UELAWU"
+	},
+	{
+		"code": "74.02.32.2007",
+		"type": "desa",
+		"name": "MEKOWU"
+	},
+	{
+		"code": "74.02.32.2008",
+		"type": "desa",
+		"name": "UETE"
+	},
+	{
+		"code": "74.02.32.2009",
+		"type": "desa",
+		"name": "HUDOA"
+	},
+	{
+		"code": "74.02.32.2010",
+		"type": "desa",
+		"name": "WONUA MBAE"
+	},
+	{
+		"code": "74.02.32.2011",
+		"type": "desa",
+		"name": "ASINOWOWO"
+	},
+	{
+		"code": "74.02.33",
+		"type": "kecamatan",
+		"name": "KAPOIALA"
+	},
+	{
+		"code": "74.02.33.1001",
+		"type": "kelurahan",
+		"name": "KAPOIALA"
+	},
+	{
+		"code": "74.02.33.2002",
+		"type": "desa",
+		"name": "LALIMBUE JAYA"
+	},
+	{
+		"code": "74.02.33.2003",
+		"type": "desa",
+		"name": "LABOTOY"
+	},
+	{
+		"code": "74.02.33.2004",
+		"type": "desa",
+		"name": "MUARA SAMPARA"
+	},
+	{
+		"code": "74.02.33.2005",
+		"type": "desa",
+		"name": "SAMBARAASI"
+	},
+	{
+		"code": "74.02.33.2006",
+		"type": "desa",
+		"name": "LAMENDORA"
+	},
+	{
+		"code": "74.02.33.2007",
+		"type": "desa",
+		"name": "TANI INDAH"
+	},
+	{
+		"code": "74.02.33.2008",
+		"type": "desa",
+		"name": "PEREOE"
+	},
+	{
+		"code": "74.02.33.2009",
+		"type": "desa",
+		"name": "ULU LALIMBUE"
+	},
+	{
+		"code": "74.02.33.2010",
+		"type": "desa",
+		"name": "LALIMBUE"
+	},
+	{
+		"code": "74.02.33.2011",
+		"type": "desa",
+		"name": "TOMBAWATU"
+	},
+	{
+		"code": "74.02.33.2012",
+		"type": "desa",
+		"name": "LALONGGOMBUNO"
+	},
+	{
+		"code": "74.02.33.2013",
+		"type": "desa",
+		"name": "KAPOIALA BARU"
+	},
+	{
+		"code": "74.02.36",
+		"type": "kecamatan",
+		"name": "LALONGGASUMEETO"
+	},
+	{
+		"code": "74.02.36.1009",
+		"type": "kelurahan",
+		"name": "WATUNGGARANDU"
+	},
+	{
+		"code": "74.02.36.2001",
+		"type": "desa",
+		"name": "TOLI TOLI"
+	},
+	{
+		"code": "74.02.36.2002",
+		"type": "desa",
+		"name": "NII TANASA"
+	},
+	{
+		"code": "74.02.36.2003",
+		"type": "desa",
+		"name": "RAPAMBINOPAKA"
+	},
+	{
+		"code": "74.02.36.2004",
+		"type": "desa",
+		"name": "LALOMBONDA"
+	},
+	{
+		"code": "74.02.36.2005",
+		"type": "desa",
+		"name": "PUUWONUA"
+	},
+	{
+		"code": "74.02.36.2006",
+		"type": "desa",
+		"name": "BUMI INDAH"
+	},
+	{
+		"code": "74.02.36.2007",
+		"type": "desa",
+		"name": "LOLANGGASUMEETO"
+	},
+	{
+		"code": "74.02.36.2008",
+		"type": "desa",
+		"name": "TOOLAWAWO"
+	},
+	{
+		"code": "74.02.36.2010",
+		"type": "desa",
+		"name": "WAWOBUNGI"
+	},
+	{
+		"code": "74.02.37",
+		"type": "kecamatan",
+		"name": "ONEMBUTE"
+	},
+	{
+		"code": "74.02.37.1001",
+		"type": "kelurahan",
+		"name": "ONEMBUTE"
+	},
+	{
+		"code": "74.02.37.2002",
+		"type": "desa",
+		"name": "TRIMULYA"
+	},
+	{
+		"code": "74.02.37.2003",
+		"type": "desa",
+		"name": "NOPOOSI"
+	},
+	{
+		"code": "74.02.37.2004",
+		"type": "desa",
+		"name": "SILEA"
+	},
+	{
+		"code": "74.02.37.2005",
+		"type": "desa",
+		"name": "ULUMERAKA"
+	},
+	{
+		"code": "74.02.37.2006",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.02.37.2007",
+		"type": "desa",
+		"name": "KUMAPO"
+	},
+	{
+		"code": "74.02.37.2008",
+		"type": "desa",
+		"name": "KASUMEIA"
+	},
+	{
+		"code": "74.02.37.2009",
+		"type": "desa",
+		"name": "ULU ONEMBUTE"
+	},
+	{
+		"code": "74.02.37.2010",
+		"type": "desa",
+		"name": "TAWAPANDERE"
+	},
+	{
+		"code": "74.03",
+		"type": "kabupaten",
+		"name": "KAB. MUNA"
+	},
+	{
+		"code": "74.03.06",
+		"type": "kecamatan",
+		"name": "NAPABALANO"
+	},
+	{
+		"code": "74.03.06.1004",
+		"type": "kelurahan",
+		"name": "NAPABALANO"
+	},
+	{
+		"code": "74.03.06.1005",
+		"type": "kelurahan",
+		"name": "TAMPO"
+	},
+	{
+		"code": "74.03.06.2003",
+		"type": "desa",
+		"name": "NAPALAKURA"
+	},
+	{
+		"code": "74.03.06.2006",
+		"type": "desa",
+		"name": "PENTIRO"
+	},
+	{
+		"code": "74.03.06.2007",
+		"type": "desa",
+		"name": "LANGKUMAPO"
+	},
+	{
+		"code": "74.03.06.2009",
+		"type": "desa",
+		"name": "LAMBIKU"
+	},
+	{
+		"code": "74.03.07",
+		"type": "kecamatan",
+		"name": "MALIGANO"
+	},
+	{
+		"code": "74.03.07.2001",
+		"type": "desa",
+		"name": "LANGKORONI"
+	},
+	{
+		"code": "74.03.07.2002",
+		"type": "desa",
+		"name": "LATOMPA"
+	},
+	{
+		"code": "74.03.07.2003",
+		"type": "desa",
+		"name": "RAIMUNA"
+	},
+	{
+		"code": "74.03.07.2004",
+		"type": "desa",
+		"name": "MALIGANO"
+	},
+	{
+		"code": "74.03.07.2005",
+		"type": "desa",
+		"name": "LAPOLE"
+	},
+	{
+		"code": "74.03.07.2007",
+		"type": "desa",
+		"name": "POHARUA"
+	},
+	{
+		"code": "74.03.13",
+		"type": "kecamatan",
+		"name": "WAKORUMBA SELATAN"
+	},
+	{
+		"code": "74.03.13.1003",
+		"type": "kelurahan",
+		"name": "LABUNIA"
+	},
+	{
+		"code": "74.03.13.2001",
+		"type": "desa",
+		"name": "WAMBONA"
+	},
+	{
+		"code": "74.03.13.2004",
+		"type": "desa",
+		"name": "BAKEALU"
+	},
+	{
+		"code": "74.03.13.2005",
+		"type": "desa",
+		"name": "PURE"
+	},
+	{
+		"code": "74.03.13.2006",
+		"type": "desa",
+		"name": "WAKORUMBA"
+	},
+	{
+		"code": "74.03.14",
+		"type": "kecamatan",
+		"name": "LASALEPA"
+	},
+	{
+		"code": "74.03.14.2001",
+		"type": "desa",
+		"name": "BANGUN SARI"
+	},
+	{
+		"code": "74.03.14.2002",
+		"type": "desa",
+		"name": "LABONE"
+	},
+	{
+		"code": "74.03.14.2003",
+		"type": "desa",
+		"name": "BONEA"
+	},
+	{
+		"code": "74.03.14.2004",
+		"type": "desa",
+		"name": "KOMBUNGO"
+	},
+	{
+		"code": "74.03.14.2005",
+		"type": "desa",
+		"name": "LABUNTI"
+	},
+	{
+		"code": "74.03.14.2006",
+		"type": "desa",
+		"name": "PARIDA"
+	},
+	{
+		"code": "74.03.14.2007",
+		"type": "desa",
+		"name": "LASALEPA"
+	},
+	{
+		"code": "74.03.15",
+		"type": "kecamatan",
+		"name": "BATALAIWARU"
+	},
+	{
+		"code": "74.03.15.1003",
+		"type": "kelurahan",
+		"name": "SIDODADI"
+	},
+	{
+		"code": "74.03.15.1004",
+		"type": "kelurahan",
+		"name": "LAIWORU"
+	},
+	{
+		"code": "74.03.15.2001",
+		"type": "desa",
+		"name": "WAWESA"
+	},
+	{
+		"code": "74.03.15.2002",
+		"type": "desa",
+		"name": "WAKORAMBU"
+	},
+	{
+		"code": "74.03.16",
+		"type": "kecamatan",
+		"name": "KATOBU"
+	},
+	{
+		"code": "74.03.16.1001",
+		"type": "kelurahan",
+		"name": "WATONEA"
+	},
+	{
+		"code": "74.03.16.1002",
+		"type": "kelurahan",
+		"name": "RAHA III"
+	},
+	{
+		"code": "74.03.16.1003",
+		"type": "kelurahan",
+		"name": "WAMPONIKI"
+	},
+	{
+		"code": "74.03.16.1004",
+		"type": "kelurahan",
+		"name": "BUTUNG BUTUNG"
+	},
+	{
+		"code": "74.03.16.1005",
+		"type": "kelurahan",
+		"name": "RAHA II"
+	},
+	{
+		"code": "74.03.16.1006",
+		"type": "kelurahan",
+		"name": "MANGGA KUNING"
+	},
+	{
+		"code": "74.03.16.1007",
+		"type": "kelurahan",
+		"name": "LAENDE"
+	},
+	{
+		"code": "74.03.16.1008",
+		"type": "kelurahan",
+		"name": "RAHA I"
+	},
+	{
+		"code": "74.03.17",
+		"type": "kecamatan",
+		"name": "DURUKA"
+	},
+	{
+		"code": "74.03.17.1002",
+		"type": "kelurahan",
+		"name": "PALANGGA"
+	},
+	{
+		"code": "74.03.17.1005",
+		"type": "kelurahan",
+		"name": "WAPUNTO"
+	},
+	{
+		"code": "74.03.17.2001",
+		"type": "desa",
+		"name": "GHONSUMA"
+	},
+	{
+		"code": "74.03.17.2003",
+		"type": "desa",
+		"name": "LAGASA"
+	},
+	{
+		"code": "74.03.17.2004",
+		"type": "desa",
+		"name": "BONE BALANO"
+	},
+	{
+		"code": "74.03.17.2006",
+		"type": "desa",
+		"name": "LASUNAPA"
+	},
+	{
+		"code": "74.03.17.2007",
+		"type": "desa",
+		"name": "BANGGAI"
+	},
+	{
+		"code": "74.03.18",
+		"type": "kecamatan",
+		"name": "LOHIA"
+	},
+	{
+		"code": "74.03.18.2001",
+		"type": "desa",
+		"name": "LIANGKOBORI"
+	},
+	{
+		"code": "74.03.18.2002",
+		"type": "desa",
+		"name": "BOLO"
+	},
+	{
+		"code": "74.03.18.2003",
+		"type": "desa",
+		"name": "KONDONGIA"
+	},
+	{
+		"code": "74.03.18.2004",
+		"type": "desa",
+		"name": "WAARA"
+	},
+	{
+		"code": "74.03.18.2005",
+		"type": "desa",
+		"name": "MANTOBUA"
+	},
+	{
+		"code": "74.03.18.2006",
+		"type": "desa",
+		"name": "WABINTINGI"
+	},
+	{
+		"code": "74.03.18.2007",
+		"type": "desa",
+		"name": "LOHIA"
+	},
+	{
+		"code": "74.03.18.2008",
+		"type": "desa",
+		"name": "KORIHI"
+	},
+	{
+		"code": "74.03.18.2009",
+		"type": "desa",
+		"name": "LAKARINTA"
+	},
+	{
+		"code": "74.03.19",
+		"type": "kecamatan",
+		"name": "WATOPUTE"
+	},
+	{
+		"code": "74.03.19.1004",
+		"type": "kelurahan",
+		"name": "DANA"
+	},
+	{
+		"code": "74.03.19.1007",
+		"type": "kelurahan",
+		"name": "WALI"
+	},
+	{
+		"code": "74.03.19.2001",
+		"type": "desa",
+		"name": "WAKADIA"
+	},
+	{
+		"code": "74.03.19.2002",
+		"type": "desa",
+		"name": "WAKAPODO"
+	},
+	{
+		"code": "74.03.19.2003",
+		"type": "desa",
+		"name": "MATARAWA"
+	},
+	{
+		"code": "74.03.19.2005",
+		"type": "desa",
+		"name": "LAKAUDUMA"
+	},
+	{
+		"code": "74.03.19.2006",
+		"type": "desa",
+		"name": "BANGKALI"
+	},
+	{
+		"code": "74.03.19.2008",
+		"type": "desa",
+		"name": "LABAHA"
+	},
+	{
+		"code": "74.03.20",
+		"type": "kecamatan",
+		"name": "KONTUNAGA"
+	},
+	{
+		"code": "74.03.20.2001",
+		"type": "desa",
+		"name": "LIABALANO"
+	},
+	{
+		"code": "74.03.20.2002",
+		"type": "desa",
+		"name": "LAPODIDI"
+	},
+	{
+		"code": "74.03.20.2003",
+		"type": "desa",
+		"name": "BUNGI"
+	},
+	{
+		"code": "74.03.20.2004",
+		"type": "desa",
+		"name": "KONTUNAGA"
+	},
+	{
+		"code": "74.03.20.2005",
+		"type": "desa",
+		"name": "MABODO"
+	},
+	{
+		"code": "74.03.20.2006",
+		"type": "desa",
+		"name": "MASALILI"
+	},
+	{
+		"code": "74.03.20.2007",
+		"type": "desa",
+		"name": "LAKAUDUMA"
+	},
+	{
+		"code": "74.03.23",
+		"type": "kecamatan",
+		"name": "KABANGKA"
+	},
+	{
+		"code": "74.03.23.2001",
+		"type": "desa",
+		"name": "KOMBA KOMBA"
+	},
+	{
+		"code": "74.03.23.2002",
+		"type": "desa",
+		"name": "KABANGKA"
+	},
+	{
+		"code": "74.03.23.2003",
+		"type": "desa",
+		"name": "WAKOBULU AGUNG"
+	},
+	{
+		"code": "74.03.23.2004",
+		"type": "desa",
+		"name": "LUPIA"
+	},
+	{
+		"code": "74.03.23.2007",
+		"type": "desa",
+		"name": "SARIMULYO"
+	},
+	{
+		"code": "74.03.23.2008",
+		"type": "desa",
+		"name": "OENSULI"
+	},
+	{
+		"code": "74.03.23.2009",
+		"type": "desa",
+		"name": "WANSUGI"
+	},
+	{
+		"code": "74.03.23.2010",
+		"type": "desa",
+		"name": "WATALIKU"
+	},
+	{
+		"code": "74.03.23.2011",
+		"type": "desa",
+		"name": "LAKANDITO"
+	},
+	{
+		"code": "74.03.24",
+		"type": "kecamatan",
+		"name": "KABAWO"
+	},
+	{
+		"code": "74.03.24.1009",
+		"type": "kelurahan",
+		"name": "LAIMPI"
+	},
+	{
+		"code": "74.03.24.2001",
+		"type": "desa",
+		"name": "TANJUNG BATU"
+	},
+	{
+		"code": "74.03.24.2002",
+		"type": "desa",
+		"name": "KAWITE WITE"
+	},
+	{
+		"code": "74.03.24.2003",
+		"type": "desa",
+		"name": "BENTE"
+	},
+	{
+		"code": "74.03.24.2004",
+		"type": "desa",
+		"name": "BEA"
+	},
+	{
+		"code": "74.03.24.2006",
+		"type": "desa",
+		"name": "RANGKA"
+	},
+	{
+		"code": "74.03.24.2010",
+		"type": "desa",
+		"name": "KAMBAWUNA"
+	},
+	{
+		"code": "74.03.24.2011",
+		"type": "desa",
+		"name": "KONTUMERE"
+	},
+	{
+		"code": "74.03.24.2012",
+		"type": "desa",
+		"name": "LAMAEO"
+	},
+	{
+		"code": "74.03.24.2013",
+		"type": "desa",
+		"name": "WANTIWORO"
+	},
+	{
+		"code": "74.03.24.2014",
+		"type": "desa",
+		"name": "KASAKA"
+	},
+	{
+		"code": "74.03.25",
+		"type": "kecamatan",
+		"name": "PARIGI"
+	},
+	{
+		"code": "74.03.25.1005",
+		"type": "kelurahan",
+		"name": "WAKUMORO"
+	},
+	{
+		"code": "74.03.25.1006",
+		"type": "kelurahan",
+		"name": "WALAMBENO WITE"
+	},
+	{
+		"code": "74.03.25.1007",
+		"type": "kelurahan",
+		"name": "KOLASA"
+	},
+	{
+		"code": "74.03.25.1009",
+		"type": "kelurahan",
+		"name": "WASOLANGKA"
+	},
+	{
+		"code": "74.03.25.2001",
+		"type": "desa",
+		"name": "LABULU BULU"
+	},
+	{
+		"code": "74.03.25.2002",
+		"type": "desa",
+		"name": "LATUMPU"
+	},
+	{
+		"code": "74.03.25.2003",
+		"type": "desa",
+		"name": "LAIBA"
+	},
+	{
+		"code": "74.03.25.2004",
+		"type": "desa",
+		"name": "WARAMBE"
+	},
+	{
+		"code": "74.03.25.2008",
+		"type": "desa",
+		"name": "PARIGI"
+	},
+	{
+		"code": "74.03.25.2010",
+		"type": "desa",
+		"name": "WAPUALE"
+	},
+	{
+		"code": "74.03.25.2012",
+		"type": "desa",
+		"name": "WAKUMORO"
+	},
+	{
+		"code": "74.03.26",
+		"type": "kecamatan",
+		"name": "BONE"
+	},
+	{
+		"code": "74.03.26.2006",
+		"type": "desa",
+		"name": "BONE TONDO"
+	},
+	{
+		"code": "74.03.26.2007",
+		"type": "desa",
+		"name": "BONE KACINTALA"
+	},
+	{
+		"code": "74.03.26.2008",
+		"type": "desa",
+		"name": "BONE LOLIBU"
+	},
+	{
+		"code": "74.03.26.2009",
+		"type": "desa",
+		"name": "OELONGKO"
+	},
+	{
+		"code": "74.03.26.2010",
+		"type": "desa",
+		"name": "MATOMBURA"
+	},
+	{
+		"code": "74.03.27",
+		"type": "kecamatan",
+		"name": "TONGKUNO"
+	},
+	{
+		"code": "74.03.27.1005",
+		"type": "kelurahan",
+		"name": "DANAGOA"
+	},
+	{
+		"code": "74.03.27.1007",
+		"type": "kelurahan",
+		"name": "KONTUMOLEPE"
+	},
+	{
+		"code": "74.03.27.1008",
+		"type": "kelurahan",
+		"name": "TOMBULA"
+	},
+	{
+		"code": "74.03.27.2003",
+		"type": "desa",
+		"name": "LAGHONTOGHE"
+	},
+	{
+		"code": "74.03.27.2004",
+		"type": "desa",
+		"name": "LAMORENDE"
+	},
+	{
+		"code": "74.03.27.2006",
+		"type": "desa",
+		"name": "LAKOLOGOU"
+	},
+	{
+		"code": "74.03.27.2009",
+		"type": "desa",
+		"name": "MATANOOE"
+	},
+	{
+		"code": "74.03.27.2014",
+		"type": "desa",
+		"name": "LAPADINDI"
+	},
+	{
+		"code": "74.03.27.2015",
+		"type": "desa",
+		"name": "OEMPU"
+	},
+	{
+		"code": "74.03.27.2016",
+		"type": "desa",
+		"name": "FONGKANIWA"
+	},
+	{
+		"code": "74.03.27.2017",
+		"type": "desa",
+		"name": "TANJUNG"
+	},
+	{
+		"code": "74.03.27.2019",
+		"type": "desa",
+		"name": "KOTANO WUNA"
+	},
+	{
+		"code": "74.03.28",
+		"type": "kecamatan",
+		"name": "PASIR PUTIH"
+	},
+	{
+		"code": "74.03.28.2001",
+		"type": "desa",
+		"name": "OENGGUMORA"
+	},
+	{
+		"code": "74.03.28.2002",
+		"type": "desa",
+		"name": "KOHOLIFANO"
+	},
+	{
+		"code": "74.03.28.2007",
+		"type": "desa",
+		"name": "KAMOSOPE"
+	},
+	{
+		"code": "74.03.28.2008",
+		"type": "desa",
+		"name": "LIWUMETINGKI"
+	},
+	{
+		"code": "74.03.28.2009",
+		"type": "desa",
+		"name": "LABULAWA"
+	},
+	{
+		"code": "74.03.28.2010",
+		"type": "desa",
+		"name": "BUMBU"
+	},
+	{
+		"code": "74.03.30",
+		"type": "kecamatan",
+		"name": "KONTU KOWUNA"
+	},
+	{
+		"code": "74.03.30.2001",
+		"type": "desa",
+		"name": "KAFO FOO"
+	},
+	{
+		"code": "74.03.30.2002",
+		"type": "desa",
+		"name": "LEMBO"
+	},
+	{
+		"code": "74.03.30.2003",
+		"type": "desa",
+		"name": "KILAMBIBITO"
+	},
+	{
+		"code": "74.03.30.2004",
+		"type": "desa",
+		"name": "BAHUTARA"
+	},
+	{
+		"code": "74.03.30.2005",
+		"type": "desa",
+		"name": "KONTU KOWUNA"
+	},
+	{
+		"code": "74.03.30.2006",
+		"type": "desa",
+		"name": "LAHORIO"
+	},
+	{
+		"code": "74.03.31",
+		"type": "kecamatan",
+		"name": "MAROBO"
+	},
+	{
+		"code": "74.03.31.2001",
+		"type": "desa",
+		"name": "MAROBO"
+	},
+	{
+		"code": "74.03.31.2002",
+		"type": "desa",
+		"name": "WADOLAO"
+	},
+	{
+		"code": "74.03.31.2003",
+		"type": "desa",
+		"name": "PASIKUTA"
+	},
+	{
+		"code": "74.03.31.2004",
+		"type": "desa",
+		"name": "TAPITAPI"
+	},
+	{
+		"code": "74.03.31.2005",
+		"type": "desa",
+		"name": "POAROHA"
+	},
+	{
+		"code": "74.03.32",
+		"type": "kecamatan",
+		"name": "TONGKUNO SELATAN"
+	},
+	{
+		"code": "74.03.32.1001",
+		"type": "kelurahan",
+		"name": "LAWAMA"
+	},
+	{
+		"code": "74.03.32.2002",
+		"type": "desa",
+		"name": "WALEALE"
+	},
+	{
+		"code": "74.03.32.2003",
+		"type": "desa",
+		"name": "KALIDAWA"
+	},
+	{
+		"code": "74.03.32.2004",
+		"type": "desa",
+		"name": "LABASA"
+	},
+	{
+		"code": "74.03.32.2005",
+		"type": "desa",
+		"name": "WATONDO"
+	},
+	{
+		"code": "74.03.32.2006",
+		"type": "desa",
+		"name": "LIANOSA"
+	},
+	{
+		"code": "74.03.33",
+		"type": "kecamatan",
+		"name": "PASI KOLAGA"
+	},
+	{
+		"code": "74.03.33.2001",
+		"type": "desa",
+		"name": "KOLESE"
+	},
+	{
+		"code": "74.03.33.2002",
+		"type": "desa",
+		"name": "TAMPUNABALE"
+	},
+	{
+		"code": "74.03.33.2003",
+		"type": "desa",
+		"name": "MATA INDAHA"
+	},
+	{
+		"code": "74.03.33.2004",
+		"type": "desa",
+		"name": "LAMBELU"
+	},
+	{
+		"code": "74.03.34",
+		"type": "kecamatan",
+		"name": "BATUKARA"
+	},
+	{
+		"code": "74.03.34.2001",
+		"type": "desa",
+		"name": "BONE BONE"
+	},
+	{
+		"code": "74.03.34.2002",
+		"type": "desa",
+		"name": "LANOBAKE"
+	},
+	{
+		"code": "74.03.34.2003",
+		"type": "desa",
+		"name": "MOOLO"
+	},
+	{
+		"code": "74.03.34.2004",
+		"type": "desa",
+		"name": "BALUARA"
+	},
+	{
+		"code": "74.03.37",
+		"type": "kecamatan",
+		"name": "TOWEA"
+	},
+	{
+		"code": "74.03.37.2001",
+		"type": "desa",
+		"name": "WANGKOLABU"
+	},
+	{
+		"code": "74.03.37.2002",
+		"type": "desa",
+		"name": "LAKARAMA"
+	},
+	{
+		"code": "74.03.37.2003",
+		"type": "desa",
+		"name": "MOASI"
+	},
+	{
+		"code": "74.03.37.2004",
+		"type": "desa",
+		"name": "RENDA"
+	},
+	{
+		"code": "74.03.37.2005",
+		"type": "desa",
+		"name": "BAHARI"
+	},
+	{
+		"code": "74.04",
+		"type": "kabupaten",
+		"name": "KAB. BUTON"
+	},
+	{
+		"code": "74.04.11",
+		"type": "kecamatan",
+		"name": "PASARWAJO"
+	},
+	{
+		"code": "74.04.11.1005",
+		"type": "kelurahan",
+		"name": "WASAGA"
+	},
+	{
+		"code": "74.04.11.1006",
+		"type": "kelurahan",
+		"name": "KAHULUNGAYA"
+	},
+	{
+		"code": "74.04.11.1020",
+		"type": "kelurahan",
+		"name": "WAGOLA"
+	},
+	{
+		"code": "74.04.11.1021",
+		"type": "kelurahan",
+		"name": "KOMBELI"
+	},
+	{
+		"code": "74.04.11.1022",
+		"type": "kelurahan",
+		"name": "TAKIMPO"
+	},
+	{
+		"code": "74.04.11.1023",
+		"type": "kelurahan",
+		"name": "AWAINULU"
+	},
+	{
+		"code": "74.04.11.1026",
+		"type": "kelurahan",
+		"name": "KAMBULABULANA"
+	},
+	{
+		"code": "74.04.11.1027",
+		"type": "kelurahan",
+		"name": "PASARWAJO"
+	},
+	{
+		"code": "74.04.11.1028",
+		"type": "kelurahan",
+		"name": "SARAGI"
+	},
+	{
+		"code": "74.04.11.2002",
+		"type": "desa",
+		"name": "WANGU ANGU"
+	},
+	{
+		"code": "74.04.11.2003",
+		"type": "desa",
+		"name": "WARINTA"
+	},
+	{
+		"code": "74.04.11.2004",
+		"type": "desa",
+		"name": "LAPODI"
+	},
+	{
+		"code": "74.04.11.2007",
+		"type": "desa",
+		"name": "KANCINAA"
+	},
+	{
+		"code": "74.04.11.2008",
+		"type": "desa",
+		"name": "WINNING"
+	},
+	{
+		"code": "74.04.11.2017",
+		"type": "desa",
+		"name": "HOLIMOMBO JAYA"
+	},
+	{
+		"code": "74.04.11.2018",
+		"type": "desa",
+		"name": "KONDOWA"
+	},
+	{
+		"code": "74.04.11.2019",
+		"type": "desa",
+		"name": "DONGKALA"
+	},
+	{
+		"code": "74.04.11.2024",
+		"type": "desa",
+		"name": "LABURUNCI"
+	},
+	{
+		"code": "74.04.11.2025",
+		"type": "desa",
+		"name": "BANABUNGI"
+	},
+	{
+		"code": "74.04.11.2029",
+		"type": "desa",
+		"name": "KABAWAKOLE"
+	},
+	{
+		"code": "74.04.11.2030",
+		"type": "desa",
+		"name": "MANTOWU"
+	},
+	{
+		"code": "74.04.11.2031",
+		"type": "desa",
+		"name": "KAONGKEONGKEA"
+	},
+	{
+		"code": "74.04.22",
+		"type": "kecamatan",
+		"name": "KAPONTORI"
+	},
+	{
+		"code": "74.04.22.1005",
+		"type": "kelurahan",
+		"name": "WATUMOTOBE"
+	},
+	{
+		"code": "74.04.22.1006",
+		"type": "kelurahan",
+		"name": "WAKANGKA"
+	},
+	{
+		"code": "74.04.22.2001",
+		"type": "desa",
+		"name": "BARANGKA"
+	},
+	{
+		"code": "74.04.22.2002",
+		"type": "desa",
+		"name": "WAKALAMBE"
+	},
+	{
+		"code": "74.04.22.2003",
+		"type": "desa",
+		"name": "BONEATIRO"
+	},
+	{
+		"code": "74.04.22.2004",
+		"type": "desa",
+		"name": "LAMBUSANGO"
+	},
+	{
+		"code": "74.04.22.2007",
+		"type": "desa",
+		"name": "TODANGA"
+	},
+	{
+		"code": "74.04.22.2008",
+		"type": "desa",
+		"name": "TUANGILA"
+	},
+	{
+		"code": "74.04.22.2009",
+		"type": "desa",
+		"name": "WAONDO WOLIO"
+	},
+	{
+		"code": "74.04.22.2010",
+		"type": "desa",
+		"name": "BUKIT ASRI"
+	},
+	{
+		"code": "74.04.22.2011",
+		"type": "desa",
+		"name": "KAMELANTA"
+	},
+	{
+		"code": "74.04.22.2012",
+		"type": "desa",
+		"name": "LAMBUSANGO TIMUR"
+	},
+	{
+		"code": "74.04.22.2013",
+		"type": "desa",
+		"name": "WAKULI"
+	},
+	{
+		"code": "74.04.22.2014",
+		"type": "desa",
+		"name": "MAMBULUGO"
+	},
+	{
+		"code": "74.04.22.2015",
+		"type": "desa",
+		"name": "WAMBULU"
+	},
+	{
+		"code": "74.04.22.2016",
+		"type": "desa",
+		"name": "TUMADA"
+	},
+	{
+		"code": "74.04.22.2017",
+		"type": "desa",
+		"name": "BONEATIRO BARAT"
+	},
+	{
+		"code": "74.04.23",
+		"type": "kecamatan",
+		"name": "LASALIMU"
+	},
+	{
+		"code": "74.04.23.1005",
+		"type": "kelurahan",
+		"name": "KAMARU"
+	},
+	{
+		"code": "74.04.23.2001",
+		"type": "desa",
+		"name": "KAKENAUWE"
+	},
+	{
+		"code": "74.04.23.2002",
+		"type": "desa",
+		"name": "WAOLEONA"
+	},
+	{
+		"code": "74.04.23.2003",
+		"type": "desa",
+		"name": "LAWELE"
+	},
+	{
+		"code": "74.04.23.2004",
+		"type": "desa",
+		"name": "SUANDALA"
+	},
+	{
+		"code": "74.04.23.2006",
+		"type": "desa",
+		"name": "LASEMBANGI"
+	},
+	{
+		"code": "74.04.23.2007",
+		"type": "desa",
+		"name": "BONELALO"
+	},
+	{
+		"code": "74.04.23.2008",
+		"type": "desa",
+		"name": "WASUAMBA"
+	},
+	{
+		"code": "74.04.23.2009",
+		"type": "desa",
+		"name": "WAGARI"
+	},
+	{
+		"code": "74.04.23.2010",
+		"type": "desa",
+		"name": "SRIBATARA"
+	},
+	{
+		"code": "74.04.23.2011",
+		"type": "desa",
+		"name": "TOGOMANGURA"
+	},
+	{
+		"code": "74.04.23.2012",
+		"type": "desa",
+		"name": "WASAMBAA"
+	},
+	{
+		"code": "74.04.23.2013",
+		"type": "desa",
+		"name": "BENTENG"
+	},
+	{
+		"code": "74.04.23.2014",
+		"type": "desa",
+		"name": "TALAGA BARU"
+	},
+	{
+		"code": "74.04.23.2015",
+		"type": "desa",
+		"name": "NAMBO"
+	},
+	{
+		"code": "74.04.24",
+		"type": "kecamatan",
+		"name": "LASALIMU SELATAN"
+	},
+	{
+		"code": "74.04.24.2006",
+		"type": "desa",
+		"name": "AMBUAU INDAH"
+	},
+	{
+		"code": "74.04.24.2007",
+		"type": "desa",
+		"name": "KINAPANI MAKMUR"
+	},
+	{
+		"code": "74.04.24.2008",
+		"type": "desa",
+		"name": "MOPAANO"
+	},
+	{
+		"code": "74.04.24.2009",
+		"type": "desa",
+		"name": "UMALAOGE"
+	},
+	{
+		"code": "74.04.24.2010",
+		"type": "desa",
+		"name": "LASALIMU"
+	},
+	{
+		"code": "74.04.24.2011",
+		"type": "desa",
+		"name": "WAJAH JAYA"
+	},
+	{
+		"code": "74.04.24.2012",
+		"type": "desa",
+		"name": "SIOTAPINA"
+	},
+	{
+		"code": "74.04.24.2013",
+		"type": "desa",
+		"name": "SIOMANURU"
+	},
+	{
+		"code": "74.04.24.2016",
+		"type": "desa",
+		"name": "MULYA JAYA"
+	},
+	{
+		"code": "74.04.24.2017",
+		"type": "desa",
+		"name": "HARAPAN JAYA"
+	},
+	{
+		"code": "74.04.24.2018",
+		"type": "desa",
+		"name": "SANGIA ARANO"
+	},
+	{
+		"code": "74.04.24.2019",
+		"type": "desa",
+		"name": "MEGABAHARI"
+	},
+	{
+		"code": "74.04.24.2020",
+		"type": "desa",
+		"name": "SUMBER AGUNG"
+	},
+	{
+		"code": "74.04.24.2021",
+		"type": "desa",
+		"name": "REJO SARI"
+	},
+	{
+		"code": "74.04.24.2022",
+		"type": "desa",
+		"name": "AMBUAU TOGO"
+	},
+	{
+		"code": "74.04.24.2023",
+		"type": "desa",
+		"name": "BALIMU"
+	},
+	{
+		"code": "74.04.27",
+		"type": "kecamatan",
+		"name": "SIOTAPINA"
+	},
+	{
+		"code": "74.04.27.2001",
+		"type": "desa",
+		"name": "WALOMPO"
+	},
+	{
+		"code": "74.04.27.2002",
+		"type": "desa",
+		"name": "MATANAUWE"
+	},
+	{
+		"code": "74.04.27.2003",
+		"type": "desa",
+		"name": "SAMPUABALO"
+	},
+	{
+		"code": "74.04.27.2004",
+		"type": "desa",
+		"name": "KURAA"
+	},
+	{
+		"code": "74.04.27.2005",
+		"type": "desa",
+		"name": "KUMBEWAHA"
+	},
+	{
+		"code": "74.04.27.2006",
+		"type": "desa",
+		"name": "SUMBER SARI"
+	},
+	{
+		"code": "74.04.27.2007",
+		"type": "desa",
+		"name": "LABUANDIRI"
+	},
+	{
+		"code": "74.04.27.2008",
+		"type": "desa",
+		"name": "KARYA JAYA"
+	},
+	{
+		"code": "74.04.27.2009",
+		"type": "desa",
+		"name": "MANURU"
+	},
+	{
+		"code": "74.04.27.2010",
+		"type": "desa",
+		"name": "GUNUNGJAYA"
+	},
+	{
+		"code": "74.04.27.2011",
+		"type": "desa",
+		"name": "BAHARI MAKMUR"
+	},
+	{
+		"code": "74.04.28",
+		"type": "kecamatan",
+		"name": "WOLOWA"
+	},
+	{
+		"code": "74.04.28.2001",
+		"type": "desa",
+		"name": "KAUMBU"
+	},
+	{
+		"code": "74.04.28.2002",
+		"type": "desa",
+		"name": "WOLOWA"
+	},
+	{
+		"code": "74.04.28.2003",
+		"type": "desa",
+		"name": "MATAWIA"
+	},
+	{
+		"code": "74.04.28.2004",
+		"type": "desa",
+		"name": "WOLOWA BARU"
+	},
+	{
+		"code": "74.04.28.2005",
+		"type": "desa",
+		"name": "SUKA MAJU"
+	},
+	{
+		"code": "74.04.28.2006",
+		"type": "desa",
+		"name": "BUNGI"
+	},
+	{
+		"code": "74.04.28.2007",
+		"type": "desa",
+		"name": "GALANTI"
+	},
+	{
+		"code": "74.04.29",
+		"type": "kecamatan",
+		"name": "WABULA"
+	},
+	{
+		"code": "74.04.29.2001",
+		"type": "desa",
+		"name": "WASUEMBA"
+	},
+	{
+		"code": "74.04.29.2002",
+		"type": "desa",
+		"name": "WABULA"
+	},
+	{
+		"code": "74.04.29.2003",
+		"type": "desa",
+		"name": "WASAMPELA"
+	},
+	{
+		"code": "74.04.29.2004",
+		"type": "desa",
+		"name": "HOLIMOMBO"
+	},
+	{
+		"code": "74.04.29.2005",
+		"type": "desa",
+		"name": "KOHOLIMOMBANA"
+	},
+	{
+		"code": "74.04.29.2006",
+		"type": "desa",
+		"name": "WABULA SATU"
+	},
+	{
+		"code": "74.04.29.2007",
+		"type": "desa",
+		"name": "BAJO BAHARI"
+	},
+	{
+		"code": "74.05",
+		"type": "kabupaten",
+		"name": "KAB. KONAWE SELATAN"
+	},
+	{
+		"code": "74.05.01",
+		"type": "kecamatan",
+		"name": "TINANGGEA"
+	},
+	{
+		"code": "74.05.01.1001",
+		"type": "kelurahan",
+		"name": "TINANGGEA"
+	},
+	{
+		"code": "74.05.01.1002",
+		"type": "kelurahan",
+		"name": "NGAPAAH"
+	},
+	{
+		"code": "74.05.01.2003",
+		"type": "desa",
+		"name": "LAPOA"
+	},
+	{
+		"code": "74.05.01.2006",
+		"type": "desa",
+		"name": "ASINGI"
+	},
+	{
+		"code": "74.05.01.2007",
+		"type": "desa",
+		"name": "WATU MELEWE"
+	},
+	{
+		"code": "74.05.01.2009",
+		"type": "desa",
+		"name": "WADONGGO"
+	},
+	{
+		"code": "74.05.01.2010",
+		"type": "desa",
+		"name": "BUNGIN PERMAI"
+	},
+	{
+		"code": "74.05.01.2014",
+		"type": "desa",
+		"name": "PALOTAWO"
+	},
+	{
+		"code": "74.05.01.2019",
+		"type": "desa",
+		"name": "LALONGGASU"
+	},
+	{
+		"code": "74.05.01.2020",
+		"type": "desa",
+		"name": "MOOLO INDAH"
+	},
+	{
+		"code": "74.05.01.2021",
+		"type": "desa",
+		"name": "TELUTU JAYA"
+	},
+	{
+		"code": "74.05.01.2023",
+		"type": "desa",
+		"name": "TOROKEKU"
+	},
+	{
+		"code": "74.05.01.2024",
+		"type": "desa",
+		"name": "LAPULU"
+	},
+	{
+		"code": "74.05.01.2027",
+		"type": "desa",
+		"name": "RORAYA"
+	},
+	{
+		"code": "74.05.01.2029",
+		"type": "desa",
+		"name": "LANOWULU"
+	},
+	{
+		"code": "74.05.01.2030",
+		"type": "desa",
+		"name": "LALO WATU"
+	},
+	{
+		"code": "74.05.01.2032",
+		"type": "desa",
+		"name": "TATANGGE"
+	},
+	{
+		"code": "74.05.01.2033",
+		"type": "desa",
+		"name": "WUNDUMBOLO"
+	},
+	{
+		"code": "74.05.01.2034",
+		"type": "desa",
+		"name": "PANGGOOSI"
+	},
+	{
+		"code": "74.05.01.2035",
+		"type": "desa",
+		"name": "BOMBA-BOMBA"
+	},
+	{
+		"code": "74.05.01.2036",
+		"type": "desa",
+		"name": "AKUNI"
+	},
+	{
+		"code": "74.05.01.2037",
+		"type": "desa",
+		"name": "LASUAI"
+	},
+	{
+		"code": "74.05.01.2038",
+		"type": "desa",
+		"name": "MATAMBAWI"
+	},
+	{
+		"code": "74.05.01.2039",
+		"type": "desa",
+		"name": "MATANDAHI"
+	},
+	{
+		"code": "74.05.02",
+		"type": "kecamatan",
+		"name": "ANGATA"
+	},
+	{
+		"code": "74.05.02.2001",
+		"type": "desa",
+		"name": "PEWUTAA"
+	},
+	{
+		"code": "74.05.02.2002",
+		"type": "desa",
+		"name": "AOPA"
+	},
+	{
+		"code": "74.05.02.2003",
+		"type": "desa",
+		"name": "MOTAHA"
+	},
+	{
+		"code": "74.05.02.2004",
+		"type": "desa",
+		"name": "LAMOEN"
+	},
+	{
+		"code": "74.05.02.2005",
+		"type": "desa",
+		"name": "PUUSANGGULA"
+	},
+	{
+		"code": "74.05.02.2006",
+		"type": "desa",
+		"name": "PUAO"
+	},
+	{
+		"code": "74.05.02.2007",
+		"type": "desa",
+		"name": "SANDEY"
+	},
+	{
+		"code": "74.05.02.2008",
+		"type": "desa",
+		"name": "TETEASA"
+	},
+	{
+		"code": "74.05.02.2009",
+		"type": "desa",
+		"name": "SIMBANGU"
+	},
+	{
+		"code": "74.05.02.2010",
+		"type": "desa",
+		"name": "LAMOOSO"
+	},
+	{
+		"code": "74.05.02.2011",
+		"type": "desa",
+		"name": "LANDABARO"
+	},
+	{
+		"code": "74.05.02.2012",
+		"type": "desa",
+		"name": "PUUNGONI"
+	},
+	{
+		"code": "74.05.02.2013",
+		"type": "desa",
+		"name": "SANDARSI JAYA"
+	},
+	{
+		"code": "74.05.02.2014",
+		"type": "desa",
+		"name": "PUUROE"
+	},
+	{
+		"code": "74.05.02.2015",
+		"type": "desa",
+		"name": "LAMOERI"
+	},
+	{
+		"code": "74.05.02.2016",
+		"type": "desa",
+		"name": "KASEBO"
+	},
+	{
+		"code": "74.05.02.2017",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.05.02.2018",
+		"type": "desa",
+		"name": "ANGATA"
+	},
+	{
+		"code": "74.05.02.2019",
+		"type": "desa",
+		"name": "PUDAMBU"
+	},
+	{
+		"code": "74.05.02.2020",
+		"type": "desa",
+		"name": "MATABONDU"
+	},
+	{
+		"code": "74.05.02.2040",
+		"type": "desa",
+		"name": "MOKOAU"
+	},
+	{
+		"code": "74.05.02.2041",
+		"type": "desa",
+		"name": "BOLOSO"
+	},
+	{
+		"code": "74.05.02.2042",
+		"type": "desa",
+		"name": "PUULIPU"
+	},
+	{
+		"code": "74.05.02.2043",
+		"type": "desa",
+		"name": "LANGGEA INDAH"
+	},
+	{
+		"code": "74.05.03",
+		"type": "kecamatan",
+		"name": "ANDOOLO"
+	},
+	{
+		"code": "74.05.03.1002",
+		"type": "kelurahan",
+		"name": "ALANGGA"
+	},
+	{
+		"code": "74.05.03.1018",
+		"type": "kelurahan",
+		"name": "POTORO"
+	},
+	{
+		"code": "74.05.03.2001",
+		"type": "desa",
+		"name": "ANDOOLO"
+	},
+	{
+		"code": "74.05.03.2004",
+		"type": "desa",
+		"name": "ALENGGE AGUNG"
+	},
+	{
+		"code": "74.05.03.2006",
+		"type": "desa",
+		"name": "ANESE"
+	},
+	{
+		"code": "74.05.03.2010",
+		"type": "desa",
+		"name": "BUMI RAYA"
+	},
+	{
+		"code": "74.05.03.2011",
+		"type": "desa",
+		"name": "BEKENGGASU"
+	},
+	{
+		"code": "74.05.03.2013",
+		"type": "desa",
+		"name": "BIMA MAROA"
+	},
+	{
+		"code": "74.05.03.2014",
+		"type": "desa",
+		"name": "LALOBAO"
+	},
+	{
+		"code": "74.05.03.2015",
+		"type": "desa",
+		"name": "LALONGGOMBU"
+	},
+	{
+		"code": "74.05.03.2016",
+		"type": "desa",
+		"name": "LAPOA INDAH"
+	},
+	{
+		"code": "74.05.03.2017",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.05.03.2021",
+		"type": "desa",
+		"name": "PAPAWU"
+	},
+	{
+		"code": "74.05.03.2025",
+		"type": "desa",
+		"name": "WATUMOKALA"
+	},
+	{
+		"code": "74.05.03.2026",
+		"type": "desa",
+		"name": "WUNDUWATU"
+	},
+	{
+		"code": "74.05.03.2027",
+		"type": "desa",
+		"name": "WAWOBENDE"
+	},
+	{
+		"code": "74.05.03.2028",
+		"type": "desa",
+		"name": "MATEUPE"
+	},
+	{
+		"code": "74.05.03.2030",
+		"type": "desa",
+		"name": "ADAYU"
+	},
+	{
+		"code": "74.05.03.2031",
+		"type": "desa",
+		"name": "PUNGGAPU"
+	},
+	{
+		"code": "74.05.03.2032",
+		"type": "desa",
+		"name": "PUUNDOHO"
+	},
+	{
+		"code": "74.05.03.2033",
+		"type": "desa",
+		"name": "ATAKU"
+	},
+	{
+		"code": "74.05.04",
+		"type": "kecamatan",
+		"name": "PALANGGA"
+	},
+	{
+		"code": "74.05.04.1001",
+		"type": "kelurahan",
+		"name": "PALANGGA"
+	},
+	{
+		"code": "74.05.04.2003",
+		"type": "desa",
+		"name": "AOSOLE"
+	},
+	{
+		"code": "74.05.04.2005",
+		"type": "desa",
+		"name": "ANGGONDARA"
+	},
+	{
+		"code": "74.05.04.2007",
+		"type": "desa",
+		"name": "EEWA"
+	},
+	{
+		"code": "74.05.04.2008",
+		"type": "desa",
+		"name": "KIAEA"
+	},
+	{
+		"code": "74.05.04.2011",
+		"type": "desa",
+		"name": "MEKAR SARI"
+	},
+	{
+		"code": "74.05.04.2013",
+		"type": "desa",
+		"name": "ONEMBUTE"
+	},
+	{
+		"code": "74.05.04.2018",
+		"type": "desa",
+		"name": "WAWORAHA"
+	},
+	{
+		"code": "74.05.04.2019",
+		"type": "desa",
+		"name": "WATUMEREMBE"
+	},
+	{
+		"code": "74.05.04.2022",
+		"type": "desa",
+		"name": "WAWOURU"
+	},
+	{
+		"code": "74.05.04.2025",
+		"type": "desa",
+		"name": "ALAKAYA"
+	},
+	{
+		"code": "74.05.04.2029",
+		"type": "desa",
+		"name": "WAWONGGURA"
+	},
+	{
+		"code": "74.05.04.2030",
+		"type": "desa",
+		"name": "KAPUJAYA"
+	},
+	{
+		"code": "74.05.04.2031",
+		"type": "desa",
+		"name": "WATUDEMBA"
+	},
+	{
+		"code": "74.05.04.2032",
+		"type": "desa",
+		"name": "SANGGI-SANGGI"
+	},
+	{
+		"code": "74.05.04.2033",
+		"type": "desa",
+		"name": "AHUANGGULURI"
+	},
+	{
+		"code": "74.05.05",
+		"type": "kecamatan",
+		"name": "LANDONO"
+	},
+	{
+		"code": "74.05.05.1001",
+		"type": "kelurahan",
+		"name": "LANDONO"
+	},
+	{
+		"code": "74.05.05.2003",
+		"type": "desa",
+		"name": "WAWOBENDE"
+	},
+	{
+		"code": "74.05.05.2006",
+		"type": "desa",
+		"name": "ASARIA"
+	},
+	{
+		"code": "74.05.05.2008",
+		"type": "desa",
+		"name": "LALONGGAPU"
+	},
+	{
+		"code": "74.05.05.2009",
+		"type": "desa",
+		"name": "MATABENUA / WATAWUNUA"
+	},
+	{
+		"code": "74.05.05.2013",
+		"type": "desa",
+		"name": "WATU-WATU"
+	},
+	{
+		"code": "74.05.05.2014",
+		"type": "desa",
+		"name": "TRIDANA MULIA"
+	},
+	{
+		"code": "74.05.05.2015",
+		"type": "desa",
+		"name": "LANDONO DUA"
+	},
+	{
+		"code": "74.05.05.2016",
+		"type": "desa",
+		"name": "AMOTOWO"
+	},
+	{
+		"code": "74.05.05.2020",
+		"type": "desa",
+		"name": "SABULAKOA"
+	},
+	{
+		"code": "74.05.05.2021",
+		"type": "desa",
+		"name": "KORONUA"
+	},
+	{
+		"code": "74.05.05.2022",
+		"type": "desa",
+		"name": "ABENGGI"
+	},
+	{
+		"code": "74.05.05.2023",
+		"type": "desa",
+		"name": "ARONGO"
+	},
+	{
+		"code": "74.05.05.2024",
+		"type": "desa",
+		"name": "ENDANGA"
+	},
+	{
+		"code": "74.05.05.2028",
+		"type": "desa",
+		"name": "WONUKAO"
+	},
+	{
+		"code": "74.05.05.2029",
+		"type": "desa",
+		"name": "TETENGGABO"
+	},
+	{
+		"code": "74.05.05.2030",
+		"type": "desa",
+		"name": "TALUMBINGA"
+	},
+	{
+		"code": "74.05.05.2032",
+		"type": "desa",
+		"name": "WONUA SANGIA"
+	},
+	{
+		"code": "74.05.05.2035",
+		"type": "desa",
+		"name": "LAKOMEA"
+	},
+	{
+		"code": "74.05.05.2042",
+		"type": "desa",
+		"name": "MORINI MULYA"
+	},
+	{
+		"code": "74.05.05.2043",
+		"type": "desa",
+		"name": "ULUSABULAKOA"
+	},
+	{
+		"code": "74.05.06",
+		"type": "kecamatan",
+		"name": "LAINEA"
+	},
+	{
+		"code": "74.05.06.2011",
+		"type": "desa",
+		"name": "LALONGGOMBU"
+	},
+	{
+		"code": "74.05.06.2013",
+		"type": "desa",
+		"name": "WATUMEETO"
+	},
+	{
+		"code": "74.05.06.2014",
+		"type": "desa",
+		"name": "PAMANDATI"
+	},
+	{
+		"code": "74.05.06.2015",
+		"type": "desa",
+		"name": "PANGAN JAYA"
+	},
+	{
+		"code": "74.05.06.2020",
+		"type": "desa",
+		"name": "AOROO"
+	},
+	{
+		"code": "74.05.06.2021",
+		"type": "desa",
+		"name": "KAINDI"
+	},
+	{
+		"code": "74.05.06.2022",
+		"type": "desa",
+		"name": "MATABUBU JAYA"
+	},
+	{
+		"code": "74.05.06.2024",
+		"type": "desa",
+		"name": "LAINEA"
+	},
+	{
+		"code": "74.05.06.2025",
+		"type": "desa",
+		"name": "MOLINESE"
+	},
+	{
+		"code": "74.05.06.2026",
+		"type": "desa",
+		"name": "POLEWALI"
+	},
+	{
+		"code": "74.05.06.2027",
+		"type": "desa",
+		"name": "BANGUN JAYA"
+	},
+	{
+		"code": "74.05.06.2028",
+		"type": "desa",
+		"name": "KALO-KALO"
+	},
+	{
+		"code": "74.05.07",
+		"type": "kecamatan",
+		"name": "KONDA"
+	},
+	{
+		"code": "74.05.07.1001",
+		"type": "kelurahan",
+		"name": "KONDA"
+	},
+	{
+		"code": "74.05.07.2002",
+		"type": "desa",
+		"name": "PUOSU JAYA"
+	},
+	{
+		"code": "74.05.07.2003",
+		"type": "desa",
+		"name": "LAMOMEA"
+	},
+	{
+		"code": "74.05.07.2004",
+		"type": "desa",
+		"name": "ALEBO"
+	},
+	{
+		"code": "74.05.07.2005",
+		"type": "desa",
+		"name": "MOROME"
+	},
+	{
+		"code": "74.05.07.2006",
+		"type": "desa",
+		"name": "LEBO JAYA"
+	},
+	{
+		"code": "74.05.07.2007",
+		"type": "desa",
+		"name": "LAMBUSA"
+	},
+	{
+		"code": "74.05.07.2008",
+		"type": "desa",
+		"name": "PAMBULSA JAYA"
+	},
+	{
+		"code": "74.05.07.2009",
+		"type": "desa",
+		"name": "AMBOLOLI"
+	},
+	{
+		"code": "74.05.07.2010",
+		"type": "desa",
+		"name": "TANEA"
+	},
+	{
+		"code": "74.05.07.2011",
+		"type": "desa",
+		"name": "MASAGENA"
+	},
+	{
+		"code": "74.05.07.2012",
+		"type": "desa",
+		"name": "CIALAM JAYA"
+	},
+	{
+		"code": "74.05.07.2013",
+		"type": "desa",
+		"name": "WONUA"
+	},
+	{
+		"code": "74.05.07.2014",
+		"type": "desa",
+		"name": "LAWOILA"
+	},
+	{
+		"code": "74.05.07.2019",
+		"type": "desa",
+		"name": "LALOWIU"
+	},
+	{
+		"code": "74.05.07.2020",
+		"type": "desa",
+		"name": "AMOHALO"
+	},
+	{
+		"code": "74.05.07.2021",
+		"type": "desa",
+		"name": "RANOWILA"
+	},
+	{
+		"code": "74.05.07.2024",
+		"type": "desa",
+		"name": "KONDA SATU"
+	},
+	{
+		"code": "74.05.08",
+		"type": "kecamatan",
+		"name": "RANOMEETO"
+	},
+	{
+		"code": "74.05.08.1001",
+		"type": "kelurahan",
+		"name": "RANOMEETO"
+	},
+	{
+		"code": "74.05.08.2002",
+		"type": "desa",
+		"name": "ONEWILA"
+	},
+	{
+		"code": "74.05.08.2004",
+		"type": "desa",
+		"name": "BORO-BORO R"
+	},
+	{
+		"code": "74.05.08.2005",
+		"type": "desa",
+		"name": "RAMBU-RAMBU JAYA"
+	},
+	{
+		"code": "74.05.08.2008",
+		"type": "desa",
+		"name": "AMOITO"
+	},
+	{
+		"code": "74.05.08.2014",
+		"type": "desa",
+		"name": "AMBAIPUA"
+	},
+	{
+		"code": "74.05.08.2015",
+		"type": "desa",
+		"name": "RANOOHA"
+	},
+	{
+		"code": "74.05.08.2016",
+		"type": "desa",
+		"name": "LANGGEA"
+	},
+	{
+		"code": "74.05.08.2017",
+		"type": "desa",
+		"name": "KOTA BANGUN"
+	},
+	{
+		"code": "74.05.08.2019",
+		"type": "desa",
+		"name": "LAIKAHA"
+	},
+	{
+		"code": "74.05.08.2020",
+		"type": "desa",
+		"name": "DUDURIA"
+	},
+	{
+		"code": "74.05.08.2021",
+		"type": "desa",
+		"name": "AMOITO SIAMA"
+	},
+	{
+		"code": "74.05.09",
+		"type": "kecamatan",
+		"name": "KOLONO"
+	},
+	{
+		"code": "74.05.09.1001",
+		"type": "kelurahan",
+		"name": "KOLONO"
+	},
+	{
+		"code": "74.05.09.2002",
+		"type": "desa",
+		"name": "SAWA"
+	},
+	{
+		"code": "74.05.09.2003",
+		"type": "desa",
+		"name": "LANGGOWALA"
+	},
+	{
+		"code": "74.05.09.2004",
+		"type": "desa",
+		"name": "WAWORANO"
+	},
+	{
+		"code": "74.05.09.2005",
+		"type": "desa",
+		"name": "MATANDAHI"
+	},
+	{
+		"code": "74.05.09.2006",
+		"type": "desa",
+		"name": "PUUPI"
+	},
+	{
+		"code": "74.05.09.2007",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.05.09.2008",
+		"type": "desa",
+		"name": "TIRAOSU"
+	},
+	{
+		"code": "74.05.09.2009",
+		"type": "desa",
+		"name": "MONDOE JAYA"
+	},
+	{
+		"code": "74.05.09.2010",
+		"type": "desa",
+		"name": "ULUSENA JAYA"
+	},
+	{
+		"code": "74.05.09.2011",
+		"type": "desa",
+		"name": "LAMOTAU"
+	},
+	{
+		"code": "74.05.09.2012",
+		"type": "desa",
+		"name": "AWUNIO"
+	},
+	{
+		"code": "74.05.09.2013",
+		"type": "desa",
+		"name": "MELETUMBO"
+	},
+	{
+		"code": "74.05.09.2014",
+		"type": "desa",
+		"name": "RODA"
+	},
+	{
+		"code": "74.05.09.2015",
+		"type": "desa",
+		"name": "LAMBANGI"
+	},
+	{
+		"code": "74.05.09.2016",
+		"type": "desa",
+		"name": "LAMAPU"
+	},
+	{
+		"code": "74.05.09.2017",
+		"type": "desa",
+		"name": "RUMBA RUMBA"
+	},
+	{
+		"code": "74.05.09.2018",
+		"type": "desa",
+		"name": "TUMBU TUMBU JAYA"
+	},
+	{
+		"code": "74.05.09.2019",
+		"type": "desa",
+		"name": "NGAPAWALI"
+	},
+	{
+		"code": "74.05.09.2020",
+		"type": "desa",
+		"name": "BATU PUTIH"
+	},
+	{
+		"code": "74.05.09.2021",
+		"type": "desa",
+		"name": "RAMBU RAMBU"
+	},
+	{
+		"code": "74.05.09.2022",
+		"type": "desa",
+		"name": "AMPERA"
+	},
+	{
+		"code": "74.05.09.2023",
+		"type": "desa",
+		"name": "AMOLENGU"
+	},
+	{
+		"code": "74.05.09.2024",
+		"type": "desa",
+		"name": "LANGGAPULU"
+	},
+	{
+		"code": "74.05.09.2025",
+		"type": "desa",
+		"name": "ANDINETE"
+	},
+	{
+		"code": "74.05.09.2026",
+		"type": "desa",
+		"name": "WAWOOSU"
+	},
+	{
+		"code": "74.05.09.2027",
+		"type": "desa",
+		"name": "TORODALE"
+	},
+	{
+		"code": "74.05.09.2028",
+		"type": "desa",
+		"name": "ALOSI"
+	},
+	{
+		"code": "74.05.09.2029",
+		"type": "desa",
+		"name": "SILEA"
+	},
+	{
+		"code": "74.05.09.2030",
+		"type": "desa",
+		"name": "PUUDONGI"
+	},
+	{
+		"code": "74.05.09.2031",
+		"type": "desa",
+		"name": "SARANDUA"
+	},
+	{
+		"code": "74.05.09.2032",
+		"type": "desa",
+		"name": "ULUNESE"
+	},
+	{
+		"code": "74.05.10",
+		"type": "kecamatan",
+		"name": "MORAMO"
+	},
+	{
+		"code": "74.05.10.1001",
+		"type": "kelurahan",
+		"name": "LAPUKO"
+	},
+	{
+		"code": "74.05.10.2010",
+		"type": "desa",
+		"name": "AMOHOLA"
+	},
+	{
+		"code": "74.05.10.2011",
+		"type": "desa",
+		"name": "TAMBOSUPA"
+	},
+	{
+		"code": "74.05.10.2012",
+		"type": "desa",
+		"name": "MARGA CITTA"
+	},
+	{
+		"code": "74.05.10.2013",
+		"type": "desa",
+		"name": "MORAMO"
+	},
+	{
+		"code": "74.05.10.2014",
+		"type": "desa",
+		"name": "BAKUTARA"
+	},
+	{
+		"code": "74.05.10.2015",
+		"type": "desa",
+		"name": "LAKOMEA"
+	},
+	{
+		"code": "74.05.10.2016",
+		"type": "desa",
+		"name": "LANDIPO"
+	},
+	{
+		"code": "74.05.10.2017",
+		"type": "desa",
+		"name": "LAMBOO"
+	},
+	{
+		"code": "74.05.10.2018",
+		"type": "desa",
+		"name": "PUDARIA JAYA"
+	},
+	{
+		"code": "74.05.10.2019",
+		"type": "desa",
+		"name": "SUMBER SARI"
+	},
+	{
+		"code": "74.05.10.2020",
+		"type": "desa",
+		"name": "ULUSENA"
+	},
+	{
+		"code": "74.05.10.2021",
+		"type": "desa",
+		"name": "PENAMBEA BARATA"
+	},
+	{
+		"code": "74.05.10.2022",
+		"type": "desa",
+		"name": "WOWOSUNGGU"
+	},
+	{
+		"code": "74.05.10.2023",
+		"type": "desa",
+		"name": "WAWONDENGI"
+	},
+	{
+		"code": "74.05.10.2025",
+		"type": "desa",
+		"name": "WATU PORAMBAA"
+	},
+	{
+		"code": "74.05.10.2026",
+		"type": "desa",
+		"name": "WONUA JAYA"
+	},
+	{
+		"code": "74.05.10.2027",
+		"type": "desa",
+		"name": "BISIKORI"
+	},
+	{
+		"code": "74.05.10.2028",
+		"type": "desa",
+		"name": "RANOOHA RAYA"
+	},
+	{
+		"code": "74.05.10.2029",
+		"type": "desa",
+		"name": "SELABANGGA"
+	},
+	{
+		"code": "74.05.11",
+		"type": "kecamatan",
+		"name": "LAONTI"
+	},
+	{
+		"code": "74.05.11.2001",
+		"type": "desa",
+		"name": "LABAUN BEROPA"
+	},
+	{
+		"code": "74.05.11.2002",
+		"type": "desa",
+		"name": "TAMBOLOSU"
+	},
+	{
+		"code": "74.05.11.2003",
+		"type": "desa",
+		"name": "WORU WORU"
+	},
+	{
+		"code": "74.05.11.2004",
+		"type": "desa",
+		"name": "TAMBEANGA"
+	},
+	{
+		"code": "74.05.11.2005",
+		"type": "desa",
+		"name": "LABOTAONE"
+	},
+	{
+		"code": "74.05.11.2006",
+		"type": "desa",
+		"name": "BATU JAYA"
+	},
+	{
+		"code": "74.05.11.2007",
+		"type": "desa",
+		"name": "NAMU"
+	},
+	{
+		"code": "74.05.11.2008",
+		"type": "desa",
+		"name": "MALARINGGI"
+	},
+	{
+		"code": "74.05.11.2009",
+		"type": "desa",
+		"name": "TUE TUE"
+	},
+	{
+		"code": "74.05.11.2010",
+		"type": "desa",
+		"name": "SANGI SANGI"
+	},
+	{
+		"code": "74.05.11.2011",
+		"type": "desa",
+		"name": "ULU SAWA"
+	},
+	{
+		"code": "74.05.11.2012",
+		"type": "desa",
+		"name": "LAWISATA"
+	},
+	{
+		"code": "74.05.11.2013",
+		"type": "desa",
+		"name": "KONDONO"
+	},
+	{
+		"code": "74.05.11.2014",
+		"type": "desa",
+		"name": "PEO INDAH"
+	},
+	{
+		"code": "74.05.11.2015",
+		"type": "desa",
+		"name": "PUUDIRANGGA"
+	},
+	{
+		"code": "74.05.11.2016",
+		"type": "desa",
+		"name": "CEMPEDAK"
+	},
+	{
+		"code": "74.05.11.2017",
+		"type": "desa",
+		"name": "LAONTI"
+	},
+	{
+		"code": "74.05.11.2018",
+		"type": "desa",
+		"name": "RUMBI-RUMBIA"
+	},
+	{
+		"code": "74.05.11.2019",
+		"type": "desa",
+		"name": "MATA BONDU"
+	},
+	{
+		"code": "74.05.11.2020",
+		"type": "desa",
+		"name": "WANDAEHA"
+	},
+	{
+		"code": "74.05.12",
+		"type": "kecamatan",
+		"name": "LALEMBUU"
+	},
+	{
+		"code": "74.05.12.1005",
+		"type": "kelurahan",
+		"name": "ATARI INDAH"
+	},
+	{
+		"code": "74.05.12.2001",
+		"type": "desa",
+		"name": "LAMBODI JAYA"
+	},
+	{
+		"code": "74.05.12.2002",
+		"type": "desa",
+		"name": "ATARI JAYA"
+	},
+	{
+		"code": "74.05.12.2003",
+		"type": "desa",
+		"name": "MOKUPA JAYA"
+	},
+	{
+		"code": "74.05.12.2004",
+		"type": "desa",
+		"name": "LAMBANDIA"
+	},
+	{
+		"code": "74.05.12.2006",
+		"type": "desa",
+		"name": "KAPUWILA"
+	},
+	{
+		"code": "74.05.12.2007",
+		"type": "desa",
+		"name": "PUUNANGGA"
+	},
+	{
+		"code": "74.05.12.2008",
+		"type": "desa",
+		"name": "TETEINEA"
+	},
+	{
+		"code": "74.05.12.2009",
+		"type": "desa",
+		"name": "PUUREMA SUBUR"
+	},
+	{
+		"code": "74.05.12.2010",
+		"type": "desa",
+		"name": "LELEMBU JAYA"
+	},
+	{
+		"code": "74.05.12.2011",
+		"type": "desa",
+		"name": "SUKAMUKTI"
+	},
+	{
+		"code": "74.05.12.2012",
+		"type": "desa",
+		"name": "POTUHO JAYA"
+	},
+	{
+		"code": "74.05.12.2013",
+		"type": "desa",
+		"name": "MONDOKE"
+	},
+	{
+		"code": "74.05.12.2014",
+		"type": "desa",
+		"name": "SUMBER JAYA"
+	},
+	{
+		"code": "74.05.12.2015",
+		"type": "desa",
+		"name": "MERONGGA RAYA"
+	},
+	{
+		"code": "74.05.12.2016",
+		"type": "desa",
+		"name": "TOMBELEU"
+	},
+	{
+		"code": "74.05.12.2017",
+		"type": "desa",
+		"name": "PADALEU"
+	},
+	{
+		"code": "74.05.12.2018",
+		"type": "desa",
+		"name": "LALOUESAMBA"
+	},
+	{
+		"code": "74.05.13",
+		"type": "kecamatan",
+		"name": "BENUA"
+	},
+	{
+		"code": "74.05.13.2001",
+		"type": "desa",
+		"name": "LAMARA"
+	},
+	{
+		"code": "74.05.13.2002",
+		"type": "desa",
+		"name": "PUUOSU"
+	},
+	{
+		"code": "74.05.13.2003",
+		"type": "desa",
+		"name": "BENUA UTAMA"
+	},
+	{
+		"code": "74.05.13.2004",
+		"type": "desa",
+		"name": "HORODOPI"
+	},
+	{
+		"code": "74.05.13.2005",
+		"type": "desa",
+		"name": "BENUA"
+	},
+	{
+		"code": "74.05.13.2006",
+		"type": "desa",
+		"name": "PALOWEWU"
+	},
+	{
+		"code": "74.05.13.2007",
+		"type": "desa",
+		"name": "PUNGGAWUKAWU"
+	},
+	{
+		"code": "74.05.13.2008",
+		"type": "desa",
+		"name": "UELAWA"
+	},
+	{
+		"code": "74.05.13.2009",
+		"type": "desa",
+		"name": "TETEHAKA"
+	},
+	{
+		"code": "74.05.13.2010",
+		"type": "desa",
+		"name": "AWALO"
+	},
+	{
+		"code": "74.05.13.2011",
+		"type": "desa",
+		"name": "KOSAMBI"
+	},
+	{
+		"code": "74.05.13.2012",
+		"type": "desa",
+		"name": "PUUWEHUKO"
+	},
+	{
+		"code": "74.05.14",
+		"type": "kecamatan",
+		"name": "PALANGGA SELATAN"
+	},
+	{
+		"code": "74.05.14.1001",
+		"type": "kelurahan",
+		"name": "AMONDO"
+	},
+	{
+		"code": "74.05.14.2002",
+		"type": "desa",
+		"name": "LAKARA"
+	},
+	{
+		"code": "74.05.14.2003",
+		"type": "desa",
+		"name": "PARASI"
+	},
+	{
+		"code": "74.05.14.2004",
+		"type": "desa",
+		"name": "ULU LAKARA"
+	},
+	{
+		"code": "74.05.14.2005",
+		"type": "desa",
+		"name": "WATU MBOHOTI"
+	},
+	{
+		"code": "74.05.14.2006",
+		"type": "desa",
+		"name": "WAWO WONUA"
+	},
+	{
+		"code": "74.05.14.2007",
+		"type": "desa",
+		"name": "WATU RAPA"
+	},
+	{
+		"code": "74.05.14.2008",
+		"type": "desa",
+		"name": "KOEONO"
+	},
+	{
+		"code": "74.05.14.2009",
+		"type": "desa",
+		"name": "LALOWUA"
+	},
+	{
+		"code": "74.05.14.2010",
+		"type": "desa",
+		"name": "MONDOE"
+	},
+	{
+		"code": "74.05.15",
+		"type": "kecamatan",
+		"name": "MOWILA"
+	},
+	{
+		"code": "74.05.15.2001",
+		"type": "desa",
+		"name": "KONDOANO"
+	},
+	{
+		"code": "74.05.15.2002",
+		"type": "desa",
+		"name": "PUNGGULAHI"
+	},
+	{
+		"code": "74.05.15.2003",
+		"type": "desa",
+		"name": "LAMOLORI"
+	},
+	{
+		"code": "74.05.15.2004",
+		"type": "desa",
+		"name": "TOLUWONUA"
+	},
+	{
+		"code": "74.05.15.2005",
+		"type": "desa",
+		"name": "MULYASARI"
+	},
+	{
+		"code": "74.05.15.2006",
+		"type": "desa",
+		"name": "RAKAWUTA"
+	},
+	{
+		"code": "74.05.15.2007",
+		"type": "desa",
+		"name": "RANOAOPA"
+	},
+	{
+		"code": "74.05.15.2008",
+		"type": "desa",
+		"name": "MOWILA"
+	},
+	{
+		"code": "74.05.15.2009",
+		"type": "desa",
+		"name": "LALOSINGI"
+	},
+	{
+		"code": "74.05.15.2010",
+		"type": "desa",
+		"name": "WUURA"
+	},
+	{
+		"code": "74.05.15.2011",
+		"type": "desa",
+		"name": "PUDAHOA"
+	},
+	{
+		"code": "74.05.15.2012",
+		"type": "desa",
+		"name": "MONAPA"
+	},
+	{
+		"code": "74.05.15.2013",
+		"type": "desa",
+		"name": "PUUWEHUKO"
+	},
+	{
+		"code": "74.05.15.2014",
+		"type": "desa",
+		"name": "RANOMBAYASA"
+	},
+	{
+		"code": "74.05.15.2015",
+		"type": "desa",
+		"name": "WANUAKONGGA"
+	},
+	{
+		"code": "74.05.15.2016",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.05.15.2017",
+		"type": "desa",
+		"name": "LAMEBARA"
+	},
+	{
+		"code": "74.05.15.2018",
+		"type": "desa",
+		"name": "TETESINGI"
+	},
+	{
+		"code": "74.05.15.2019",
+		"type": "desa",
+		"name": "WONUA SARI"
+	},
+	{
+		"code": "74.05.15.2020",
+		"type": "desa",
+		"name": "WONUA MONAPA"
+	},
+	{
+		"code": "74.05.16",
+		"type": "kecamatan",
+		"name": "MORAMO UTARA"
+	},
+	{
+		"code": "74.05.16.1002",
+		"type": "kelurahan",
+		"name": "LALOWARU"
+	},
+	{
+		"code": "74.05.16.2001",
+		"type": "desa",
+		"name": "PUASANA"
+	},
+	{
+		"code": "74.05.16.2003",
+		"type": "desa",
+		"name": "TANJUNG TIRAM"
+	},
+	{
+		"code": "74.05.16.2004",
+		"type": "desa",
+		"name": "WAWATU"
+	},
+	{
+		"code": "74.05.16.2005",
+		"type": "desa",
+		"name": "SANGGULA"
+	},
+	{
+		"code": "74.05.16.2006",
+		"type": "desa",
+		"name": "LOMBUEYA"
+	},
+	{
+		"code": "74.05.16.2007",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "74.05.16.2008",
+		"type": "desa",
+		"name": "LAMOKULA"
+	},
+	{
+		"code": "74.05.16.2009",
+		"type": "desa",
+		"name": "MATA WATU-WATU"
+	},
+	{
+		"code": "74.05.16.2010",
+		"type": "desa",
+		"name": "MATA LAMOKULA"
+	},
+	{
+		"code": "74.05.17",
+		"type": "kecamatan",
+		"name": "BUKE"
+	},
+	{
+		"code": "74.05.17.2001",
+		"type": "desa",
+		"name": "ANDOOLO UTAMA"
+	},
+	{
+		"code": "74.05.17.2002",
+		"type": "desa",
+		"name": "ANGGOKOTI"
+	},
+	{
+		"code": "74.05.17.2003",
+		"type": "desa",
+		"name": "ASEMBU MULYA"
+	},
+	{
+		"code": "74.05.17.2004",
+		"type": "desa",
+		"name": "AWALO"
+	},
+	{
+		"code": "74.05.17.2005",
+		"type": "desa",
+		"name": "ADAKA JAYA"
+	},
+	{
+		"code": "74.05.17.2006",
+		"type": "desa",
+		"name": "BUKE"
+	},
+	{
+		"code": "74.05.17.2007",
+		"type": "desa",
+		"name": "PELANDIA"
+	},
+	{
+		"code": "74.05.17.2008",
+		"type": "desa",
+		"name": "PUUDARIA"
+	},
+	{
+		"code": "74.05.17.2009",
+		"type": "desa",
+		"name": "RAHAMENDAA"
+	},
+	{
+		"code": "74.05.17.2010",
+		"type": "desa",
+		"name": "SILEA JAYA"
+	},
+	{
+		"code": "74.05.17.2011",
+		"type": "desa",
+		"name": "TIRTO MARTANI"
+	},
+	{
+		"code": "74.05.17.2012",
+		"type": "desa",
+		"name": "TETENGGOLASA"
+	},
+	{
+		"code": "74.05.17.2013",
+		"type": "desa",
+		"name": "ADAYU INDAH"
+	},
+	{
+		"code": "74.05.17.2014",
+		"type": "desa",
+		"name": "WANUA MAROA"
+	},
+	{
+		"code": "74.05.17.2015",
+		"type": "desa",
+		"name": "WULELE JAYA"
+	},
+	{
+		"code": "74.05.17.2016",
+		"type": "desa",
+		"name": "RANOOHA LESTARI"
+	},
+	{
+		"code": "74.05.18",
+		"type": "kecamatan",
+		"name": "WOLASI"
+	},
+	{
+		"code": "74.05.18.2001",
+		"type": "desa",
+		"name": "WOLASI"
+	},
+	{
+		"code": "74.05.18.2002",
+		"type": "desa",
+		"name": "AOMA"
+	},
+	{
+		"code": "74.05.18.2003",
+		"type": "desa",
+		"name": "AMOITO JAYA"
+	},
+	{
+		"code": "74.05.18.2004",
+		"type": "desa",
+		"name": "LELEKA"
+	},
+	{
+		"code": "74.05.18.2005",
+		"type": "desa",
+		"name": "MATA WOLASI"
+	},
+	{
+		"code": "74.05.18.2006",
+		"type": "desa",
+		"name": "RANOWILA"
+	},
+	{
+		"code": "74.05.18.2007",
+		"type": "desa",
+		"name": "AUNUPE"
+	},
+	{
+		"code": "74.05.19",
+		"type": "kecamatan",
+		"name": "LAEYA"
+	},
+	{
+		"code": "74.05.19.1001",
+		"type": "kelurahan",
+		"name": "PUUNGGALUKU"
+	},
+	{
+		"code": "74.05.19.1002",
+		"type": "kelurahan",
+		"name": "AMBALODANGGE"
+	},
+	{
+		"code": "74.05.19.2003",
+		"type": "desa",
+		"name": "AEPODU"
+	},
+	{
+		"code": "74.05.19.2004",
+		"type": "desa",
+		"name": "RAMBU RAMBU"
+	},
+	{
+		"code": "74.05.19.2005",
+		"type": "desa",
+		"name": "OMBU OMBU JAYA"
+	},
+	{
+		"code": "74.05.19.2006",
+		"type": "desa",
+		"name": "LAMONG JAYA"
+	},
+	{
+		"code": "74.05.19.2007",
+		"type": "desa",
+		"name": "LEREPAKO"
+	},
+	{
+		"code": "74.05.19.2008",
+		"type": "desa",
+		"name": "AMBESEA"
+	},
+	{
+		"code": "74.05.19.2009",
+		"type": "desa",
+		"name": "LAEYA"
+	},
+	{
+		"code": "74.05.19.2010",
+		"type": "desa",
+		"name": "LABOKEO"
+	},
+	{
+		"code": "74.05.19.2011",
+		"type": "desa",
+		"name": "TOROBULU"
+	},
+	{
+		"code": "74.05.19.2012",
+		"type": "desa",
+		"name": "ANDUNA"
+	},
+	{
+		"code": "74.05.19.2013",
+		"type": "desa",
+		"name": "AMBAKUMINA"
+	},
+	{
+		"code": "74.05.19.2014",
+		"type": "desa",
+		"name": "LAMBAKARA"
+	},
+	{
+		"code": "74.05.19.2015",
+		"type": "desa",
+		"name": "ANGGOROBOTI"
+	},
+	{
+		"code": "74.05.19.2016",
+		"type": "desa",
+		"name": "WONUA KONGGA"
+	},
+	{
+		"code": "74.05.19.2017",
+		"type": "desa",
+		"name": "PUUWULO"
+	},
+	{
+		"code": "74.05.20",
+		"type": "kecamatan",
+		"name": "BAITO"
+	},
+	{
+		"code": "74.05.20.2001",
+		"type": "desa",
+		"name": "AMOSARA"
+	},
+	{
+		"code": "74.05.20.2002",
+		"type": "desa",
+		"name": "BAITO"
+	},
+	{
+		"code": "74.05.20.2003",
+		"type": "desa",
+		"name": "MATABUBU"
+	},
+	{
+		"code": "74.05.20.2004",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "74.05.20.2005",
+		"type": "desa",
+		"name": "SAMBAHULE"
+	},
+	{
+		"code": "74.05.20.2006",
+		"type": "desa",
+		"name": "TOLIHE"
+	},
+	{
+		"code": "74.05.20.2007",
+		"type": "desa",
+		"name": "WONUA RAYA"
+	},
+	{
+		"code": "74.05.20.2008",
+		"type": "desa",
+		"name": "AHUANGGULURI"
+	},
+	{
+		"code": "74.05.21",
+		"type": "kecamatan",
+		"name": "BASALA"
+	},
+	{
+		"code": "74.05.21.2001",
+		"type": "desa",
+		"name": "IWOIMENDORO"
+	},
+	{
+		"code": "74.05.21.2002",
+		"type": "desa",
+		"name": "EPEESI"
+	},
+	{
+		"code": "74.05.21.2003",
+		"type": "desa",
+		"name": "LERE"
+	},
+	{
+		"code": "74.05.21.2004",
+		"type": "desa",
+		"name": "LIPUMASAGENA"
+	},
+	{
+		"code": "74.05.21.2005",
+		"type": "desa",
+		"name": "LAMBANDIA"
+	},
+	{
+		"code": "74.05.21.2006",
+		"type": "desa",
+		"name": "POLO POLOLI"
+	},
+	{
+		"code": "74.05.21.2007",
+		"type": "desa",
+		"name": "BASALA"
+	},
+	{
+		"code": "74.05.21.2008",
+		"type": "desa",
+		"name": "TOMBEKUKU"
+	},
+	{
+		"code": "74.05.21.2009",
+		"type": "desa",
+		"name": "TEPOROMBUA"
+	},
+	{
+		"code": "74.05.22",
+		"type": "kecamatan",
+		"name": "RANOMEETO BARAT"
+	},
+	{
+		"code": "74.05.22.2001",
+		"type": "desa",
+		"name": "AMOKUNI"
+	},
+	{
+		"code": "74.05.22.2002",
+		"type": "desa",
+		"name": "SINDANG KASIH"
+	},
+	{
+		"code": "74.05.22.2003",
+		"type": "desa",
+		"name": "JATI BALI"
+	},
+	{
+		"code": "74.05.22.2004",
+		"type": "desa",
+		"name": "LAIKANDONGA"
+	},
+	{
+		"code": "74.05.22.2005",
+		"type": "desa",
+		"name": "BORO-BORO LAMEURU"
+	},
+	{
+		"code": "74.05.22.2006",
+		"type": "desa",
+		"name": "OPAASI"
+	},
+	{
+		"code": "74.05.22.2007",
+		"type": "desa",
+		"name": "LAMERURU"
+	},
+	{
+		"code": "74.05.22.2008",
+		"type": "desa",
+		"name": "AMBEKO"
+	},
+	{
+		"code": "74.05.22.2009",
+		"type": "desa",
+		"name": "TUNDUNO"
+	},
+	{
+		"code": "74.06",
+		"type": "kabupaten",
+		"name": "KAB. BOMBANA"
+	},
+	{
+		"code": "74.06.01",
+		"type": "kecamatan",
+		"name": "POLEANG"
+	},
+	{
+		"code": "74.06.01.1007",
+		"type": "kelurahan",
+		"name": "BOEARA"
+	},
+	{
+		"code": "74.06.01.1008",
+		"type": "kelurahan",
+		"name": "KASTARIB"
+	},
+	{
+		"code": "74.06.01.1010",
+		"type": "kelurahan",
+		"name": "BOEPINANG"
+	},
+	{
+		"code": "74.06.01.1015",
+		"type": "kelurahan",
+		"name": "BOEPINANG BARAT"
+	},
+	{
+		"code": "74.06.01.1016",
+		"type": "kelurahan",
+		"name": "BARANGKA"
+	},
+	{
+		"code": "74.06.01.1017",
+		"type": "kelurahan",
+		"name": "KASABOLO"
+	},
+	{
+		"code": "74.06.01.2009",
+		"type": "desa",
+		"name": "POKORUMBA"
+	},
+	{
+		"code": "74.06.01.2011",
+		"type": "desa",
+		"name": "PALLIMAE"
+	},
+	{
+		"code": "74.06.01.2018",
+		"type": "desa",
+		"name": "SALOSA"
+	},
+	{
+		"code": "74.06.01.2019",
+		"type": "desa",
+		"name": "MATIRO WALIE"
+	},
+	{
+		"code": "74.06.02",
+		"type": "kecamatan",
+		"name": "POLEANG TIMUR"
+	},
+	{
+		"code": "74.06.02.1011",
+		"type": "kelurahan",
+		"name": "BAMBAEA"
+	},
+	{
+		"code": "74.06.02.1015",
+		"type": "kelurahan",
+		"name": "PUU LEMO"
+	},
+	{
+		"code": "74.06.02.2003",
+		"type": "desa",
+		"name": "TEPPOE"
+	},
+	{
+		"code": "74.06.02.2004",
+		"type": "desa",
+		"name": "BIRU"
+	},
+	{
+		"code": "74.06.02.2010",
+		"type": "desa",
+		"name": "MAMBO"
+	},
+	{
+		"code": "74.06.03",
+		"type": "kecamatan",
+		"name": "RAROWATU"
+	},
+	{
+		"code": "74.06.03.1010",
+		"type": "kelurahan",
+		"name": "TAUBONTO"
+	},
+	{
+		"code": "74.06.03.2001",
+		"type": "desa",
+		"name": "RAU RAU"
+	},
+	{
+		"code": "74.06.03.2008",
+		"type": "desa",
+		"name": "LADUMPI"
+	},
+	{
+		"code": "74.06.03.2009",
+		"type": "desa",
+		"name": "RAROWATU"
+	},
+	{
+		"code": "74.06.03.2011",
+		"type": "desa",
+		"name": "LAKOMEA"
+	},
+	{
+		"code": "74.06.03.2012",
+		"type": "desa",
+		"name": "PANGKURI"
+	},
+	{
+		"code": "74.06.03.2013",
+		"type": "desa",
+		"name": "LAMPEANTANI"
+	},
+	{
+		"code": "74.06.03.2014",
+		"type": "desa",
+		"name": "WATU KALANGKARI"
+	},
+	{
+		"code": "74.06.03.2015",
+		"type": "desa",
+		"name": "TAHI ITE"
+	},
+	{
+		"code": "74.06.04",
+		"type": "kecamatan",
+		"name": "RUMBIA"
+	},
+	{
+		"code": "74.06.04.1002",
+		"type": "kelurahan",
+		"name": "LAMERORO"
+	},
+	{
+		"code": "74.06.04.1003",
+		"type": "kelurahan",
+		"name": "LAMPOPALA"
+	},
+	{
+		"code": "74.06.04.1004",
+		"type": "kelurahan",
+		"name": "DOULE"
+	},
+	{
+		"code": "74.06.04.1005",
+		"type": "kelurahan",
+		"name": "KASIPUTE"
+	},
+	{
+		"code": "74.06.04.2001",
+		"type": "desa",
+		"name": "LANTAWONUA"
+	},
+	{
+		"code": "74.06.05",
+		"type": "kecamatan",
+		"name": "KABAENA"
+	},
+	{
+		"code": "74.06.05.1009",
+		"type": "kelurahan",
+		"name": "TEOMOKOLE"
+	},
+	{
+		"code": "74.06.05.1016",
+		"type": "kelurahan",
+		"name": "RAHAMPUU"
+	},
+	{
+		"code": "74.06.05.2010",
+		"type": "desa",
+		"name": "RAHADOPI"
+	},
+	{
+		"code": "74.06.05.2011",
+		"type": "desa",
+		"name": "TIRONGKOTUA"
+	},
+	{
+		"code": "74.06.06",
+		"type": "kecamatan",
+		"name": "KABAENA TIMUR"
+	},
+	{
+		"code": "74.06.06.1009",
+		"type": "kelurahan",
+		"name": "DONGKALA"
+	},
+	{
+		"code": "74.06.06.1010",
+		"type": "kelurahan",
+		"name": "LAMBALE"
+	},
+	{
+		"code": "74.06.06.2005",
+		"type": "desa",
+		"name": "WUMBUBURO"
+	},
+	{
+		"code": "74.06.06.2006",
+		"type": "desa",
+		"name": "BALO"
+	},
+	{
+		"code": "74.06.06.2007",
+		"type": "desa",
+		"name": "TOLI-TOLI"
+	},
+	{
+		"code": "74.06.06.2008",
+		"type": "desa",
+		"name": "TAPUHAKA"
+	},
+	{
+		"code": "74.06.06.2011",
+		"type": "desa",
+		"name": "BUNGI-BUNGI"
+	},
+	{
+		"code": "74.06.07",
+		"type": "kecamatan",
+		"name": "POLEANG BARAT"
+	},
+	{
+		"code": "74.06.07.2001",
+		"type": "desa",
+		"name": "BABAMOLINGKU"
+	},
+	{
+		"code": "74.06.07.2002",
+		"type": "desa",
+		"name": "TOARI BOMBANA"
+	},
+	{
+		"code": "74.06.07.2003",
+		"type": "desa",
+		"name": "TIMBALA"
+	},
+	{
+		"code": "74.06.07.2004",
+		"type": "desa",
+		"name": "RANOKOMEA"
+	},
+	{
+		"code": "74.06.07.2005",
+		"type": "desa",
+		"name": "RAKADUA"
+	},
+	{
+		"code": "74.06.07.2006",
+		"type": "desa",
+		"name": "LAMEONG-MEONG"
+	},
+	{
+		"code": "74.06.07.2007",
+		"type": "desa",
+		"name": "PABIRING"
+	},
+	{
+		"code": "74.06.07.2008",
+		"type": "desa",
+		"name": "BALASARI"
+	},
+	{
+		"code": "74.06.07.2009",
+		"type": "desa",
+		"name": "BULUMANAI"
+	},
+	{
+		"code": "74.06.07.2010",
+		"type": "desa",
+		"name": "MATABUNDU"
+	},
+	{
+		"code": "74.06.07.2011",
+		"type": "desa",
+		"name": "ANALERE"
+	},
+	{
+		"code": "74.06.08",
+		"type": "kecamatan",
+		"name": "MATA OLEO"
+	},
+	{
+		"code": "74.06.08.2001",
+		"type": "desa",
+		"name": "POMONTORO"
+	},
+	{
+		"code": "74.06.08.2002",
+		"type": "desa",
+		"name": "LIANO"
+	},
+	{
+		"code": "74.06.08.2003",
+		"type": "desa",
+		"name": "PULAU TAMBAKO"
+	},
+	{
+		"code": "74.06.08.2004",
+		"type": "desa",
+		"name": "LORA"
+	},
+	{
+		"code": "74.06.08.2005",
+		"type": "desa",
+		"name": "TOLI-TOLI"
+	},
+	{
+		"code": "74.06.08.2006",
+		"type": "desa",
+		"name": "TAJUNCU"
+	},
+	{
+		"code": "74.06.08.2007",
+		"type": "desa",
+		"name": "MAWAR"
+	},
+	{
+		"code": "74.06.08.2008",
+		"type": "desa",
+		"name": "LALOA"
+	},
+	{
+		"code": "74.06.08.2009",
+		"type": "desa",
+		"name": "BATUSAMPE INDAH"
+	},
+	{
+		"code": "74.06.08.2010",
+		"type": "desa",
+		"name": "HAMBAWA"
+	},
+	{
+		"code": "74.06.08.2011",
+		"type": "desa",
+		"name": "PU'U WAEYA"
+	},
+	{
+		"code": "74.06.09",
+		"type": "kecamatan",
+		"name": "RAROWATU UTARA"
+	},
+	{
+		"code": "74.06.09.1008",
+		"type": "kelurahan",
+		"name": "ANEKA MARGA"
+	},
+	{
+		"code": "74.06.09.2001",
+		"type": "desa",
+		"name": "WUMBUBANGKA"
+	},
+	{
+		"code": "74.06.09.2002",
+		"type": "desa",
+		"name": "HUKAEA"
+	},
+	{
+		"code": "74.06.09.2003",
+		"type": "desa",
+		"name": "LANTOWUA"
+	},
+	{
+		"code": "74.06.09.2004",
+		"type": "desa",
+		"name": "TEMBE"
+	},
+	{
+		"code": "74.06.09.2005",
+		"type": "desa",
+		"name": "WATU MENDE"
+	},
+	{
+		"code": "74.06.09.2006",
+		"type": "desa",
+		"name": "MARGA JAYA"
+	},
+	{
+		"code": "74.06.09.2007",
+		"type": "desa",
+		"name": "TUNAS BARU"
+	},
+	{
+		"code": "74.06.10",
+		"type": "kecamatan",
+		"name": "POLEANG UTARA"
+	},
+	{
+		"code": "74.06.10.2001",
+		"type": "desa",
+		"name": "TANPABULU"
+	},
+	{
+		"code": "74.06.10.2002",
+		"type": "desa",
+		"name": "TANAH POLEANG"
+	},
+	{
+		"code": "74.06.10.2003",
+		"type": "desa",
+		"name": "KARYA BARU"
+	},
+	{
+		"code": "74.06.10.2004",
+		"type": "desa",
+		"name": "TOBURI"
+	},
+	{
+		"code": "74.06.10.2005",
+		"type": "desa",
+		"name": "ROMPU ROMPU"
+	},
+	{
+		"code": "74.06.10.2006",
+		"type": "desa",
+		"name": "PUSU EA"
+	},
+	{
+		"code": "74.06.10.2007",
+		"type": "desa",
+		"name": "LAWATU EA"
+	},
+	{
+		"code": "74.06.10.2008",
+		"type": "desa",
+		"name": "WAMBAREMA"
+	},
+	{
+		"code": "74.06.11",
+		"type": "kecamatan",
+		"name": "POLEANG SELATAN"
+	},
+	{
+		"code": "74.06.11.2001",
+		"type": "desa",
+		"name": "BATU PUTIH"
+	},
+	{
+		"code": "74.06.11.2002",
+		"type": "desa",
+		"name": "WAEMPUTANG"
+	},
+	{
+		"code": "74.06.11.2003",
+		"type": "desa",
+		"name": "KALI BARU"
+	},
+	{
+		"code": "74.06.11.2004",
+		"type": "desa",
+		"name": "AKACIPONG"
+	},
+	{
+		"code": "74.06.11.2005",
+		"type": "desa",
+		"name": "LA EA"
+	},
+	{
+		"code": "74.06.12",
+		"type": "kecamatan",
+		"name": "POLEANG TENGGARA"
+	},
+	{
+		"code": "74.06.12.2001",
+		"type": "desa",
+		"name": "LARETE"
+	},
+	{
+		"code": "74.06.12.2002",
+		"type": "desa",
+		"name": "LEMO"
+	},
+	{
+		"code": "74.06.12.2003",
+		"type": "desa",
+		"name": "TERAPUNG"
+	},
+	{
+		"code": "74.06.12.2004",
+		"type": "desa",
+		"name": "LAMOARE"
+	},
+	{
+		"code": "74.06.12.2005",
+		"type": "desa",
+		"name": "RAMBAHA"
+	},
+	{
+		"code": "74.06.13",
+		"type": "kecamatan",
+		"name": "KABAENA SELATAN"
+	},
+	{
+		"code": "74.06.13.2001",
+		"type": "desa",
+		"name": "LANGKEMA"
+	},
+	{
+		"code": "74.06.13.2002",
+		"type": "desa",
+		"name": "BATUAWU"
+	},
+	{
+		"code": "74.06.13.2003",
+		"type": "desa",
+		"name": "PONGKALAERO"
+	},
+	{
+		"code": "74.06.13.2004",
+		"type": "desa",
+		"name": "PUU NUNU"
+	},
+	{
+		"code": "74.06.14",
+		"type": "kecamatan",
+		"name": "KABAENA BARAT"
+	},
+	{
+		"code": "74.06.14.1001",
+		"type": "kelurahan",
+		"name": "SIKELI"
+	},
+	{
+		"code": "74.06.14.2002",
+		"type": "desa",
+		"name": "BALIARA"
+	},
+	{
+		"code": "74.06.14.2003",
+		"type": "desa",
+		"name": "RAHANTARI"
+	},
+	{
+		"code": "74.06.14.2004",
+		"type": "desa",
+		"name": "BALIARA KEPULAUAN"
+	},
+	{
+		"code": "74.06.14.2005",
+		"type": "desa",
+		"name": "BALIARA SELATAN"
+	},
+	{
+		"code": "74.06.15",
+		"type": "kecamatan",
+		"name": "KABAENA UTARA"
+	},
+	{
+		"code": "74.06.15.2001",
+		"type": "desa",
+		"name": "MAPILA"
+	},
+	{
+		"code": "74.06.15.2002",
+		"type": "desa",
+		"name": "WUMBULASA"
+	},
+	{
+		"code": "74.06.15.2003",
+		"type": "desa",
+		"name": "SANGIA MAKMUR"
+	},
+	{
+		"code": "74.06.15.2004",
+		"type": "desa",
+		"name": "EEMOKOLO"
+	},
+	{
+		"code": "74.06.15.2005",
+		"type": "desa",
+		"name": "TEDUBARA"
+	},
+	{
+		"code": "74.06.15.2006",
+		"type": "desa",
+		"name": "LAROLANU"
+	},
+	{
+		"code": "74.06.16",
+		"type": "kecamatan",
+		"name": "KABAENA TENGAH"
+	},
+	{
+		"code": "74.06.16.2001",
+		"type": "desa",
+		"name": "LAMONGGI"
+	},
+	{
+		"code": "74.06.16.2002",
+		"type": "desa",
+		"name": "TANGKENO"
+	},
+	{
+		"code": "74.06.16.2003",
+		"type": "desa",
+		"name": "LENGORA"
+	},
+	{
+		"code": "74.06.16.2004",
+		"type": "desa",
+		"name": "ENANO"
+	},
+	{
+		"code": "74.06.16.2005",
+		"type": "desa",
+		"name": "ULUNGKURA"
+	},
+	{
+		"code": "74.06.16.2006",
+		"type": "desa",
+		"name": "LENGORA SELATAN"
+	},
+	{
+		"code": "74.06.16.2007",
+		"type": "desa",
+		"name": "LENGORA PANTAI"
+	},
+	{
+		"code": "74.06.17",
+		"type": "kecamatan",
+		"name": "KEP. MASALOKA RAYA"
+	},
+	{
+		"code": "74.06.17.2001",
+		"type": "desa",
+		"name": "MASALOKA"
+	},
+	{
+		"code": "74.06.17.2002",
+		"type": "desa",
+		"name": "BATU LAMBURI"
+	},
+	{
+		"code": "74.06.17.2003",
+		"type": "desa",
+		"name": "MASALOKA SELATAN"
+	},
+	{
+		"code": "74.06.17.2004",
+		"type": "desa",
+		"name": "MASALOKA TIMUR"
+	},
+	{
+		"code": "74.06.17.2005",
+		"type": "desa",
+		"name": "MASALOKA BARAT"
+	},
+	{
+		"code": "74.06.18",
+		"type": "kecamatan",
+		"name": "RUMBIA TENGAH"
+	},
+	{
+		"code": "74.06.18.1001",
+		"type": "kelurahan",
+		"name": "LAURU"
+	},
+	{
+		"code": "74.06.18.1002",
+		"type": "kelurahan",
+		"name": "POEA"
+	},
+	{
+		"code": "74.06.18.1003",
+		"type": "kelurahan",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "74.06.18.2004",
+		"type": "desa",
+		"name": "TAPUHAHI"
+	},
+	{
+		"code": "74.06.18.2005",
+		"type": "desa",
+		"name": "LAMPATA"
+	},
+	{
+		"code": "74.06.19",
+		"type": "kecamatan",
+		"name": "POLEANG TENGAH"
+	},
+	{
+		"code": "74.06.19.2001",
+		"type": "desa",
+		"name": "MULAENO"
+	},
+	{
+		"code": "74.06.19.2002",
+		"type": "desa",
+		"name": "LEBO EA"
+	},
+	{
+		"code": "74.06.19.2003",
+		"type": "desa",
+		"name": "PARIA"
+	},
+	{
+		"code": "74.06.19.2004",
+		"type": "desa",
+		"name": "POLEONDRO"
+	},
+	{
+		"code": "74.06.20",
+		"type": "kecamatan",
+		"name": "TONTONUNU"
+	},
+	{
+		"code": "74.06.20.2001",
+		"type": "desa",
+		"name": "TONTONUNU"
+	},
+	{
+		"code": "74.06.20.2002",
+		"type": "desa",
+		"name": "TONGKOSENG"
+	},
+	{
+		"code": "74.06.20.2003",
+		"type": "desa",
+		"name": "TETE HAKA"
+	},
+	{
+		"code": "74.06.20.2004",
+		"type": "desa",
+		"name": "WATU MELOMBA"
+	},
+	{
+		"code": "74.06.20.2005",
+		"type": "desa",
+		"name": "PUU WONUA"
+	},
+	{
+		"code": "74.06.21",
+		"type": "kecamatan",
+		"name": "LANTARI JAYA"
+	},
+	{
+		"code": "74.06.21.2001",
+		"type": "desa",
+		"name": "LAMBIKASI"
+	},
+	{
+		"code": "74.06.21.2002",
+		"type": "desa",
+		"name": "LANTARI"
+	},
+	{
+		"code": "74.06.21.2003",
+		"type": "desa",
+		"name": "LANGKOWALA"
+	},
+	{
+		"code": "74.06.21.2004",
+		"type": "desa",
+		"name": "PASARE APUA"
+	},
+	{
+		"code": "74.06.21.2006",
+		"type": "desa",
+		"name": "ANUGERAH"
+	},
+	{
+		"code": "74.06.21.2007",
+		"type": "desa",
+		"name": "KALAERO"
+	},
+	{
+		"code": "74.06.21.2008",
+		"type": "desa",
+		"name": "TINABITE"
+	},
+	{
+		"code": "74.06.21.2009",
+		"type": "desa",
+		"name": "RARONGKEU"
+	},
+	{
+		"code": "74.06.21.2010",
+		"type": "desa",
+		"name": "WATU-WATU"
+	},
+	{
+		"code": "74.06.22",
+		"type": "kecamatan",
+		"name": "MATA USU"
+	},
+	{
+		"code": "74.06.22.2001",
+		"type": "desa",
+		"name": "KOLOMBI MATAUSU"
+	},
+	{
+		"code": "74.06.22.2002",
+		"type": "desa",
+		"name": "MORENGKE"
+	},
+	{
+		"code": "74.06.22.2003",
+		"type": "desa",
+		"name": "WIA-WIA"
+	},
+	{
+		"code": "74.06.22.2004",
+		"type": "desa",
+		"name": "LAMURU"
+	},
+	{
+		"code": "74.06.22.2005",
+		"type": "desa",
+		"name": "TOTOLE"
+	},
+	{
+		"code": "74.07",
+		"type": "kabupaten",
+		"name": "KAB. WAKATOBI"
+	},
+	{
+		"code": "74.07.01",
+		"type": "kecamatan",
+		"name": "WANGI-WANGI"
+	},
+	{
+		"code": "74.07.01.1002",
+		"type": "kelurahan",
+		"name": "PONGO"
+	},
+	{
+		"code": "74.07.01.1003",
+		"type": "kelurahan",
+		"name": "WANCI"
+	},
+	{
+		"code": "74.07.01.1004",
+		"type": "kelurahan",
+		"name": "WANDOKA"
+	},
+	{
+		"code": "74.07.01.1007",
+		"type": "kelurahan",
+		"name": "WAETUNO"
+	},
+	{
+		"code": "74.07.01.1025",
+		"type": "kelurahan",
+		"name": "WANDOKA UTARA"
+	},
+	{
+		"code": "74.07.01.1026",
+		"type": "kelurahan",
+		"name": "WANDOKA SELATAN"
+	},
+	{
+		"code": "74.07.01.2005",
+		"type": "desa",
+		"name": "SOMBU"
+	},
+	{
+		"code": "74.07.01.2006",
+		"type": "desa",
+		"name": "WAHA"
+	},
+	{
+		"code": "74.07.01.2008",
+		"type": "desa",
+		"name": "TINDOI"
+	},
+	{
+		"code": "74.07.01.2009",
+		"type": "desa",
+		"name": "MALEKO"
+	},
+	{
+		"code": "74.07.01.2013",
+		"type": "desa",
+		"name": "LONGA"
+	},
+	{
+		"code": "74.07.01.2022",
+		"type": "desa",
+		"name": "PADA RAYA MAKMUR"
+	},
+	{
+		"code": "74.07.01.2023",
+		"type": "desa",
+		"name": "WAELUMU"
+	},
+	{
+		"code": "74.07.01.2024",
+		"type": "desa",
+		"name": "PATUNO"
+	},
+	{
+		"code": "74.07.01.2027",
+		"type": "desa",
+		"name": "WAGINOPO"
+	},
+	{
+		"code": "74.07.01.2028",
+		"type": "desa",
+		"name": "TINDOI TIMUR"
+	},
+	{
+		"code": "74.07.01.2029",
+		"type": "desa",
+		"name": "POSALU"
+	},
+	{
+		"code": "74.07.01.2030",
+		"type": "desa",
+		"name": "KOROE ONAWA"
+	},
+	{
+		"code": "74.07.01.2031",
+		"type": "desa",
+		"name": "WAPIA-PIA"
+	},
+	{
+		"code": "74.07.01.2032",
+		"type": "desa",
+		"name": "POOKAMBUA"
+	},
+	{
+		"code": "74.07.02",
+		"type": "kecamatan",
+		"name": "KALEDUPA"
+	},
+	{
+		"code": "74.07.02.1002",
+		"type": "kelurahan",
+		"name": "LAOLUA"
+	},
+	{
+		"code": "74.07.02.1004",
+		"type": "kelurahan",
+		"name": "AMBEUA"
+	},
+	{
+		"code": "74.07.02.1005",
+		"type": "kelurahan",
+		"name": "LAGIWAE"
+	},
+	{
+		"code": "74.07.02.1015",
+		"type": "kelurahan",
+		"name": "BURANGA"
+	},
+	{
+		"code": "74.07.02.2001",
+		"type": "desa",
+		"name": "SOMBANO"
+	},
+	{
+		"code": "74.07.02.2003",
+		"type": "desa",
+		"name": "SAMABAHARI"
+	},
+	{
+		"code": "74.07.02.2006",
+		"type": "desa",
+		"name": "OLLO"
+	},
+	{
+		"code": "74.07.02.2007",
+		"type": "desa",
+		"name": "HARUO"
+	},
+	{
+		"code": "74.07.02.2016",
+		"type": "desa",
+		"name": "BALASUNA"
+	},
+	{
+		"code": "74.07.02.2018",
+		"type": "desa",
+		"name": "MANTIGOLA MAKMUR"
+	},
+	{
+		"code": "74.07.02.2019",
+		"type": "desa",
+		"name": "BALASUNA SELATAN"
+	},
+	{
+		"code": "74.07.02.2020",
+		"type": "desa",
+		"name": "OLLO SELATAN"
+	},
+	{
+		"code": "74.07.02.2021",
+		"type": "desa",
+		"name": "WADURI"
+	},
+	{
+		"code": "74.07.02.2022",
+		"type": "desa",
+		"name": "LEWUTO"
+	},
+	{
+		"code": "74.07.02.2023",
+		"type": "desa",
+		"name": "AMBEUA RAYA"
+	},
+	{
+		"code": "74.07.02.2024",
+		"type": "desa",
+		"name": "KALIMAS"
+	},
+	{
+		"code": "74.07.03",
+		"type": "kecamatan",
+		"name": "TOMIA"
+	},
+	{
+		"code": "74.07.03.1001",
+		"type": "kelurahan",
+		"name": "WAHA"
+	},
+	{
+		"code": "74.07.03.1016",
+		"type": "kelurahan",
+		"name": "ONEMAY"
+	},
+	{
+		"code": "74.07.03.2002",
+		"type": "desa",
+		"name": "WAITII BARAT"
+	},
+	{
+		"code": "74.07.03.2003",
+		"type": "desa",
+		"name": "LAMANGGAU"
+	},
+	{
+		"code": "74.07.03.2004",
+		"type": "desa",
+		"name": "WAITI"
+	},
+	{
+		"code": "74.07.03.2012",
+		"type": "desa",
+		"name": "RUNDUMA"
+	},
+	{
+		"code": "74.07.03.2015",
+		"type": "desa",
+		"name": "PATUA"
+	},
+	{
+		"code": "74.07.03.2017",
+		"type": "desa",
+		"name": "TEEMOANE"
+	},
+	{
+		"code": "74.07.03.2018",
+		"type": "desa",
+		"name": "KOLLO SOHA"
+	},
+	{
+		"code": "74.07.03.2019",
+		"type": "desa",
+		"name": "PATUA II"
+	},
+	{
+		"code": "74.07.04",
+		"type": "kecamatan",
+		"name": "BINONGKO"
+	},
+	{
+		"code": "74.07.04.1005",
+		"type": "kelurahan",
+		"name": "TAIPABU"
+	},
+	{
+		"code": "74.07.04.1007",
+		"type": "kelurahan",
+		"name": "PALAHIDU"
+	},
+	{
+		"code": "74.07.04.1010",
+		"type": "kelurahan",
+		"name": "WALI"
+	},
+	{
+		"code": "74.07.04.1012",
+		"type": "kelurahan",
+		"name": "RUKUWA"
+	},
+	{
+		"code": "74.07.04.2006",
+		"type": "desa",
+		"name": "MAKORO"
+	},
+	{
+		"code": "74.07.04.2008",
+		"type": "desa",
+		"name": "KAMPO KAMPO"
+	},
+	{
+		"code": "74.07.04.2009",
+		"type": "desa",
+		"name": "LAGONGGA"
+	},
+	{
+		"code": "74.07.04.2011",
+		"type": "desa",
+		"name": "PALAHIDU BARAT"
+	},
+	{
+		"code": "74.07.04.2013",
+		"type": "desa",
+		"name": "JAYA MAKMUR"
+	},
+	{
+		"code": "74.07.05",
+		"type": "kecamatan",
+		"name": "WANGI WANGI SELATAN"
+	},
+	{
+		"code": "74.07.05.1016",
+		"type": "kelurahan",
+		"name": "MANDATI II"
+	},
+	{
+		"code": "74.07.05.1017",
+		"type": "kelurahan",
+		"name": "MANDATI I"
+	},
+	{
+		"code": "74.07.05.1025",
+		"type": "kelurahan",
+		"name": "MANDATI III"
+	},
+	{
+		"code": "74.07.05.2011",
+		"type": "desa",
+		"name": "KAPOTA"
+	},
+	{
+		"code": "74.07.05.2012",
+		"type": "desa",
+		"name": "KOMALA"
+	},
+	{
+		"code": "74.07.05.2013",
+		"type": "desa",
+		"name": "WUNGKA"
+	},
+	{
+		"code": "74.07.05.2014",
+		"type": "desa",
+		"name": "MATAHORA"
+	},
+	{
+		"code": "74.07.05.2015",
+		"type": "desa",
+		"name": "KABITA"
+	},
+	{
+		"code": "74.07.05.2018",
+		"type": "desa",
+		"name": "MOLA UTARA"
+	},
+	{
+		"code": "74.07.05.2019",
+		"type": "desa",
+		"name": "MOLA SELATAN"
+	},
+	{
+		"code": "74.07.05.2020",
+		"type": "desa",
+		"name": "NUMANA"
+	},
+	{
+		"code": "74.07.05.2021",
+		"type": "desa",
+		"name": "LIYA MAWI"
+	},
+	{
+		"code": "74.07.05.2022",
+		"type": "desa",
+		"name": "LIYA TOGO"
+	},
+	{
+		"code": "74.07.05.2023",
+		"type": "desa",
+		"name": "KAPOTA UTARA"
+	},
+	{
+		"code": "74.07.05.2024",
+		"type": "desa",
+		"name": "KABITA TOGO"
+	},
+	{
+		"code": "74.07.05.2026",
+		"type": "desa",
+		"name": "LIYA ONEMAELANGKA"
+	},
+	{
+		"code": "74.07.05.2027",
+		"type": "desa",
+		"name": "WISATA KOLO"
+	},
+	{
+		"code": "74.07.05.2028",
+		"type": "desa",
+		"name": "MOLA SAMATURU"
+	},
+	{
+		"code": "74.07.05.2029",
+		"type": "desa",
+		"name": "MOLA BAHARI"
+	},
+	{
+		"code": "74.07.05.2030",
+		"type": "desa",
+		"name": "MOLA NELAYAN BHAKTI"
+	},
+	{
+		"code": "74.07.06",
+		"type": "kecamatan",
+		"name": "KALEDUPA SELATAN"
+	},
+	{
+		"code": "74.07.06.2001",
+		"type": "desa",
+		"name": "TAMPARA"
+	},
+	{
+		"code": "74.07.06.2002",
+		"type": "desa",
+		"name": "KASWARI"
+	},
+	{
+		"code": "74.07.06.2003",
+		"type": "desa",
+		"name": "PAJAM"
+	},
+	{
+		"code": "74.07.06.2004",
+		"type": "desa",
+		"name": "LANGGE"
+	},
+	{
+		"code": "74.07.06.2005",
+		"type": "desa",
+		"name": "TANOMEHA"
+	},
+	{
+		"code": "74.07.06.2006",
+		"type": "desa",
+		"name": "LENTEA"
+	},
+	{
+		"code": "74.07.06.2007",
+		"type": "desa",
+		"name": "DARAWA"
+	},
+	{
+		"code": "74.07.06.2008",
+		"type": "desa",
+		"name": "SANDI"
+	},
+	{
+		"code": "74.07.06.2009",
+		"type": "desa",
+		"name": "PEROPA"
+	},
+	{
+		"code": "74.07.06.2010",
+		"type": "desa",
+		"name": "TANJUNG"
+	},
+	{
+		"code": "74.07.07",
+		"type": "kecamatan",
+		"name": "TOMIA TIMUR"
+	},
+	{
+		"code": "74.07.07.1001",
+		"type": "kelurahan",
+		"name": "PATIPELONG"
+	},
+	{
+		"code": "74.07.07.1002",
+		"type": "kelurahan",
+		"name": "TONGANO BARAT"
+	},
+	{
+		"code": "74.07.07.1003",
+		"type": "kelurahan",
+		"name": "BAHARI"
+	},
+	{
+		"code": "74.07.07.1004",
+		"type": "kelurahan",
+		"name": "TONGANO TIMUR"
+	},
+	{
+		"code": "74.07.07.1011",
+		"type": "kelurahan",
+		"name": "RUKUWA"
+	},
+	{
+		"code": "74.07.07.2005",
+		"type": "desa",
+		"name": "TIMU"
+	},
+	{
+		"code": "74.07.07.2006",
+		"type": "desa",
+		"name": "DETE"
+	},
+	{
+		"code": "74.07.07.2007",
+		"type": "desa",
+		"name": "KULATI"
+	},
+	{
+		"code": "74.07.07.2008",
+		"type": "desa",
+		"name": "WAWAOTIMU"
+	},
+	{
+		"code": "74.07.07.2009",
+		"type": "desa",
+		"name": "KAHIYANGA"
+	},
+	{
+		"code": "74.07.07.2010",
+		"type": "desa",
+		"name": "PALAHIDU BARAT"
+	},
+	{
+		"code": "74.07.08",
+		"type": "kecamatan",
+		"name": "TOGO BINONGKO"
+	},
+	{
+		"code": "74.07.08.1003",
+		"type": "kelurahan",
+		"name": "SOWA"
+	},
+	{
+		"code": "74.07.08.1004",
+		"type": "kelurahan",
+		"name": "POPALIA"
+	},
+	{
+		"code": "74.07.08.2001",
+		"type": "desa",
+		"name": "WALOINDI"
+	},
+	{
+		"code": "74.07.08.2002",
+		"type": "desa",
+		"name": "OIHU"
+	},
+	{
+		"code": "74.07.08.2005",
+		"type": "desa",
+		"name": "HAKA"
+	},
+	{
+		"code": "74.07.08.2006",
+		"type": "desa",
+		"name": "TOGO BINONGKO"
+	},
+	{
+		"code": "74.08",
+		"type": "kabupaten",
+		"name": "KAB. KOLAKA UTARA"
+	},
+	{
+		"code": "74.08.01",
+		"type": "kecamatan",
+		"name": "LASUSUA"
+	},
+	{
+		"code": "74.08.01.1001",
+		"type": "kelurahan",
+		"name": "LASUSUA"
+	},
+	{
+		"code": "74.08.01.2002",
+		"type": "desa",
+		"name": "PITULUA"
+	},
+	{
+		"code": "74.08.01.2003",
+		"type": "desa",
+		"name": "RANTE LIMBONG"
+	},
+	{
+		"code": "74.08.01.2006",
+		"type": "desa",
+		"name": "TOTALLANG"
+	},
+	{
+		"code": "74.08.01.2007",
+		"type": "desa",
+		"name": "TOJABI"
+	},
+	{
+		"code": "74.08.01.2008",
+		"type": "desa",
+		"name": "PONGGIHA"
+	},
+	{
+		"code": "74.08.01.2009",
+		"type": "desa",
+		"name": "WATULIWU"
+	},
+	{
+		"code": "74.08.01.2010",
+		"type": "desa",
+		"name": "SULAHO"
+	},
+	{
+		"code": "74.08.01.2015",
+		"type": "desa",
+		"name": "PATOWONUA"
+	},
+	{
+		"code": "74.08.01.2016",
+		"type": "desa",
+		"name": "BABUSSALAM"
+	},
+	{
+		"code": "74.08.01.2017",
+		"type": "desa",
+		"name": "BATU GANDA PERMAI"
+	},
+	{
+		"code": "74.08.01.2018",
+		"type": "desa",
+		"name": "PUNCAK MONAPA"
+	},
+	{
+		"code": "74.08.02",
+		"type": "kecamatan",
+		"name": "PAKUE"
+	},
+	{
+		"code": "74.08.02.1001",
+		"type": "kelurahan",
+		"name": "OLO-OLOHO"
+	},
+	{
+		"code": "74.08.02.2002",
+		"type": "desa",
+		"name": "KOSALI"
+	},
+	{
+		"code": "74.08.02.2003",
+		"type": "desa",
+		"name": "MIKUASI"
+	},
+	{
+		"code": "74.08.02.2010",
+		"type": "desa",
+		"name": "KASUMEETO"
+	},
+	{
+		"code": "74.08.02.2013",
+		"type": "desa",
+		"name": "LALOMBUNDI"
+	},
+	{
+		"code": "74.08.02.2015",
+		"type": "desa",
+		"name": "TOAHA"
+	},
+	{
+		"code": "74.08.02.2018",
+		"type": "desa",
+		"name": "KONDARA"
+	},
+	{
+		"code": "74.08.02.2019",
+		"type": "desa",
+		"name": "SIPAKAINGE"
+	},
+	{
+		"code": "74.08.02.2020",
+		"type": "desa",
+		"name": "SEUWWA"
+	},
+	{
+		"code": "74.08.02.2021",
+		"type": "desa",
+		"name": "ALIPATO"
+	},
+	{
+		"code": "74.08.02.2022",
+		"type": "desa",
+		"name": "LALUME"
+	},
+	{
+		"code": "74.08.03",
+		"type": "kecamatan",
+		"name": "BATU PUTIH"
+	},
+	{
+		"code": "74.08.03.1001",
+		"type": "kelurahan",
+		"name": "BATU PUTIH"
+	},
+	{
+		"code": "74.08.03.2002",
+		"type": "desa",
+		"name": "LATOWU"
+	},
+	{
+		"code": "74.08.03.2003",
+		"type": "desa",
+		"name": "MOSIKU"
+	},
+	{
+		"code": "74.08.03.2004",
+		"type": "desa",
+		"name": "LELEWAWO"
+	},
+	{
+		"code": "74.08.03.2011",
+		"type": "desa",
+		"name": "BATU API"
+	},
+	{
+		"code": "74.08.03.2012",
+		"type": "desa",
+		"name": "BUKIT TINGGI"
+	},
+	{
+		"code": "74.08.03.2015",
+		"type": "desa",
+		"name": "BUKIT BARU"
+	},
+	{
+		"code": "74.08.03.2016",
+		"type": "desa",
+		"name": "PARUNG LAMPE"
+	},
+	{
+		"code": "74.08.03.2017",
+		"type": "desa",
+		"name": "PUNCAK HARAPAN"
+	},
+	{
+		"code": "74.08.03.2020",
+		"type": "desa",
+		"name": "TETEBAWO"
+	},
+	{
+		"code": "74.08.03.2021",
+		"type": "desa",
+		"name": "MAKKUASENG"
+	},
+	{
+		"code": "74.08.04",
+		"type": "kecamatan",
+		"name": "RANTE ANGIN"
+	},
+	{
+		"code": "74.08.04.1004",
+		"type": "kelurahan",
+		"name": "RANTE ANGIN"
+	},
+	{
+		"code": "74.08.04.2003",
+		"type": "desa",
+		"name": "RANTE BARU"
+	},
+	{
+		"code": "74.08.04.2005",
+		"type": "desa",
+		"name": "POHU"
+	},
+	{
+		"code": "74.08.04.2011",
+		"type": "desa",
+		"name": "TOROTUO"
+	},
+	{
+		"code": "74.08.04.2013",
+		"type": "desa",
+		"name": "MAROKO"
+	},
+	{
+		"code": "74.08.04.2014",
+		"type": "desa",
+		"name": "LANDOLIA"
+	},
+	{
+		"code": "74.08.04.2015",
+		"type": "desa",
+		"name": "LAWEKARA"
+	},
+	{
+		"code": "74.08.05",
+		"type": "kecamatan",
+		"name": "KODEOHA"
+	},
+	{
+		"code": "74.08.05.1002",
+		"type": "kelurahan",
+		"name": "MALA - MALA"
+	},
+	{
+		"code": "74.08.05.2001",
+		"type": "desa",
+		"name": "AWO"
+	},
+	{
+		"code": "74.08.05.2003",
+		"type": "desa",
+		"name": "KOROHA"
+	},
+	{
+		"code": "74.08.05.2004",
+		"type": "desa",
+		"name": "KAMISI"
+	},
+	{
+		"code": "74.08.05.2006",
+		"type": "desa",
+		"name": "LAMETUNA"
+	},
+	{
+		"code": "74.08.05.2007",
+		"type": "desa",
+		"name": "MEETO"
+	},
+	{
+		"code": "74.08.05.2009",
+		"type": "desa",
+		"name": "KALU-KALUKU"
+	},
+	{
+		"code": "74.08.05.2010",
+		"type": "desa",
+		"name": "JABAL NUR"
+	},
+	{
+		"code": "74.08.05.2012",
+		"type": "desa",
+		"name": "JABAL KUBIS"
+	},
+	{
+		"code": "74.08.05.2014",
+		"type": "desa",
+		"name": "SAWANGAOHA"
+	},
+	{
+		"code": "74.08.05.2018",
+		"type": "desa",
+		"name": "AINANI TAJRIANI"
+	},
+	{
+		"code": "74.08.05.2019",
+		"type": "desa",
+		"name": "DELANG-DELANG"
+	},
+	{
+		"code": "74.08.06",
+		"type": "kecamatan",
+		"name": "NGAPA"
+	},
+	{
+		"code": "74.08.06.1003",
+		"type": "kelurahan",
+		"name": "LAPAI"
+	},
+	{
+		"code": "74.08.06.2002",
+		"type": "desa",
+		"name": "NGAPA"
+	},
+	{
+		"code": "74.08.06.2005",
+		"type": "desa",
+		"name": "PARUTTELLANG"
+	},
+	{
+		"code": "74.08.06.2008",
+		"type": "desa",
+		"name": "PUURAU"
+	},
+	{
+		"code": "74.08.06.2009",
+		"type": "desa",
+		"name": "KOREIHA"
+	},
+	{
+		"code": "74.08.06.2011",
+		"type": "desa",
+		"name": "LAWOLATU"
+	},
+	{
+		"code": "74.08.06.2012",
+		"type": "desa",
+		"name": "TADAUMERA"
+	},
+	{
+		"code": "74.08.06.2013",
+		"type": "desa",
+		"name": "WATUMOTAHA"
+	},
+	{
+		"code": "74.08.06.2014",
+		"type": "desa",
+		"name": "BERINGIN"
+	},
+	{
+		"code": "74.08.06.2015",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.08.06.2016",
+		"type": "desa",
+		"name": "NIMBUNEHA"
+	},
+	{
+		"code": "74.08.06.2017",
+		"type": "desa",
+		"name": "PADAELO"
+	},
+	{
+		"code": "74.08.07",
+		"type": "kecamatan",
+		"name": "WAWO"
+	},
+	{
+		"code": "74.08.07.2001",
+		"type": "desa",
+		"name": "WALASIHO"
+	},
+	{
+		"code": "74.08.07.2002",
+		"type": "desa",
+		"name": "WAWO"
+	},
+	{
+		"code": "74.08.07.2003",
+		"type": "desa",
+		"name": "TINUKARI"
+	},
+	{
+		"code": "74.08.07.2004",
+		"type": "desa",
+		"name": "PUMBOLO"
+	},
+	{
+		"code": "74.08.07.2005",
+		"type": "desa",
+		"name": "ULU WAWO"
+	},
+	{
+		"code": "74.08.07.2006",
+		"type": "desa",
+		"name": "LATAWE"
+	},
+	{
+		"code": "74.08.07.2007",
+		"type": "desa",
+		"name": "SALURENGKO"
+	},
+	{
+		"code": "74.08.08",
+		"type": "kecamatan",
+		"name": "LAMBAI"
+	},
+	{
+		"code": "74.08.08.2001",
+		"type": "desa",
+		"name": "LAMBAI"
+	},
+	{
+		"code": "74.08.08.2002",
+		"type": "desa",
+		"name": "LATAWARO"
+	},
+	{
+		"code": "74.08.08.2003",
+		"type": "desa",
+		"name": "LAPASI - PASI"
+	},
+	{
+		"code": "74.08.08.2004",
+		"type": "desa",
+		"name": "RAODA"
+	},
+	{
+		"code": "74.08.08.2005",
+		"type": "desa",
+		"name": "WOISE"
+	},
+	{
+		"code": "74.08.08.2006",
+		"type": "desa",
+		"name": "WOITOMBO"
+	},
+	{
+		"code": "74.08.08.2007",
+		"type": "desa",
+		"name": "TEBONGEANO"
+	},
+	{
+		"code": "74.08.09",
+		"type": "kecamatan",
+		"name": "WATUNOHU"
+	},
+	{
+		"code": "74.08.09.2001",
+		"type": "desa",
+		"name": "WATUNOHU"
+	},
+	{
+		"code": "74.08.09.2002",
+		"type": "desa",
+		"name": "LAHABARU"
+	},
+	{
+		"code": "74.08.09.2003",
+		"type": "desa",
+		"name": "TAMBUHA"
+	},
+	{
+		"code": "74.08.09.2004",
+		"type": "desa",
+		"name": "SARONA"
+	},
+	{
+		"code": "74.08.09.2005",
+		"type": "desa",
+		"name": "SAPOIHA"
+	},
+	{
+		"code": "74.08.09.2006",
+		"type": "desa",
+		"name": "NYULE"
+	},
+	{
+		"code": "74.08.09.2007",
+		"type": "desa",
+		"name": "SAMATURU"
+	},
+	{
+		"code": "74.08.09.2008",
+		"type": "desa",
+		"name": "LELEHAO"
+	},
+	{
+		"code": "74.08.10",
+		"type": "kecamatan",
+		"name": "PAKUE TENGAH"
+	},
+	{
+		"code": "74.08.10.2001",
+		"type": "desa",
+		"name": "LANIPA"
+	},
+	{
+		"code": "74.08.10.2002",
+		"type": "desa",
+		"name": "MAJAPAHIT"
+	},
+	{
+		"code": "74.08.10.2003",
+		"type": "desa",
+		"name": "LABIPI"
+	},
+	{
+		"code": "74.08.10.2004",
+		"type": "desa",
+		"name": "LATALI"
+	},
+	{
+		"code": "74.08.10.2005",
+		"type": "desa",
+		"name": "PASAMPANG"
+	},
+	{
+		"code": "74.08.10.2006",
+		"type": "desa",
+		"name": "TARENGGA"
+	},
+	{
+		"code": "74.08.10.2007",
+		"type": "desa",
+		"name": "TO'LEMO"
+	},
+	{
+		"code": "74.08.10.2008",
+		"type": "desa",
+		"name": "SALULOTONG"
+	},
+	{
+		"code": "74.08.10.2009",
+		"type": "desa",
+		"name": "POWALAA"
+	},
+	{
+		"code": "74.08.10.2010",
+		"type": "desa",
+		"name": "KALAHUNDE"
+	},
+	{
+		"code": "74.08.11",
+		"type": "kecamatan",
+		"name": "PAKUE UTARA"
+	},
+	{
+		"code": "74.08.11.2001",
+		"type": "desa",
+		"name": "PUUNDOHO"
+	},
+	{
+		"code": "74.08.11.2002",
+		"type": "desa",
+		"name": "PAKUE"
+	},
+	{
+		"code": "74.08.11.2003",
+		"type": "desa",
+		"name": "LAWATA"
+	},
+	{
+		"code": "74.08.11.2004",
+		"type": "desa",
+		"name": "MATALEUNO"
+	},
+	{
+		"code": "74.08.11.2005",
+		"type": "desa",
+		"name": "TEPOSUA"
+	},
+	{
+		"code": "74.08.11.2006",
+		"type": "desa",
+		"name": "SALUDONGKA"
+	},
+	{
+		"code": "74.08.11.2007",
+		"type": "desa",
+		"name": "KALO"
+	},
+	{
+		"code": "74.08.11.2008",
+		"type": "desa",
+		"name": "AMOE"
+	},
+	{
+		"code": "74.08.11.2009",
+		"type": "desa",
+		"name": "LENGKONG BATU"
+	},
+	{
+		"code": "74.08.12",
+		"type": "kecamatan",
+		"name": "POREHU"
+	},
+	{
+		"code": "74.08.12.2001",
+		"type": "desa",
+		"name": "POREHU"
+	},
+	{
+		"code": "74.08.12.2002",
+		"type": "desa",
+		"name": "TOBELA"
+	},
+	{
+		"code": "74.08.12.2003",
+		"type": "desa",
+		"name": "TANGGARURU"
+	},
+	{
+		"code": "74.08.12.2004",
+		"type": "desa",
+		"name": "PONGGI"
+	},
+	{
+		"code": "74.08.12.2005",
+		"type": "desa",
+		"name": "LARUI"
+	},
+	{
+		"code": "74.08.12.2007",
+		"type": "desa",
+		"name": "BANGSALA"
+	},
+	{
+		"code": "74.08.12.2008",
+		"type": "desa",
+		"name": "SARAMBU"
+	},
+	{
+		"code": "74.08.12.2009",
+		"type": "desa",
+		"name": "TINUNA"
+	},
+	{
+		"code": "74.08.13",
+		"type": "kecamatan",
+		"name": "TOLALA"
+	},
+	{
+		"code": "74.08.13.2001",
+		"type": "desa",
+		"name": "LAWAKI JAYA"
+	},
+	{
+		"code": "74.08.13.2002",
+		"type": "desa",
+		"name": "PATIKALA"
+	},
+	{
+		"code": "74.08.13.2003",
+		"type": "desa",
+		"name": "TOLALA"
+	},
+	{
+		"code": "74.08.13.2004",
+		"type": "desa",
+		"name": "BAHARI"
+	},
+	{
+		"code": "74.08.13.2005",
+		"type": "desa",
+		"name": "LELEULU"
+	},
+	{
+		"code": "74.08.13.2006",
+		"type": "desa",
+		"name": "LOKA"
+	},
+	{
+		"code": "74.08.14",
+		"type": "kecamatan",
+		"name": "TIWU"
+	},
+	{
+		"code": "74.08.14.2001",
+		"type": "desa",
+		"name": "MATTIRO BULU"
+	},
+	{
+		"code": "74.08.14.2002",
+		"type": "desa",
+		"name": "LAWADIA"
+	},
+	{
+		"code": "74.08.14.2003",
+		"type": "desa",
+		"name": "WATUMEA"
+	},
+	{
+		"code": "74.08.14.2004",
+		"type": "desa",
+		"name": "TIWU"
+	},
+	{
+		"code": "74.08.14.2005",
+		"type": "desa",
+		"name": "TAHIBUA"
+	},
+	{
+		"code": "74.08.14.2006",
+		"type": "desa",
+		"name": "LAPOLU"
+	},
+	{
+		"code": "74.08.14.2007",
+		"type": "desa",
+		"name": "TANGGEAWO"
+	},
+	{
+		"code": "74.08.15",
+		"type": "kecamatan",
+		"name": "KATOI"
+	},
+	{
+		"code": "74.08.15.2001",
+		"type": "desa",
+		"name": "LANIPA - NIPA"
+	},
+	{
+		"code": "74.08.15.2002",
+		"type": "desa",
+		"name": "UJUNG TOBAKU"
+	},
+	{
+		"code": "74.08.15.2003",
+		"type": "desa",
+		"name": "KATOI"
+	},
+	{
+		"code": "74.08.15.2004",
+		"type": "desa",
+		"name": "SIMBULA"
+	},
+	{
+		"code": "74.08.15.2005",
+		"type": "desa",
+		"name": "MARUGE"
+	},
+	{
+		"code": "74.08.15.2006",
+		"type": "desa",
+		"name": "LAMBUNO"
+	},
+	{
+		"code": "74.09",
+		"type": "kabupaten",
+		"name": "KAB. KONAWE UTARA"
+	},
+	{
+		"code": "74.09.01",
+		"type": "kecamatan",
+		"name": "ASERA"
+	},
+	{
+		"code": "74.09.01.1005",
+		"type": "kelurahan",
+		"name": "WANGGUDU"
+	},
+	{
+		"code": "74.09.01.1009",
+		"type": "kelurahan",
+		"name": "ASERA"
+	},
+	{
+		"code": "74.09.01.2006",
+		"type": "desa",
+		"name": "WANGGUDU RAYA"
+	},
+	{
+		"code": "74.09.01.2007",
+		"type": "desa",
+		"name": "WALALINDU"
+	},
+	{
+		"code": "74.09.01.2008",
+		"type": "desa",
+		"name": "TANGGULURI"
+	},
+	{
+		"code": "74.09.01.2010",
+		"type": "desa",
+		"name": "AMOROME"
+	},
+	{
+		"code": "74.09.01.2016",
+		"type": "desa",
+		"name": "WAWOLIMBUE"
+	},
+	{
+		"code": "74.09.01.2017",
+		"type": "desa",
+		"name": "WALASOLO"
+	},
+	{
+		"code": "74.09.01.2020",
+		"type": "desa",
+		"name": "WUNDUHAKA"
+	},
+	{
+		"code": "74.09.01.2024",
+		"type": "desa",
+		"name": "TAPUWATU"
+	},
+	{
+		"code": "74.09.01.2027",
+		"type": "desa",
+		"name": "ASEMINUNULAI"
+	},
+	{
+		"code": "74.09.01.2030",
+		"type": "desa",
+		"name": "PUUNGGOMOSI"
+	},
+	{
+		"code": "74.09.01.2031",
+		"type": "desa",
+		"name": "PUUWANGGUDU"
+	},
+	{
+		"code": "74.09.01.2032",
+		"type": "desa",
+		"name": "LONGEO UTAMA"
+	},
+	{
+		"code": "74.09.01.2033",
+		"type": "desa",
+		"name": "KOTA MULYA"
+	},
+	{
+		"code": "74.09.01.2034",
+		"type": "desa",
+		"name": "AMOROME UTAMA"
+	},
+	{
+		"code": "74.09.01.2035",
+		"type": "desa",
+		"name": "ANDEDAO"
+	},
+	{
+		"code": "74.09.01.2036",
+		"type": "desa",
+		"name": "ALAA WANGGUDU"
+	},
+	{
+		"code": "74.09.02",
+		"type": "kecamatan",
+		"name": "WIWIRANO"
+	},
+	{
+		"code": "74.09.02.1001",
+		"type": "kelurahan",
+		"name": "LAMONAE"
+	},
+	{
+		"code": "74.09.02.2002",
+		"type": "desa",
+		"name": "PADALERE"
+	},
+	{
+		"code": "74.09.02.2004",
+		"type": "desa",
+		"name": "TETEWATU"
+	},
+	{
+		"code": "74.09.02.2006",
+		"type": "desa",
+		"name": "CULUMBATU"
+	},
+	{
+		"code": "74.09.02.2007",
+		"type": "desa",
+		"name": "WAWOHEO"
+	},
+	{
+		"code": "74.09.02.2009",
+		"type": "desa",
+		"name": "LAMPARINGA"
+	},
+	{
+		"code": "74.09.02.2010",
+		"type": "desa",
+		"name": "LAMONAE UTAMA"
+	},
+	{
+		"code": "74.09.02.2012",
+		"type": "desa",
+		"name": "MACUMELEWE"
+	},
+	{
+		"code": "74.09.02.2013",
+		"type": "desa",
+		"name": "MATA OSOLE"
+	},
+	{
+		"code": "74.09.02.2014",
+		"type": "desa",
+		"name": "PONDOA"
+	},
+	{
+		"code": "74.09.02.2020",
+		"type": "desa",
+		"name": "WAWOSANGI"
+	},
+	{
+		"code": "74.09.02.2021",
+		"type": "desa",
+		"name": "WAWONTOAHA"
+	},
+	{
+		"code": "74.09.02.2022",
+		"type": "desa",
+		"name": "LAROMPANA"
+	},
+	{
+		"code": "74.09.02.2023",
+		"type": "desa",
+		"name": "WACU PINODO"
+	},
+	{
+		"code": "74.09.02.2024",
+		"type": "desa",
+		"name": "PADALERE UTAMA"
+	},
+	{
+		"code": "74.09.02.2026",
+		"type": "desa",
+		"name": "HIALU"
+	},
+	{
+		"code": "74.09.03",
+		"type": "kecamatan",
+		"name": "LANGGIKIMA"
+	},
+	{
+		"code": "74.09.03.1003",
+		"type": "kelurahan",
+		"name": "LANGGIKIMA"
+	},
+	{
+		"code": "74.09.03.2001",
+		"type": "desa",
+		"name": "MOLORE"
+	},
+	{
+		"code": "74.09.03.2002",
+		"type": "desa",
+		"name": "LAMERURU"
+	},
+	{
+		"code": "74.09.03.2004",
+		"type": "desa",
+		"name": "SARIMUKTI"
+	},
+	{
+		"code": "74.09.03.2005",
+		"type": "desa",
+		"name": "MOROMBO PANTAI"
+	},
+	{
+		"code": "74.09.03.2006",
+		"type": "desa",
+		"name": "POLORA INDAH"
+	},
+	{
+		"code": "74.09.03.2007",
+		"type": "desa",
+		"name": "PARIAMA"
+	},
+	{
+		"code": "74.09.03.2008",
+		"type": "desa",
+		"name": "TOBIMEITA"
+	},
+	{
+		"code": "74.09.03.2009",
+		"type": "desa",
+		"name": "ALENGGO"
+	},
+	{
+		"code": "74.09.03.2010",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "74.09.03.2011",
+		"type": "desa",
+		"name": "MOLORE PANTAI"
+	},
+	{
+		"code": "74.09.03.2012",
+		"type": "desa",
+		"name": "NGAPA INIA"
+	},
+	{
+		"code": "74.09.04",
+		"type": "kecamatan",
+		"name": "MOLAWE"
+	},
+	{
+		"code": "74.09.04.1002",
+		"type": "kelurahan",
+		"name": "MOLAWE"
+	},
+	{
+		"code": "74.09.04.2001",
+		"type": "desa",
+		"name": "BANDAEHA"
+	},
+	{
+		"code": "74.09.04.2003",
+		"type": "desa",
+		"name": "AWILA"
+	},
+	{
+		"code": "74.09.04.2004",
+		"type": "desa",
+		"name": "MOWUNDO"
+	},
+	{
+		"code": "74.09.04.2005",
+		"type": "desa",
+		"name": "MANDIODO"
+	},
+	{
+		"code": "74.09.04.2006",
+		"type": "desa",
+		"name": "TAPUNGGAEYA"
+	},
+	{
+		"code": "74.09.04.2007",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.09.04.2008",
+		"type": "desa",
+		"name": "AWILA PUNCAK"
+	},
+	{
+		"code": "74.09.04.2009",
+		"type": "desa",
+		"name": "TAPUEMEA"
+	},
+	{
+		"code": "74.09.05",
+		"type": "kecamatan",
+		"name": "LASOLO"
+	},
+	{
+		"code": "74.09.05.1001",
+		"type": "kelurahan",
+		"name": "TINOBU"
+	},
+	{
+		"code": "74.09.05.2006",
+		"type": "desa",
+		"name": "ABOLA"
+	},
+	{
+		"code": "74.09.05.2007",
+		"type": "desa",
+		"name": "BELALO"
+	},
+	{
+		"code": "74.09.05.2008",
+		"type": "desa",
+		"name": "ANDEO"
+	},
+	{
+		"code": "74.09.05.2009",
+		"type": "desa",
+		"name": "MATAPILA"
+	},
+	{
+		"code": "74.09.05.2010",
+		"type": "desa",
+		"name": "ANDUMOWU"
+	},
+	{
+		"code": "74.09.05.2011",
+		"type": "desa",
+		"name": "BASULE"
+	},
+	{
+		"code": "74.09.05.2012",
+		"type": "desa",
+		"name": "WAWORAHA"
+	},
+	{
+		"code": "74.09.05.2013",
+		"type": "desa",
+		"name": "OTOLE"
+	},
+	{
+		"code": "74.09.05.2016",
+		"type": "desa",
+		"name": "WATUKILA"
+	},
+	{
+		"code": "74.09.05.2017",
+		"type": "desa",
+		"name": "LAMETONO"
+	},
+	{
+		"code": "74.09.05.2020",
+		"type": "desa",
+		"name": "LARODANGGE"
+	},
+	{
+		"code": "74.09.05.2024",
+		"type": "desa",
+		"name": "TETELUPAI"
+	},
+	{
+		"code": "74.09.05.2025",
+		"type": "desa",
+		"name": "LALOWARU"
+	},
+	{
+		"code": "74.09.05.2026",
+		"type": "desa",
+		"name": "MUARA TINOBU"
+	},
+	{
+		"code": "74.09.06",
+		"type": "kecamatan",
+		"name": "LEMBO"
+	},
+	{
+		"code": "74.09.06.1004",
+		"type": "kelurahan",
+		"name": "LEMBO"
+	},
+	{
+		"code": "74.09.06.2001",
+		"type": "desa",
+		"name": "ALO ALO"
+	},
+	{
+		"code": "74.09.06.2002",
+		"type": "desa",
+		"name": "PUULEMO"
+	},
+	{
+		"code": "74.09.06.2003",
+		"type": "desa",
+		"name": "PADALEU"
+	},
+	{
+		"code": "74.09.06.2005",
+		"type": "desa",
+		"name": "BUNGGUOSU"
+	},
+	{
+		"code": "74.09.06.2006",
+		"type": "desa",
+		"name": "PUUSIAMBU"
+	},
+	{
+		"code": "74.09.06.2007",
+		"type": "desa",
+		"name": "TAIPA"
+	},
+	{
+		"code": "74.09.06.2008",
+		"type": "desa",
+		"name": "TONGALINO"
+	},
+	{
+		"code": "74.09.06.2009",
+		"type": "desa",
+		"name": "PASIR PUTIH"
+	},
+	{
+		"code": "74.09.06.2010",
+		"type": "desa",
+		"name": "LARAMO"
+	},
+	{
+		"code": "74.09.06.2011",
+		"type": "desa",
+		"name": "LAPULU"
+	},
+	{
+		"code": "74.09.06.2012",
+		"type": "desa",
+		"name": "WATUWULA"
+	},
+	{
+		"code": "74.09.07",
+		"type": "kecamatan",
+		"name": "SAWA"
+	},
+	{
+		"code": "74.09.07.1002",
+		"type": "kelurahan",
+		"name": "SAWA"
+	},
+	{
+		"code": "74.09.07.2003",
+		"type": "desa",
+		"name": "LALEMBO"
+	},
+	{
+		"code": "74.09.07.2004",
+		"type": "desa",
+		"name": "LAIMEO"
+	},
+	{
+		"code": "74.09.07.2005",
+		"type": "desa",
+		"name": "PUDONGGALA"
+	},
+	{
+		"code": "74.09.07.2007",
+		"type": "desa",
+		"name": "MATANGGONAWE"
+	},
+	{
+		"code": "74.09.07.2008",
+		"type": "desa",
+		"name": "KOKAPI"
+	},
+	{
+		"code": "74.09.07.2012",
+		"type": "desa",
+		"name": "TONGAUNA"
+	},
+	{
+		"code": "74.09.07.2013",
+		"type": "desa",
+		"name": "PUUPI"
+	},
+	{
+		"code": "74.09.07.2016",
+		"type": "desa",
+		"name": "PUDONGGALA UTAMA"
+	},
+	{
+		"code": "74.09.07.2017",
+		"type": "desa",
+		"name": "ULU SAWA"
+	},
+	{
+		"code": "74.09.07.2020",
+		"type": "desa",
+		"name": "SAMBA SULE"
+	},
+	{
+		"code": "74.09.07.2021",
+		"type": "desa",
+		"name": "TUDUNGANO"
+	},
+	{
+		"code": "74.09.07.2022",
+		"type": "desa",
+		"name": "TANJUNG LAIMEO"
+	},
+	{
+		"code": "74.09.07.2023",
+		"type": "desa",
+		"name": "PANGGULAWU"
+	},
+	{
+		"code": "74.09.07.2024",
+		"type": "desa",
+		"name": "PEKAROA"
+	},
+	{
+		"code": "74.09.08",
+		"type": "kecamatan",
+		"name": "OHEO"
+	},
+	{
+		"code": "74.09.08.1009",
+		"type": "kelurahan",
+		"name": "LINOMOIYO"
+	},
+	{
+		"code": "74.09.08.2001",
+		"type": "desa",
+		"name": "LAROONAHA"
+	},
+	{
+		"code": "74.09.08.2002",
+		"type": "desa",
+		"name": "BANDAEHA"
+	},
+	{
+		"code": "74.09.08.2003",
+		"type": "desa",
+		"name": "KOTA MAJU"
+	},
+	{
+		"code": "74.09.08.2004",
+		"type": "desa",
+		"name": "LANDAWE"
+	},
+	{
+		"code": "74.09.08.2005",
+		"type": "desa",
+		"name": "WIWIRANO"
+	},
+	{
+		"code": "74.09.08.2006",
+		"type": "desa",
+		"name": "MOPUTE"
+	},
+	{
+		"code": "74.09.08.2007",
+		"type": "desa",
+		"name": "TADOLOIYO"
+	},
+	{
+		"code": "74.09.08.2008",
+		"type": "desa",
+		"name": "PUUHIALU"
+	},
+	{
+		"code": "74.09.08.2010",
+		"type": "desa",
+		"name": "SAMBANDETE"
+	},
+	{
+		"code": "74.09.08.2011",
+		"type": "desa",
+		"name": "PAKA INDAH"
+	},
+	{
+		"code": "74.09.08.2013",
+		"type": "desa",
+		"name": "LAMEORU"
+	},
+	{
+		"code": "74.09.08.2014",
+		"type": "desa",
+		"name": "WALANDAWE"
+	},
+	{
+		"code": "74.09.08.2015",
+		"type": "desa",
+		"name": "BENDEWUTA"
+	},
+	{
+		"code": "74.09.08.2016",
+		"type": "desa",
+		"name": "TINONDO"
+	},
+	{
+		"code": "74.09.08.2017",
+		"type": "desa",
+		"name": "OHEO TRANS"
+	},
+	{
+		"code": "74.09.08.2018",
+		"type": "desa",
+		"name": "HOROE"
+	},
+	{
+		"code": "74.09.09",
+		"type": "kecamatan",
+		"name": "ANDOWIA"
+	},
+	{
+		"code": "74.09.09.1001",
+		"type": "kelurahan",
+		"name": "ANDOWIA"
+	},
+	{
+		"code": "74.09.09.2002",
+		"type": "desa",
+		"name": "LAHIMBUA"
+	},
+	{
+		"code": "74.09.09.2003",
+		"type": "desa",
+		"name": "LARONANGA"
+	},
+	{
+		"code": "74.09.09.2004",
+		"type": "desa",
+		"name": "LAMBUDONI"
+	},
+	{
+		"code": "74.09.09.2005",
+		"type": "desa",
+		"name": "LAMONDOWO"
+	},
+	{
+		"code": "74.09.09.2006",
+		"type": "desa",
+		"name": "LABUNGGA"
+	},
+	{
+		"code": "74.09.09.2007",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.09.09.2008",
+		"type": "desa",
+		"name": "LAROBENDE"
+	},
+	{
+		"code": "74.09.09.2009",
+		"type": "desa",
+		"name": "PUUSULI"
+	},
+	{
+		"code": "74.09.09.2010",
+		"type": "desa",
+		"name": "BANGGAREMA"
+	},
+	{
+		"code": "74.09.09.2011",
+		"type": "desa",
+		"name": "AMOLAME"
+	},
+	{
+		"code": "74.09.09.2012",
+		"type": "desa",
+		"name": "ANGGOLOHIPO"
+	},
+	{
+		"code": "74.09.09.2013",
+		"type": "desa",
+		"name": "PUUWONUA"
+	},
+	{
+		"code": "74.09.09.2014",
+		"type": "desa",
+		"name": "AMBAKE"
+	},
+	{
+		"code": "74.09.09.2015",
+		"type": "desa",
+		"name": "WAWORATE"
+	},
+	{
+		"code": "74.09.10",
+		"type": "kecamatan",
+		"name": "MOTUI"
+	},
+	{
+		"code": "74.09.10.1002",
+		"type": "kelurahan",
+		"name": "BENDE"
+	},
+	{
+		"code": "74.09.10.2001",
+		"type": "desa",
+		"name": "TONDOWATU"
+	},
+	{
+		"code": "74.09.10.2003",
+		"type": "desa",
+		"name": "MATANDAHI"
+	},
+	{
+		"code": "74.09.10.2004",
+		"type": "desa",
+		"name": "BANGGINA"
+	},
+	{
+		"code": "74.09.10.2005",
+		"type": "desa",
+		"name": "MOTUI"
+	},
+	{
+		"code": "74.09.10.2006",
+		"type": "desa",
+		"name": "WAWOLURI"
+	},
+	{
+		"code": "74.09.10.2007",
+		"type": "desa",
+		"name": "LAMBULUO"
+	},
+	{
+		"code": "74.09.10.2008",
+		"type": "desa",
+		"name": "PONI PONIKI"
+	},
+	{
+		"code": "74.09.10.2009",
+		"type": "desa",
+		"name": "PUUWONGGIA"
+	},
+	{
+		"code": "74.09.10.2010",
+		"type": "desa",
+		"name": "PUNGGULAHI"
+	},
+	{
+		"code": "74.09.10.2011",
+		"type": "desa",
+		"name": "SAMA SUBUR"
+	},
+	{
+		"code": "74.09.10.2012",
+		"type": "desa",
+		"name": "RANOMBUPULU"
+	},
+	{
+		"code": "74.09.10.2013",
+		"type": "desa",
+		"name": "TOBIMEITA"
+	},
+	{
+		"code": "74.09.10.2014",
+		"type": "desa",
+		"name": "KAPOLANO"
+	},
+	{
+		"code": "74.09.11",
+		"type": "kecamatan",
+		"name": "WAWOLESEA"
+	},
+	{
+		"code": "74.09.11.2001",
+		"type": "desa",
+		"name": "TANJUNG BUNGA"
+	},
+	{
+		"code": "74.09.11.2002",
+		"type": "desa",
+		"name": "KAMPOH BUNGA"
+	},
+	{
+		"code": "74.09.11.2003",
+		"type": "desa",
+		"name": "LEMO BAJO"
+	},
+	{
+		"code": "74.09.11.2004",
+		"type": "desa",
+		"name": "BARASANGA"
+	},
+	{
+		"code": "74.09.11.2005",
+		"type": "desa",
+		"name": "WAWOLESEA"
+	},
+	{
+		"code": "74.09.11.2006",
+		"type": "desa",
+		"name": "TOREO"
+	},
+	{
+		"code": "74.09.11.2007",
+		"type": "desa",
+		"name": "OTIPULU"
+	},
+	{
+		"code": "74.09.11.2008",
+		"type": "desa",
+		"name": "TOKOWUTA"
+	},
+	{
+		"code": "74.09.11.2009",
+		"type": "desa",
+		"name": "KAMPOH CINA"
+	},
+	{
+		"code": "74.09.12",
+		"type": "kecamatan",
+		"name": "LASOLO KEPULAUAN"
+	},
+	{
+		"code": "74.09.12.2001",
+		"type": "desa",
+		"name": "BOENAGA"
+	},
+	{
+		"code": "74.09.12.2002",
+		"type": "desa",
+		"name": "WATURAMBAHA"
+	},
+	{
+		"code": "74.09.12.2003",
+		"type": "desa",
+		"name": "LABENGKI"
+	},
+	{
+		"code": "74.09.12.2004",
+		"type": "desa",
+		"name": "MOROMBO"
+	},
+	{
+		"code": "74.09.12.2005",
+		"type": "desa",
+		"name": "TAPUNOPAKA"
+	},
+	{
+		"code": "74.09.12.2006",
+		"type": "desa",
+		"name": "BOEDINGI"
+	},
+	{
+		"code": "74.09.13",
+		"type": "kecamatan",
+		"name": "LANDAWE"
+	},
+	{
+		"code": "74.09.13.2001",
+		"type": "desa",
+		"name": "KURATAO"
+	},
+	{
+		"code": "74.09.13.2002",
+		"type": "desa",
+		"name": "LANDIWO"
+	},
+	{
+		"code": "74.09.13.2003",
+		"type": "desa",
+		"name": "KOLOSUA"
+	},
+	{
+		"code": "74.09.13.2004",
+		"type": "desa",
+		"name": "LAUMOSO"
+	},
+	{
+		"code": "74.09.13.2005",
+		"type": "desa",
+		"name": "HIALU UTAMA"
+	},
+	{
+		"code": "74.09.13.2006",
+		"type": "desa",
+		"name": "POLO-POLORA"
+	},
+	{
+		"code": "74.09.13.2007",
+		"type": "desa",
+		"name": "TAMBAKUA"
+	},
+	{
+		"code": "74.09.13.2008",
+		"type": "desa",
+		"name": "MATABAHO"
+	},
+	{
+		"code": "74.09.13.2009",
+		"type": "desa",
+		"name": "LANDAWE UTAMA"
+	},
+	{
+		"code": "74.09.13.2010",
+		"type": "desa",
+		"name": "MATA BENUA"
+	},
+	{
+		"code": "74.10",
+		"type": "kabupaten",
+		"name": "KAB. BUTON UTARA"
+	},
+	{
+		"code": "74.10.01",
+		"type": "kecamatan",
+		"name": "KULISUSU"
+	},
+	{
+		"code": "74.10.01.1008",
+		"type": "kelurahan",
+		"name": "BANGKUDU"
+	},
+	{
+		"code": "74.10.01.1009",
+		"type": "kelurahan",
+		"name": "LIPU"
+	},
+	{
+		"code": "74.10.01.1010",
+		"type": "kelurahan",
+		"name": "LAKONEA"
+	},
+	{
+		"code": "74.10.01.1012",
+		"type": "kelurahan",
+		"name": "LEMO"
+	},
+	{
+		"code": "74.10.01.1014",
+		"type": "kelurahan",
+		"name": "BONELIPU"
+	},
+	{
+		"code": "74.10.01.1016",
+		"type": "kelurahan",
+		"name": "SARA'EA"
+	},
+	{
+		"code": "74.10.01.1017",
+		"type": "kelurahan",
+		"name": "WANDAKA"
+	},
+	{
+		"code": "74.10.01.2001",
+		"type": "desa",
+		"name": "TRIWACUWACU"
+	},
+	{
+		"code": "74.10.01.2002",
+		"type": "desa",
+		"name": "WACULAEA"
+	},
+	{
+		"code": "74.10.01.2003",
+		"type": "desa",
+		"name": "EELAHAJI"
+	},
+	{
+		"code": "74.10.01.2004",
+		"type": "desa",
+		"name": "TOMOAHI"
+	},
+	{
+		"code": "74.10.01.2005",
+		"type": "desa",
+		"name": "KALIBU"
+	},
+	{
+		"code": "74.10.01.2006",
+		"type": "desa",
+		"name": "JAMPAKA"
+	},
+	{
+		"code": "74.10.01.2007",
+		"type": "desa",
+		"name": "LOJI"
+	},
+	{
+		"code": "74.10.01.2011",
+		"type": "desa",
+		"name": "LINSOLIWU"
+	},
+	{
+		"code": "74.10.01.2013",
+		"type": "desa",
+		"name": "ROMBO"
+	},
+	{
+		"code": "74.10.01.2018",
+		"type": "desa",
+		"name": "WASALABOSE"
+	},
+	{
+		"code": "74.10.01.2019",
+		"type": "desa",
+		"name": "MALALANDA"
+	},
+	{
+		"code": "74.10.01.2020",
+		"type": "desa",
+		"name": "LEMO EA"
+	},
+	{
+		"code": "74.10.01.2021",
+		"type": "desa",
+		"name": "LANTAGI"
+	},
+	{
+		"code": "74.10.01.2022",
+		"type": "desa",
+		"name": "LAANGKE"
+	},
+	{
+		"code": "74.10.01.2023",
+		"type": "desa",
+		"name": "KADACUA"
+	},
+	{
+		"code": "74.10.01.2024",
+		"type": "desa",
+		"name": "BANU-BANUA JAYA"
+	},
+	{
+		"code": "74.10.02",
+		"type": "kecamatan",
+		"name": "KAMBOWA"
+	},
+	{
+		"code": "74.10.02.1004",
+		"type": "kelurahan",
+		"name": "KAMBOWA"
+	},
+	{
+		"code": "74.10.02.2001",
+		"type": "desa",
+		"name": "BUBU"
+	},
+	{
+		"code": "74.10.02.2002",
+		"type": "desa",
+		"name": "LAHAMOKO JAYA"
+	},
+	{
+		"code": "74.10.02.2003",
+		"type": "desa",
+		"name": "MORINDINO"
+	},
+	{
+		"code": "74.10.02.2005",
+		"type": "desa",
+		"name": "PONGKAWULU"
+	},
+	{
+		"code": "74.10.02.2006",
+		"type": "desa",
+		"name": "LAGUNDI"
+	},
+	{
+		"code": "74.10.02.2007",
+		"type": "desa",
+		"name": "KONDO"
+	},
+	{
+		"code": "74.10.02.2008",
+		"type": "desa",
+		"name": "MATA"
+	},
+	{
+		"code": "74.10.02.2009",
+		"type": "desa",
+		"name": "BUBU BARAT"
+	},
+	{
+		"code": "74.10.02.2010",
+		"type": "desa",
+		"name": "BENTE"
+	},
+	{
+		"code": "74.10.02.2011",
+		"type": "desa",
+		"name": "BALUARA"
+	},
+	{
+		"code": "74.10.03",
+		"type": "kecamatan",
+		"name": "BONEGUNU"
+	},
+	{
+		"code": "74.10.03.1006",
+		"type": "kelurahan",
+		"name": "BURANGA"
+	},
+	{
+		"code": "74.10.03.1010",
+		"type": "kelurahan",
+		"name": "BONEGUNU"
+	},
+	{
+		"code": "74.10.03.2001",
+		"type": "desa",
+		"name": "GUNUNG SARI"
+	},
+	{
+		"code": "74.10.03.2002",
+		"type": "desa",
+		"name": "RONTA"
+	},
+	{
+		"code": "74.10.03.2003",
+		"type": "desa",
+		"name": "WAODE ANGKALO"
+	},
+	{
+		"code": "74.10.03.2004",
+		"type": "desa",
+		"name": "LANGGERE"
+	},
+	{
+		"code": "74.10.03.2005",
+		"type": "desa",
+		"name": "KOEFISINO"
+	},
+	{
+		"code": "74.10.03.2007",
+		"type": "desa",
+		"name": "WAODE KALOWO"
+	},
+	{
+		"code": "74.10.03.2008",
+		"type": "desa",
+		"name": "LAANO IPI"
+	},
+	{
+		"code": "74.10.03.2009",
+		"type": "desa",
+		"name": "SOLOI AGUNG"
+	},
+	{
+		"code": "74.10.03.2013",
+		"type": "desa",
+		"name": "TATOMBULI"
+	},
+	{
+		"code": "74.10.03.2014",
+		"type": "desa",
+		"name": "RANTE GOLA"
+	},
+	{
+		"code": "74.10.03.2015",
+		"type": "desa",
+		"name": "NGAPA'EA"
+	},
+	{
+		"code": "74.10.03.2016",
+		"type": "desa",
+		"name": "KOBORUNO"
+	},
+	{
+		"code": "74.10.03.2017",
+		"type": "desa",
+		"name": "DAMAI LABORONA"
+	},
+	{
+		"code": "74.10.04",
+		"type": "kecamatan",
+		"name": "KULISUSU BARAT"
+	},
+	{
+		"code": "74.10.04.2001",
+		"type": "desa",
+		"name": "KOTAWO"
+	},
+	{
+		"code": "74.10.04.2002",
+		"type": "desa",
+		"name": "KARYA BHAKTI"
+	},
+	{
+		"code": "74.10.04.2003",
+		"type": "desa",
+		"name": "MARGAKARYA"
+	},
+	{
+		"code": "74.10.04.2004",
+		"type": "desa",
+		"name": "KASULATOMBI"
+	},
+	{
+		"code": "74.10.04.2005",
+		"type": "desa",
+		"name": "DAMPALA JAYA"
+	},
+	{
+		"code": "74.10.04.2006",
+		"type": "desa",
+		"name": "RAHMAT BARU"
+	},
+	{
+		"code": "74.10.04.2007",
+		"type": "desa",
+		"name": "SOIOI AGUNG"
+	},
+	{
+		"code": "74.10.04.2008",
+		"type": "desa",
+		"name": "BUMI LAPERA"
+	},
+	{
+		"code": "74.10.04.2009",
+		"type": "desa",
+		"name": "KARYA MULYA"
+	},
+	{
+		"code": "74.10.04.2010",
+		"type": "desa",
+		"name": "LAMBALE"
+	},
+	{
+		"code": "74.10.04.2011",
+		"type": "desa",
+		"name": "LAPANDEWA"
+	},
+	{
+		"code": "74.10.04.2012",
+		"type": "desa",
+		"name": "LAUKI"
+	},
+	{
+		"code": "74.10.04.2013",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "74.10.04.2014",
+		"type": "desa",
+		"name": "LABULANDA"
+	},
+	{
+		"code": "74.10.05",
+		"type": "kecamatan",
+		"name": "KULISUSU UTARA"
+	},
+	{
+		"code": "74.10.05.2001",
+		"type": "desa",
+		"name": "KOROLABU"
+	},
+	{
+		"code": "74.10.05.2002",
+		"type": "desa",
+		"name": "TOMBIA"
+	},
+	{
+		"code": "74.10.05.2003",
+		"type": "desa",
+		"name": "LAMOAHI"
+	},
+	{
+		"code": "74.10.05.2004",
+		"type": "desa",
+		"name": "LANOSANGIA"
+	},
+	{
+		"code": "74.10.05.2005",
+		"type": "desa",
+		"name": "PEBAOA"
+	},
+	{
+		"code": "74.10.05.2006",
+		"type": "desa",
+		"name": "PETETEA"
+	},
+	{
+		"code": "74.10.05.2007",
+		"type": "desa",
+		"name": "LELAMO"
+	},
+	{
+		"code": "74.10.05.2008",
+		"type": "desa",
+		"name": "WAODEBURI"
+	},
+	{
+		"code": "74.10.05.2009",
+		"type": "desa",
+		"name": "ULU NAMBO"
+	},
+	{
+		"code": "74.10.05.2010",
+		"type": "desa",
+		"name": "BIRA"
+	},
+	{
+		"code": "74.10.05.2011",
+		"type": "desa",
+		"name": "E'ERINERE"
+	},
+	{
+		"code": "74.10.05.2012",
+		"type": "desa",
+		"name": "LABELETE"
+	},
+	{
+		"code": "74.10.05.2013",
+		"type": "desa",
+		"name": "WAMBOULE"
+	},
+	{
+		"code": "74.10.05.2014",
+		"type": "desa",
+		"name": "WOWONGA JAYA"
+	},
+	{
+		"code": "74.10.06",
+		"type": "kecamatan",
+		"name": "WAKORUMBA UTARA"
+	},
+	{
+		"code": "74.10.06.1007",
+		"type": "kelurahan",
+		"name": "LABUAN"
+	},
+	{
+		"code": "74.10.06.1008",
+		"type": "kelurahan",
+		"name": "LABUAN WALIO"
+	},
+	{
+		"code": "74.10.06.2001",
+		"type": "desa",
+		"name": "LASIWA"
+	},
+	{
+		"code": "74.10.06.2002",
+		"type": "desa",
+		"name": "LAEA"
+	},
+	{
+		"code": "74.10.06.2003",
+		"type": "desa",
+		"name": "MATALAGI"
+	},
+	{
+		"code": "74.10.06.2004",
+		"type": "desa",
+		"name": "WANTULASI"
+	},
+	{
+		"code": "74.10.06.2005",
+		"type": "desa",
+		"name": "LABUAN BAJO"
+	},
+	{
+		"code": "74.10.06.2006",
+		"type": "desa",
+		"name": "LABARAGA"
+	},
+	{
+		"code": "74.10.06.2009",
+		"type": "desa",
+		"name": "WAMORAPA"
+	},
+	{
+		"code": "74.10.06.2010",
+		"type": "desa",
+		"name": "SUMAMPENO"
+	},
+	{
+		"code": "74.10.06.2011",
+		"type": "desa",
+		"name": "OENGKAPALA"
+	},
+	{
+		"code": "74.10.06.2012",
+		"type": "desa",
+		"name": "LABUKO"
+	},
+	{
+		"code": "74.10.06.2013",
+		"type": "desa",
+		"name": "LABA JAYA"
+	},
+	{
+		"code": "74.11",
+		"type": "kabupaten",
+		"name": "KAB. KOLAKA TIMUR"
+	},
+	{
+		"code": "74.11.01",
+		"type": "kecamatan",
+		"name": "TIRAWUTA"
+	},
+	{
+		"code": "74.11.01.1002",
+		"type": "kelurahan",
+		"name": "RATE-RATE"
+	},
+	{
+		"code": "74.11.01.1016",
+		"type": "kelurahan",
+		"name": "TABABU"
+	},
+	{
+		"code": "74.11.01.2001",
+		"type": "desa",
+		"name": "SIMBUNE"
+	},
+	{
+		"code": "74.11.01.2003",
+		"type": "desa",
+		"name": "PONI-PONIKI"
+	},
+	{
+		"code": "74.11.01.2004",
+		"type": "desa",
+		"name": "TAWAINALU"
+	},
+	{
+		"code": "74.11.01.2005",
+		"type": "desa",
+		"name": "WOIHA"
+	},
+	{
+		"code": "74.11.01.2006",
+		"type": "desa",
+		"name": "TASAHEA"
+	},
+	{
+		"code": "74.11.01.2007",
+		"type": "desa",
+		"name": "LARA"
+	},
+	{
+		"code": "74.11.01.2008",
+		"type": "desa",
+		"name": "TUMBUDADIO"
+	},
+	{
+		"code": "74.11.01.2009",
+		"type": "desa",
+		"name": "ORAWA"
+	},
+	{
+		"code": "74.11.01.2010",
+		"type": "desa",
+		"name": "LALINGATO"
+	},
+	{
+		"code": "74.11.01.2011",
+		"type": "desa",
+		"name": "TIRAWUTA"
+	},
+	{
+		"code": "74.11.01.2012",
+		"type": "desa",
+		"name": "ROKO-ROKO"
+	},
+	{
+		"code": "74.11.01.2013",
+		"type": "desa",
+		"name": "LOKA"
+	},
+	{
+		"code": "74.11.01.2014",
+		"type": "desa",
+		"name": "MATABONDU"
+	},
+	{
+		"code": "74.11.01.2015",
+		"type": "desa",
+		"name": "KAREMOTINGGE"
+	},
+	{
+		"code": "74.11.02",
+		"type": "kecamatan",
+		"name": "LOEA"
+	},
+	{
+		"code": "74.11.02.1001",
+		"type": "kelurahan",
+		"name": "LOEA"
+	},
+	{
+		"code": "74.11.02.1002",
+		"type": "kelurahan",
+		"name": "SIMBALAE"
+	},
+	{
+		"code": "74.11.02.2003",
+		"type": "desa",
+		"name": "LAMOARE"
+	},
+	{
+		"code": "74.11.02.2004",
+		"type": "desa",
+		"name": "IWOIKONDO"
+	},
+	{
+		"code": "74.11.02.2005",
+		"type": "desa",
+		"name": "PEATOA"
+	},
+	{
+		"code": "74.11.02.2006",
+		"type": "desa",
+		"name": "LALOWURA"
+	},
+	{
+		"code": "74.11.02.2007",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.11.02.2008",
+		"type": "desa",
+		"name": "TEPOSUA"
+	},
+	{
+		"code": "74.11.02.2009",
+		"type": "desa",
+		"name": "TINOMU"
+	},
+	{
+		"code": "74.11.03",
+		"type": "kecamatan",
+		"name": "LADONGI"
+	},
+	{
+		"code": "74.11.03.1001",
+		"type": "kelurahan",
+		"name": "LADONGI"
+	},
+	{
+		"code": "74.11.03.1002",
+		"type": "kelurahan",
+		"name": "ATULA"
+	},
+	{
+		"code": "74.11.03.1003",
+		"type": "kelurahan",
+		"name": "RAA-RAA"
+	},
+	{
+		"code": "74.11.03.1004",
+		"type": "kelurahan",
+		"name": "WELALA"
+	},
+	{
+		"code": "74.11.03.2005",
+		"type": "desa",
+		"name": "PUTEMATA"
+	},
+	{
+		"code": "74.11.03.2009",
+		"type": "desa",
+		"name": "LALOWOSULA"
+	},
+	{
+		"code": "74.11.03.2010",
+		"type": "desa",
+		"name": "WUNGGOLOKO"
+	},
+	{
+		"code": "74.11.03.2011",
+		"type": "desa",
+		"name": "ANGGALOOSI"
+	},
+	{
+		"code": "74.11.03.2013",
+		"type": "desa",
+		"name": "POMBEYOHA"
+	},
+	{
+		"code": "74.11.03.2018",
+		"type": "desa",
+		"name": "TONGANDIU"
+	},
+	{
+		"code": "74.11.04",
+		"type": "kecamatan",
+		"name": "POLI POLIA"
+	},
+	{
+		"code": "74.11.04.1001",
+		"type": "kelurahan",
+		"name": "POLI-POLIA"
+	},
+	{
+		"code": "74.11.04.2002",
+		"type": "desa",
+		"name": "WIA-WIA"
+	},
+	{
+		"code": "74.11.04.2003",
+		"type": "desa",
+		"name": "PANGI-PANGI"
+	},
+	{
+		"code": "74.11.04.2004",
+		"type": "desa",
+		"name": "TOKAI"
+	},
+	{
+		"code": "74.11.04.2005",
+		"type": "desa",
+		"name": "ANDOWENGGA"
+	},
+	{
+		"code": "74.11.04.2006",
+		"type": "desa",
+		"name": "TAOSU"
+	},
+	{
+		"code": "74.11.04.2007",
+		"type": "desa",
+		"name": "POLE MAJU JAYA"
+	},
+	{
+		"code": "74.11.04.2008",
+		"type": "desa",
+		"name": "POLENGA JAYA"
+	},
+	{
+		"code": "74.11.04.2009",
+		"type": "desa",
+		"name": "WUNDUMBITE"
+	},
+	{
+		"code": "74.11.04.2010",
+		"type": "desa",
+		"name": "HAKAMBOLOLI"
+	},
+	{
+		"code": "74.11.04.2011",
+		"type": "desa",
+		"name": "INOTU MEWAO"
+	},
+	{
+		"code": "74.11.04.2012",
+		"type": "desa",
+		"name": "PUUNDOKULO"
+	},
+	{
+		"code": "74.11.05",
+		"type": "kecamatan",
+		"name": "LAMBANDIA"
+	},
+	{
+		"code": "74.11.05.1002",
+		"type": "kelurahan",
+		"name": "PENANGGO JAYA"
+	},
+	{
+		"code": "74.11.05.2001",
+		"type": "desa",
+		"name": "WONUAMBUTEO"
+	},
+	{
+		"code": "74.11.05.2003",
+		"type": "desa",
+		"name": "MOKUPA"
+	},
+	{
+		"code": "74.11.05.2005",
+		"type": "desa",
+		"name": "PENANGGOOSI"
+	},
+	{
+		"code": "74.11.05.2007",
+		"type": "desa",
+		"name": "LOWA"
+	},
+	{
+		"code": "74.11.05.2008",
+		"type": "desa",
+		"name": "ATOLANU"
+	},
+	{
+		"code": "74.11.05.2009",
+		"type": "desa",
+		"name": "LERE JAYA"
+	},
+	{
+		"code": "74.11.05.2010",
+		"type": "desa",
+		"name": "BOU"
+	},
+	{
+		"code": "74.11.05.2012",
+		"type": "desa",
+		"name": "LAMBANDIA"
+	},
+	{
+		"code": "74.11.05.2013",
+		"type": "desa",
+		"name": "INOTU"
+	},
+	{
+		"code": "74.11.05.2018",
+		"type": "desa",
+		"name": "LALOLERE"
+	},
+	{
+		"code": "74.11.05.2019",
+		"type": "desa",
+		"name": "POMBOREA"
+	},
+	{
+		"code": "74.11.05.2021",
+		"type": "desa",
+		"name": "PENANGGOOTU"
+	},
+	{
+		"code": "74.11.05.2022",
+		"type": "desa",
+		"name": "MONDOKE"
+	},
+	{
+		"code": "74.11.05.2026",
+		"type": "desa",
+		"name": "ONEMANU"
+	},
+	{
+		"code": "74.11.06",
+		"type": "kecamatan",
+		"name": "LALOLAE"
+	},
+	{
+		"code": "74.11.06.1001",
+		"type": "kelurahan",
+		"name": "LALOLAE"
+	},
+	{
+		"code": "74.11.06.2002",
+		"type": "desa",
+		"name": "KEISIO"
+	},
+	{
+		"code": "74.11.06.2003",
+		"type": "desa",
+		"name": "TALODO"
+	},
+	{
+		"code": "74.11.06.2004",
+		"type": "desa",
+		"name": "LALOSINGI"
+	},
+	{
+		"code": "74.11.06.2005",
+		"type": "desa",
+		"name": "WESOLO"
+	},
+	{
+		"code": "74.11.07",
+		"type": "kecamatan",
+		"name": "MOWEWE"
+	},
+	{
+		"code": "74.11.07.1001",
+		"type": "kelurahan",
+		"name": "WOITOMBO"
+	},
+	{
+		"code": "74.11.07.1002",
+		"type": "kelurahan",
+		"name": "INEBENGGI"
+	},
+	{
+		"code": "74.11.07.1004",
+		"type": "kelurahan",
+		"name": "HORODOPI"
+	},
+	{
+		"code": "74.11.07.2003",
+		"type": "desa",
+		"name": "NELOMBU"
+	},
+	{
+		"code": "74.11.07.2005",
+		"type": "desa",
+		"name": "WATUPUTE"
+	},
+	{
+		"code": "74.11.07.2006",
+		"type": "desa",
+		"name": "PUOSU"
+	},
+	{
+		"code": "74.11.07.2007",
+		"type": "desa",
+		"name": "ULU MOWEWE"
+	},
+	{
+		"code": "74.11.07.2008",
+		"type": "desa",
+		"name": "LAPANGISI"
+	},
+	{
+		"code": "74.11.07.2009",
+		"type": "desa",
+		"name": "SABI-SABILA"
+	},
+	{
+		"code": "74.11.07.2010",
+		"type": "desa",
+		"name": "LAMBO TUA"
+	},
+	{
+		"code": "74.11.08",
+		"type": "kecamatan",
+		"name": "ULUIWOI"
+	},
+	{
+		"code": "74.11.08.1006",
+		"type": "kelurahan",
+		"name": "SANGGONA"
+	},
+	{
+		"code": "74.11.08.2003",
+		"type": "desa",
+		"name": "PEHANGGO"
+	},
+	{
+		"code": "74.11.08.2004",
+		"type": "desa",
+		"name": "TONDOWATU"
+	},
+	{
+		"code": "74.11.08.2005",
+		"type": "desa",
+		"name": "TAWANGA"
+	},
+	{
+		"code": "74.11.08.2007",
+		"type": "desa",
+		"name": "UETE"
+	},
+	{
+		"code": "74.11.08.2008",
+		"type": "desa",
+		"name": "UNDOLO"
+	},
+	{
+		"code": "74.11.08.2010",
+		"type": "desa",
+		"name": "LALOMBAIA"
+	},
+	{
+		"code": "74.11.08.2014",
+		"type": "desa",
+		"name": "AMOKUNI"
+	},
+	{
+		"code": "74.11.08.2018",
+		"type": "desa",
+		"name": "AMOLOLU"
+	},
+	{
+		"code": "74.11.08.2019",
+		"type": "desa",
+		"name": "AUKORA"
+	},
+	{
+		"code": "74.11.09",
+		"type": "kecamatan",
+		"name": "TINONDO"
+	},
+	{
+		"code": "74.11.09.1001",
+		"type": "kelurahan",
+		"name": "TINENGI"
+	},
+	{
+		"code": "74.11.09.2002",
+		"type": "desa",
+		"name": "SOLEWATU"
+	},
+	{
+		"code": "74.11.09.2003",
+		"type": "desa",
+		"name": "AMBAPA"
+	},
+	{
+		"code": "74.11.09.2004",
+		"type": "desa",
+		"name": "AMERORO"
+	},
+	{
+		"code": "74.11.09.2005",
+		"type": "desa",
+		"name": "LAMUNDE"
+	},
+	{
+		"code": "74.11.09.2006",
+		"type": "desa",
+		"name": "TAWAROMBADAKA"
+	},
+	{
+		"code": "74.11.09.2007",
+		"type": "desa",
+		"name": "TALATA"
+	},
+	{
+		"code": "74.11.09.2008",
+		"type": "desa",
+		"name": "WEAMO"
+	},
+	{
+		"code": "74.11.09.2009",
+		"type": "desa",
+		"name": "TAWA-TAWARO"
+	},
+	{
+		"code": "74.11.09.2010",
+		"type": "desa",
+		"name": "SINGGERE"
+	},
+	{
+		"code": "74.11.09.2011",
+		"type": "desa",
+		"name": "TUTUWI"
+	},
+	{
+		"code": "74.11.09.2012",
+		"type": "desa",
+		"name": "IWOIMEA"
+	},
+	{
+		"code": "74.11.10",
+		"type": "kecamatan",
+		"name": "AERE"
+	},
+	{
+		"code": "74.11.10.2001",
+		"type": "desa",
+		"name": "AERE"
+	},
+	{
+		"code": "74.11.10.2002",
+		"type": "desa",
+		"name": "PEKOREA"
+	},
+	{
+		"code": "74.11.10.2003",
+		"type": "desa",
+		"name": "IWOI MENGGURA"
+	},
+	{
+		"code": "74.11.10.2004",
+		"type": "desa",
+		"name": "IWOIMEA JAYA"
+	},
+	{
+		"code": "74.11.10.2005",
+		"type": "desa",
+		"name": "AWIU"
+	},
+	{
+		"code": "74.11.10.2006",
+		"type": "desa",
+		"name": "ALADADIO"
+	},
+	{
+		"code": "74.11.10.2007",
+		"type": "desa",
+		"name": "TINETE"
+	},
+	{
+		"code": "74.11.10.2008",
+		"type": "desa",
+		"name": "TAORE"
+	},
+	{
+		"code": "74.11.10.2009",
+		"type": "desa",
+		"name": "ULUNDORO"
+	},
+	{
+		"code": "74.11.10.2010",
+		"type": "desa",
+		"name": "WATUOHA"
+	},
+	{
+		"code": "74.11.10.2011",
+		"type": "desa",
+		"name": "RUBIA"
+	},
+	{
+		"code": "74.11.11",
+		"type": "kecamatan",
+		"name": "UEESI"
+	},
+	{
+		"code": "74.11.11.2001",
+		"type": "desa",
+		"name": "UEESI"
+	},
+	{
+		"code": "74.11.11.2002",
+		"type": "desa",
+		"name": "WESINGGOTE"
+	},
+	{
+		"code": "74.11.11.2003",
+		"type": "desa",
+		"name": "KONAWENDEPIHA"
+	},
+	{
+		"code": "74.11.11.2004",
+		"type": "desa",
+		"name": "PORABUA"
+	},
+	{
+		"code": "74.11.11.2005",
+		"type": "desa",
+		"name": "WATUMENDONGA"
+	},
+	{
+		"code": "74.11.11.2006",
+		"type": "desa",
+		"name": "SILUI"
+	},
+	{
+		"code": "74.11.11.2007",
+		"type": "desa",
+		"name": "AHILOLU"
+	},
+	{
+		"code": "74.11.11.2008",
+		"type": "desa",
+		"name": "ALAAHA"
+	},
+	{
+		"code": "74.11.11.2009",
+		"type": "desa",
+		"name": "LIKUWALANAPO"
+	},
+	{
+		"code": "74.11.11.2010",
+		"type": "desa",
+		"name": "TONGAUNA"
+	},
+	{
+		"code": "74.11.11.2011",
+		"type": "desa",
+		"name": "PUURAU"
+	},
+	{
+		"code": "74.11.12",
+		"type": "kecamatan",
+		"name": "DANGIA"
+	},
+	{
+		"code": "74.11.12.2001",
+		"type": "desa",
+		"name": "GUNUNG JAYA"
+	},
+	{
+		"code": "74.11.12.2002",
+		"type": "desa",
+		"name": "LEMBAH SUBUR"
+	},
+	{
+		"code": "74.11.12.2003",
+		"type": "desa",
+		"name": "DANGIA"
+	},
+	{
+		"code": "74.11.12.2004",
+		"type": "desa",
+		"name": "LAMOSILA"
+	},
+	{
+		"code": "74.11.12.2005",
+		"type": "desa",
+		"name": "TETEWUA"
+	},
+	{
+		"code": "74.11.12.2006",
+		"type": "desa",
+		"name": "ANAMBADA"
+	},
+	{
+		"code": "74.11.12.2007",
+		"type": "desa",
+		"name": "TALINDUKA"
+	},
+	{
+		"code": "74.11.12.2008",
+		"type": "desa",
+		"name": "TETEMBUTA"
+	},
+	{
+		"code": "74.11.12.2009",
+		"type": "desa",
+		"name": "LALONGKATEBA"
+	},
+	{
+		"code": "74.11.12.2010",
+		"type": "desa",
+		"name": "WANDE"
+	},
+	{
+		"code": "74.11.12.2011",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "74.11.12.2012",
+		"type": "desa",
+		"name": "MULIA JAYA"
+	},
+	{
+		"code": "74.12",
+		"type": "kabupaten",
+		"name": "KAB. KONAWE KEPULAUAN"
+	},
+	{
+		"code": "74.12.01",
+		"type": "kecamatan",
+		"name": "WAWONII BARAT"
+	},
+	{
+		"code": "74.12.01.1001",
+		"type": "kelurahan",
+		"name": "LANGARA LAUT"
+	},
+	{
+		"code": "74.12.01.2002",
+		"type": "desa",
+		"name": "LANGARA IWAWO"
+	},
+	{
+		"code": "74.12.01.2003",
+		"type": "desa",
+		"name": "WAWOLAA"
+	},
+	{
+		"code": "74.12.01.2004",
+		"type": "desa",
+		"name": "LANGARA INDAH"
+	},
+	{
+		"code": "74.12.01.2005",
+		"type": "desa",
+		"name": "LAMOLUO"
+	},
+	{
+		"code": "74.12.01.2006",
+		"type": "desa",
+		"name": "BUKIT PERMAI"
+	},
+	{
+		"code": "74.12.01.2007",
+		"type": "desa",
+		"name": "WAWOBILI"
+	},
+	{
+		"code": "74.12.01.2008",
+		"type": "desa",
+		"name": "LANGARO BAJO"
+	},
+	{
+		"code": "74.12.01.2009",
+		"type": "desa",
+		"name": "MATA LANGARA"
+	},
+	{
+		"code": "74.12.01.2010",
+		"type": "desa",
+		"name": "MATA BAHO"
+	},
+	{
+		"code": "74.12.02",
+		"type": "kecamatan",
+		"name": "WAWONII UTARA"
+	},
+	{
+		"code": "74.12.02.1008",
+		"type": "kelurahan",
+		"name": "LANSILOWO"
+	},
+	{
+		"code": "74.12.02.2001",
+		"type": "desa",
+		"name": "WAWOROPE"
+	},
+	{
+		"code": "74.12.02.2002",
+		"type": "desa",
+		"name": "DONGKALAEA"
+	},
+	{
+		"code": "74.12.02.2003",
+		"type": "desa",
+		"name": "LABEAU"
+	},
+	{
+		"code": "74.12.02.2004",
+		"type": "desa",
+		"name": "TAMBAONE"
+	},
+	{
+		"code": "74.12.02.2005",
+		"type": "desa",
+		"name": "PALINGI"
+	},
+	{
+		"code": "74.12.02.2006",
+		"type": "desa",
+		"name": "MAWA"
+	},
+	{
+		"code": "74.12.02.2007",
+		"type": "desa",
+		"name": "MATA BURANGA"
+	},
+	{
+		"code": "74.12.02.2009",
+		"type": "desa",
+		"name": "TAMBAONE UTAMA"
+	},
+	{
+		"code": "74.12.02.2010",
+		"type": "desa",
+		"name": "WAWOEA"
+	},
+	{
+		"code": "74.12.02.2011",
+		"type": "desa",
+		"name": "PALINGI BARAT"
+	},
+	{
+		"code": "74.12.02.2012",
+		"type": "desa",
+		"name": "TUMBURANO"
+	},
+	{
+		"code": "74.12.02.2013",
+		"type": "desa",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.12.02.2014",
+		"type": "desa",
+		"name": "LABISA"
+	},
+	{
+		"code": "74.12.02.2015",
+		"type": "desa",
+		"name": "MATA BUBU"
+	},
+	{
+		"code": "74.12.02.2016",
+		"type": "desa",
+		"name": "WAWOBEAU"
+	},
+	{
+		"code": "74.12.03",
+		"type": "kecamatan",
+		"name": "WAWONII TIMUR LAUT"
+	},
+	{
+		"code": "74.12.03.1004",
+		"type": "kelurahan",
+		"name": "LADIANTA"
+	},
+	{
+		"code": "74.12.03.2001",
+		"type": "desa",
+		"name": "BANGUN MEKAR"
+	},
+	{
+		"code": "74.12.03.2002",
+		"type": "desa",
+		"name": "NOKO"
+	},
+	{
+		"code": "74.12.03.2003",
+		"type": "desa",
+		"name": "TANGKOMBUNO"
+	},
+	{
+		"code": "74.12.03.2005",
+		"type": "desa",
+		"name": "DIMBA"
+	},
+	{
+		"code": "74.12.03.2006",
+		"type": "desa",
+		"name": "MATA DIMBA"
+	},
+	{
+		"code": "74.12.03.2007",
+		"type": "desa",
+		"name": "PUURAU"
+	},
+	{
+		"code": "74.12.03.2008",
+		"type": "desa",
+		"name": "WATUONDO"
+	},
+	{
+		"code": "74.12.03.2009",
+		"type": "desa",
+		"name": "PATANDE"
+	},
+	{
+		"code": "74.12.03.2010",
+		"type": "desa",
+		"name": "BAHO BUBU"
+	},
+	{
+		"code": "74.12.04",
+		"type": "kecamatan",
+		"name": "WAWONII TIMUR"
+	},
+	{
+		"code": "74.12.04.1001",
+		"type": "kelurahan",
+		"name": "MUNSE"
+	},
+	{
+		"code": "74.12.04.2002",
+		"type": "desa",
+		"name": "LEBO"
+	},
+	{
+		"code": "74.12.04.2003",
+		"type": "desa",
+		"name": "TEKONEA"
+	},
+	{
+		"code": "74.12.04.2004",
+		"type": "desa",
+		"name": "WAKADAWU"
+	},
+	{
+		"code": "74.12.04.2005",
+		"type": "desa",
+		"name": "MUNSE INDAH"
+	},
+	{
+		"code": "74.12.04.2006",
+		"type": "desa",
+		"name": "LAPULU"
+	},
+	{
+		"code": "74.12.04.2007",
+		"type": "desa",
+		"name": "LAYWO JAYA"
+	},
+	{
+		"code": "74.12.04.2008",
+		"type": "desa",
+		"name": "NANGA"
+	},
+	{
+		"code": "74.12.04.2009",
+		"type": "desa",
+		"name": "BUTUEA"
+	},
+	{
+		"code": "74.12.04.2010",
+		"type": "desa",
+		"name": "LEMBONO"
+	},
+	{
+		"code": "74.12.05",
+		"type": "kecamatan",
+		"name": "WAWONII TENGGARA"
+	},
+	{
+		"code": "74.12.05.1005",
+		"type": "kelurahan",
+		"name": "POLARA"
+	},
+	{
+		"code": "74.12.05.2001",
+		"type": "desa",
+		"name": "NAMBO JAYA"
+	},
+	{
+		"code": "74.12.05.2002",
+		"type": "desa",
+		"name": "MASOLO"
+	},
+	{
+		"code": "74.12.05.2003",
+		"type": "desa",
+		"name": "SINAULU JAYA"
+	},
+	{
+		"code": "74.12.05.2004",
+		"type": "desa",
+		"name": "TONDONGGITO"
+	},
+	{
+		"code": "74.12.05.2006",
+		"type": "desa",
+		"name": "ROKO ROKO"
+	},
+	{
+		"code": "74.12.05.2007",
+		"type": "desa",
+		"name": "DOMPO-DOMPO JAYA"
+	},
+	{
+		"code": "74.12.05.2008",
+		"type": "desa",
+		"name": "TEPAROKO"
+	},
+	{
+		"code": "74.12.05.2009",
+		"type": "desa",
+		"name": "SUKARELA JAYA"
+	},
+	{
+		"code": "74.12.05.2010",
+		"type": "desa",
+		"name": "SAINOA JAYA"
+	},
+	{
+		"code": "74.12.05.2011",
+		"type": "desa",
+		"name": "SAINOA INDAH"
+	},
+	{
+		"code": "74.12.05.2012",
+		"type": "desa",
+		"name": "WUNSE JAYA"
+	},
+	{
+		"code": "74.12.05.2013",
+		"type": "desa",
+		"name": "SINAR MASOLO"
+	},
+	{
+		"code": "74.12.06",
+		"type": "kecamatan",
+		"name": "WAWONII SELATAN"
+	},
+	{
+		"code": "74.12.06.1006",
+		"type": "kelurahan",
+		"name": "SAWAEA"
+	},
+	{
+		"code": "74.12.06.2001",
+		"type": "desa",
+		"name": "WUNGKOLO"
+	},
+	{
+		"code": "74.12.06.2002",
+		"type": "desa",
+		"name": "BOBOLIO"
+	},
+	{
+		"code": "74.12.06.2003",
+		"type": "desa",
+		"name": "WAWOSOU"
+	},
+	{
+		"code": "74.12.06.2004",
+		"type": "desa",
+		"name": "LAWEY"
+	},
+	{
+		"code": "74.12.06.2005",
+		"type": "desa",
+		"name": "BAKU-BAKU"
+	},
+	{
+		"code": "74.12.06.2007",
+		"type": "desa",
+		"name": "SAWAPATANI"
+	},
+	{
+		"code": "74.12.06.2008",
+		"type": "desa",
+		"name": "WAWOUSO BARU"
+	},
+	{
+		"code": "74.12.06.2009",
+		"type": "desa",
+		"name": "PUUWATU"
+	},
+	{
+		"code": "74.12.06.2010",
+		"type": "desa",
+		"name": "WAWOONE"
+	},
+	{
+		"code": "74.12.07",
+		"type": "kecamatan",
+		"name": "WAWONII TENGAH"
+	},
+	{
+		"code": "74.12.07.1003",
+		"type": "kelurahan",
+		"name": "LAMPEAPI"
+	},
+	{
+		"code": "74.12.07.2001",
+		"type": "desa",
+		"name": "BATUMEA"
+	},
+	{
+		"code": "74.12.07.2002",
+		"type": "desa",
+		"name": "WAWO INDAH"
+	},
+	{
+		"code": "74.12.07.2004",
+		"type": "desa",
+		"name": "LAMONGUPA"
+	},
+	{
+		"code": "74.12.07.2005",
+		"type": "desa",
+		"name": "TUMBU TUMBU JAYA"
+	},
+	{
+		"code": "74.12.07.2006",
+		"type": "desa",
+		"name": "MOROBEA"
+	},
+	{
+		"code": "74.12.07.2007",
+		"type": "desa",
+		"name": "MEKAR SARI"
+	},
+	{
+		"code": "74.12.07.2008",
+		"type": "desa",
+		"name": "RAWA INDAH"
+	},
+	{
+		"code": "74.12.07.2009",
+		"type": "desa",
+		"name": "LAMPEAPI BARU"
+	},
+	{
+		"code": "74.12.07.2010",
+		"type": "desa",
+		"name": "PESUE"
+	},
+	{
+		"code": "74.13",
+		"type": "kabupaten",
+		"name": "KAB. MUNA BARAT"
+	},
+	{
+		"code": "74.13.01",
+		"type": "kecamatan",
+		"name": "SAWERIGADI"
+	},
+	{
+		"code": "74.13.01.2001",
+		"type": "desa",
+		"name": "WAKOILA"
+	},
+	{
+		"code": "74.13.01.2002",
+		"type": "desa",
+		"name": "WAUKUNI"
+	},
+	{
+		"code": "74.13.01.2003",
+		"type": "desa",
+		"name": "KAMPOBALANO"
+	},
+	{
+		"code": "74.13.01.2004",
+		"type": "desa",
+		"name": "MAPERAHA"
+	},
+	{
+		"code": "74.13.01.2005",
+		"type": "desa",
+		"name": "NIHI"
+	},
+	{
+		"code": "74.13.01.2006",
+		"type": "desa",
+		"name": "MAROBEA"
+	},
+	{
+		"code": "74.13.01.2007",
+		"type": "desa",
+		"name": "ONDOKE"
+	},
+	{
+		"code": "74.13.01.2008",
+		"type": "desa",
+		"name": "LAKALAMBA"
+	},
+	{
+		"code": "74.13.01.2009",
+		"type": "desa",
+		"name": "LAWADA JAYA"
+	},
+	{
+		"code": "74.13.01.2010",
+		"type": "desa",
+		"name": "LOMBU JAYA"
+	},
+	{
+		"code": "74.13.02",
+		"type": "kecamatan",
+		"name": "BARANGKA"
+	},
+	{
+		"code": "74.13.02.2001",
+		"type": "desa",
+		"name": "WUNA"
+	},
+	{
+		"code": "74.13.02.2002",
+		"type": "desa",
+		"name": "LAFINDE"
+	},
+	{
+		"code": "74.13.02.2003",
+		"type": "desa",
+		"name": "WAULAI"
+	},
+	{
+		"code": "74.13.02.2004",
+		"type": "desa",
+		"name": "WALELEI"
+	},
+	{
+		"code": "74.13.02.2005",
+		"type": "desa",
+		"name": "SAWERIGADI"
+	},
+	{
+		"code": "74.13.02.2006",
+		"type": "desa",
+		"name": "BUNGKOLO"
+	},
+	{
+		"code": "74.13.02.2007",
+		"type": "desa",
+		"name": "BARANGKA"
+	},
+	{
+		"code": "74.13.02.2008",
+		"type": "desa",
+		"name": "LAPOLEA"
+	},
+	{
+		"code": "74.13.03",
+		"type": "kecamatan",
+		"name": "LAWA"
+	},
+	{
+		"code": "74.13.03.1007",
+		"type": "kelurahan",
+		"name": "WAMELAI"
+	},
+	{
+		"code": "74.13.03.1008",
+		"type": "kelurahan",
+		"name": "LAPADAKU"
+	},
+	{
+		"code": "74.13.03.2001",
+		"type": "desa",
+		"name": "LAGADI"
+	},
+	{
+		"code": "74.13.03.2002",
+		"type": "desa",
+		"name": "LATUGHO"
+	},
+	{
+		"code": "74.13.03.2003",
+		"type": "desa",
+		"name": "LATOMPE"
+	},
+	{
+		"code": "74.13.03.2004",
+		"type": "desa",
+		"name": "LALEMBA"
+	},
+	{
+		"code": "74.13.03.2005",
+		"type": "desa",
+		"name": "MADAMPI"
+	},
+	{
+		"code": "74.13.03.2006",
+		"type": "desa",
+		"name": "WATUMELA"
+	},
+	{
+		"code": "74.13.04",
+		"type": "kecamatan",
+		"name": "WADAGA"
+	},
+	{
+		"code": "74.13.04.2001",
+		"type": "desa",
+		"name": "LAILANGGA"
+	},
+	{
+		"code": "74.13.04.2002",
+		"type": "desa",
+		"name": "LASOSODO"
+	},
+	{
+		"code": "74.13.04.2003",
+		"type": "desa",
+		"name": "WAKONTU"
+	},
+	{
+		"code": "74.13.04.2004",
+		"type": "desa",
+		"name": "LAKANAHA"
+	},
+	{
+		"code": "74.13.04.2005",
+		"type": "desa",
+		"name": "KATOBU"
+	},
+	{
+		"code": "74.13.04.2006",
+		"type": "desa",
+		"name": "LINDO"
+	},
+	{
+		"code": "74.13.04.2007",
+		"type": "desa",
+		"name": "KAMPANI"
+	},
+	{
+		"code": "74.13.05",
+		"type": "kecamatan",
+		"name": "TIWORO SELATAN"
+	},
+	{
+		"code": "74.13.05.2001",
+		"type": "desa",
+		"name": "PARURA JAYA"
+	},
+	{
+		"code": "74.13.05.2002",
+		"type": "desa",
+		"name": "KATANGANA"
+	},
+	{
+		"code": "74.13.05.2003",
+		"type": "desa",
+		"name": "KASIMPA JAYA"
+	},
+	{
+		"code": "74.13.05.2004",
+		"type": "desa",
+		"name": "SANGIA TIWORO"
+	},
+	{
+		"code": "74.13.05.2005",
+		"type": "desa",
+		"name": "BARAKKAH"
+	},
+	{
+		"code": "74.13.06",
+		"type": "kecamatan",
+		"name": "MAGINTI"
+	},
+	{
+		"code": "74.13.06.2001",
+		"type": "desa",
+		"name": "KANGKUNAWE"
+	},
+	{
+		"code": "74.13.06.2002",
+		"type": "desa",
+		"name": "MAGINTI"
+	},
+	{
+		"code": "74.13.06.2003",
+		"type": "desa",
+		"name": "PAJALA"
+	},
+	{
+		"code": "74.13.06.2004",
+		"type": "desa",
+		"name": "ABADI JAYA"
+	},
+	{
+		"code": "74.13.06.2005",
+		"type": "desa",
+		"name": "GALA"
+	},
+	{
+		"code": "74.13.06.2006",
+		"type": "desa",
+		"name": "PASIPADANGA"
+	},
+	{
+		"code": "74.13.06.2007",
+		"type": "desa",
+		"name": "BANGKO"
+	},
+	{
+		"code": "74.13.06.2008",
+		"type": "desa",
+		"name": "KEMBAR MAMINASA"
+	},
+	{
+		"code": "74.13.07",
+		"type": "kecamatan",
+		"name": "TIWORO TENGAH"
+	},
+	{
+		"code": "74.13.07.2001",
+		"type": "desa",
+		"name": "WANSERIWU"
+	},
+	{
+		"code": "74.13.07.2002",
+		"type": "desa",
+		"name": "LABUKOLO"
+	},
+	{
+		"code": "74.13.07.2003",
+		"type": "desa",
+		"name": "LANGKU-LANGKU"
+	},
+	{
+		"code": "74.13.07.2004",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "74.13.07.2005",
+		"type": "desa",
+		"name": "WAPAE JAYA"
+	},
+	{
+		"code": "74.13.07.2006",
+		"type": "desa",
+		"name": "MOMUNTU"
+	},
+	{
+		"code": "74.13.07.2007",
+		"type": "desa",
+		"name": "LAKABU"
+	},
+	{
+		"code": "74.13.07.2008",
+		"type": "desa",
+		"name": "SUKA DAMAI"
+	},
+	{
+		"code": "74.13.08",
+		"type": "kecamatan",
+		"name": "TIWORO UTARA"
+	},
+	{
+		"code": "74.13.08.2001",
+		"type": "desa",
+		"name": "TASIPI"
+	},
+	{
+		"code": "74.13.08.2002",
+		"type": "desa",
+		"name": "MANDIKE"
+	},
+	{
+		"code": "74.13.08.2003",
+		"type": "desa",
+		"name": "BERO"
+	},
+	{
+		"code": "74.13.08.2004",
+		"type": "desa",
+		"name": "SANTIGI"
+	},
+	{
+		"code": "74.13.08.2005",
+		"type": "desa",
+		"name": "TONDASI"
+	},
+	{
+		"code": "74.13.08.2006",
+		"type": "desa",
+		"name": "SANTIRI"
+	},
+	{
+		"code": "74.13.08.2007",
+		"type": "desa",
+		"name": "TIGA"
+	},
+	{
+		"code": "74.13.09",
+		"type": "kecamatan",
+		"name": "TIWORO KEPULAUAN"
+	},
+	{
+		"code": "74.13.09.1004",
+		"type": "kelurahan",
+		"name": "WAUMERE"
+	},
+	{
+		"code": "74.13.09.1005",
+		"type": "kelurahan",
+		"name": "TIWORO"
+	},
+	{
+		"code": "74.13.09.2001",
+		"type": "desa",
+		"name": "KATELA"
+	},
+	{
+		"code": "74.13.09.2002",
+		"type": "desa",
+		"name": "LASAMA"
+	},
+	{
+		"code": "74.13.09.2003",
+		"type": "desa",
+		"name": "SIDO MAKMUR"
+	},
+	{
+		"code": "74.13.09.2006",
+		"type": "desa",
+		"name": "WATUREMPE"
+	},
+	{
+		"code": "74.13.09.2007",
+		"type": "desa",
+		"name": "LAWORO"
+	},
+	{
+		"code": "74.13.09.2008",
+		"type": "desa",
+		"name": "WULANGA JAYA"
+	},
+	{
+		"code": "74.13.09.2009",
+		"type": "desa",
+		"name": "WANDOKE"
+	},
+	{
+		"code": "74.13.10",
+		"type": "kecamatan",
+		"name": "KUSAMBI"
+	},
+	{
+		"code": "74.13.10.1008",
+		"type": "kelurahan",
+		"name": "KONAWE"
+	},
+	{
+		"code": "74.13.10.2001",
+		"type": "desa",
+		"name": "LEMOAMBO"
+	},
+	{
+		"code": "74.13.10.2002",
+		"type": "desa",
+		"name": "KASAKAMU"
+	},
+	{
+		"code": "74.13.10.2003",
+		"type": "desa",
+		"name": "TANJUNG PINANG"
+	},
+	{
+		"code": "74.13.10.2004",
+		"type": "desa",
+		"name": "SIDAMANGURA"
+	},
+	{
+		"code": "74.13.10.2005",
+		"type": "desa",
+		"name": "LAKAWOGHE"
+	},
+	{
+		"code": "74.13.10.2006",
+		"type": "desa",
+		"name": "LAPOKAINSE"
+	},
+	{
+		"code": "74.13.10.2007",
+		"type": "desa",
+		"name": "GUALI"
+	},
+	{
+		"code": "74.13.10.2009",
+		"type": "desa",
+		"name": "KUSAMBI"
+	},
+	{
+		"code": "74.13.10.2010",
+		"type": "desa",
+		"name": "BAKERAMBA"
+	},
+	{
+		"code": "74.13.11",
+		"type": "kecamatan",
+		"name": "NAPANO KUSAMBI"
+	},
+	{
+		"code": "74.13.11.2001",
+		"type": "desa",
+		"name": "MASARA"
+	},
+	{
+		"code": "74.13.11.2002",
+		"type": "desa",
+		"name": "LAHAJI"
+	},
+	{
+		"code": "74.13.11.2003",
+		"type": "desa",
+		"name": "UMBA"
+	},
+	{
+		"code": "74.13.11.2004",
+		"type": "desa",
+		"name": "KOMBIKUNO"
+	},
+	{
+		"code": "74.13.11.2005",
+		"type": "desa",
+		"name": "LATAWE"
+	},
+	{
+		"code": "74.13.11.2006",
+		"type": "desa",
+		"name": "TANGKUMAHO"
+	},
+	{
+		"code": "74.14",
+		"type": "kabupaten",
+		"name": "KAB. BUTON TENGAH"
+	},
+	{
+		"code": "74.14.01",
+		"type": "kecamatan",
+		"name": "LAKUDO"
+	},
+	{
+		"code": "74.14.01.1007",
+		"type": "kelurahan",
+		"name": "LAKUDO"
+	},
+	{
+		"code": "74.14.01.1008",
+		"type": "kelurahan",
+		"name": "GU TIMUR"
+	},
+	{
+		"code": "74.14.01.1010",
+		"type": "kelurahan",
+		"name": "BONEOGE"
+	},
+	{
+		"code": "74.14.01.2001",
+		"type": "desa",
+		"name": "METERE"
+	},
+	{
+		"code": "74.14.01.2002",
+		"type": "desa",
+		"name": "LOLIBU"
+	},
+	{
+		"code": "74.14.01.2003",
+		"type": "desa",
+		"name": "WAJOGU"
+	},
+	{
+		"code": "74.14.01.2004",
+		"type": "desa",
+		"name": "MOKO"
+	},
+	{
+		"code": "74.14.01.2005",
+		"type": "desa",
+		"name": "MONE"
+	},
+	{
+		"code": "74.14.01.2006",
+		"type": "desa",
+		"name": "MATAWINE"
+	},
+	{
+		"code": "74.14.01.2009",
+		"type": "desa",
+		"name": "NEPA MEKAR"
+	},
+	{
+		"code": "74.14.01.2011",
+		"type": "desa",
+		"name": "MADONGKA"
+	},
+	{
+		"code": "74.14.01.2012",
+		"type": "desa",
+		"name": "WARA"
+	},
+	{
+		"code": "74.14.01.2013",
+		"type": "desa",
+		"name": "WONGKO LAKUDO"
+	},
+	{
+		"code": "74.14.01.2014",
+		"type": "desa",
+		"name": "ONE WAARA"
+	},
+	{
+		"code": "74.14.01.2015",
+		"type": "desa",
+		"name": "TELUK LASONGKO"
+	},
+	{
+		"code": "74.14.02",
+		"type": "kecamatan",
+		"name": "MAWASANGKA TIMUR"
+	},
+	{
+		"code": "74.14.02.2001",
+		"type": "desa",
+		"name": "BONEMARAMBE"
+	},
+	{
+		"code": "74.14.02.2002",
+		"type": "desa",
+		"name": "WAMBULOLI"
+	},
+	{
+		"code": "74.14.02.2003",
+		"type": "desa",
+		"name": "LAGILI"
+	},
+	{
+		"code": "74.14.02.2004",
+		"type": "desa",
+		"name": "BUNGI"
+	},
+	{
+		"code": "74.14.02.2005",
+		"type": "desa",
+		"name": "WANTOPI"
+	},
+	{
+		"code": "74.14.02.2006",
+		"type": "desa",
+		"name": "INULU"
+	},
+	{
+		"code": "74.14.02.2007",
+		"type": "desa",
+		"name": "LASORI"
+	},
+	{
+		"code": "74.14.02.2008",
+		"type": "desa",
+		"name": "BATUBANAWA"
+	},
+	{
+		"code": "74.14.03",
+		"type": "kecamatan",
+		"name": "MAWASANGKA TENGAH"
+	},
+	{
+		"code": "74.14.03.1003",
+		"type": "kelurahan",
+		"name": "LAKORUA"
+	},
+	{
+		"code": "74.14.03.2001",
+		"type": "desa",
+		"name": "MORIKANA"
+	},
+	{
+		"code": "74.14.03.2002",
+		"type": "desa",
+		"name": "LANTONGAU"
+	},
+	{
+		"code": "74.14.03.2004",
+		"type": "desa",
+		"name": "LANTO"
+	},
+	{
+		"code": "74.14.03.2005",
+		"type": "desa",
+		"name": "LALIBO"
+	},
+	{
+		"code": "74.14.03.2006",
+		"type": "desa",
+		"name": "LANGKOMU"
+	},
+	{
+		"code": "74.14.03.2007",
+		"type": "desa",
+		"name": "WATORUMBE"
+	},
+	{
+		"code": "74.14.03.2008",
+		"type": "desa",
+		"name": "WATORUMBE BATA"
+	},
+	{
+		"code": "74.14.03.2009",
+		"type": "desa",
+		"name": "GUNDU GUNDU"
+	},
+	{
+		"code": "74.14.03.2010",
+		"type": "desa",
+		"name": "KATUKOBARI"
+	},
+	{
+		"code": "74.14.04",
+		"type": "kecamatan",
+		"name": "MAWASANGKA"
+	},
+	{
+		"code": "74.14.04.1001",
+		"type": "kelurahan",
+		"name": "WATOLO"
+	},
+	{
+		"code": "74.14.04.1002",
+		"type": "kelurahan",
+		"name": "MAWASANGKA"
+	},
+	{
+		"code": "74.14.04.2003",
+		"type": "desa",
+		"name": "OENGKOLAKI"
+	},
+	{
+		"code": "74.14.04.2004",
+		"type": "desa",
+		"name": "BANGA"
+	},
+	{
+		"code": "74.14.04.2005",
+		"type": "desa",
+		"name": "TANAILANDU"
+	},
+	{
+		"code": "74.14.04.2006",
+		"type": "desa",
+		"name": "POLINDU"
+	},
+	{
+		"code": "74.14.04.2007",
+		"type": "desa",
+		"name": "KANAPA NAPA"
+	},
+	{
+		"code": "74.14.04.2008",
+		"type": "desa",
+		"name": "TERAPUNG"
+	},
+	{
+		"code": "74.14.04.2009",
+		"type": "desa",
+		"name": "WASILOMATA II"
+	},
+	{
+		"code": "74.14.04.2010",
+		"type": "desa",
+		"name": "WASILOTAMA I"
+	},
+	{
+		"code": "74.14.04.2011",
+		"type": "desa",
+		"name": "MATARA"
+	},
+	{
+		"code": "74.14.04.2012",
+		"type": "desa",
+		"name": "BALOBONE"
+	},
+	{
+		"code": "74.14.04.2013",
+		"type": "desa",
+		"name": "NAPA"
+	},
+	{
+		"code": "74.14.04.2014",
+		"type": "desa",
+		"name": "WAKAMBANGURA"
+	},
+	{
+		"code": "74.14.04.2015",
+		"type": "desa",
+		"name": "KANCEBUNGI"
+	},
+	{
+		"code": "74.14.04.2016",
+		"type": "desa",
+		"name": "GUMANANO"
+	},
+	{
+		"code": "74.14.04.2017",
+		"type": "desa",
+		"name": "DAHIANGO"
+	},
+	{
+		"code": "74.14.04.2018",
+		"type": "desa",
+		"name": "AIR BAJO"
+	},
+	{
+		"code": "74.14.04.2019",
+		"type": "desa",
+		"name": "WAKAMBANGURA II"
+	},
+	{
+		"code": "74.14.05",
+		"type": "kecamatan",
+		"name": "TALAGA RAYA"
+	},
+	{
+		"code": "74.14.05.1004",
+		"type": "kelurahan",
+		"name": "TALAGA SATU"
+	},
+	{
+		"code": "74.14.05.2001",
+		"type": "desa",
+		"name": "KOKOE"
+	},
+	{
+		"code": "74.14.05.2002",
+		"type": "desa",
+		"name": "TALAGA BESAR"
+	},
+	{
+		"code": "74.14.05.2003",
+		"type": "desa",
+		"name": "TALAGA DUA"
+	},
+	{
+		"code": "74.14.05.2005",
+		"type": "desa",
+		"name": "WULU"
+	},
+	{
+		"code": "74.14.05.2006",
+		"type": "desa",
+		"name": "LIWULOMPONA"
+	},
+	{
+		"code": "74.14.05.2007",
+		"type": "desa",
+		"name": "PANGILIA"
+	},
+	{
+		"code": "74.14.06",
+		"type": "kecamatan",
+		"name": "GU"
+	},
+	{
+		"code": "74.14.06.1004",
+		"type": "kelurahan",
+		"name": "WATULEA"
+	},
+	{
+		"code": "74.14.06.1005",
+		"type": "kelurahan",
+		"name": "BOMBONAWULU"
+	},
+	{
+		"code": "74.14.06.2001",
+		"type": "desa",
+		"name": "BANTEA"
+	},
+	{
+		"code": "74.14.06.2002",
+		"type": "desa",
+		"name": "LAKAPERA"
+	},
+	{
+		"code": "74.14.06.2003",
+		"type": "desa",
+		"name": "WALANDO"
+	},
+	{
+		"code": "74.14.06.2006",
+		"type": "desa",
+		"name": "WALIKO"
+	},
+	{
+		"code": "74.14.06.2007",
+		"type": "desa",
+		"name": "WAKE KEA"
+	},
+	{
+		"code": "74.14.06.2008",
+		"type": "desa",
+		"name": "RAHIA"
+	},
+	{
+		"code": "74.14.06.2009",
+		"type": "desa",
+		"name": "WADIABERO"
+	},
+	{
+		"code": "74.14.06.2010",
+		"type": "desa",
+		"name": "KOLOWA"
+	},
+	{
+		"code": "74.14.06.2011",
+		"type": "desa",
+		"name": "KAMAMA MEKAR"
+	},
+	{
+		"code": "74.14.06.2012",
+		"type": "desa",
+		"name": "LOWU LOWU"
+	},
+	{
+		"code": "74.14.07",
+		"type": "kecamatan",
+		"name": "SANGIA WAMBULU"
+	},
+	{
+		"code": "74.14.07.1002",
+		"type": "kelurahan",
+		"name": "TOLANDONA"
+	},
+	{
+		"code": "74.14.07.2001",
+		"type": "desa",
+		"name": "BARUTA LESTARI"
+	},
+	{
+		"code": "74.14.07.2003",
+		"type": "desa",
+		"name": "DODA BAHARI"
+	},
+	{
+		"code": "74.14.07.2004",
+		"type": "desa",
+		"name": "BARUTA"
+	},
+	{
+		"code": "74.14.07.2006",
+		"type": "desa",
+		"name": "BARUTA ANALALAKI"
+	},
+	{
+		"code": "74.14.07.2007",
+		"type": "desa",
+		"name": "TOLANDONA MATANAEO"
+	},
+	{
+		"code": "74.15",
+		"type": "kabupaten",
+		"name": "KAB. BUTON SELATAN"
+	},
+	{
+		"code": "74.15.01",
+		"type": "kecamatan",
+		"name": "BATAUGA"
+	},
+	{
+		"code": "74.15.01.1002",
+		"type": "kelurahan",
+		"name": "BUSOA"
+	},
+	{
+		"code": "74.15.01.1003",
+		"type": "kelurahan",
+		"name": "LAOMPO"
+	},
+	{
+		"code": "74.15.01.1004",
+		"type": "kelurahan",
+		"name": "MASIRI"
+	},
+	{
+		"code": "74.15.01.1005",
+		"type": "kelurahan",
+		"name": "MAJAPAHIT"
+	},
+	{
+		"code": "74.15.01.1010",
+		"type": "kelurahan",
+		"name": "LAKAMBAU"
+	},
+	{
+		"code": "74.15.01.1011",
+		"type": "kelurahan",
+		"name": "MOLAGINA"
+	},
+	{
+		"code": "74.15.01.1012",
+		"type": "kelurahan",
+		"name": "BANDAR BATAUGA"
+	},
+	{
+		"code": "74.15.01.2001",
+		"type": "desa",
+		"name": "LAWELA"
+	},
+	{
+		"code": "74.15.01.2006",
+		"type": "desa",
+		"name": "BOLA"
+	},
+	{
+		"code": "74.15.01.2007",
+		"type": "desa",
+		"name": "POOGALAMPA"
+	},
+	{
+		"code": "74.15.01.2008",
+		"type": "desa",
+		"name": "LAWELA SELATAN"
+	},
+	{
+		"code": "74.15.01.2009",
+		"type": "desa",
+		"name": "LAMPANAIRI"
+	},
+	{
+		"code": "74.15.02",
+		"type": "kecamatan",
+		"name": "SAMPOLAWA"
+	},
+	{
+		"code": "74.15.02.1003",
+		"type": "kelurahan",
+		"name": "KATILOMBU"
+	},
+	{
+		"code": "74.15.02.1004",
+		"type": "kelurahan",
+		"name": "JAYA BAKTI"
+	},
+	{
+		"code": "74.15.02.1005",
+		"type": "kelurahan",
+		"name": "TODOMBULU"
+	},
+	{
+		"code": "74.15.02.2001",
+		"type": "desa",
+		"name": "BANGUN"
+	},
+	{
+		"code": "74.15.02.2002",
+		"type": "desa",
+		"name": "WAWOANGI"
+	},
+	{
+		"code": "74.15.02.2006",
+		"type": "desa",
+		"name": "GUNUNG SEJUK"
+	},
+	{
+		"code": "74.15.02.2007",
+		"type": "desa",
+		"name": "SANDANG PANGAN"
+	},
+	{
+		"code": "74.15.02.2008",
+		"type": "desa",
+		"name": "HENDEA"
+	},
+	{
+		"code": "74.15.02.2009",
+		"type": "desa",
+		"name": "TIRA"
+	},
+	{
+		"code": "74.15.02.2010",
+		"type": "desa",
+		"name": "BAHARI"
+	},
+	{
+		"code": "74.15.02.2011",
+		"type": "desa",
+		"name": "GERAK MAKMUR"
+	},
+	{
+		"code": "74.15.02.2012",
+		"type": "desa",
+		"name": "LIPU MANGAU"
+	},
+	{
+		"code": "74.15.02.2013",
+		"type": "desa",
+		"name": "BAHARI DUA"
+	},
+	{
+		"code": "74.15.02.2014",
+		"type": "desa",
+		"name": "BAHARI TIGA"
+	},
+	{
+		"code": "74.15.02.2015",
+		"type": "desa",
+		"name": "WINDU MAKMUR"
+	},
+	{
+		"code": "74.15.02.2016",
+		"type": "desa",
+		"name": "WATIGINANDA"
+	},
+	{
+		"code": "74.15.03",
+		"type": "kecamatan",
+		"name": "LAPANDEWA"
+	},
+	{
+		"code": "74.15.03.2001",
+		"type": "desa",
+		"name": "LAPANDEWA MAKMUR"
+	},
+	{
+		"code": "74.15.03.2002",
+		"type": "desa",
+		"name": "GAYA BARU"
+	},
+	{
+		"code": "74.15.03.2003",
+		"type": "desa",
+		"name": "BURANGASI RUMBIA"
+	},
+	{
+		"code": "74.15.03.2004",
+		"type": "desa",
+		"name": "BURANGASI"
+	},
+	{
+		"code": "74.15.03.2005",
+		"type": "desa",
+		"name": "LAPANDEWA KAINDEA"
+	},
+	{
+		"code": "74.15.03.2006",
+		"type": "desa",
+		"name": "LAPANDEWA"
+	},
+	{
+		"code": "74.15.03.2007",
+		"type": "desa",
+		"name": "LAPANDEWA JAYA"
+	},
+	{
+		"code": "74.15.04",
+		"type": "kecamatan",
+		"name": "BATU ATAS"
+	},
+	{
+		"code": "74.15.04.2001",
+		"type": "desa",
+		"name": "BATUATAS LIWU"
+	},
+	{
+		"code": "74.15.04.2002",
+		"type": "desa",
+		"name": "BATUATAS BARAT"
+	},
+	{
+		"code": "74.15.04.2003",
+		"type": "desa",
+		"name": "WACUALA"
+	},
+	{
+		"code": "74.15.04.2004",
+		"type": "desa",
+		"name": "BATU ATAS TIMUR"
+	},
+	{
+		"code": "74.15.04.2005",
+		"type": "desa",
+		"name": "TOLANDO JAYA"
+	},
+	{
+		"code": "74.15.04.2006",
+		"type": "desa",
+		"name": "TADUASA"
+	},
+	{
+		"code": "74.15.04.2007",
+		"type": "desa",
+		"name": "WAMBONGI"
+	},
+	{
+		"code": "74.15.05",
+		"type": "kecamatan",
+		"name": "SIOMPU BARAT"
+	},
+	{
+		"code": "74.15.05.2001",
+		"type": "desa",
+		"name": "MOLONA"
+	},
+	{
+		"code": "74.15.05.2002",
+		"type": "desa",
+		"name": "MBANUA"
+	},
+	{
+		"code": "74.15.05.2003",
+		"type": "desa",
+		"name": "LALOLE"
+	},
+	{
+		"code": "74.15.05.2004",
+		"type": "desa",
+		"name": "WATUAMPARA"
+	},
+	{
+		"code": "74.15.05.2005",
+		"type": "desa",
+		"name": "KATAMPE"
+	},
+	{
+		"code": "74.15.05.2006",
+		"type": "desa",
+		"name": "LAMANINGGARA"
+	},
+	{
+		"code": "74.15.05.2007",
+		"type": "desa",
+		"name": "KAMOALI"
+	},
+	{
+		"code": "74.15.05.2008",
+		"type": "desa",
+		"name": "MOKOBEAU"
+	},
+	{
+		"code": "74.15.06",
+		"type": "kecamatan",
+		"name": "SIOMPU"
+	},
+	{
+		"code": "74.15.06.2001",
+		"type": "desa",
+		"name": "BIWINAPADA"
+	},
+	{
+		"code": "74.15.06.2002",
+		"type": "desa",
+		"name": "KAIMBULAWA"
+	},
+	{
+		"code": "74.15.06.2003",
+		"type": "desa",
+		"name": "WAKINAMBORO"
+	},
+	{
+		"code": "74.15.06.2004",
+		"type": "desa",
+		"name": "TONGALI"
+	},
+	{
+		"code": "74.15.06.2005",
+		"type": "desa",
+		"name": "LONTOI"
+	},
+	{
+		"code": "74.15.06.2006",
+		"type": "desa",
+		"name": "KARAE"
+	},
+	{
+		"code": "74.15.06.2007",
+		"type": "desa",
+		"name": "BATUAWU"
+	},
+	{
+		"code": "74.15.06.2008",
+		"type": "desa",
+		"name": "NGGULANGGULA"
+	},
+	{
+		"code": "74.15.06.2009",
+		"type": "desa",
+		"name": "WAINDAWULA"
+	},
+	{
+		"code": "74.15.06.2010",
+		"type": "desa",
+		"name": "LAPARA"
+	},
+	{
+		"code": "74.15.07",
+		"type": "kecamatan",
+		"name": "KADATUA"
+	},
+	{
+		"code": "74.15.07.2001",
+		"type": "desa",
+		"name": "WAONU"
+	},
+	{
+		"code": "74.15.07.2002",
+		"type": "desa",
+		"name": "KAOFE"
+	},
+	{
+		"code": "74.15.07.2003",
+		"type": "desa",
+		"name": "UWEMAASI"
+	},
+	{
+		"code": "74.15.07.2004",
+		"type": "desa",
+		"name": "LIPU"
+	},
+	{
+		"code": "74.15.07.2005",
+		"type": "desa",
+		"name": "KAPOA"
+	},
+	{
+		"code": "74.15.07.2006",
+		"type": "desa",
+		"name": "BANABUNGI"
+	},
+	{
+		"code": "74.15.07.2007",
+		"type": "desa",
+		"name": "MAWAMBUNGA"
+	},
+	{
+		"code": "74.15.07.2008",
+		"type": "desa",
+		"name": "BANABUNGI SELATAN"
+	},
+	{
+		"code": "74.15.07.2009",
+		"type": "desa",
+		"name": "MARAWALI"
+	},
+	{
+		"code": "74.15.07.2010",
+		"type": "desa",
+		"name": "KAPOA BARAT"
+	},
+	{
+		"code": "74.71",
+		"type": "kabupaten",
+		"name": "KOTA KENDARI"
+	},
+	{
+		"code": "74.71.01",
+		"type": "kecamatan",
+		"name": "MANDONGA"
+	},
+	{
+		"code": "74.71.01.1005",
+		"type": "kelurahan",
+		"name": "MANDONGA"
+	},
+	{
+		"code": "74.71.01.1006",
+		"type": "kelurahan",
+		"name": "KORUMBA"
+	},
+	{
+		"code": "74.71.01.1007",
+		"type": "kelurahan",
+		"name": "LABIBIA"
+	},
+	{
+		"code": "74.71.01.1008",
+		"type": "kelurahan",
+		"name": "WAWOMBALATA"
+	},
+	{
+		"code": "74.71.01.1009",
+		"type": "kelurahan",
+		"name": "ALOLAMA"
+	},
+	{
+		"code": "74.71.01.1010",
+		"type": "kelurahan",
+		"name": "ANGGILOWU"
+	},
+	{
+		"code": "74.71.02",
+		"type": "kecamatan",
+		"name": "KENDARI"
+	},
+	{
+		"code": "74.71.02.1009",
+		"type": "kelurahan",
+		"name": "KANDAI"
+	},
+	{
+		"code": "74.71.02.1010",
+		"type": "kelurahan",
+		"name": "GUNUNG JATI"
+	},
+	{
+		"code": "74.71.02.1011",
+		"type": "kelurahan",
+		"name": "KAMPUNG SALO"
+	},
+	{
+		"code": "74.71.02.1012",
+		"type": "kelurahan",
+		"name": "MANGGA DUA"
+	},
+	{
+		"code": "74.71.02.1013",
+		"type": "kelurahan",
+		"name": "KENDARI CADDI"
+	},
+	{
+		"code": "74.71.02.1014",
+		"type": "kelurahan",
+		"name": "KASSILAMPE"
+	},
+	{
+		"code": "74.71.02.1015",
+		"type": "kelurahan",
+		"name": "MATA"
+	},
+	{
+		"code": "74.71.02.1016",
+		"type": "kelurahan",
+		"name": "PURIRANO"
+	},
+	{
+		"code": "74.71.02.1017",
+		"type": "kelurahan",
+		"name": "JATI MEKAR"
+	},
+	{
+		"code": "74.71.03",
+		"type": "kecamatan",
+		"name": "BARUGA"
+	},
+	{
+		"code": "74.71.03.1001",
+		"type": "kelurahan",
+		"name": "BARUGA"
+	},
+	{
+		"code": "74.71.03.1002",
+		"type": "kelurahan",
+		"name": "LEPO LEPO"
+	},
+	{
+		"code": "74.71.03.1007",
+		"type": "kelurahan",
+		"name": "WATUBANGGA"
+	},
+	{
+		"code": "74.71.03.1008",
+		"type": "kelurahan",
+		"name": "WUNDUDOPI"
+	},
+	{
+		"code": "74.71.04",
+		"type": "kecamatan",
+		"name": "POASIA"
+	},
+	{
+		"code": "74.71.04.1003",
+		"type": "kelurahan",
+		"name": "ANDONOHU"
+	},
+	{
+		"code": "74.71.04.1004",
+		"type": "kelurahan",
+		"name": "RAHANDOUNA"
+	},
+	{
+		"code": "74.71.04.1005",
+		"type": "kelurahan",
+		"name": "ANGGOEYA"
+	},
+	{
+		"code": "74.71.04.1006",
+		"type": "kelurahan",
+		"name": "MATABUBU"
+	},
+	{
+		"code": "74.71.05",
+		"type": "kecamatan",
+		"name": "KENDARI BARAT"
+	},
+	{
+		"code": "74.71.05.1001",
+		"type": "kelurahan",
+		"name": "KEMARAYA"
+	},
+	{
+		"code": "74.71.05.1002",
+		"type": "kelurahan",
+		"name": "WATU-WATU"
+	},
+	{
+		"code": "74.71.05.1003",
+		"type": "kelurahan",
+		"name": "TIPULU"
+	},
+	{
+		"code": "74.71.05.1004",
+		"type": "kelurahan",
+		"name": "PUNGGALOBA"
+	},
+	{
+		"code": "74.71.05.1005",
+		"type": "kelurahan",
+		"name": "BENU BENUA"
+	},
+	{
+		"code": "74.71.05.1006",
+		"type": "kelurahan",
+		"name": "SODOHA"
+	},
+	{
+		"code": "74.71.05.1007",
+		"type": "kelurahan",
+		"name": "SANUA"
+	},
+	{
+		"code": "74.71.05.1008",
+		"type": "kelurahan",
+		"name": "DAPU DAPURA"
+	},
+	{
+		"code": "74.71.05.1009",
+		"type": "kelurahan",
+		"name": "LAHUNDAPE"
+	},
+	{
+		"code": "74.71.06",
+		"type": "kecamatan",
+		"name": "ABELI"
+	},
+	{
+		"code": "74.71.06.1001",
+		"type": "kelurahan",
+		"name": "PUDAY"
+	},
+	{
+		"code": "74.71.06.1002",
+		"type": "kelurahan",
+		"name": "LAPULU"
+	},
+	{
+		"code": "74.71.06.1003",
+		"type": "kelurahan",
+		"name": "ABELI"
+	},
+	{
+		"code": "74.71.06.1004",
+		"type": "kelurahan",
+		"name": "BENUANIRAE"
+	},
+	{
+		"code": "74.71.06.1005",
+		"type": "kelurahan",
+		"name": "TOBIMEITA"
+	},
+	{
+		"code": "74.71.06.1006",
+		"type": "kelurahan",
+		"name": "ANGGALOMELAI"
+	},
+	{
+		"code": "74.71.06.1007",
+		"type": "kelurahan",
+		"name": "TALIA"
+	},
+	{
+		"code": "74.71.06.1008",
+		"type": "kelurahan",
+		"name": "POASIA"
+	},
+	{
+		"code": "74.71.06.1009",
+		"type": "kelurahan",
+		"name": "BUNGKUTOKO"
+	},
+	{
+		"code": "74.71.06.1010",
+		"type": "kelurahan",
+		"name": "PETOAHA"
+	},
+	{
+		"code": "74.71.06.1011",
+		"type": "kelurahan",
+		"name": "NAMBO"
+	},
+	{
+		"code": "74.71.06.1012",
+		"type": "kelurahan",
+		"name": "SAMBULI"
+	},
+	{
+		"code": "74.71.06.1013",
+		"type": "kelurahan",
+		"name": "TONDONGGEU"
+	},
+	{
+		"code": "74.71.07",
+		"type": "kecamatan",
+		"name": "WUA-WUA"
+	},
+	{
+		"code": "74.71.07.1001",
+		"type": "kelurahan",
+		"name": "WUA WUA"
+	},
+	{
+		"code": "74.71.07.1002",
+		"type": "kelurahan",
+		"name": "BONGGOEYA"
+	},
+	{
+		"code": "74.71.07.1003",
+		"type": "kelurahan",
+		"name": "MATAIWOI"
+	},
+	{
+		"code": "74.71.07.1004",
+		"type": "kelurahan",
+		"name": "ANAWAI"
+	},
+	{
+		"code": "74.71.08",
+		"type": "kecamatan",
+		"name": "KADIA"
+	},
+	{
+		"code": "74.71.08.1001",
+		"type": "kelurahan",
+		"name": "KADIA"
+	},
+	{
+		"code": "74.71.08.1002",
+		"type": "kelurahan",
+		"name": "BENDE"
+	},
+	{
+		"code": "74.71.08.1003",
+		"type": "kelurahan",
+		"name": "PONDAMBEA"
+	},
+	{
+		"code": "74.71.08.1004",
+		"type": "kelurahan",
+		"name": "WOWAWANGGU"
+	},
+	{
+		"code": "74.71.08.1005",
+		"type": "kelurahan",
+		"name": "ANAIWOI"
+	},
+	{
+		"code": "74.71.09",
+		"type": "kecamatan",
+		"name": "PUUWATU"
+	},
+	{
+		"code": "74.71.09.1001",
+		"type": "kelurahan",
+		"name": "PUUWATU"
+	},
+	{
+		"code": "74.71.09.1002",
+		"type": "kelurahan",
+		"name": "WATULONDO"
+	},
+	{
+		"code": "74.71.09.1003",
+		"type": "kelurahan",
+		"name": "PUNGGOLAKA"
+	},
+	{
+		"code": "74.71.09.1004",
+		"type": "kelurahan",
+		"name": "TOBUUHA"
+	},
+	{
+		"code": "74.71.09.1005",
+		"type": "kelurahan",
+		"name": "ABELI DALAM"
+	},
+	{
+		"code": "74.71.09.1006",
+		"type": "kelurahan",
+		"name": "LALODATI"
+	},
+	{
+		"code": "74.71.10",
+		"type": "kecamatan",
+		"name": "KAMBU"
+	},
+	{
+		"code": "74.71.10.1001",
+		"type": "kelurahan",
+		"name": "KAMBU"
+	},
+	{
+		"code": "74.71.10.1002",
+		"type": "kelurahan",
+		"name": "MOKOAU"
+	},
+	{
+		"code": "74.71.10.1003",
+		"type": "kelurahan",
+		"name": "PADALEU"
+	},
+	{
+		"code": "74.71.10.1004",
+		"type": "kelurahan",
+		"name": "LALOLARA"
+	},
+	{
+		"code": "74.72",
+		"type": "kabupaten",
+		"name": "KOTA BAU BAU"
+	},
+	{
+		"code": "74.72.01",
+		"type": "kecamatan",
+		"name": "BETOAMBARI"
+	},
+	{
+		"code": "74.72.01.1007",
+		"type": "kelurahan",
+		"name": "KATOBENGKE"
+	},
+	{
+		"code": "74.72.01.1012",
+		"type": "kelurahan",
+		"name": "WABOROBO"
+	},
+	{
+		"code": "74.72.01.1013",
+		"type": "kelurahan",
+		"name": "SULAA"
+	},
+	{
+		"code": "74.72.01.1014",
+		"type": "kelurahan",
+		"name": "LIPU"
+	},
+	{
+		"code": "74.72.01.1016",
+		"type": "kelurahan",
+		"name": "LABALAWA"
+	},
+	{
+		"code": "74.72.02",
+		"type": "kecamatan",
+		"name": "WOLIO"
+	},
+	{
+		"code": "74.72.02.1001",
+		"type": "kelurahan",
+		"name": "WALE"
+	},
+	{
+		"code": "74.72.02.1002",
+		"type": "kelurahan",
+		"name": "TOMBA"
+	},
+	{
+		"code": "74.72.02.1003",
+		"type": "kelurahan",
+		"name": "BATARAGURU"
+	},
+	{
+		"code": "74.72.02.1004",
+		"type": "kelurahan",
+		"name": "WANGKANAPI"
+	},
+	{
+		"code": "74.72.02.1005",
+		"type": "kelurahan",
+		"name": "BATULO"
+	},
+	{
+		"code": "74.72.02.1007",
+		"type": "kelurahan",
+		"name": "KADOLO KATAPI"
+	},
+	{
+		"code": "74.72.02.1011",
+		"type": "kelurahan",
+		"name": "BUKIT WOLIO INDAH"
+	},
+	{
+		"code": "74.72.03",
+		"type": "kecamatan",
+		"name": "SORAWOLIO"
+	},
+	{
+		"code": "74.72.03.1001",
+		"type": "kelurahan",
+		"name": "KAISABU BARU"
+	},
+	{
+		"code": "74.72.03.1002",
+		"type": "kelurahan",
+		"name": "KARYA BARU"
+	},
+	{
+		"code": "74.72.03.1003",
+		"type": "kelurahan",
+		"name": "GONDA BARU"
+	},
+	{
+		"code": "74.72.03.1004",
+		"type": "kelurahan",
+		"name": "BUGI"
+	},
+	{
+		"code": "74.72.04",
+		"type": "kecamatan",
+		"name": "BUNGI"
+	},
+	{
+		"code": "74.72.04.1001",
+		"type": "kelurahan",
+		"name": "LIABUKU"
+	},
+	{
+		"code": "74.72.04.1002",
+		"type": "kelurahan",
+		"name": "NGKARING KARING"
+	},
+	{
+		"code": "74.72.04.1003",
+		"type": "kelurahan",
+		"name": "KAMPEONAHO"
+	},
+	{
+		"code": "74.72.04.1008",
+		"type": "kelurahan",
+		"name": "WALIABUKU"
+	},
+	{
+		"code": "74.72.04.1010",
+		"type": "kelurahan",
+		"name": "TAMPUNA"
+	},
+	{
+		"code": "74.72.05",
+		"type": "kecamatan",
+		"name": "KOKALUKUNA"
+	},
+	{
+		"code": "74.72.05.1001",
+		"type": "kelurahan",
+		"name": "LIWUTO"
+	},
+	{
+		"code": "74.72.05.1002",
+		"type": "kelurahan",
+		"name": "SUKANAEYO"
+	},
+	{
+		"code": "74.72.05.1003",
+		"type": "kelurahan",
+		"name": "LAKOLOGOU"
+	},
+	{
+		"code": "74.72.05.1004",
+		"type": "kelurahan",
+		"name": "WARURUMA"
+	},
+	{
+		"code": "74.72.05.1005",
+		"type": "kelurahan",
+		"name": "KADOLOMOKO"
+	},
+	{
+		"code": "74.72.05.1006",
+		"type": "kelurahan",
+		"name": "KADOLO"
+	},
+	{
+		"code": "74.72.06",
+		"type": "kecamatan",
+		"name": "MURHUM"
+	},
+	{
+		"code": "74.72.06.1007",
+		"type": "kelurahan",
+		"name": "WAJO"
+	},
+	{
+		"code": "74.72.06.1008",
+		"type": "kelurahan",
+		"name": "LAMANGGA"
+	},
+	{
+		"code": "74.72.06.1009",
+		"type": "kelurahan",
+		"name": "MELAI"
+	},
+	{
+		"code": "74.72.06.1010",
+		"type": "kelurahan",
+		"name": "BAADIA"
+	},
+	{
+		"code": "74.72.06.1011",
+		"type": "kelurahan",
+		"name": "TANGANAPADA"
+	},
+	{
+		"code": "74.72.07",
+		"type": "kecamatan",
+		"name": "LEA-LEA"
+	},
+	{
+		"code": "74.72.07.1001",
+		"type": "kelurahan",
+		"name": "LOWU-LOWU"
+	},
+	{
+		"code": "74.72.07.1002",
+		"type": "kelurahan",
+		"name": "KALIA-LIA"
+	},
+	{
+		"code": "74.72.07.1003",
+		"type": "kelurahan",
+		"name": "PALABUSA"
+	},
+	{
+		"code": "74.72.07.1004",
+		"type": "kelurahan",
+		"name": "KOLESE"
+	},
+	{
+		"code": "74.72.07.1005",
+		"type": "kelurahan",
+		"name": "KANTALAI"
+	},
+	{
+		"code": "74.72.08",
+		"type": "kecamatan",
+		"name": "BATUPOARO"
+	},
+	{
+		"code": "74.72.08.1001",
+		"type": "kelurahan",
+		"name": "BONEBONE"
+	},
+	{
+		"code": "74.72.08.1002",
+		"type": "kelurahan",
+		"name": "TARAFU"
+	},
+	{
+		"code": "74.72.08.1003",
+		"type": "kelurahan",
+		"name": "WAMEO"
+	},
+	{
+		"code": "74.72.08.1004",
+		"type": "kelurahan",
+		"name": "KAOBULA"
+	},
+	{
+		"code": "74.72.08.1005",
+		"type": "kelurahan",
+		"name": "LANTO"
+	},
+	{
+		"code": "74.72.08.1006",
+		"type": "kelurahan",
+		"name": "NGANGANAUMALA"
+	}
+]

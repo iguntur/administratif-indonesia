@@ -1,0 +1,10357 @@
+[
+	{
+		"code": "92",
+		"type": "provinsi",
+		"name": "PAPUA BARAT"
+	},
+	{
+		"code": "92.01",
+		"type": "kabupaten",
+		"name": "KAB. SORONG"
+	},
+	{
+		"code": "92.01.01",
+		"type": "kecamatan",
+		"name": "MAKBON"
+	},
+	{
+		"code": "92.01.01.1001",
+		"type": "kelurahan",
+		"name": "MAKBON"
+	},
+	{
+		"code": "92.01.01.2002",
+		"type": "desa",
+		"name": "ASBAKEN"
+	},
+	{
+		"code": "92.01.01.2004",
+		"type": "desa",
+		"name": "MALAUMKARTA"
+	},
+	{
+		"code": "92.01.01.2005",
+		"type": "desa",
+		"name": "BATU LUBANG"
+	},
+	{
+		"code": "92.01.01.2007",
+		"type": "desa",
+		"name": "BATU LUBANG PANTAI"
+	},
+	{
+		"code": "92.01.01.2008",
+		"type": "desa",
+		"name": "KWADAS"
+	},
+	{
+		"code": "92.01.01.2009",
+		"type": "desa",
+		"name": "BAINKETE"
+	},
+	{
+		"code": "92.01.01.2010",
+		"type": "desa",
+		"name": "TELUK DORE"
+	},
+	{
+		"code": "92.01.01.2011",
+		"type": "desa",
+		"name": "SAWATUK"
+	},
+	{
+		"code": "92.01.01.2012",
+		"type": "desa",
+		"name": "MALAGASIH"
+	},
+	{
+		"code": "92.01.01.2013",
+		"type": "desa",
+		"name": "KLASIMIGIK"
+	},
+	{
+		"code": "92.01.01.2014",
+		"type": "desa",
+		"name": "KLASIGI"
+	},
+	{
+		"code": "92.01.01.2015",
+		"type": "desa",
+		"name": "KLAGULUS"
+	},
+	{
+		"code": "92.01.01.2016",
+		"type": "desa",
+		"name": "SUATOLO"
+	},
+	{
+		"code": "92.01.01.2017",
+		"type": "desa",
+		"name": "MIBI"
+	},
+	{
+		"code": "92.01.04",
+		"type": "kecamatan",
+		"name": "BERAUR"
+	},
+	{
+		"code": "92.01.04.2001",
+		"type": "desa",
+		"name": "KLABRA"
+	},
+	{
+		"code": "92.01.04.2002",
+		"type": "desa",
+		"name": "WANURIAN"
+	},
+	{
+		"code": "92.01.04.2009",
+		"type": "desa",
+		"name": "KLARION"
+	},
+	{
+		"code": "92.01.04.2011",
+		"type": "desa",
+		"name": "KAAS"
+	},
+	{
+		"code": "92.01.04.2015",
+		"type": "desa",
+		"name": "WENSI"
+	},
+	{
+		"code": "92.01.04.2016",
+		"type": "desa",
+		"name": "MUMPI"
+	},
+	{
+		"code": "92.01.04.2019",
+		"type": "desa",
+		"name": "KLAMAK"
+	},
+	{
+		"code": "92.01.04.2020",
+		"type": "desa",
+		"name": "SERSELION"
+	},
+	{
+		"code": "92.01.04.2022",
+		"type": "desa",
+		"name": "KMAFO"
+	},
+	{
+		"code": "92.01.04.2027",
+		"type": "desa",
+		"name": "MIDLAL"
+	},
+	{
+		"code": "92.01.04.2028",
+		"type": "desa",
+		"name": "SORAIN"
+	},
+	{
+		"code": "92.01.04.2033",
+		"type": "desa",
+		"name": "ARMOIN"
+	},
+	{
+		"code": "92.01.04.2034",
+		"type": "desa",
+		"name": "SERSELION BARU"
+	},
+	{
+		"code": "92.01.05",
+		"type": "kecamatan",
+		"name": "SALAWATI"
+	},
+	{
+		"code": "92.01.05.1001",
+		"type": "kelurahan",
+		"name": "KATINIM"
+	},
+	{
+		"code": "92.01.05.1006",
+		"type": "kelurahan",
+		"name": "MAJENER"
+	},
+	{
+		"code": "92.01.05.1007",
+		"type": "kelurahan",
+		"name": "MAJARAN"
+	},
+	{
+		"code": "92.01.05.1009",
+		"type": "kelurahan",
+		"name": "MATAWOLOT"
+	},
+	{
+		"code": "92.01.05.2011",
+		"type": "desa",
+		"name": "WALAL"
+	},
+	{
+		"code": "92.01.05.2012",
+		"type": "desa",
+		"name": "MALAUS"
+	},
+	{
+		"code": "92.01.05.2018",
+		"type": "desa",
+		"name": "RAWA SUGI"
+	},
+	{
+		"code": "92.01.06",
+		"type": "kecamatan",
+		"name": "SEGET"
+	},
+	{
+		"code": "92.01.06.2001",
+		"type": "desa",
+		"name": "SEGET"
+	},
+	{
+		"code": "92.01.06.2004",
+		"type": "desa",
+		"name": "MALABAN"
+	},
+	{
+		"code": "92.01.06.2005",
+		"type": "desa",
+		"name": "KASIM"
+	},
+	{
+		"code": "92.01.06.2010",
+		"type": "desa",
+		"name": "KASIMLE"
+	},
+	{
+		"code": "92.01.06.2011",
+		"type": "desa",
+		"name": "WEWENAGU"
+	},
+	{
+		"code": "92.01.06.2012",
+		"type": "desa",
+		"name": "WASINGSAN"
+	},
+	{
+		"code": "92.01.06.2013",
+		"type": "desa",
+		"name": "KLAYAS"
+	},
+	{
+		"code": "92.01.06.2014",
+		"type": "desa",
+		"name": "WAYENKEDE"
+	},
+	{
+		"code": "92.01.06.2015",
+		"type": "desa",
+		"name": "MOBI"
+	},
+	{
+		"code": "92.01.07",
+		"type": "kecamatan",
+		"name": "AIMAS"
+	},
+	{
+		"code": "92.01.07.1001",
+		"type": "kelurahan",
+		"name": "AIMAS"
+	},
+	{
+		"code": "92.01.07.1002",
+		"type": "kelurahan",
+		"name": "MALAWILI"
+	},
+	{
+		"code": "92.01.07.1003",
+		"type": "kelurahan",
+		"name": "MALAWELE"
+	},
+	{
+		"code": "92.01.07.1006",
+		"type": "kelurahan",
+		"name": "MARIAT PANTAI"
+	},
+	{
+		"code": "92.01.07.1026",
+		"type": "kelurahan",
+		"name": "MARIAT GUNUNG"
+	},
+	{
+		"code": "92.01.07.1029",
+		"type": "kelurahan",
+		"name": "WARMON"
+	},
+	{
+		"code": "92.01.07.1030",
+		"type": "kelurahan",
+		"name": "KLABINAIN"
+	},
+	{
+		"code": "92.01.07.1031",
+		"type": "kelurahan",
+		"name": "MALASOM"
+	},
+	{
+		"code": "92.01.07.1032",
+		"type": "kelurahan",
+		"name": "KLAIGIT"
+	},
+	{
+		"code": "92.01.07.1034",
+		"type": "kelurahan",
+		"name": "MALAGUSA"
+	},
+	{
+		"code": "92.01.07.1035",
+		"type": "kelurahan",
+		"name": "KLAFMA"
+	},
+	{
+		"code": "92.01.07.2028",
+		"type": "desa",
+		"name": "MAIBO"
+	},
+	{
+		"code": "92.01.07.2033",
+		"type": "desa",
+		"name": "AIMO"
+	},
+	{
+		"code": "92.01.07.2038",
+		"type": "desa",
+		"name": "MALASAUM"
+	},
+	{
+		"code": "92.01.08",
+		"type": "kecamatan",
+		"name": "KLAMONO"
+	},
+	{
+		"code": "92.01.08.2001",
+		"type": "desa",
+		"name": "KLAWANA"
+	},
+	{
+		"code": "92.01.08.2002",
+		"type": "desa",
+		"name": "KLAMANO"
+	},
+	{
+		"code": "92.01.08.2003",
+		"type": "desa",
+		"name": "WARIAYAU"
+	},
+	{
+		"code": "92.01.08.2008",
+		"type": "desa",
+		"name": "KLALOMON"
+	},
+	{
+		"code": "92.01.08.2009",
+		"type": "desa",
+		"name": "WONOSARI"
+	},
+	{
+		"code": "92.01.08.2010",
+		"type": "desa",
+		"name": "GISIM DARAT"
+	},
+	{
+		"code": "92.01.08.2013",
+		"type": "desa",
+		"name": "MLAIS"
+	},
+	{
+		"code": "92.01.08.2020",
+		"type": "desa",
+		"name": "MALASMILIY"
+	},
+	{
+		"code": "92.01.08.2021",
+		"type": "desa",
+		"name": "KLASAFET"
+	},
+	{
+		"code": "92.01.08.2022",
+		"type": "desa",
+		"name": "POSA"
+	},
+	{
+		"code": "92.01.10",
+		"type": "kecamatan",
+		"name": "SAYOSA"
+	},
+	{
+		"code": "92.01.10.2001",
+		"type": "desa",
+		"name": "SAYOSA"
+	},
+	{
+		"code": "92.01.10.2004",
+		"type": "desa",
+		"name": "MALADOFOK"
+	},
+	{
+		"code": "92.01.10.2006",
+		"type": "desa",
+		"name": "YORBES"
+	},
+	{
+		"code": "92.01.10.2011",
+		"type": "desa",
+		"name": "SAMUSA"
+	},
+	{
+		"code": "92.01.10.2012",
+		"type": "desa",
+		"name": "KLAMINTU"
+	},
+	{
+		"code": "92.01.10.2014",
+		"type": "desa",
+		"name": "KLAIN"
+	},
+	{
+		"code": "92.01.12",
+		"type": "kecamatan",
+		"name": "SEGUN"
+	},
+	{
+		"code": "92.01.12.2001",
+		"type": "desa",
+		"name": "SEGUN"
+	},
+	{
+		"code": "92.01.12.2002",
+		"type": "desa",
+		"name": "GISIM"
+	},
+	{
+		"code": "92.01.12.2003",
+		"type": "desa",
+		"name": "WAIMON"
+	},
+	{
+		"code": "92.01.12.2004",
+		"type": "desa",
+		"name": "KLASEGUN"
+	},
+	{
+		"code": "92.01.12.2005",
+		"type": "desa",
+		"name": "WAIMLABAT"
+	},
+	{
+		"code": "92.01.12.2006",
+		"type": "desa",
+		"name": "MAJEMAU"
+	},
+	{
+		"code": "92.01.12.2008",
+		"type": "desa",
+		"name": "KLASIN"
+	},
+	{
+		"code": "92.01.12.2009",
+		"type": "desa",
+		"name": "KLAJARING"
+	},
+	{
+		"code": "92.01.12.2010",
+		"type": "desa",
+		"name": "MALAMAS"
+	},
+	{
+		"code": "92.01.13",
+		"type": "kecamatan",
+		"name": "MAYAMUK"
+	},
+	{
+		"code": "92.01.13.1001",
+		"type": "kelurahan",
+		"name": "MAKBUSUM"
+	},
+	{
+		"code": "92.01.13.1002",
+		"type": "kelurahan",
+		"name": "MAKBALIM"
+	},
+	{
+		"code": "92.01.13.1003",
+		"type": "kelurahan",
+		"name": "MAKOTYAMSA"
+	},
+	{
+		"code": "92.01.13.2004",
+		"type": "desa",
+		"name": "JEFLIO"
+	},
+	{
+		"code": "92.01.13.2005",
+		"type": "desa",
+		"name": "ARAR"
+	},
+	{
+		"code": "92.01.13.2006",
+		"type": "desa",
+		"name": "KLALIN"
+	},
+	{
+		"code": "92.01.13.2007",
+		"type": "desa",
+		"name": "KLASMELEK"
+	},
+	{
+		"code": "92.01.13.2008",
+		"type": "desa",
+		"name": "WEN"
+	},
+	{
+		"code": "92.01.13.2009",
+		"type": "desa",
+		"name": "WARMON KOKODA"
+	},
+	{
+		"code": "92.01.13.2010",
+		"type": "desa",
+		"name": "ASJIDBA"
+	},
+	{
+		"code": "92.01.13.2011",
+		"type": "desa",
+		"name": "MALAMAY"
+	},
+	{
+		"code": "92.01.14",
+		"type": "kecamatan",
+		"name": "SALAWATI SELATAN"
+	},
+	{
+		"code": "92.01.14.2001",
+		"type": "desa",
+		"name": "SAILOLOF"
+	},
+	{
+		"code": "92.01.14.2002",
+		"type": "desa",
+		"name": "KLOTLOF"
+	},
+	{
+		"code": "92.01.14.2007",
+		"type": "desa",
+		"name": "DULBATAN"
+	},
+	{
+		"code": "92.01.14.2008",
+		"type": "desa",
+		"name": "MANOKET"
+	},
+	{
+		"code": "92.01.14.2011",
+		"type": "desa",
+		"name": "PAYAPOP"
+	},
+	{
+		"code": "92.01.14.2012",
+		"type": "desa",
+		"name": "MASMAPOP"
+	},
+	{
+		"code": "92.01.17",
+		"type": "kecamatan",
+		"name": "KLABOT"
+	},
+	{
+		"code": "92.01.17.2003",
+		"type": "desa",
+		"name": "INDIWI"
+	},
+	{
+		"code": "92.01.17.2004",
+		"type": "desa",
+		"name": "KLABOT"
+	},
+	{
+		"code": "92.01.17.2005",
+		"type": "desa",
+		"name": "MLAT"
+	},
+	{
+		"code": "92.01.17.2008",
+		"type": "desa",
+		"name": "MLAWES"
+	},
+	{
+		"code": "92.01.17.2009",
+		"type": "desa",
+		"name": "MLASFA"
+	},
+	{
+		"code": "92.01.17.2010",
+		"type": "desa",
+		"name": "KANOLO"
+	},
+	{
+		"code": "92.01.17.2014",
+		"type": "desa",
+		"name": "SOMIR"
+	},
+	{
+		"code": "92.01.17.2015",
+		"type": "desa",
+		"name": "WARKTI"
+	},
+	{
+		"code": "92.01.18",
+		"type": "kecamatan",
+		"name": "KLAWAK"
+	},
+	{
+		"code": "92.01.18.2001",
+		"type": "desa",
+		"name": "WILTY"
+	},
+	{
+		"code": "92.01.18.2004",
+		"type": "desa",
+		"name": "MLAWEN"
+	},
+	{
+		"code": "92.01.18.2008",
+		"type": "desa",
+		"name": "AYOLOKLE"
+	},
+	{
+		"code": "92.01.18.2009",
+		"type": "desa",
+		"name": "TOTJIN"
+	},
+	{
+		"code": "92.01.18.2010",
+		"type": "desa",
+		"name": "SAS"
+	},
+	{
+		"code": "92.01.18.2011",
+		"type": "desa",
+		"name": "SAMOLSLO"
+	},
+	{
+		"code": "92.01.18.2012",
+		"type": "desa",
+		"name": "KMASEN"
+	},
+	{
+		"code": "92.01.18.2013",
+		"type": "desa",
+		"name": "KLASAWON"
+	},
+	{
+		"code": "92.01.18.2014",
+		"type": "desa",
+		"name": "YURKADEN"
+	},
+	{
+		"code": "92.01.18.2015",
+		"type": "desa",
+		"name": "MLARON"
+	},
+	{
+		"code": "92.01.18.2019",
+		"type": "desa",
+		"name": "BETWAF"
+	},
+	{
+		"code": "92.01.18.2025",
+		"type": "desa",
+		"name": "COKHIF"
+	},
+	{
+		"code": "92.01.20",
+		"type": "kecamatan",
+		"name": "MAUDUS"
+	},
+	{
+		"code": "92.01.20.2001",
+		"type": "desa",
+		"name": "LUWELALA"
+	},
+	{
+		"code": "92.01.20.2003",
+		"type": "desa",
+		"name": "KLATIM"
+	},
+	{
+		"code": "92.01.20.2004",
+		"type": "desa",
+		"name": "KLAOS"
+	},
+	{
+		"code": "92.01.20.2006",
+		"type": "desa",
+		"name": "SULUH"
+	},
+	{
+		"code": "92.01.20.2009",
+		"type": "desa",
+		"name": "BOUSUI"
+	},
+	{
+		"code": "92.01.20.2010",
+		"type": "desa",
+		"name": "KAMUYAR"
+	},
+	{
+		"code": "92.01.20.2011",
+		"type": "desa",
+		"name": "KLAKA"
+	},
+	{
+		"code": "92.01.20.2012",
+		"type": "desa",
+		"name": "SAFDESA"
+	},
+	{
+		"code": "92.01.20.2015",
+		"type": "desa",
+		"name": "KLAGEN"
+	},
+	{
+		"code": "92.01.39",
+		"type": "kecamatan",
+		"name": "MARIAT"
+	},
+	{
+		"code": "92.01.39.1001",
+		"type": "kelurahan",
+		"name": "KLAMALU"
+	},
+	{
+		"code": "92.01.39.1002",
+		"type": "kelurahan",
+		"name": "MARIYAI"
+	},
+	{
+		"code": "92.01.39.1003",
+		"type": "kelurahan",
+		"name": "KLASUKUK"
+	},
+	{
+		"code": "92.01.39.1004",
+		"type": "kelurahan",
+		"name": "KLAMASEN"
+	},
+	{
+		"code": "92.01.39.1009",
+		"type": "kelurahan",
+		"name": "MAKLALUT"
+	},
+	{
+		"code": "92.01.39.1010",
+		"type": "kelurahan",
+		"name": "KLARU"
+	},
+	{
+		"code": "92.01.39.1011",
+		"type": "kelurahan",
+		"name": "JAMAIMO"
+	},
+	{
+		"code": "92.01.39.2005",
+		"type": "desa",
+		"name": "KLABEN"
+	},
+	{
+		"code": "92.01.39.2007",
+		"type": "desa",
+		"name": "KLASAN"
+	},
+	{
+		"code": "92.01.39.2008",
+		"type": "desa",
+		"name": "FAFI"
+	},
+	{
+		"code": "92.01.39.2012",
+		"type": "desa",
+		"name": "KASIH"
+	},
+	{
+		"code": "92.01.40",
+		"type": "kecamatan",
+		"name": "KLAYILI"
+	},
+	{
+		"code": "92.01.40.2001",
+		"type": "desa",
+		"name": "KLAYILI"
+	},
+	{
+		"code": "92.01.40.2002",
+		"type": "desa",
+		"name": "KLAWULUH"
+	},
+	{
+		"code": "92.01.40.2003",
+		"type": "desa",
+		"name": "MALAKOBUTU"
+	},
+	{
+		"code": "92.01.40.2004",
+		"type": "desa",
+		"name": "KWAKEIK"
+	},
+	{
+		"code": "92.01.40.2005",
+		"type": "desa",
+		"name": "KLASOWOH"
+	},
+	{
+		"code": "92.01.40.2006",
+		"type": "desa",
+		"name": "MALALILIS"
+	},
+	{
+		"code": "92.01.40.2007",
+		"type": "desa",
+		"name": "MLAWER"
+	},
+	{
+		"code": "92.01.40.2008",
+		"type": "desa",
+		"name": "KLATOMOK"
+	},
+	{
+		"code": "92.01.41",
+		"type": "kecamatan",
+		"name": "KLASO"
+	},
+	{
+		"code": "92.01.41.2002",
+		"type": "desa",
+		"name": "SIWIS"
+	},
+	{
+		"code": "92.01.41.2003",
+		"type": "desa",
+		"name": "MISKUM"
+	},
+	{
+		"code": "92.01.41.2004",
+		"type": "desa",
+		"name": "KLAMUGUN"
+	},
+	{
+		"code": "92.01.41.2006",
+		"type": "desa",
+		"name": "SBAGA"
+	},
+	{
+		"code": "92.01.41.2007",
+		"type": "desa",
+		"name": "KLALIK"
+	},
+	{
+		"code": "92.01.41.2008",
+		"type": "desa",
+		"name": "MALAWHILI"
+	},
+	{
+		"code": "92.01.41.2013",
+		"type": "desa",
+		"name": "KLASOU"
+	},
+	{
+		"code": "92.01.42",
+		"type": "kecamatan",
+		"name": "MOISEGEN"
+	},
+	{
+		"code": "92.01.42.2001",
+		"type": "desa",
+		"name": "KLAFDALIM"
+	},
+	{
+		"code": "92.01.42.2002",
+		"type": "desa",
+		"name": "KLAFORO"
+	},
+	{
+		"code": "92.01.42.2003",
+		"type": "desa",
+		"name": "KLASOF"
+	},
+	{
+		"code": "92.01.42.2004",
+		"type": "desa",
+		"name": "NINJEMUR"
+	},
+	{
+		"code": "92.01.42.2005",
+		"type": "desa",
+		"name": "KLASARIN"
+	},
+	{
+		"code": "92.01.42.2006",
+		"type": "desa",
+		"name": "KLAWOTON"
+	},
+	{
+		"code": "92.01.42.2007",
+		"type": "desa",
+		"name": "WONOSOBO"
+	},
+	{
+		"code": "92.01.42.2008",
+		"type": "desa",
+		"name": "SAKAMERIN"
+	},
+	{
+		"code": "92.01.42.2009",
+		"type": "desa",
+		"name": "MASMILI"
+	},
+	{
+		"code": "92.01.43",
+		"type": "kecamatan",
+		"name": "SORONG"
+	},
+	{
+		"code": "92.01.43.2001",
+		"type": "desa",
+		"name": "MAIBO"
+	},
+	{
+		"code": "92.01.43.2002",
+		"type": "desa",
+		"name": "MALAFLON"
+	},
+	{
+		"code": "92.01.43.2003",
+		"type": "desa",
+		"name": "KABANMOLO"
+	},
+	{
+		"code": "92.01.43.2004",
+		"type": "desa",
+		"name": "KLATOK"
+	},
+	{
+		"code": "92.01.44",
+		"type": "kecamatan",
+		"name": "BAGUN"
+	},
+	{
+		"code": "92.01.44.2001",
+		"type": "desa",
+		"name": "DISFRA"
+	},
+	{
+		"code": "92.01.44.2002",
+		"type": "desa",
+		"name": "BAGUN"
+	},
+	{
+		"code": "92.01.44.2003",
+		"type": "desa",
+		"name": "KLAWOM"
+	},
+	{
+		"code": "92.01.44.2004",
+		"type": "desa",
+		"name": "KLAMOMIS"
+	},
+	{
+		"code": "92.01.44.2005",
+		"type": "desa",
+		"name": "KLAKWONRIT"
+	},
+	{
+		"code": "92.01.44.2006",
+		"type": "desa",
+		"name": "MODE"
+	},
+	{
+		"code": "92.01.44.2007",
+		"type": "desa",
+		"name": "BRATMAWE"
+	},
+	{
+		"code": "92.01.44.2008",
+		"type": "desa",
+		"name": "KLAWON"
+	},
+	{
+		"code": "92.01.44.2009",
+		"type": "desa",
+		"name": "MLAMLI"
+	},
+	{
+		"code": "92.01.45",
+		"type": "kecamatan",
+		"name": "WEMAK"
+	},
+	{
+		"code": "92.01.45.2001",
+		"type": "desa",
+		"name": "SALUK"
+	},
+	{
+		"code": "92.01.45.2002",
+		"type": "desa",
+		"name": "KLAWAREN"
+	},
+	{
+		"code": "92.01.45.2003",
+		"type": "desa",
+		"name": "WOLOIN"
+	},
+	{
+		"code": "92.01.45.2004",
+		"type": "desa",
+		"name": "KLALIN MOS"
+	},
+	{
+		"code": "92.01.45.2005",
+		"type": "desa",
+		"name": "KWARI"
+	},
+	{
+		"code": "92.01.45.2006",
+		"type": "desa",
+		"name": "KAMLIN"
+	},
+	{
+		"code": "92.01.46",
+		"type": "kecamatan",
+		"name": "SUNOOK"
+	},
+	{
+		"code": "92.01.46.2001",
+		"type": "desa",
+		"name": "DASRI"
+	},
+	{
+		"code": "92.01.46.2002",
+		"type": "desa",
+		"name": "MASOS"
+	},
+	{
+		"code": "92.01.46.2003",
+		"type": "desa",
+		"name": "KETAWAS"
+	},
+	{
+		"code": "92.01.46.2004",
+		"type": "desa",
+		"name": "WARBO"
+	},
+	{
+		"code": "92.01.46.2005",
+		"type": "desa",
+		"name": "SUUS"
+	},
+	{
+		"code": "92.01.46.2006",
+		"type": "desa",
+		"name": "SULYA"
+	},
+	{
+		"code": "92.01.46.2007",
+		"type": "desa",
+		"name": "BOUWOI"
+	},
+	{
+		"code": "92.01.47",
+		"type": "kecamatan",
+		"name": "BUK"
+	},
+	{
+		"code": "92.01.47.2001",
+		"type": "desa",
+		"name": "BUK"
+	},
+	{
+		"code": "92.01.47.2002",
+		"type": "desa",
+		"name": "MLAKHAN"
+	},
+	{
+		"code": "92.01.47.2003",
+		"type": "desa",
+		"name": "KLAIS"
+	},
+	{
+		"code": "92.01.47.2004",
+		"type": "desa",
+		"name": "MIMPE"
+	},
+	{
+		"code": "92.01.47.2005",
+		"type": "desa",
+		"name": "TIKLEN"
+	},
+	{
+		"code": "92.01.47.2006",
+		"type": "desa",
+		"name": "KLAHEN"
+	},
+	{
+		"code": "92.01.47.2007",
+		"type": "desa",
+		"name": "MOOS"
+	},
+	{
+		"code": "92.01.48",
+		"type": "kecamatan",
+		"name": "SAENGKEDUK"
+	},
+	{
+		"code": "92.01.48.2001",
+		"type": "desa",
+		"name": "SAENGKEDUK"
+	},
+	{
+		"code": "92.01.48.2002",
+		"type": "desa",
+		"name": "SELEKOBO"
+	},
+	{
+		"code": "92.01.48.2003",
+		"type": "desa",
+		"name": "SUYE"
+	},
+	{
+		"code": "92.01.48.2004",
+		"type": "desa",
+		"name": "KLAMEDE"
+	},
+	{
+		"code": "92.01.48.2005",
+		"type": "desa",
+		"name": "SAMBATIE"
+	},
+	{
+		"code": "92.01.48.2006",
+		"type": "desa",
+		"name": "KLAGELE"
+	},
+	{
+		"code": "92.01.49",
+		"type": "kecamatan",
+		"name": "MALABOTOM"
+	},
+	{
+		"code": "92.01.49.2001",
+		"type": "desa",
+		"name": "MALASIGIT"
+	},
+	{
+		"code": "92.01.49.2002",
+		"type": "desa",
+		"name": "KLAGULU"
+	},
+	{
+		"code": "92.01.49.2003",
+		"type": "desa",
+		"name": "KLAMUGUN"
+	},
+	{
+		"code": "92.01.49.2004",
+		"type": "desa",
+		"name": "MALAJAPA"
+	},
+	{
+		"code": "92.01.49.2005",
+		"type": "desa",
+		"name": "KLASMAN"
+	},
+	{
+		"code": "92.01.49.2006",
+		"type": "desa",
+		"name": "MALAMOJA"
+	},
+	{
+		"code": "92.01.49.2007",
+		"type": "desa",
+		"name": "MAGATARUM"
+	},
+	{
+		"code": "92.01.49.2008",
+		"type": "desa",
+		"name": "TANAH TINGGI"
+	},
+	{
+		"code": "92.01.49.2009",
+		"type": "desa",
+		"name": "MARIK MAY"
+	},
+	{
+		"code": "92.01.50",
+		"type": "kecamatan",
+		"name": "KONHIR"
+	},
+	{
+		"code": "92.01.50.2001",
+		"type": "desa",
+		"name": "TARSA"
+	},
+	{
+		"code": "92.01.50.2002",
+		"type": "desa",
+		"name": "KLAMNE"
+	},
+	{
+		"code": "92.01.50.2003",
+		"type": "desa",
+		"name": "WISBIAK"
+	},
+	{
+		"code": "92.01.50.2004",
+		"type": "desa",
+		"name": "KLAFYO"
+	},
+	{
+		"code": "92.01.50.2005",
+		"type": "desa",
+		"name": "MLASIWOR"
+	},
+	{
+		"code": "92.01.50.2006",
+		"type": "desa",
+		"name": "KLAFELEM"
+	},
+	{
+		"code": "92.01.50.2007",
+		"type": "desa",
+		"name": "KLAFLUM"
+	},
+	{
+		"code": "92.01.50.2008",
+		"type": "desa",
+		"name": "KLARIN"
+	},
+	{
+		"code": "92.01.51",
+		"type": "kecamatan",
+		"name": "KLASAFET"
+	},
+	{
+		"code": "92.01.51.2001",
+		"type": "desa",
+		"name": "KELADUM/MALADUK"
+	},
+	{
+		"code": "92.01.51.2002",
+		"type": "desa",
+		"name": "KLAMONO OLIE"
+	},
+	{
+		"code": "92.01.51.2003",
+		"type": "desa",
+		"name": "BARROS"
+	},
+	{
+		"code": "92.01.51.2004",
+		"type": "desa",
+		"name": "PUSU TILIGUM"
+	},
+	{
+		"code": "92.01.51.2005",
+		"type": "desa",
+		"name": "KLAWILIBE"
+	},
+	{
+		"code": "92.01.52",
+		"type": "kecamatan",
+		"name": "HOBARD"
+	},
+	{
+		"code": "92.01.52.2001",
+		"type": "desa",
+		"name": "HOBARD"
+	},
+	{
+		"code": "92.01.52.2002",
+		"type": "desa",
+		"name": "BRIANLO"
+	},
+	{
+		"code": "92.01.52.2003",
+		"type": "desa",
+		"name": "FLOYI"
+	},
+	{
+		"code": "92.01.52.2004",
+		"type": "desa",
+		"name": "KLAZELT"
+	},
+	{
+		"code": "92.01.52.2005",
+		"type": "desa",
+		"name": "SFADON"
+	},
+	{
+		"code": "92.01.52.2006",
+		"type": "desa",
+		"name": "SELOL"
+	},
+	{
+		"code": "92.01.52.2007",
+		"type": "desa",
+		"name": "DAIS"
+	},
+	{
+		"code": "92.01.53",
+		"type": "kecamatan",
+		"name": "SALAWATI TENGAH"
+	},
+	{
+		"code": "92.01.53.2001",
+		"type": "desa",
+		"name": "WALIAM"
+	},
+	{
+		"code": "92.01.53.2002",
+		"type": "desa",
+		"name": "MANFANIM"
+	},
+	{
+		"code": "92.01.53.2003",
+		"type": "desa",
+		"name": "WAIBIN"
+	},
+	{
+		"code": "92.01.53.2004",
+		"type": "desa",
+		"name": "WAIMAN"
+	},
+	{
+		"code": "92.01.53.2005",
+		"type": "desa",
+		"name": "SAKAPUL"
+	},
+	{
+		"code": "92.01.53.2006",
+		"type": "desa",
+		"name": "MARALOL"
+	},
+	{
+		"code": "92.01.53.2007",
+		"type": "desa",
+		"name": "BATBIRO"
+	},
+	{
+		"code": "92.01.53.2008",
+		"type": "desa",
+		"name": "DURIAN KARI"
+	},
+	{
+		"code": "92.01.53.2009",
+		"type": "desa",
+		"name": "MEYAUP"
+	},
+	{
+		"code": "92.01.53.2010",
+		"type": "desa",
+		"name": "SAILEN"
+	},
+	{
+		"code": "92.01.54",
+		"type": "kecamatan",
+		"name": "BOTAIN"
+	},
+	{
+		"code": "92.01.54.2001",
+		"type": "desa",
+		"name": "KLAFLUK"
+	},
+	{
+		"code": "92.01.54.2002",
+		"type": "desa",
+		"name": "MAMSIT"
+	},
+	{
+		"code": "92.01.54.2003",
+		"type": "desa",
+		"name": "SABAKE"
+	},
+	{
+		"code": "92.01.54.2004",
+		"type": "desa",
+		"name": "KLAYASTANI"
+	},
+	{
+		"code": "92.01.55",
+		"type": "kecamatan",
+		"name": "SAYOSA TIMUR"
+	},
+	{
+		"code": "92.01.55.2001",
+		"type": "desa",
+		"name": "SAILALA"
+	},
+	{
+		"code": "92.01.55.2002",
+		"type": "desa",
+		"name": "KLAWANA"
+	},
+	{
+		"code": "92.01.55.2003",
+		"type": "desa",
+		"name": "KLADUK"
+	},
+	{
+		"code": "92.01.55.2004",
+		"type": "desa",
+		"name": "KLAWON"
+	},
+	{
+		"code": "92.01.55.2005",
+		"type": "desa",
+		"name": "KLAKAK"
+	},
+	{
+		"code": "92.01.55.2006",
+		"type": "desa",
+		"name": "KLALWOK"
+	},
+	{
+		"code": "92.02",
+		"type": "kabupaten",
+		"name": "KAB. MANOKWARI"
+	},
+	{
+		"code": "92.02.03",
+		"type": "kecamatan",
+		"name": "WARMARE"
+	},
+	{
+		"code": "92.02.03.2001",
+		"type": "desa",
+		"name": "DINDEY"
+	},
+	{
+		"code": "92.02.03.2002",
+		"type": "desa",
+		"name": "INDISEY"
+	},
+	{
+		"code": "92.02.03.2003",
+		"type": "desa",
+		"name": "HINGK"
+	},
+	{
+		"code": "92.02.03.2004",
+		"type": "desa",
+		"name": "WARMARE"
+	},
+	{
+		"code": "92.02.03.2005",
+		"type": "desa",
+		"name": "NIMBAY"
+	},
+	{
+		"code": "92.02.03.2006",
+		"type": "desa",
+		"name": "MENY"
+	},
+	{
+		"code": "92.02.03.2007",
+		"type": "desa",
+		"name": "TANAH MERAH"
+	},
+	{
+		"code": "92.02.03.2008",
+		"type": "desa",
+		"name": "UMCEM"
+	},
+	{
+		"code": "92.02.03.2009",
+		"type": "desa",
+		"name": "SUBSAY"
+	},
+	{
+		"code": "92.02.03.2010",
+		"type": "desa",
+		"name": "MADRAT"
+	},
+	{
+		"code": "92.02.03.2011",
+		"type": "desa",
+		"name": "SNAIMBOY"
+	},
+	{
+		"code": "92.02.03.2012",
+		"type": "desa",
+		"name": "GUENTUY"
+	},
+	{
+		"code": "92.02.03.2013",
+		"type": "desa",
+		"name": "NGUNGGUEN"
+	},
+	{
+		"code": "92.02.03.2014",
+		"type": "desa",
+		"name": "SOTEA"
+	},
+	{
+		"code": "92.02.03.2015",
+		"type": "desa",
+		"name": "DUWIN"
+	},
+	{
+		"code": "92.02.03.2016",
+		"type": "desa",
+		"name": "IBUWAU"
+	},
+	{
+		"code": "92.02.03.2017",
+		"type": "desa",
+		"name": "IBOISRATI"
+	},
+	{
+		"code": "92.02.03.2018",
+		"type": "desa",
+		"name": "SRAINDABEY"
+	},
+	{
+		"code": "92.02.03.2019",
+		"type": "desa",
+		"name": "MOKWAM"
+	},
+	{
+		"code": "92.02.03.2020",
+		"type": "desa",
+		"name": "AMBER"
+	},
+	{
+		"code": "92.02.03.2021",
+		"type": "desa",
+		"name": "KWAU"
+	},
+	{
+		"code": "92.02.03.2022",
+		"type": "desa",
+		"name": "SIYAU"
+	},
+	{
+		"code": "92.02.03.2023",
+		"type": "desa",
+		"name": "INDONDEY"
+	},
+	{
+		"code": "92.02.03.2024",
+		"type": "desa",
+		"name": "MINGRE"
+	},
+	{
+		"code": "92.02.03.2025",
+		"type": "desa",
+		"name": "AYWOU"
+	},
+	{
+		"code": "92.02.03.2026",
+		"type": "desa",
+		"name": "ASARBEI"
+	},
+	{
+		"code": "92.02.03.2027",
+		"type": "desa",
+		"name": "MINOGBEI"
+	},
+	{
+		"code": "92.02.03.2028",
+		"type": "desa",
+		"name": "BAHAMYENTI"
+	},
+	{
+		"code": "92.02.03.2029",
+		"type": "desa",
+		"name": "FIGOUD"
+	},
+	{
+		"code": "92.02.03.2030",
+		"type": "desa",
+		"name": "KIBAUW"
+	},
+	{
+		"code": "92.02.03.2031",
+		"type": "desa",
+		"name": "DUEIBEI"
+	},
+	{
+		"code": "92.02.04",
+		"type": "kecamatan",
+		"name": "PRAFI"
+	},
+	{
+		"code": "92.02.04.2001",
+		"type": "desa",
+		"name": "PRAFI MULYA"
+	},
+	{
+		"code": "92.02.04.2002",
+		"type": "desa",
+		"name": "UMBUY"
+	},
+	{
+		"code": "92.02.04.2003",
+		"type": "desa",
+		"name": "DESAY"
+	},
+	{
+		"code": "92.02.04.2004",
+		"type": "desa",
+		"name": "AIMASI"
+	},
+	{
+		"code": "92.02.04.2005",
+		"type": "desa",
+		"name": "UDAP HILIR"
+	},
+	{
+		"code": "92.02.04.2006",
+		"type": "desa",
+		"name": "WASEGI POP"
+	},
+	{
+		"code": "92.02.04.2007",
+		"type": "desa",
+		"name": "WASEGI INDAH"
+	},
+	{
+		"code": "92.02.04.2008",
+		"type": "desa",
+		"name": "INGUISI"
+	},
+	{
+		"code": "92.02.04.2009",
+		"type": "desa",
+		"name": "BOGOR"
+	},
+	{
+		"code": "92.02.04.2010",
+		"type": "desa",
+		"name": "SEMI"
+	},
+	{
+		"code": "92.02.04.2011",
+		"type": "desa",
+		"name": "DEBIT MOTOA"
+	},
+	{
+		"code": "92.02.04.2012",
+		"type": "desa",
+		"name": "KALI AMIN"
+	},
+	{
+		"code": "92.02.04.2013",
+		"type": "desa",
+		"name": "LISMANGGU"
+	},
+	{
+		"code": "92.02.04.2014",
+		"type": "desa",
+		"name": "OGYEHEK"
+	},
+	{
+		"code": "92.02.04.2015",
+		"type": "desa",
+		"name": "KERENU"
+	},
+	{
+		"code": "92.02.04.2016",
+		"type": "desa",
+		"name": "MEBIJI"
+	},
+	{
+		"code": "92.02.05",
+		"type": "kecamatan",
+		"name": "MASNI"
+	},
+	{
+		"code": "92.02.05.2001",
+		"type": "desa",
+		"name": "MASNI"
+	},
+	{
+		"code": "92.02.05.2002",
+		"type": "desa",
+		"name": "SUMBER BOGA"
+	},
+	{
+		"code": "92.02.05.2003",
+		"type": "desa",
+		"name": "PRAFI BARAT"
+	},
+	{
+		"code": "92.02.05.2004",
+		"type": "desa",
+		"name": "MUARA PRAFI"
+	},
+	{
+		"code": "92.02.05.2006",
+		"type": "desa",
+		"name": "MACUAN"
+	},
+	{
+		"code": "92.02.05.2008",
+		"type": "desa",
+		"name": "WARIORI"
+	},
+	{
+		"code": "92.02.05.2009",
+		"type": "desa",
+		"name": "BOWI SUBUR"
+	},
+	{
+		"code": "92.02.05.2010",
+		"type": "desa",
+		"name": "MAKWAN"
+	},
+	{
+		"code": "92.02.05.2011",
+		"type": "desa",
+		"name": "KALI MERAH"
+	},
+	{
+		"code": "92.02.05.2012",
+		"type": "desa",
+		"name": "MEIFORGA"
+	},
+	{
+		"code": "92.02.05.2013",
+		"type": "desa",
+		"name": "SIBUNI"
+	},
+	{
+		"code": "92.02.05.2014",
+		"type": "desa",
+		"name": "YENSUM"
+	},
+	{
+		"code": "92.02.05.2015",
+		"type": "desa",
+		"name": "MANSABURI"
+	},
+	{
+		"code": "92.02.05.2016",
+		"type": "desa",
+		"name": "IGOR"
+	},
+	{
+		"code": "92.02.05.2017",
+		"type": "desa",
+		"name": "MEREJEMEG"
+	},
+	{
+		"code": "92.02.05.2018",
+		"type": "desa",
+		"name": "AURMIOS"
+	},
+	{
+		"code": "92.02.05.2020",
+		"type": "desa",
+		"name": "SEMBAB"
+	},
+	{
+		"code": "92.02.05.2024",
+		"type": "desa",
+		"name": "MEMBOWI"
+	},
+	{
+		"code": "92.02.05.2027",
+		"type": "desa",
+		"name": "YONSORIBO"
+	},
+	{
+		"code": "92.02.05.2028",
+		"type": "desa",
+		"name": "MEYOF II"
+	},
+	{
+		"code": "92.02.05.2030",
+		"type": "desa",
+		"name": "MOUBJA"
+	},
+	{
+		"code": "92.02.05.2031",
+		"type": "desa",
+		"name": "RIRINFOS"
+	},
+	{
+		"code": "92.02.05.2032",
+		"type": "desa",
+		"name": "MUARA WARIORI"
+	},
+	{
+		"code": "92.02.05.2034",
+		"type": "desa",
+		"name": "KOYAMI"
+	},
+	{
+		"code": "92.02.05.2035",
+		"type": "desa",
+		"name": "MEREYUK"
+	},
+	{
+		"code": "92.02.05.2036",
+		"type": "desa",
+		"name": "INYEI"
+	},
+	{
+		"code": "92.02.05.2037",
+		"type": "desa",
+		"name": "UNDI"
+	},
+	{
+		"code": "92.02.05.2038",
+		"type": "desa",
+		"name": "JOWEN"
+	},
+	{
+		"code": "92.02.05.2039",
+		"type": "desa",
+		"name": "ASKA"
+	},
+	{
+		"code": "92.02.05.2040",
+		"type": "desa",
+		"name": "MANTEDI"
+	},
+	{
+		"code": "92.02.05.2042",
+		"type": "desa",
+		"name": "WARIORI INDAH"
+	},
+	{
+		"code": "92.02.05.2045",
+		"type": "desa",
+		"name": "UREY"
+	},
+	{
+		"code": "92.02.05.2046",
+		"type": "desa",
+		"name": "WAM BOLA"
+	},
+	{
+		"code": "92.02.12",
+		"type": "kecamatan",
+		"name": "MANOKWARI BARAT"
+	},
+	{
+		"code": "92.02.12.1001",
+		"type": "kelurahan",
+		"name": "MANOKWARI BARAT"
+	},
+	{
+		"code": "92.02.12.1002",
+		"type": "kelurahan",
+		"name": "SANGGENG"
+	},
+	{
+		"code": "92.02.12.1003",
+		"type": "kelurahan",
+		"name": "WOSI"
+	},
+	{
+		"code": "92.02.12.1004",
+		"type": "kelurahan",
+		"name": "AMBAN"
+	},
+	{
+		"code": "92.02.12.1005",
+		"type": "kelurahan",
+		"name": "PADARNI"
+	},
+	{
+		"code": "92.02.12.1006",
+		"type": "kelurahan",
+		"name": "MANOKWARI TIMUR"
+	},
+	{
+		"code": "92.02.12.2007",
+		"type": "desa",
+		"name": "UDOPI"
+	},
+	{
+		"code": "92.02.12.2008",
+		"type": "desa",
+		"name": "INGGRAMUI"
+	},
+	{
+		"code": "92.02.12.2009",
+		"type": "desa",
+		"name": "SORIBO"
+	},
+	{
+		"code": "92.02.12.2010",
+		"type": "desa",
+		"name": "BINIRAW"
+	},
+	{
+		"code": "92.02.13",
+		"type": "kecamatan",
+		"name": "MANOKWARI TIMUR"
+	},
+	{
+		"code": "92.02.13.1001",
+		"type": "kelurahan",
+		"name": "PASIR PUTIH"
+	},
+	{
+		"code": "92.02.13.2002",
+		"type": "desa",
+		"name": "MANSINAM"
+	},
+	{
+		"code": "92.02.13.2003",
+		"type": "desa",
+		"name": "AYAMBORI"
+	},
+	{
+		"code": "92.02.13.2004",
+		"type": "desa",
+		"name": "BAKARO"
+	},
+	{
+		"code": "92.02.13.2005",
+		"type": "desa",
+		"name": "AROWI"
+	},
+	{
+		"code": "92.02.13.2006",
+		"type": "desa",
+		"name": "AIPIRI"
+	},
+	{
+		"code": "92.02.13.2007",
+		"type": "desa",
+		"name": "SUSWENI"
+	},
+	{
+		"code": "92.02.14",
+		"type": "kecamatan",
+		"name": "MANOKWARI UTARA"
+	},
+	{
+		"code": "92.02.14.2001",
+		"type": "desa",
+		"name": "YOOM I"
+	},
+	{
+		"code": "92.02.14.2002",
+		"type": "desa",
+		"name": "MANDOPI"
+	},
+	{
+		"code": "92.02.14.2003",
+		"type": "desa",
+		"name": "MUBRI"
+	},
+	{
+		"code": "92.02.14.2004",
+		"type": "desa",
+		"name": "YOOM II"
+	},
+	{
+		"code": "92.02.14.2005",
+		"type": "desa",
+		"name": "TELUK MUBRI"
+	},
+	{
+		"code": "92.02.14.2006",
+		"type": "desa",
+		"name": "MEYES"
+	},
+	{
+		"code": "92.02.14.2007",
+		"type": "desa",
+		"name": "BREMI"
+	},
+	{
+		"code": "92.02.14.2008",
+		"type": "desa",
+		"name": "SAUBEBA"
+	},
+	{
+		"code": "92.02.14.2009",
+		"type": "desa",
+		"name": "PAMI"
+	},
+	{
+		"code": "92.02.14.2010",
+		"type": "desa",
+		"name": "WARBEFOR"
+	},
+	{
+		"code": "92.02.14.2011",
+		"type": "desa",
+		"name": "ASAI"
+	},
+	{
+		"code": "92.02.14.2012",
+		"type": "desa",
+		"name": "INYA"
+	},
+	{
+		"code": "92.02.14.2013",
+		"type": "desa",
+		"name": "MEYUNFOKA"
+	},
+	{
+		"code": "92.02.14.2014",
+		"type": "desa",
+		"name": "TANAH RUBU"
+	},
+	{
+		"code": "92.02.14.2015",
+		"type": "desa",
+		"name": "SAYRO"
+	},
+	{
+		"code": "92.02.14.2016",
+		"type": "desa",
+		"name": "SINGGIMEBA"
+	},
+	{
+		"code": "92.02.14.2017",
+		"type": "desa",
+		"name": "IRODUAS"
+	},
+	{
+		"code": "92.02.14.2018",
+		"type": "desa",
+		"name": "LEBAU"
+	},
+	{
+		"code": "92.02.14.2019",
+		"type": "desa",
+		"name": "MEBJI"
+	},
+	{
+		"code": "92.02.14.2020",
+		"type": "desa",
+		"name": "CABAN DUA"
+	},
+	{
+		"code": "92.02.14.2021",
+		"type": "desa",
+		"name": "YONGGAM"
+	},
+	{
+		"code": "92.02.14.2022",
+		"type": "desa",
+		"name": "INDO OUFA"
+	},
+	{
+		"code": "92.02.14.2023",
+		"type": "desa",
+		"name": "MUBRAIDIBA"
+	},
+	{
+		"code": "92.02.15",
+		"type": "kecamatan",
+		"name": "MANOKWARI SELATAN"
+	},
+	{
+		"code": "92.02.15.1001",
+		"type": "kelurahan",
+		"name": "SOWI"
+	},
+	{
+		"code": "92.02.15.1002",
+		"type": "kelurahan",
+		"name": "ANDAY"
+	},
+	{
+		"code": "92.02.15.2003",
+		"type": "desa",
+		"name": "KATEBU"
+	},
+	{
+		"code": "92.02.15.2004",
+		"type": "desa",
+		"name": "MASYEPI"
+	},
+	{
+		"code": "92.02.15.2005",
+		"type": "desa",
+		"name": "WARMOMI"
+	},
+	{
+		"code": "92.02.15.2006",
+		"type": "desa",
+		"name": "DIHARA"
+	},
+	{
+		"code": "92.02.15.2007",
+		"type": "desa",
+		"name": "WELURI"
+	},
+	{
+		"code": "92.02.15.2008",
+		"type": "desa",
+		"name": "MARUNI"
+	},
+	{
+		"code": "92.02.15.2009",
+		"type": "desa",
+		"name": "MISAPMEYSI"
+	},
+	{
+		"code": "92.02.15.2010",
+		"type": "desa",
+		"name": "WASAI"
+	},
+	{
+		"code": "92.02.15.2011",
+		"type": "desa",
+		"name": "ANGGRESI"
+	},
+	{
+		"code": "92.02.15.2012",
+		"type": "desa",
+		"name": "MUPI"
+	},
+	{
+		"code": "92.02.15.2013",
+		"type": "desa",
+		"name": "WASWAMI"
+	},
+	{
+		"code": "92.02.15.2014",
+		"type": "desa",
+		"name": "ACEMO"
+	},
+	{
+		"code": "92.02.15.2015",
+		"type": "desa",
+		"name": "NIMBAUW"
+	},
+	{
+		"code": "92.02.15.2016",
+		"type": "desa",
+		"name": "DOOPUD"
+	},
+	{
+		"code": "92.02.15.2017",
+		"type": "desa",
+		"name": "WARKOMI"
+	},
+	{
+		"code": "92.02.15.2018",
+		"type": "desa",
+		"name": "NGINIBOUW"
+	},
+	{
+		"code": "92.02.17",
+		"type": "kecamatan",
+		"name": "TANAH RUBUH"
+	},
+	{
+		"code": "92.02.17.2001",
+		"type": "desa",
+		"name": "WARKAPI"
+	},
+	{
+		"code": "92.02.17.2002",
+		"type": "desa",
+		"name": "AYAWI"
+	},
+	{
+		"code": "92.02.17.2003",
+		"type": "desa",
+		"name": "UKOPTI"
+	},
+	{
+		"code": "92.02.17.2004",
+		"type": "desa",
+		"name": "MISABUGOID"
+	},
+	{
+		"code": "92.02.17.2005",
+		"type": "desa",
+		"name": "MBATMA"
+	},
+	{
+		"code": "92.02.17.2006",
+		"type": "desa",
+		"name": "URWAMBEI"
+	},
+	{
+		"code": "92.02.17.2007",
+		"type": "desa",
+		"name": "IMBEISIKA"
+	},
+	{
+		"code": "92.02.17.2008",
+		"type": "desa",
+		"name": "IMBOISIKA"
+	},
+	{
+		"code": "92.02.17.2009",
+		"type": "desa",
+		"name": "WARMAWAI"
+	},
+	{
+		"code": "92.02.17.2010",
+		"type": "desa",
+		"name": "REMBUY"
+	},
+	{
+		"code": "92.02.17.2011",
+		"type": "desa",
+		"name": "IMHASUMA"
+	},
+	{
+		"code": "92.02.17.2012",
+		"type": "desa",
+		"name": "CUYEHEP"
+	},
+	{
+		"code": "92.02.17.2013",
+		"type": "desa",
+		"name": "HANGHOUW"
+	},
+	{
+		"code": "92.02.17.2014",
+		"type": "desa",
+		"name": "NINGDIP"
+	},
+	{
+		"code": "92.02.17.2015",
+		"type": "desa",
+		"name": "WARAMI"
+	},
+	{
+		"code": "92.02.17.2016",
+		"type": "desa",
+		"name": "IMBOITI"
+	},
+	{
+		"code": "92.02.17.2017",
+		"type": "desa",
+		"name": "WARIARI"
+	},
+	{
+		"code": "92.02.17.2018",
+		"type": "desa",
+		"name": "INDIBO"
+	},
+	{
+		"code": "92.02.17.2019",
+		"type": "desa",
+		"name": "UMNUM"
+	},
+	{
+		"code": "92.02.17.2020",
+		"type": "desa",
+		"name": "UKEMBOISI"
+	},
+	{
+		"code": "92.02.17.2021",
+		"type": "desa",
+		"name": "MENYUMFOKU"
+	},
+	{
+		"code": "92.02.17.2022",
+		"type": "desa",
+		"name": "WEDONI"
+	},
+	{
+		"code": "92.02.17.2023",
+		"type": "desa",
+		"name": "MIRONI"
+	},
+	{
+		"code": "92.02.17.2024",
+		"type": "desa",
+		"name": "WARNYETI"
+	},
+	{
+		"code": "92.02.21",
+		"type": "kecamatan",
+		"name": "SIDEY"
+	},
+	{
+		"code": "92.02.21.2001",
+		"type": "desa",
+		"name": "KAIRONI"
+	},
+	{
+		"code": "92.02.21.2002",
+		"type": "desa",
+		"name": "SIDEY"
+	},
+	{
+		"code": "92.02.21.2003",
+		"type": "desa",
+		"name": "WARAMOI"
+	},
+	{
+		"code": "92.02.21.2004",
+		"type": "desa",
+		"name": "KASSI"
+	},
+	{
+		"code": "92.02.21.2005",
+		"type": "desa",
+		"name": "SARAY"
+	},
+	{
+		"code": "92.02.21.2006",
+		"type": "desa",
+		"name": "SIDEY BARU"
+	},
+	{
+		"code": "92.02.21.2007",
+		"type": "desa",
+		"name": "SIDEY MAKMUR"
+	},
+	{
+		"code": "92.02.21.2008",
+		"type": "desa",
+		"name": "MEYOF I"
+	},
+	{
+		"code": "92.02.21.2009",
+		"type": "desa",
+		"name": "WARIKI"
+	},
+	{
+		"code": "92.02.21.2010",
+		"type": "desa",
+		"name": "WOMNOWI"
+	},
+	{
+		"code": "92.02.21.2011",
+		"type": "desa",
+		"name": "MANGGUPI"
+	},
+	{
+		"code": "92.02.21.2012",
+		"type": "desa",
+		"name": "SIDEY JAYA"
+	},
+	{
+		"code": "92.03",
+		"type": "kabupaten",
+		"name": "KAB. FAK FAK"
+	},
+	{
+		"code": "92.03.01",
+		"type": "kecamatan",
+		"name": "FAK-FAK"
+	},
+	{
+		"code": "92.03.01.1001",
+		"type": "kelurahan",
+		"name": "FAK FAK SELATAN"
+	},
+	{
+		"code": "92.03.01.1002",
+		"type": "kelurahan",
+		"name": "FAK FAK UTARA"
+	},
+	{
+		"code": "92.03.01.2007",
+		"type": "desa",
+		"name": "GEWERPE"
+	},
+	{
+		"code": "92.03.01.2011",
+		"type": "desa",
+		"name": "LUSI PERI"
+	},
+	{
+		"code": "92.03.01.2012",
+		"type": "desa",
+		"name": "WRIKAPAL"
+	},
+	{
+		"code": "92.03.02",
+		"type": "kecamatan",
+		"name": "FAK-FAK BARAT"
+	},
+	{
+		"code": "92.03.02.2001",
+		"type": "desa",
+		"name": "WERBA"
+	},
+	{
+		"code": "92.03.02.2002",
+		"type": "desa",
+		"name": "KIAT"
+	},
+	{
+		"code": "92.03.02.2003",
+		"type": "desa",
+		"name": "PURWASAK"
+	},
+	{
+		"code": "92.03.02.2008",
+		"type": "desa",
+		"name": "WURKENDIK"
+	},
+	{
+		"code": "92.03.02.2010",
+		"type": "desa",
+		"name": "KWUHKENDAK"
+	},
+	{
+		"code": "92.03.02.2011",
+		"type": "desa",
+		"name": "PURWAHAB TONGGO"
+	},
+	{
+		"code": "92.03.02.2012",
+		"type": "desa",
+		"name": "PAHGER NKINDIK"
+	},
+	{
+		"code": "92.03.02.2013",
+		"type": "desa",
+		"name": "WERBA UTARA"
+	},
+	{
+		"code": "92.03.02.2014",
+		"type": "desa",
+		"name": "PORUM"
+	},
+	{
+		"code": "92.03.03",
+		"type": "kecamatan",
+		"name": "FAK-FAK TIMUR"
+	},
+	{
+		"code": "92.03.03.2001",
+		"type": "desa",
+		"name": "TUNAS GAIN"
+	},
+	{
+		"code": "92.03.03.2003",
+		"type": "desa",
+		"name": "URAT"
+	},
+	{
+		"code": "92.03.03.2004",
+		"type": "desa",
+		"name": "SANGGRAM"
+	},
+	{
+		"code": "92.03.03.2010",
+		"type": "desa",
+		"name": "WERI"
+	},
+	{
+		"code": "92.03.03.2012",
+		"type": "desa",
+		"name": "KIRIA BISA"
+	},
+	{
+		"code": "92.03.03.2013",
+		"type": "desa",
+		"name": "SAHAREI"
+	},
+	{
+		"code": "92.03.04",
+		"type": "kecamatan",
+		"name": "KOKAS"
+	},
+	{
+		"code": "92.03.04.1001",
+		"type": "kelurahan",
+		"name": "KOKAS KOTA"
+	},
+	{
+		"code": "92.03.04.2003",
+		"type": "desa",
+		"name": "MANDONI"
+	},
+	{
+		"code": "92.03.04.2008",
+		"type": "desa",
+		"name": "SEKAR"
+	},
+	{
+		"code": "92.03.04.2009",
+		"type": "desa",
+		"name": "UGAR"
+	},
+	{
+		"code": "92.03.04.2010",
+		"type": "desa",
+		"name": "SISIR"
+	},
+	{
+		"code": "92.03.04.2011",
+		"type": "desa",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "92.03.04.2012",
+		"type": "desa",
+		"name": "PATIMBURAK"
+	},
+	{
+		"code": "92.03.04.2013",
+		"type": "desa",
+		"name": "BATUFIAFAS"
+	},
+	{
+		"code": "92.03.04.2014",
+		"type": "desa",
+		"name": "KINAM"
+	},
+	{
+		"code": "92.03.04.2021",
+		"type": "desa",
+		"name": "MAMBUNIBUNI"
+	},
+	{
+		"code": "92.03.04.2024",
+		"type": "desa",
+		"name": "KRIAWASWAS"
+	},
+	{
+		"code": "92.03.04.2028",
+		"type": "desa",
+		"name": "SOSAR"
+	},
+	{
+		"code": "92.03.04.2029",
+		"type": "desa",
+		"name": "PANG WADAR"
+	},
+	{
+		"code": "92.03.04.2030",
+		"type": "desa",
+		"name": "MASINA"
+	},
+	{
+		"code": "92.03.04.2031",
+		"type": "desa",
+		"name": "KIMINA KRA"
+	},
+	{
+		"code": "92.03.05",
+		"type": "kecamatan",
+		"name": "FAK-FAK TENGAH"
+	},
+	{
+		"code": "92.03.05.1001",
+		"type": "kelurahan",
+		"name": "DANAWERIA"
+	},
+	{
+		"code": "92.03.05.2002",
+		"type": "desa",
+		"name": "KAYU MERAH"
+	},
+	{
+		"code": "92.03.05.2003",
+		"type": "desa",
+		"name": "KATEMBA"
+	},
+	{
+		"code": "92.03.05.2004",
+		"type": "desa",
+		"name": "NEMEWIKARYA"
+	},
+	{
+		"code": "92.03.05.2005",
+		"type": "desa",
+		"name": "RADURIA"
+	},
+	{
+		"code": "92.03.05.2006",
+		"type": "desa",
+		"name": "BRONGKENDIK"
+	},
+	{
+		"code": "92.03.05.2007",
+		"type": "desa",
+		"name": "AIR BESAR"
+	},
+	{
+		"code": "92.03.05.2008",
+		"type": "desa",
+		"name": "MANDOPMA"
+	},
+	{
+		"code": "92.03.05.2009",
+		"type": "desa",
+		"name": "KANANTARE"
+	},
+	{
+		"code": "92.03.05.2010",
+		"type": "desa",
+		"name": "PASIR PUTIH"
+	},
+	{
+		"code": "92.03.05.2011",
+		"type": "desa",
+		"name": "PIRMA"
+	},
+	{
+		"code": "92.03.05.2012",
+		"type": "desa",
+		"name": "SAKARTEMIN"
+	},
+	{
+		"code": "92.03.05.2013",
+		"type": "desa",
+		"name": "HAMBRANGKENDIK"
+	},
+	{
+		"code": "92.03.05.2014",
+		"type": "desa",
+		"name": "UNIPOKPOK"
+	},
+	{
+		"code": "92.03.06",
+		"type": "kecamatan",
+		"name": "KARAS"
+	},
+	{
+		"code": "92.03.06.2001",
+		"type": "desa",
+		"name": "MALAKULI"
+	},
+	{
+		"code": "92.03.06.2002",
+		"type": "desa",
+		"name": "FAUR"
+	},
+	{
+		"code": "92.03.06.2003",
+		"type": "desa",
+		"name": "KIABA"
+	},
+	{
+		"code": "92.03.06.2004",
+		"type": "desa",
+		"name": "ANTALISA"
+	},
+	{
+		"code": "92.03.06.2005",
+		"type": "desa",
+		"name": "TARAK"
+	},
+	{
+		"code": "92.03.06.2006",
+		"type": "desa",
+		"name": "TUBERWASAK"
+	},
+	{
+		"code": "92.03.06.2007",
+		"type": "desa",
+		"name": "MAS"
+	},
+	{
+		"code": "92.03.07",
+		"type": "kecamatan",
+		"name": "BOMBERAY"
+	},
+	{
+		"code": "92.03.07.2007",
+		"type": "desa",
+		"name": "ONIMSARI"
+	},
+	{
+		"code": "92.03.07.2008",
+		"type": "desa",
+		"name": "MEKARSARI"
+	},
+	{
+		"code": "92.03.07.2009",
+		"type": "desa",
+		"name": "PINANG AGUNG"
+	},
+	{
+		"code": "92.03.07.2010",
+		"type": "desa",
+		"name": "BUMI MOROH INDAH"
+	},
+	{
+		"code": "92.03.07.2012",
+		"type": "desa",
+		"name": "TESHA"
+	},
+	{
+		"code": "92.03.07.2014",
+		"type": "desa",
+		"name": "ONIM JAYA"
+	},
+	{
+		"code": "92.03.07.2015",
+		"type": "desa",
+		"name": "WONO REJO"
+	},
+	{
+		"code": "92.03.08",
+		"type": "kecamatan",
+		"name": "KRAMONGMONGGA"
+	},
+	{
+		"code": "92.03.08.2001",
+		"type": "desa",
+		"name": "KRAMONGMONGGA"
+	},
+	{
+		"code": "92.03.08.2007",
+		"type": "desa",
+		"name": "WARGEP"
+	},
+	{
+		"code": "92.03.08.2008",
+		"type": "desa",
+		"name": "MAMUR"
+	},
+	{
+		"code": "92.03.08.2009",
+		"type": "desa",
+		"name": "NEMBUKTEB"
+	},
+	{
+		"code": "92.03.08.2010",
+		"type": "desa",
+		"name": "PIKPIK"
+	},
+	{
+		"code": "92.03.08.2011",
+		"type": "desa",
+		"name": "KWAMKWAMUR"
+	},
+	{
+		"code": "92.03.08.2012",
+		"type": "desa",
+		"name": "BAHBADAN"
+	},
+	{
+		"code": "92.03.08.2016",
+		"type": "desa",
+		"name": "GEWAB"
+	},
+	{
+		"code": "92.03.08.2017",
+		"type": "desa",
+		"name": "TENTREDA"
+	},
+	{
+		"code": "92.03.08.2018",
+		"type": "desa",
+		"name": "MBAHAM MA YOUN"
+	},
+	{
+		"code": "92.03.09",
+		"type": "kecamatan",
+		"name": "TELUK PATIPI"
+	},
+	{
+		"code": "92.03.09.2001",
+		"type": "desa",
+		"name": "PUAR"
+	},
+	{
+		"code": "92.03.09.2002",
+		"type": "desa",
+		"name": "DEGEN"
+	},
+	{
+		"code": "92.03.09.2003",
+		"type": "desa",
+		"name": "TETAR"
+	},
+	{
+		"code": "92.03.09.2005",
+		"type": "desa",
+		"name": "SUM"
+	},
+	{
+		"code": "92.03.09.2011",
+		"type": "desa",
+		"name": "ADORA"
+	},
+	{
+		"code": "92.03.09.2012",
+		"type": "desa",
+		"name": "US"
+	},
+	{
+		"code": "92.03.09.2014",
+		"type": "desa",
+		"name": "PATIPI PASIR"
+	},
+	{
+		"code": "92.03.09.2015",
+		"type": "desa",
+		"name": "PATIPI PULAU"
+	},
+	{
+		"code": "92.03.09.2017",
+		"type": "desa",
+		"name": "MAWAR"
+	},
+	{
+		"code": "92.03.09.2018",
+		"type": "desa",
+		"name": "TIBATIBANANAM"
+	},
+	{
+		"code": "92.03.09.2020",
+		"type": "desa",
+		"name": "OFFIE"
+	},
+	{
+		"code": "92.03.09.2021",
+		"type": "desa",
+		"name": "MUHRI"
+	},
+	{
+		"code": "92.03.09.2022",
+		"type": "desa",
+		"name": "BISA"
+	},
+	{
+		"code": "92.03.10",
+		"type": "kecamatan",
+		"name": "PARIWARI"
+	},
+	{
+		"code": "92.03.10.1001",
+		"type": "kelurahan",
+		"name": "WAGOM"
+	},
+	{
+		"code": "92.03.10.1002",
+		"type": "kelurahan",
+		"name": "WAGOM UTARA"
+	},
+	{
+		"code": "92.03.10.1003",
+		"type": "kelurahan",
+		"name": "DULANPOKPOK"
+	},
+	{
+		"code": "92.03.10.2004",
+		"type": "desa",
+		"name": "TANAMA"
+	},
+	{
+		"code": "92.03.10.2005",
+		"type": "desa",
+		"name": "KAPAURTUTIN"
+	},
+	{
+		"code": "92.03.10.2006",
+		"type": "desa",
+		"name": "SEKBAN"
+	},
+	{
+		"code": "92.03.10.2007",
+		"type": "desa",
+		"name": "TOREA"
+	},
+	{
+		"code": "92.03.10.2008",
+		"type": "desa",
+		"name": "SEKRU"
+	},
+	{
+		"code": "92.03.10.2009",
+		"type": "desa",
+		"name": "SUKURU TUARE"
+	},
+	{
+		"code": "92.03.11",
+		"type": "kecamatan",
+		"name": "WARTUTIN"
+	},
+	{
+		"code": "92.03.11.2001",
+		"type": "desa",
+		"name": "WERPIGAN"
+	},
+	{
+		"code": "92.03.11.2002",
+		"type": "desa",
+		"name": "WERABUAN"
+	},
+	{
+		"code": "92.03.11.2003",
+		"type": "desa",
+		"name": "WARTUTIN"
+	},
+	{
+		"code": "92.03.11.2004",
+		"type": "desa",
+		"name": "SIBORU"
+	},
+	{
+		"code": "92.03.11.2005",
+		"type": "desa",
+		"name": "SIPATNANAM"
+	},
+	{
+		"code": "92.03.11.2006",
+		"type": "desa",
+		"name": "KAMANDUR TETAR"
+	},
+	{
+		"code": "92.03.12",
+		"type": "kecamatan",
+		"name": "FAKFAK TIMUR TENGAH"
+	},
+	{
+		"code": "92.03.12.2001",
+		"type": "desa",
+		"name": "WASERAT"
+	},
+	{
+		"code": "92.03.12.2002",
+		"type": "desa",
+		"name": "WAMBAR"
+	},
+	{
+		"code": "92.03.12.2003",
+		"type": "desa",
+		"name": "KOTAM"
+	},
+	{
+		"code": "92.03.12.2004",
+		"type": "desa",
+		"name": "KWAMA"
+	},
+	{
+		"code": "92.03.12.2005",
+		"type": "desa",
+		"name": "KALAMANUK"
+	},
+	{
+		"code": "92.03.12.2006",
+		"type": "desa",
+		"name": "WAYATI TIMUR"
+	},
+	{
+		"code": "92.03.12.2007",
+		"type": "desa",
+		"name": "WAYATI"
+	},
+	{
+		"code": "92.03.12.2008",
+		"type": "desa",
+		"name": "WAYATI BARAT"
+	},
+	{
+		"code": "92.03.12.2009",
+		"type": "desa",
+		"name": "KRABELANG"
+	},
+	{
+		"code": "92.03.12.2010",
+		"type": "desa",
+		"name": "WAMBAR TIMUR"
+	},
+	{
+		"code": "92.03.13",
+		"type": "kecamatan",
+		"name": "ARGUNI"
+	},
+	{
+		"code": "92.03.13.2001",
+		"type": "desa",
+		"name": "ANDAMATA"
+	},
+	{
+		"code": "92.03.13.2002",
+		"type": "desa",
+		"name": "TAVER"
+	},
+	{
+		"code": "92.03.13.2003",
+		"type": "desa",
+		"name": "ARGUNI"
+	},
+	{
+		"code": "92.03.13.2004",
+		"type": "desa",
+		"name": "FIOR"
+	},
+	{
+		"code": "92.03.13.2005",
+		"type": "desa",
+		"name": "FURIR"
+	},
+	{
+		"code": "92.03.14",
+		"type": "kecamatan",
+		"name": "MBAHAMDANDARA"
+	},
+	{
+		"code": "92.03.14.2001",
+		"type": "desa",
+		"name": "DAREMBANG"
+	},
+	{
+		"code": "92.03.14.2002",
+		"type": "desa",
+		"name": "GORAS"
+	},
+	{
+		"code": "92.03.14.2003",
+		"type": "desa",
+		"name": "MITIMBER"
+	},
+	{
+		"code": "92.03.14.2004",
+		"type": "desa",
+		"name": "WAREMU"
+	},
+	{
+		"code": "92.03.14.2005",
+		"type": "desa",
+		"name": "WOS"
+	},
+	{
+		"code": "92.03.14.2006",
+		"type": "desa",
+		"name": "MBAHAMDANDRA"
+	},
+	{
+		"code": "92.03.14.2007",
+		"type": "desa",
+		"name": "GORAS SELATAN"
+	},
+	{
+		"code": "92.03.15",
+		"type": "kecamatan",
+		"name": "KAYAUNI"
+	},
+	{
+		"code": "92.03.15.2001",
+		"type": "desa",
+		"name": "KABURBUR"
+	},
+	{
+		"code": "92.03.15.2002",
+		"type": "desa",
+		"name": "UBADARI"
+	},
+	{
+		"code": "92.03.15.2004",
+		"type": "desa",
+		"name": "HOMORKOKMA"
+	},
+	{
+		"code": "92.03.15.2005",
+		"type": "desa",
+		"name": "PATTUKAR"
+	},
+	{
+		"code": "92.03.15.2006",
+		"type": "desa",
+		"name": "KAYUNI"
+	},
+	{
+		"code": "92.03.15.2007",
+		"type": "desa",
+		"name": "KUAGAS"
+	},
+	{
+		"code": "92.03.15.2008",
+		"type": "desa",
+		"name": "RANGKENDAK"
+	},
+	{
+		"code": "92.03.15.2009",
+		"type": "desa",
+		"name": "MANANMUR"
+	},
+	{
+		"code": "92.03.15.2010",
+		"type": "desa",
+		"name": "WARPA"
+	},
+	{
+		"code": "92.03.16",
+		"type": "kecamatan",
+		"name": "FURWAGI"
+	},
+	{
+		"code": "92.03.16.2001",
+		"type": "desa",
+		"name": "SALAKITI"
+	},
+	{
+		"code": "92.03.16.2002",
+		"type": "desa",
+		"name": "TAWAR"
+	},
+	{
+		"code": "92.03.16.2003",
+		"type": "desa",
+		"name": "GAR"
+	},
+	{
+		"code": "92.03.16.2004",
+		"type": "desa",
+		"name": "RUMBATI"
+	},
+	{
+		"code": "92.03.16.2005",
+		"type": "desa",
+		"name": "WERFRA"
+	},
+	{
+		"code": "92.03.16.2006",
+		"type": "desa",
+		"name": "TANEHAMUR"
+	},
+	{
+		"code": "92.03.16.2007",
+		"type": "desa",
+		"name": "SENGKITI"
+	},
+	{
+		"code": "92.03.16.2008",
+		"type": "desa",
+		"name": "TWOOTKINDIK"
+	},
+	{
+		"code": "92.03.17",
+		"type": "kecamatan",
+		"name": "TOMAGE"
+	},
+	{
+		"code": "92.03.17.2001",
+		"type": "desa",
+		"name": "MBIMA JAYA"
+	},
+	{
+		"code": "92.03.17.2002",
+		"type": "desa",
+		"name": "WARISA MULYA"
+	},
+	{
+		"code": "92.03.17.2003",
+		"type": "desa",
+		"name": "WONODADI MULYA"
+	},
+	{
+		"code": "92.03.17.2004",
+		"type": "desa",
+		"name": "TOMAGE"
+	},
+	{
+		"code": "92.03.17.2005",
+		"type": "desa",
+		"name": "OTOWERI"
+	},
+	{
+		"code": "92.03.17.2006",
+		"type": "desa",
+		"name": "WAMOSAN"
+	},
+	{
+		"code": "92.03.17.2007",
+		"type": "desa",
+		"name": "SALAWIER"
+	},
+	{
+		"code": "92.03.17.2008",
+		"type": "desa",
+		"name": "WASA MULYA"
+	},
+	{
+		"code": "92.03.17.2009",
+		"type": "desa",
+		"name": "WAMMAR"
+	},
+	{
+		"code": "92.04",
+		"type": "kabupaten",
+		"name": "KAB. SORONG SELATAN"
+	},
+	{
+		"code": "92.04.01",
+		"type": "kecamatan",
+		"name": "TEMINABUAN"
+	},
+	{
+		"code": "92.04.01.1005",
+		"type": "kelurahan",
+		"name": "KAIBUS"
+	},
+	{
+		"code": "92.04.01.1006",
+		"type": "kelurahan",
+		"name": "KOHOIN"
+	},
+	{
+		"code": "92.04.01.2004",
+		"type": "desa",
+		"name": "WERSAR"
+	},
+	{
+		"code": "92.04.01.2009",
+		"type": "desa",
+		"name": "WEHALI"
+	},
+	{
+		"code": "92.04.01.2010",
+		"type": "desa",
+		"name": "AIBOBOR"
+	},
+	{
+		"code": "92.04.01.2017",
+		"type": "desa",
+		"name": "WERMIT"
+	},
+	{
+		"code": "92.04.01.2018",
+		"type": "desa",
+		"name": "KEYEN"
+	},
+	{
+		"code": "92.04.01.2021",
+		"type": "desa",
+		"name": "SIRIBAU"
+	},
+	{
+		"code": "92.04.01.2025",
+		"type": "desa",
+		"name": "MAGIS"
+	},
+	{
+		"code": "92.04.01.2026",
+		"type": "desa",
+		"name": "TEGIROLO"
+	},
+	{
+		"code": "92.04.01.2034",
+		"type": "desa",
+		"name": "WERNAS"
+	},
+	{
+		"code": "92.04.01.2035",
+		"type": "desa",
+		"name": "TAPIRI"
+	},
+	{
+		"code": "92.04.01.2040",
+		"type": "desa",
+		"name": "GOROLO"
+	},
+	{
+		"code": "92.04.01.2041",
+		"type": "desa",
+		"name": "NAMBRO"
+	},
+	{
+		"code": "92.04.01.2044",
+		"type": "desa",
+		"name": "SEYOLO"
+	},
+	{
+		"code": "92.04.01.2045",
+		"type": "desa",
+		"name": "ANI SESNA"
+	},
+	{
+		"code": "92.04.04",
+		"type": "kecamatan",
+		"name": "INANWATAN"
+	},
+	{
+		"code": "92.04.04.2001",
+		"type": "desa",
+		"name": "MATE"
+	},
+	{
+		"code": "92.04.04.2004",
+		"type": "desa",
+		"name": "SERKOS"
+	},
+	{
+		"code": "92.04.04.2006",
+		"type": "desa",
+		"name": "SOLTA BARU"
+	},
+	{
+		"code": "92.04.04.2008",
+		"type": "desa",
+		"name": "WADOI"
+	},
+	{
+		"code": "92.04.04.2009",
+		"type": "desa",
+		"name": "ISOGO"
+	},
+	{
+		"code": "92.04.04.2013",
+		"type": "desa",
+		"name": "SIBAE"
+	},
+	{
+		"code": "92.04.04.2020",
+		"type": "desa",
+		"name": "MOGIBI"
+	},
+	{
+		"code": "92.04.04.2026",
+		"type": "desa",
+		"name": "ODEARE"
+	},
+	{
+		"code": "92.04.04.2027",
+		"type": "desa",
+		"name": "SIRI-SIRI"
+	},
+	{
+		"code": "92.04.06",
+		"type": "kecamatan",
+		"name": "SAWIAT"
+	},
+	{
+		"code": "92.04.06.2001",
+		"type": "desa",
+		"name": "SAWIAT"
+	},
+	{
+		"code": "92.04.06.2008",
+		"type": "desa",
+		"name": "SASNEK"
+	},
+	{
+		"code": "92.04.06.2009",
+		"type": "desa",
+		"name": "ELLES"
+	},
+	{
+		"code": "92.04.06.2011",
+		"type": "desa",
+		"name": "SODROFOYO"
+	},
+	{
+		"code": "92.04.06.2012",
+		"type": "desa",
+		"name": "SFAKYO"
+	},
+	{
+		"code": "92.04.06.2013",
+		"type": "desa",
+		"name": "WENSOUGH"
+	},
+	{
+		"code": "92.04.06.2014",
+		"type": "desa",
+		"name": "WEEN"
+	},
+	{
+		"code": "92.04.06.2015",
+		"type": "desa",
+		"name": "WENDI"
+	},
+	{
+		"code": "92.04.09",
+		"type": "kecamatan",
+		"name": "KOKODA"
+	},
+	{
+		"code": "92.04.09.2001",
+		"type": "desa",
+		"name": "TAROF"
+	},
+	{
+		"code": "92.04.09.2002",
+		"type": "desa",
+		"name": "NEGERI BESAR"
+	},
+	{
+		"code": "92.04.09.2003",
+		"type": "desa",
+		"name": "SIWATORI"
+	},
+	{
+		"code": "92.04.09.2004",
+		"type": "desa",
+		"name": "KASUWERI"
+	},
+	{
+		"code": "92.04.09.2005",
+		"type": "desa",
+		"name": "MIGORI"
+	},
+	{
+		"code": "92.04.09.2006",
+		"type": "desa",
+		"name": "TAMBANI"
+	},
+	{
+		"code": "92.04.09.2010",
+		"type": "desa",
+		"name": "DAUBAK"
+	},
+	{
+		"code": "92.04.09.2011",
+		"type": "desa",
+		"name": "TOTONA"
+	},
+	{
+		"code": "92.04.09.2012",
+		"type": "desa",
+		"name": "NAYAKORE"
+	},
+	{
+		"code": "92.04.09.2014",
+		"type": "desa",
+		"name": "ARBASINA"
+	},
+	{
+		"code": "92.04.09.2015",
+		"type": "desa",
+		"name": "BIRAWAKU"
+	},
+	{
+		"code": "92.04.09.2016",
+		"type": "desa",
+		"name": "KOREWATARA"
+	},
+	{
+		"code": "92.04.09.2017",
+		"type": "desa",
+		"name": "TAPAS"
+	},
+	{
+		"code": "92.04.09.2018",
+		"type": "desa",
+		"name": "TOPDAN"
+	},
+	{
+		"code": "92.04.09.2020",
+		"type": "desa",
+		"name": "MIGRITO"
+	},
+	{
+		"code": "92.04.09.2021",
+		"type": "desa",
+		"name": "DAIMAR"
+	},
+	{
+		"code": "92.04.10",
+		"type": "kecamatan",
+		"name": "MOSWAREN"
+	},
+	{
+		"code": "92.04.10.2001",
+		"type": "desa",
+		"name": "MOSWAREN"
+	},
+	{
+		"code": "92.04.10.2002",
+		"type": "desa",
+		"name": "JOHSIRO"
+	},
+	{
+		"code": "92.04.10.2003",
+		"type": "desa",
+		"name": "HARARO"
+	},
+	{
+		"code": "92.04.10.2004",
+		"type": "desa",
+		"name": "BUMI AJO"
+	},
+	{
+		"code": "92.04.10.2005",
+		"type": "desa",
+		"name": "HASIK JAYA"
+	},
+	{
+		"code": "92.04.10.2006",
+		"type": "desa",
+		"name": "KAMISABE"
+	},
+	{
+		"code": "92.04.10.2007",
+		"type": "desa",
+		"name": "TOKASS"
+	},
+	{
+		"code": "92.04.11",
+		"type": "kecamatan",
+		"name": "SEREMUK"
+	},
+	{
+		"code": "92.04.11.2001",
+		"type": "desa",
+		"name": "HAHA"
+	},
+	{
+		"code": "92.04.11.2003",
+		"type": "desa",
+		"name": "KLAOGIN"
+	},
+	{
+		"code": "92.04.11.2004",
+		"type": "desa",
+		"name": "TOFOT"
+	},
+	{
+		"code": "92.04.11.2005",
+		"type": "desa",
+		"name": "SBIR"
+	},
+	{
+		"code": "92.04.11.2006",
+		"type": "desa",
+		"name": "SRER"
+	},
+	{
+		"code": "92.04.11.2007",
+		"type": "desa",
+		"name": "WOLOIN"
+	},
+	{
+		"code": "92.04.11.2008",
+		"type": "desa",
+		"name": "KAMARO"
+	},
+	{
+		"code": "92.04.11.2009",
+		"type": "desa",
+		"name": "KAKAS"
+	},
+	{
+		"code": "92.04.12",
+		"type": "kecamatan",
+		"name": "WAYER"
+	},
+	{
+		"code": "92.04.12.2001",
+		"type": "desa",
+		"name": "SUNGGUER"
+	},
+	{
+		"code": "92.04.12.2002",
+		"type": "desa",
+		"name": "UNGGI"
+	},
+	{
+		"code": "92.04.12.2003",
+		"type": "desa",
+		"name": "BOLDON"
+	},
+	{
+		"code": "92.04.12.2004",
+		"type": "desa",
+		"name": "SESOR"
+	},
+	{
+		"code": "92.04.12.2005",
+		"type": "desa",
+		"name": "WAIGO"
+	},
+	{
+		"code": "92.04.12.2006",
+		"type": "desa",
+		"name": "BAGARAGA"
+	},
+	{
+		"code": "92.04.12.2007",
+		"type": "desa",
+		"name": "WARDIK"
+	},
+	{
+		"code": "92.04.12.2008",
+		"type": "desa",
+		"name": "WAYER"
+	},
+	{
+		"code": "92.04.14",
+		"type": "kecamatan",
+		"name": "KAIS"
+	},
+	{
+		"code": "92.04.14.2001",
+		"type": "desa",
+		"name": "KAIS"
+	},
+	{
+		"code": "92.04.14.2002",
+		"type": "desa",
+		"name": "TAPURI"
+	},
+	{
+		"code": "92.04.14.2003",
+		"type": "desa",
+		"name": "YAHADIAN"
+	},
+	{
+		"code": "92.04.14.2004",
+		"type": "desa",
+		"name": "BENAWA I"
+	},
+	{
+		"code": "92.04.14.2006",
+		"type": "desa",
+		"name": "SUMANO"
+	},
+	{
+		"code": "92.04.15",
+		"type": "kecamatan",
+		"name": "KONDA"
+	},
+	{
+		"code": "92.04.15.2001",
+		"type": "desa",
+		"name": "KONDA"
+	},
+	{
+		"code": "92.04.15.2002",
+		"type": "desa",
+		"name": "WAMARGEGE"
+	},
+	{
+		"code": "92.04.15.2003",
+		"type": "desa",
+		"name": "BARIAT"
+	},
+	{
+		"code": "92.04.15.2004",
+		"type": "desa",
+		"name": "MANELEK"
+	},
+	{
+		"code": "92.04.15.2005",
+		"type": "desa",
+		"name": "NAGNA"
+	},
+	{
+		"code": "92.04.20",
+		"type": "kecamatan",
+		"name": "MATEMANI"
+	},
+	{
+		"code": "92.04.20.2001",
+		"type": "desa",
+		"name": "MUGIM"
+	},
+	{
+		"code": "92.04.20.2002",
+		"type": "desa",
+		"name": "NUSA"
+	},
+	{
+		"code": "92.04.20.2003",
+		"type": "desa",
+		"name": "SAGA"
+	},
+	{
+		"code": "92.04.20.2004",
+		"type": "desa",
+		"name": "PURAGI"
+	},
+	{
+		"code": "92.04.20.2005",
+		"type": "desa",
+		"name": "TAWANGGIRE"
+	},
+	{
+		"code": "92.04.20.2006",
+		"type": "desa",
+		"name": "BEDARE"
+	},
+	{
+		"code": "92.04.21",
+		"type": "kecamatan",
+		"name": "KOKODA UTARA"
+	},
+	{
+		"code": "92.04.21.2001",
+		"type": "desa",
+		"name": "UDAGAGA"
+	},
+	{
+		"code": "92.04.21.2002",
+		"type": "desa",
+		"name": "KAYUBIRO"
+	},
+	{
+		"code": "92.04.21.2003",
+		"type": "desa",
+		"name": "ADONA"
+	},
+	{
+		"code": "92.04.21.2004",
+		"type": "desa",
+		"name": "BENAWA II"
+	},
+	{
+		"code": "92.04.21.2005",
+		"type": "desa",
+		"name": "ATORI"
+	},
+	{
+		"code": "92.04.21.2006",
+		"type": "desa",
+		"name": "KAMUNDAN SATU"
+	},
+	{
+		"code": "92.04.21.2007",
+		"type": "desa",
+		"name": "KARIRIF"
+	},
+	{
+		"code": "92.04.21.2008",
+		"type": "desa",
+		"name": "BUBUKO"
+	},
+	{
+		"code": "92.04.21.2009",
+		"type": "desa",
+		"name": "KAMUNDAN DUA"
+	},
+	{
+		"code": "92.04.22",
+		"type": "kecamatan",
+		"name": "SAIFI"
+	},
+	{
+		"code": "92.04.22.2001",
+		"type": "desa",
+		"name": "MANGGROHOLO"
+	},
+	{
+		"code": "92.04.22.2002",
+		"type": "desa",
+		"name": "KOMANGGARET"
+	},
+	{
+		"code": "92.04.22.2003",
+		"type": "desa",
+		"name": "SAYAL"
+	},
+	{
+		"code": "92.04.22.2004",
+		"type": "desa",
+		"name": "KAYABO"
+	},
+	{
+		"code": "92.04.22.2005",
+		"type": "desa",
+		"name": "SISIR"
+	},
+	{
+		"code": "92.04.22.2006",
+		"type": "desa",
+		"name": "MLASWAT"
+	},
+	{
+		"code": "92.04.22.2007",
+		"type": "desa",
+		"name": "KWOWOK"
+	},
+	{
+		"code": "92.04.22.2008",
+		"type": "desa",
+		"name": "SIRA"
+	},
+	{
+		"code": "92.04.22.2009",
+		"type": "desa",
+		"name": "KENAYA"
+	},
+	{
+		"code": "92.04.22.2010",
+		"type": "desa",
+		"name": "BOTAIN"
+	},
+	{
+		"code": "92.04.24",
+		"type": "kecamatan",
+		"name": "FOKOUR"
+	},
+	{
+		"code": "92.04.24.2001",
+		"type": "desa",
+		"name": "PASIR PUTIH"
+	},
+	{
+		"code": "92.04.24.2002",
+		"type": "desa",
+		"name": "WANDUM"
+	},
+	{
+		"code": "92.04.24.2003",
+		"type": "desa",
+		"name": "BEMUS"
+	},
+	{
+		"code": "92.04.24.2004",
+		"type": "desa",
+		"name": "WELEK"
+	},
+	{
+		"code": "92.04.25",
+		"type": "kecamatan",
+		"name": "SALKMA"
+	},
+	{
+		"code": "92.04.25.2001",
+		"type": "desa",
+		"name": "WENSLOLO"
+	},
+	{
+		"code": "92.04.25.2002",
+		"type": "desa",
+		"name": "KLAMIT"
+	},
+	{
+		"code": "92.04.25.2003",
+		"type": "desa",
+		"name": "MLABOLO"
+	},
+	{
+		"code": "92.04.25.2004",
+		"type": "desa",
+		"name": "KOFALIT"
+	},
+	{
+		"code": "92.04.25.2005",
+		"type": "desa",
+		"name": "ALMA"
+	},
+	{
+		"code": "92.04.26",
+		"type": "kecamatan",
+		"name": "KAIS DARAT"
+	},
+	{
+		"code": "92.04.26.2001",
+		"type": "desa",
+		"name": "MUKAMAT"
+	},
+	{
+		"code": "92.04.26.2002",
+		"type": "desa",
+		"name": "IKANA"
+	},
+	{
+		"code": "92.04.26.2003",
+		"type": "desa",
+		"name": "HAEMARAN"
+	},
+	{
+		"code": "92.04.26.2004",
+		"type": "desa",
+		"name": "SIRANGGO"
+	},
+	{
+		"code": "92.04.26.2005",
+		"type": "desa",
+		"name": "MOGATEMIN"
+	},
+	{
+		"code": "92.04.26.2006",
+		"type": "desa",
+		"name": "ONIMSEFA"
+	},
+	{
+		"code": "92.04.26.2007",
+		"type": "desa",
+		"name": "MAKARORO"
+	},
+	{
+		"code": "92.05",
+		"type": "kabupaten",
+		"name": "KAB. RAJA AMPAT"
+	},
+	{
+		"code": "92.05.01",
+		"type": "kecamatan",
+		"name": "MISOOL (MISOOL UTARA)"
+	},
+	{
+		"code": "92.05.01.2001",
+		"type": "desa",
+		"name": "WAIGAMA"
+	},
+	{
+		"code": "92.05.01.2005",
+		"type": "desa",
+		"name": "SALAFEN"
+	},
+	{
+		"code": "92.05.01.2006",
+		"type": "desa",
+		"name": "ADUWEI"
+	},
+	{
+		"code": "92.05.01.2007",
+		"type": "desa",
+		"name": "ATKARI"
+	},
+	{
+		"code": "92.05.01.2014",
+		"type": "desa",
+		"name": "SOLAL"
+	},
+	{
+		"code": "92.05.02",
+		"type": "kecamatan",
+		"name": "WAIGEO UTARA"
+	},
+	{
+		"code": "92.05.02.2003",
+		"type": "desa",
+		"name": "KABARE"
+	},
+	{
+		"code": "92.05.02.2010",
+		"type": "desa",
+		"name": "ANDEY"
+	},
+	{
+		"code": "92.05.02.2011",
+		"type": "desa",
+		"name": "ASUKWERI"
+	},
+	{
+		"code": "92.05.02.2013",
+		"type": "desa",
+		"name": "BONSAYOR"
+	},
+	{
+		"code": "92.05.02.2014",
+		"type": "desa",
+		"name": "DARUMBAB"
+	},
+	{
+		"code": "92.05.02.2015",
+		"type": "desa",
+		"name": "KALISADE"
+	},
+	{
+		"code": "92.05.03",
+		"type": "kecamatan",
+		"name": "WAIGEO SELATAN"
+	},
+	{
+		"code": "92.05.03.2004",
+		"type": "desa",
+		"name": "SAONEK"
+	},
+	{
+		"code": "92.05.03.2014",
+		"type": "desa",
+		"name": "SAPORKREN"
+	},
+	{
+		"code": "92.05.03.2015",
+		"type": "desa",
+		"name": "YENBESER"
+	},
+	{
+		"code": "92.05.03.2016",
+		"type": "desa",
+		"name": "FRIWEN"
+	},
+	{
+		"code": "92.05.03.2017",
+		"type": "desa",
+		"name": "WAWIYAI"
+	},
+	{
+		"code": "92.05.04",
+		"type": "kecamatan",
+		"name": "SALAWATI UTARA"
+	},
+	{
+		"code": "92.05.04.2001",
+		"type": "desa",
+		"name": "SAMATE"
+	},
+	{
+		"code": "92.05.04.2002",
+		"type": "desa",
+		"name": "KAPATLAP"
+	},
+	{
+		"code": "92.05.04.2003",
+		"type": "desa",
+		"name": "JEFMAN BARAT"
+	},
+	{
+		"code": "92.05.04.2015",
+		"type": "desa",
+		"name": "WAMEGA"
+	},
+	{
+		"code": "92.05.04.2016",
+		"type": "desa",
+		"name": "JEFMAN TIMUR"
+	},
+	{
+		"code": "92.05.04.2017",
+		"type": "desa",
+		"name": "WAIDIM"
+	},
+	{
+		"code": "92.05.05",
+		"type": "kecamatan",
+		"name": "KEPULAUAN AYAU"
+	},
+	{
+		"code": "92.05.05.2001",
+		"type": "desa",
+		"name": "DOREHKAR"
+	},
+	{
+		"code": "92.05.05.2003",
+		"type": "desa",
+		"name": "YENKAWIR"
+	},
+	{
+		"code": "92.05.05.2006",
+		"type": "desa",
+		"name": "BOISERAN"
+	},
+	{
+		"code": "92.05.05.2007",
+		"type": "desa",
+		"name": "RUNI"
+	},
+	{
+		"code": "92.05.05.2008",
+		"type": "desa",
+		"name": "YENKANFAN"
+	},
+	{
+		"code": "92.05.06",
+		"type": "kecamatan",
+		"name": "MISOOL TIMUR"
+	},
+	{
+		"code": "92.05.06.2001",
+		"type": "desa",
+		"name": "FOLLEY"
+	},
+	{
+		"code": "92.05.06.2003",
+		"type": "desa",
+		"name": "TOMOLOL"
+	},
+	{
+		"code": "92.05.06.2011",
+		"type": "desa",
+		"name": "USAHA JAYA"
+	},
+	{
+		"code": "92.05.06.2012",
+		"type": "desa",
+		"name": "LIMALAS TIMUR"
+	},
+	{
+		"code": "92.05.06.2016",
+		"type": "desa",
+		"name": "AUDAM"
+	},
+	{
+		"code": "92.05.06.2017",
+		"type": "desa",
+		"name": "LIMALAS BARAT"
+	},
+	{
+		"code": "92.05.07",
+		"type": "kecamatan",
+		"name": "WAIGEO BARAT"
+	},
+	{
+		"code": "92.05.07.2001",
+		"type": "desa",
+		"name": "SELPELE"
+	},
+	{
+		"code": "92.05.07.2005",
+		"type": "desa",
+		"name": "MUTUS"
+	},
+	{
+		"code": "92.05.07.2007",
+		"type": "desa",
+		"name": "BIANCI"
+	},
+	{
+		"code": "92.05.07.2011",
+		"type": "desa",
+		"name": "SALEO"
+	},
+	{
+		"code": "92.05.07.2012",
+		"type": "desa",
+		"name": "WAISILIP"
+	},
+	{
+		"code": "92.05.08",
+		"type": "kecamatan",
+		"name": "WAIGEO TIMUR"
+	},
+	{
+		"code": "92.05.08.2001",
+		"type": "desa",
+		"name": "PUPER"
+	},
+	{
+		"code": "92.05.08.2002",
+		"type": "desa",
+		"name": "YENBEKAKI"
+	},
+	{
+		"code": "92.05.08.2003",
+		"type": "desa",
+		"name": "URBINASOPEN"
+	},
+	{
+		"code": "92.05.08.2004",
+		"type": "desa",
+		"name": "YENSNER"
+	},
+	{
+		"code": "92.05.09",
+		"type": "kecamatan",
+		"name": "TELUK MAYALIBIT"
+	},
+	{
+		"code": "92.05.09.2001",
+		"type": "desa",
+		"name": "LOPINTOL"
+	},
+	{
+		"code": "92.05.09.2007",
+		"type": "desa",
+		"name": "WARSAMDIN"
+	},
+	{
+		"code": "92.05.09.2009",
+		"type": "desa",
+		"name": "MUMES"
+	},
+	{
+		"code": "92.05.09.2010",
+		"type": "desa",
+		"name": "KALITOKO"
+	},
+	{
+		"code": "92.05.10",
+		"type": "kecamatan",
+		"name": "KOFIAU"
+	},
+	{
+		"code": "92.05.10.2001",
+		"type": "desa",
+		"name": "DIBALAI"
+	},
+	{
+		"code": "92.05.10.2002",
+		"type": "desa",
+		"name": "TOLOBI"
+	},
+	{
+		"code": "92.05.10.2003",
+		"type": "desa",
+		"name": "DEER"
+	},
+	{
+		"code": "92.05.10.2004",
+		"type": "desa",
+		"name": "MIKIRAN"
+	},
+	{
+		"code": "92.05.10.2005",
+		"type": "desa",
+		"name": "AWAT"
+	},
+	{
+		"code": "92.05.11",
+		"type": "kecamatan",
+		"name": "MEOS MANSAR"
+	},
+	{
+		"code": "92.05.11.2001",
+		"type": "desa",
+		"name": "YENBEKWAN"
+	},
+	{
+		"code": "92.05.11.2002",
+		"type": "desa",
+		"name": "KAPISAWAR"
+	},
+	{
+		"code": "92.05.11.2003",
+		"type": "desa",
+		"name": "SAWINGGRAI"
+	},
+	{
+		"code": "92.05.11.2004",
+		"type": "desa",
+		"name": "YENWAUPNOR"
+	},
+	{
+		"code": "92.05.11.2005",
+		"type": "desa",
+		"name": "ARBOREK"
+	},
+	{
+		"code": "92.05.11.2006",
+		"type": "desa",
+		"name": "YENBUBA"
+	},
+	{
+		"code": "92.05.11.2007",
+		"type": "desa",
+		"name": "KABUY"
+	},
+	{
+		"code": "92.05.11.2008",
+		"type": "desa",
+		"name": "KURKAPA"
+	},
+	{
+		"code": "92.05.11.2009",
+		"type": "desa",
+		"name": "SAWANDAREK"
+	},
+	{
+		"code": "92.05.13",
+		"type": "kecamatan",
+		"name": "MISOOL SELATAN"
+	},
+	{
+		"code": "92.05.13.2002",
+		"type": "desa",
+		"name": "FAFANLAP"
+	},
+	{
+		"code": "92.05.13.2006",
+		"type": "desa",
+		"name": "YELLU"
+	},
+	{
+		"code": "92.05.13.2007",
+		"type": "desa",
+		"name": "HARAPAN JAYA"
+	},
+	{
+		"code": "92.05.13.2009",
+		"type": "desa",
+		"name": "USAHA JAYA"
+	},
+	{
+		"code": "92.05.13.2010",
+		"type": "desa",
+		"name": "DABATAN"
+	},
+	{
+		"code": "92.05.14",
+		"type": "kecamatan",
+		"name": "WARWARBOMI"
+	},
+	{
+		"code": "92.05.14.2001",
+		"type": "desa",
+		"name": "WARMANAI"
+	},
+	{
+		"code": "92.05.14.2002",
+		"type": "desa",
+		"name": "MNIER"
+	},
+	{
+		"code": "92.05.14.2003",
+		"type": "desa",
+		"name": "BONI"
+	},
+	{
+		"code": "92.05.14.2004",
+		"type": "desa",
+		"name": "WARKORI"
+	},
+	{
+		"code": "92.05.15",
+		"type": "kecamatan",
+		"name": "WAIGEO BARAT KEPULAUAN"
+	},
+	{
+		"code": "92.05.15.2001",
+		"type": "desa",
+		"name": "MANYAIFUN"
+	},
+	{
+		"code": "92.05.15.2002",
+		"type": "desa",
+		"name": "MEOSMANGGARA"
+	},
+	{
+		"code": "92.05.15.2003",
+		"type": "desa",
+		"name": "PAM"
+	},
+	{
+		"code": "92.05.15.2004",
+		"type": "desa",
+		"name": "SAUKABU"
+	},
+	{
+		"code": "92.05.15.2005",
+		"type": "desa",
+		"name": "GAG"
+	},
+	{
+		"code": "92.05.15.2006",
+		"type": "desa",
+		"name": "SAUPAPIR"
+	},
+	{
+		"code": "92.05.16",
+		"type": "kecamatan",
+		"name": "MISOOL BARAT"
+	},
+	{
+		"code": "92.05.16.2001",
+		"type": "desa",
+		"name": "LILINTA"
+	},
+	{
+		"code": "92.05.16.2002",
+		"type": "desa",
+		"name": "GAMTA"
+	},
+	{
+		"code": "92.05.16.2003",
+		"type": "desa",
+		"name": "BIGA"
+	},
+	{
+		"code": "92.05.16.2004",
+		"type": "desa",
+		"name": "KAPATCOL"
+	},
+	{
+		"code": "92.05.16.2005",
+		"type": "desa",
+		"name": "MAGEY"
+	},
+	{
+		"code": "92.05.17",
+		"type": "kecamatan",
+		"name": "KEPULAUAN SEMBILAN"
+	},
+	{
+		"code": "92.05.17.2001",
+		"type": "desa",
+		"name": "WEJIM BARAT"
+	},
+	{
+		"code": "92.05.17.2002",
+		"type": "desa",
+		"name": "WEJIM TIMUR"
+	},
+	{
+		"code": "92.05.17.2003",
+		"type": "desa",
+		"name": "SATUKURANO"
+	},
+	{
+		"code": "92.05.17.2004",
+		"type": "desa",
+		"name": "PULAU TIKUS"
+	},
+	{
+		"code": "92.05.18",
+		"type": "kecamatan",
+		"name": "KOTA WAISAI"
+	},
+	{
+		"code": "92.05.18.1001",
+		"type": "kelurahan",
+		"name": "WAISAI"
+	},
+	{
+		"code": "92.05.18.1002",
+		"type": "kelurahan",
+		"name": "SAPORDANCO"
+	},
+	{
+		"code": "92.05.18.1003",
+		"type": "kelurahan",
+		"name": "BONWAKIR"
+	},
+	{
+		"code": "92.05.18.1004",
+		"type": "kelurahan",
+		"name": "WARMASEN"
+	},
+	{
+		"code": "92.05.19",
+		"type": "kecamatan",
+		"name": "TIPLOL MAYALIBIT"
+	},
+	{
+		"code": "92.05.19.2001",
+		"type": "desa",
+		"name": "GO"
+	},
+	{
+		"code": "92.05.19.2002",
+		"type": "desa",
+		"name": "KABILOL"
+	},
+	{
+		"code": "92.05.19.2003",
+		"type": "desa",
+		"name": "ARWAY"
+	},
+	{
+		"code": "92.05.19.2004",
+		"type": "desa",
+		"name": "BEO"
+	},
+	{
+		"code": "92.05.19.2005",
+		"type": "desa",
+		"name": "WAIFOI"
+	},
+	{
+		"code": "92.05.19.2006",
+		"type": "desa",
+		"name": "WARIMAK"
+	},
+	{
+		"code": "92.05.20",
+		"type": "kecamatan",
+		"name": "BATANTA UTARA"
+	},
+	{
+		"code": "92.05.20.2001",
+		"type": "desa",
+		"name": "YENSAWAI TIMUR"
+	},
+	{
+		"code": "92.05.20.2002",
+		"type": "desa",
+		"name": "YENSAWAI BARAT"
+	},
+	{
+		"code": "92.05.20.2003",
+		"type": "desa",
+		"name": "AREFI TIMUR"
+	},
+	{
+		"code": "92.05.20.2004",
+		"type": "desa",
+		"name": "AREFI SELATAN"
+	},
+	{
+		"code": "92.05.21",
+		"type": "kecamatan",
+		"name": "SALAWATI BARAT"
+	},
+	{
+		"code": "92.05.21.2001",
+		"type": "desa",
+		"name": "WAIBON"
+	},
+	{
+		"code": "92.05.21.2002",
+		"type": "desa",
+		"name": "SOLOL"
+	},
+	{
+		"code": "92.05.21.2003",
+		"type": "desa",
+		"name": "KALIAM"
+	},
+	{
+		"code": "92.05.21.2004",
+		"type": "desa",
+		"name": "KALWAL"
+	},
+	{
+		"code": "92.05.22",
+		"type": "kecamatan",
+		"name": "SALAWATI TENGAH"
+	},
+	{
+		"code": "92.05.22.2001",
+		"type": "desa",
+		"name": "KALOBO"
+	},
+	{
+		"code": "92.05.22.2002",
+		"type": "desa",
+		"name": "SAKABU"
+	},
+	{
+		"code": "92.05.22.2003",
+		"type": "desa",
+		"name": "WAIBU"
+	},
+	{
+		"code": "92.05.22.2004",
+		"type": "desa",
+		"name": "WAIJAN"
+	},
+	{
+		"code": "92.05.22.2005",
+		"type": "desa",
+		"name": "WAIMECI"
+	},
+	{
+		"code": "92.05.22.2006",
+		"type": "desa",
+		"name": "WAILABU"
+	},
+	{
+		"code": "92.05.22.2007",
+		"type": "desa",
+		"name": "WAILEN"
+	},
+	{
+		"code": "92.05.23",
+		"type": "kecamatan",
+		"name": "SUPNIN"
+	},
+	{
+		"code": "92.05.23.2001",
+		"type": "desa",
+		"name": "RAUKI"
+	},
+	{
+		"code": "92.05.23.2002",
+		"type": "desa",
+		"name": "URAI"
+	},
+	{
+		"code": "92.05.23.2003",
+		"type": "desa",
+		"name": "DUBER"
+	},
+	{
+		"code": "92.05.23.2004",
+		"type": "desa",
+		"name": "KAPADIRI"
+	},
+	{
+		"code": "92.05.24",
+		"type": "kecamatan",
+		"name": "AYAU"
+	},
+	{
+		"code": "92.05.24.2001",
+		"type": "desa",
+		"name": "ABIDON"
+	},
+	{
+		"code": "92.05.24.2002",
+		"type": "desa",
+		"name": "RUTUM"
+	},
+	{
+		"code": "92.05.24.2003",
+		"type": "desa",
+		"name": "RENI"
+	},
+	{
+		"code": "92.05.24.2004",
+		"type": "desa",
+		"name": "MEOSBEKWAN"
+	},
+	{
+		"code": "92.05.25",
+		"type": "kecamatan",
+		"name": "BATANTA SELATAN"
+	},
+	{
+		"code": "92.05.25.2001",
+		"type": "desa",
+		"name": "YENANAS"
+	},
+	{
+		"code": "92.05.25.2002",
+		"type": "desa",
+		"name": "AMDUI"
+	},
+	{
+		"code": "92.05.25.2003",
+		"type": "desa",
+		"name": "WAILEBET"
+	},
+	{
+		"code": "92.05.25.2004",
+		"type": "desa",
+		"name": "WAIMAN"
+	},
+	{
+		"code": "92.06",
+		"type": "kabupaten",
+		"name": "KAB. TELUK BINTUNI"
+	},
+	{
+		"code": "92.06.01",
+		"type": "kecamatan",
+		"name": "BINTUNI"
+	},
+	{
+		"code": "92.06.01.1001",
+		"type": "kelurahan",
+		"name": "BINTUNI TIMUR"
+	},
+	{
+		"code": "92.06.01.1002",
+		"type": "kelurahan",
+		"name": "BINTUNI BARAT"
+	},
+	{
+		"code": "92.06.01.2004",
+		"type": "desa",
+		"name": "TUASAI"
+	},
+	{
+		"code": "92.06.01.2005",
+		"type": "desa",
+		"name": "ARGOSIGEMERAI"
+	},
+	{
+		"code": "92.06.01.2009",
+		"type": "desa",
+		"name": "BEIMES"
+	},
+	{
+		"code": "92.06.01.2010",
+		"type": "desa",
+		"name": "IGURIJI"
+	},
+	{
+		"code": "92.06.01.2022",
+		"type": "desa",
+		"name": "MASINA"
+	},
+	{
+		"code": "92.06.01.2026",
+		"type": "desa",
+		"name": "WESIRI"
+	},
+	{
+		"code": "92.06.02",
+		"type": "kecamatan",
+		"name": "MERDEY"
+	},
+	{
+		"code": "92.06.02.2001",
+		"type": "desa",
+		"name": "MERDEY"
+	},
+	{
+		"code": "92.06.02.2002",
+		"type": "desa",
+		"name": "MERYEB"
+	},
+	{
+		"code": "92.06.02.2004",
+		"type": "desa",
+		"name": "MEYOM"
+	},
+	{
+		"code": "92.06.02.2007",
+		"type": "desa",
+		"name": "MENGGERBA"
+	},
+	{
+		"code": "92.06.02.2008",
+		"type": "desa",
+		"name": "ANAJERO"
+	},
+	{
+		"code": "92.06.02.2010",
+		"type": "desa",
+		"name": "MOGROMUS"
+	},
+	{
+		"code": "92.06.02.2011",
+		"type": "desa",
+		"name": "MOROMBUY"
+	},
+	{
+		"code": "92.06.02.2014",
+		"type": "desa",
+		"name": "MEKIESEFEB"
+	},
+	{
+		"code": "92.06.02.2020",
+		"type": "desa",
+		"name": "MEYETGA"
+	},
+	{
+		"code": "92.06.03",
+		"type": "kecamatan",
+		"name": "BABO"
+	},
+	{
+		"code": "92.06.03.2020",
+		"type": "desa",
+		"name": "IRARUTU III"
+	},
+	{
+		"code": "92.06.03.2021",
+		"type": "desa",
+		"name": "AMUTU"
+	},
+	{
+		"code": "92.06.03.2022",
+		"type": "desa",
+		"name": "NUSEI"
+	},
+	{
+		"code": "92.06.03.2023",
+		"type": "desa",
+		"name": "KASIRA"
+	},
+	{
+		"code": "92.06.04",
+		"type": "kecamatan",
+		"name": "ARANDAY"
+	},
+	{
+		"code": "92.06.04.2001",
+		"type": "desa",
+		"name": "ARANDAY"
+	},
+	{
+		"code": "92.06.04.2007",
+		"type": "desa",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "92.06.04.2008",
+		"type": "desa",
+		"name": "KECAP"
+	},
+	{
+		"code": "92.06.04.2009",
+		"type": "desa",
+		"name": "MANUNGGAL KARYA"
+	},
+	{
+		"code": "92.06.05",
+		"type": "kecamatan",
+		"name": "MOSKONA SELATAN"
+	},
+	{
+		"code": "92.06.05.2001",
+		"type": "desa",
+		"name": "JAGIRO"
+	},
+	{
+		"code": "92.06.05.2004",
+		"type": "desa",
+		"name": "MEYENDA"
+	},
+	{
+		"code": "92.06.05.2005",
+		"type": "desa",
+		"name": "RAWARA"
+	},
+	{
+		"code": "92.06.05.2006",
+		"type": "desa",
+		"name": "BARMA BARAT"
+	},
+	{
+		"code": "92.06.05.2011",
+		"type": "desa",
+		"name": "INGGOF"
+	},
+	{
+		"code": "92.06.06",
+		"type": "kecamatan",
+		"name": "MOSKONA UTARA"
+	},
+	{
+		"code": "92.06.06.2001",
+		"type": "desa",
+		"name": "MOYEBA"
+	},
+	{
+		"code": "92.06.06.2004",
+		"type": "desa",
+		"name": "MERESTIM"
+	},
+	{
+		"code": "92.06.06.2005",
+		"type": "desa",
+		"name": "INOFINA"
+	},
+	{
+		"code": "92.06.06.2006",
+		"type": "desa",
+		"name": "MOSUM"
+	},
+	{
+		"code": "92.06.07",
+		"type": "kecamatan",
+		"name": "WAMESA"
+	},
+	{
+		"code": "92.06.07.2001",
+		"type": "desa",
+		"name": "I/"
+	},
+	{
+		"code": "92.06.07.2002",
+		"type": "desa",
+		"name": "WAMESA II / YAKATI"
+	},
+	{
+		"code": "92.06.07.2003",
+		"type": "desa",
+		"name": "YANSEI"
+	},
+	{
+		"code": "92.06.07.2004",
+		"type": "desa",
+		"name": "MAMURANU"
+	},
+	{
+		"code": "92.06.08",
+		"type": "kecamatan",
+		"name": "FAFURWAR"
+	},
+	{
+		"code": "92.06.08.2001",
+		"type": "desa",
+		"name": "FRUATA/IROWUTU II"
+	},
+	{
+		"code": "92.06.08.2002",
+		"type": "desa",
+		"name": "MERYEDI"
+	},
+	{
+		"code": "92.06.08.2003",
+		"type": "desa",
+		"name": "RIENDO"
+	},
+	{
+		"code": "92.06.09",
+		"type": "kecamatan",
+		"name": "TEMBUNI"
+	},
+	{
+		"code": "92.06.09.2001",
+		"type": "desa",
+		"name": "TEMBUNI"
+	},
+	{
+		"code": "92.06.09.2002",
+		"type": "desa",
+		"name": "MOGOI BARU"
+	},
+	{
+		"code": "92.06.09.2003",
+		"type": "desa",
+		"name": "ARAISUM"
+	},
+	{
+		"code": "92.06.09.2004",
+		"type": "desa",
+		"name": "BANGUN MULYA"
+	},
+	{
+		"code": "92.06.10",
+		"type": "kecamatan",
+		"name": "KURI"
+	},
+	{
+		"code": "92.06.10.2001",
+		"type": "desa",
+		"name": "SARBE"
+	},
+	{
+		"code": "92.06.10.2002",
+		"type": "desa",
+		"name": "WAGURA"
+	},
+	{
+		"code": "92.06.10.2003",
+		"type": "desa",
+		"name": "REFIDESO"
+	},
+	{
+		"code": "92.06.10.2004",
+		"type": "desa",
+		"name": "NARAMASA"
+	},
+	{
+		"code": "92.06.10.2005",
+		"type": "desa",
+		"name": "OBO"
+	},
+	{
+		"code": "92.06.11",
+		"type": "kecamatan",
+		"name": "MANIMERI"
+	},
+	{
+		"code": "92.06.11.2001",
+		"type": "desa",
+		"name": "BUMI SANIARI"
+	},
+	{
+		"code": "92.06.11.2002",
+		"type": "desa",
+		"name": "BANJAR AUSOY"
+	},
+	{
+		"code": "92.06.11.2003",
+		"type": "desa",
+		"name": "WARAITAMA"
+	},
+	{
+		"code": "92.06.11.2004",
+		"type": "desa",
+		"name": "ATIBO MANIMERI"
+	},
+	{
+		"code": "92.06.11.2005",
+		"type": "desa",
+		"name": "PASAMAI"
+	},
+	{
+		"code": "92.06.11.2006",
+		"type": "desa",
+		"name": "KORANO JAYA"
+	},
+	{
+		"code": "92.06.12",
+		"type": "kecamatan",
+		"name": "TUHIBA"
+	},
+	{
+		"code": "92.06.12.2001",
+		"type": "desa",
+		"name": "TUHIBA"
+	},
+	{
+		"code": "92.06.12.2002",
+		"type": "desa",
+		"name": "TISAIDA"
+	},
+	{
+		"code": "92.06.12.2003",
+		"type": "desa",
+		"name": "KUCIR"
+	},
+	{
+		"code": "92.06.12.2004",
+		"type": "desa",
+		"name": "SIBENA RAYA"
+	},
+	{
+		"code": "92.06.12.2005",
+		"type": "desa",
+		"name": "SIBENA PERMAI"
+	},
+	{
+		"code": "92.06.13",
+		"type": "kecamatan",
+		"name": "DATARAN BEIMES"
+	},
+	{
+		"code": "92.06.13.2001",
+		"type": "desa",
+		"name": "HORNA"
+	},
+	{
+		"code": "92.06.13.2002",
+		"type": "desa",
+		"name": "CUMNAJI"
+	},
+	{
+		"code": "92.06.13.2003",
+		"type": "desa",
+		"name": "MENCI"
+	},
+	{
+		"code": "92.06.13.2004",
+		"type": "desa",
+		"name": "SIR"
+	},
+	{
+		"code": "92.06.13.2005",
+		"type": "desa",
+		"name": "HUSS"
+	},
+	{
+		"code": "92.06.13.2006",
+		"type": "desa",
+		"name": "UGDOHOP"
+	},
+	{
+		"code": "92.06.14",
+		"type": "kecamatan",
+		"name": "SUMURI"
+	},
+	{
+		"code": "92.06.14.2001",
+		"type": "desa",
+		"name": "TOFOI"
+	},
+	{
+		"code": "92.06.14.2002",
+		"type": "desa",
+		"name": "TANAH MERAH"
+	},
+	{
+		"code": "92.06.14.2003",
+		"type": "desa",
+		"name": "SAENGGA"
+	},
+	{
+		"code": "92.06.14.2004",
+		"type": "desa",
+		"name": "FORADA"
+	},
+	{
+		"code": "92.06.14.2005",
+		"type": "desa",
+		"name": "MATERABU JAYA"
+	},
+	{
+		"code": "92.06.15",
+		"type": "kecamatan",
+		"name": "KAITARO"
+	},
+	{
+		"code": "92.06.15.2001",
+		"type": "desa",
+		"name": "SARA"
+	},
+	{
+		"code": "92.06.15.2002",
+		"type": "desa",
+		"name": "WARGA NUSA I"
+	},
+	{
+		"code": "92.06.15.2003",
+		"type": "desa",
+		"name": "WARGA NUSA II"
+	},
+	{
+		"code": "92.06.15.2004",
+		"type": "desa",
+		"name": "TUGARAMA"
+	},
+	{
+		"code": "92.06.15.2005",
+		"type": "desa",
+		"name": "SUGA"
+	},
+	{
+		"code": "92.06.16",
+		"type": "kecamatan",
+		"name": "AROBA"
+	},
+	{
+		"code": "92.06.16.2001",
+		"type": "desa",
+		"name": "AROBA"
+	},
+	{
+		"code": "92.06.16.2002",
+		"type": "desa",
+		"name": "YARU"
+	},
+	{
+		"code": "92.06.16.2003",
+		"type": "desa",
+		"name": "SIDO MAKMUR"
+	},
+	{
+		"code": "92.06.16.2004",
+		"type": "desa",
+		"name": "WIMBRO"
+	},
+	{
+		"code": "92.06.16.2005",
+		"type": "desa",
+		"name": "SANGGUAR"
+	},
+	{
+		"code": "92.06.17",
+		"type": "kecamatan",
+		"name": "MASYETA"
+	},
+	{
+		"code": "92.06.17.2001",
+		"type": "desa",
+		"name": "MASYETA"
+	},
+	{
+		"code": "92.06.17.2002",
+		"type": "desa",
+		"name": "MESTOFU"
+	},
+	{
+		"code": "92.06.17.2003",
+		"type": "desa",
+		"name": "KALIBIRU"
+	},
+	{
+		"code": "92.06.17.2004",
+		"type": "desa",
+		"name": "MESOMDA"
+	},
+	{
+		"code": "92.06.18",
+		"type": "kecamatan",
+		"name": "BISCOOP"
+	},
+	{
+		"code": "92.06.18.2001",
+		"type": "desa",
+		"name": "JAHABRA"
+	},
+	{
+		"code": "92.06.18.2002",
+		"type": "desa",
+		"name": "IBORI"
+	},
+	{
+		"code": "92.06.18.2003",
+		"type": "desa",
+		"name": "MENYEMBRU"
+	},
+	{
+		"code": "92.06.18.2004",
+		"type": "desa",
+		"name": "MEYORGA"
+	},
+	{
+		"code": "92.06.18.2005",
+		"type": "desa",
+		"name": "LAUDOHO"
+	},
+	{
+		"code": "92.06.18.2006",
+		"type": "desa",
+		"name": "ENIBA"
+	},
+	{
+		"code": "92.06.18.2007",
+		"type": "desa",
+		"name": "MOWITKA"
+	},
+	{
+		"code": "92.06.19",
+		"type": "kecamatan",
+		"name": "TOMU"
+	},
+	{
+		"code": "92.06.19.2001",
+		"type": "desa",
+		"name": "SEBYAR REJOSASI"
+	},
+	{
+		"code": "92.06.19.2002",
+		"type": "desa",
+		"name": "TOMU"
+	},
+	{
+		"code": "92.06.19.2003",
+		"type": "desa",
+		"name": "TAROY"
+	},
+	{
+		"code": "92.06.19.2004",
+		"type": "desa",
+		"name": "EKAM"
+	},
+	{
+		"code": "92.06.20",
+		"type": "kecamatan",
+		"name": "KAMUNDAN"
+	},
+	{
+		"code": "92.06.20.2001",
+		"type": "desa",
+		"name": "KALITAMI I"
+	},
+	{
+		"code": "92.06.20.2002",
+		"type": "desa",
+		"name": "KALITAMI II"
+	},
+	{
+		"code": "92.06.20.2003",
+		"type": "desa",
+		"name": "KENARA"
+	},
+	{
+		"code": "92.06.20.2004",
+		"type": "desa",
+		"name": "BIBIRAM"
+	},
+	{
+		"code": "92.06.21",
+		"type": "kecamatan",
+		"name": "WERIAGAR"
+	},
+	{
+		"code": "92.06.21.2001",
+		"type": "desa",
+		"name": "WERIAGAR"
+	},
+	{
+		"code": "92.06.21.2002",
+		"type": "desa",
+		"name": "MOGOTIRA"
+	},
+	{
+		"code": "92.06.21.2003",
+		"type": "desa",
+		"name": "WERIAGAR BARU"
+	},
+	{
+		"code": "92.06.21.2004",
+		"type": "desa",
+		"name": "WERIAGAR UTARA"
+	},
+	{
+		"code": "92.06.21.2005",
+		"type": "desa",
+		"name": "TUANAIKIN"
+	},
+	{
+		"code": "92.06.22",
+		"type": "kecamatan",
+		"name": "MOSKONA BARAT"
+	},
+	{
+		"code": "92.06.22.2001",
+		"type": "desa",
+		"name": "MEYERGA"
+	},
+	{
+		"code": "92.06.22.2002",
+		"type": "desa",
+		"name": "MACOK"
+	},
+	{
+		"code": "92.06.22.2003",
+		"type": "desa",
+		"name": "ISTIWKEM"
+	},
+	{
+		"code": "92.06.22.2004",
+		"type": "desa",
+		"name": "MAJNIC"
+	},
+	{
+		"code": "92.06.23",
+		"type": "kecamatan",
+		"name": "MEYADO"
+	},
+	{
+		"code": "92.06.23.2001",
+		"type": "desa",
+		"name": "MEYADO"
+	},
+	{
+		"code": "92.06.23.2002",
+		"type": "desa",
+		"name": "BARMA"
+	},
+	{
+		"code": "92.06.23.2003",
+		"type": "desa",
+		"name": "BARMA BARU"
+	},
+	{
+		"code": "92.06.23.2004",
+		"type": "desa",
+		"name": "VASCO DAMNEEN"
+	},
+	{
+		"code": "92.06.24",
+		"type": "kecamatan",
+		"name": "MOSKONA TIMUR"
+	},
+	{
+		"code": "92.06.24.2001",
+		"type": "desa",
+		"name": "IGOMU"
+	},
+	{
+		"code": "92.06.24.2002",
+		"type": "desa",
+		"name": "MESNA"
+	},
+	{
+		"code": "92.06.24.2003",
+		"type": "desa",
+		"name": "SUMUY"
+	},
+	{
+		"code": "92.07",
+		"type": "kabupaten",
+		"name": "KAB. TELUK WONDAMA"
+	},
+	{
+		"code": "92.07.01",
+		"type": "kecamatan",
+		"name": "WASIOR"
+	},
+	{
+		"code": "92.07.01.1001",
+		"type": "kelurahan",
+		"name": "WASIOR I"
+	},
+	{
+		"code": "92.07.01.2002",
+		"type": "desa",
+		"name": "RADO"
+	},
+	{
+		"code": "92.07.01.2003",
+		"type": "desa",
+		"name": "DOTIR"
+	},
+	{
+		"code": "92.07.01.2004",
+		"type": "desa",
+		"name": "MANIWAK"
+	},
+	{
+		"code": "92.07.01.2005",
+		"type": "desa",
+		"name": "WASIOR II"
+	},
+	{
+		"code": "92.07.01.2006",
+		"type": "desa",
+		"name": "MAIMARI"
+	},
+	{
+		"code": "92.07.01.2007",
+		"type": "desa",
+		"name": "MORU"
+	},
+	{
+		"code": "92.07.01.2009",
+		"type": "desa",
+		"name": "WONDAMAWI"
+	},
+	{
+		"code": "92.07.01.2010",
+		"type": "desa",
+		"name": "RAMIKI"
+	},
+	{
+		"code": "92.07.01.2011",
+		"type": "desa",
+		"name": "IRIATI"
+	},
+	{
+		"code": "92.07.02",
+		"type": "kecamatan",
+		"name": "WINDESI"
+	},
+	{
+		"code": "92.07.02.2001",
+		"type": "desa",
+		"name": "WAMESA TENGAH"
+	},
+	{
+		"code": "92.07.02.2002",
+		"type": "desa",
+		"name": "YOPMEOS"
+	},
+	{
+		"code": "92.07.02.2004",
+		"type": "desa",
+		"name": "SOMBOKORO"
+	},
+	{
+		"code": "92.07.02.2007",
+		"type": "desa",
+		"name": "WINDESI"
+	},
+	{
+		"code": "92.07.02.2010",
+		"type": "desa",
+		"name": "SANDEY"
+	},
+	{
+		"code": "92.07.03",
+		"type": "kecamatan",
+		"name": "TELUK DUAIRI"
+	},
+	{
+		"code": "92.07.03.2001",
+		"type": "desa",
+		"name": "AISANDAMI"
+	},
+	{
+		"code": "92.07.03.2002",
+		"type": "desa",
+		"name": "SOBEY"
+	},
+	{
+		"code": "92.07.03.2006",
+		"type": "desa",
+		"name": "YOPANGGAR"
+	},
+	{
+		"code": "92.07.03.2011",
+		"type": "desa",
+		"name": "SOBEY INDAH"
+	},
+	{
+		"code": "92.07.04",
+		"type": "kecamatan",
+		"name": "WONDIBOY"
+	},
+	{
+		"code": "92.07.04.2002",
+		"type": "desa",
+		"name": "WONDIBOY"
+	},
+	{
+		"code": "92.07.04.2009",
+		"type": "desa",
+		"name": "KABOUW"
+	},
+	{
+		"code": "92.07.04.2010",
+		"type": "desa",
+		"name": "ISSUI"
+	},
+	{
+		"code": "92.07.04.2012",
+		"type": "desa",
+		"name": "MANOPI"
+	},
+	{
+		"code": "92.07.04.2015",
+		"type": "desa",
+		"name": "KAIBI"
+	},
+	{
+		"code": "92.07.05",
+		"type": "kecamatan",
+		"name": "WAMESA"
+	},
+	{
+		"code": "92.07.05.2001",
+		"type": "desa",
+		"name": "SABUBAR"
+	},
+	{
+		"code": "92.07.05.2002",
+		"type": "desa",
+		"name": "AMBUAR"
+	},
+	{
+		"code": "92.07.05.2003",
+		"type": "desa",
+		"name": "KARUAN"
+	},
+	{
+		"code": "92.07.05.2007",
+		"type": "desa",
+		"name": "YARPATE"
+	},
+	{
+		"code": "92.07.05.2009",
+		"type": "desa",
+		"name": "NORDIWAR"
+	},
+	{
+		"code": "92.07.06",
+		"type": "kecamatan",
+		"name": "RUMBERPON"
+	},
+	{
+		"code": "92.07.06.2001",
+		"type": "desa",
+		"name": "YOMBEKIRI I"
+	},
+	{
+		"code": "92.07.06.2002",
+		"type": "desa",
+		"name": "ISENEBUAY"
+	},
+	{
+		"code": "92.07.06.2003",
+		"type": "desa",
+		"name": "YOMAKAN"
+	},
+	{
+		"code": "92.07.06.2005",
+		"type": "desa",
+		"name": "ISEREN"
+	},
+	{
+		"code": "92.07.06.2008",
+		"type": "desa",
+		"name": "YEMBEKIRI II"
+	},
+	{
+		"code": "92.07.06.2009",
+		"type": "desa",
+		"name": "YARIARI"
+	},
+	{
+		"code": "92.07.06.2011",
+		"type": "desa",
+		"name": "WETITINDAU"
+	},
+	{
+		"code": "92.07.07",
+		"type": "kecamatan",
+		"name": "NAIKERE"
+	},
+	{
+		"code": "92.07.07.2001",
+		"type": "desa",
+		"name": "WOSIMI"
+	},
+	{
+		"code": "92.07.07.2002",
+		"type": "desa",
+		"name": "SARARTI"
+	},
+	{
+		"code": "92.07.07.2003",
+		"type": "desa",
+		"name": "YABORE"
+	},
+	{
+		"code": "92.07.07.2004",
+		"type": "desa",
+		"name": "OYAA"
+	},
+	{
+		"code": "92.07.07.2005",
+		"type": "desa",
+		"name": "INYORA"
+	},
+	{
+		"code": "92.07.07.2006",
+		"type": "desa",
+		"name": "UNDURARA"
+	},
+	{
+		"code": "92.07.08",
+		"type": "kecamatan",
+		"name": "RASIEI"
+	},
+	{
+		"code": "92.07.08.2001",
+		"type": "desa",
+		"name": "RASIEI"
+	},
+	{
+		"code": "92.07.08.2002",
+		"type": "desa",
+		"name": "TOREY"
+	},
+	{
+		"code": "92.07.08.2003",
+		"type": "desa",
+		"name": "ISEY"
+	},
+	{
+		"code": "92.07.08.2004",
+		"type": "desa",
+		"name": "URIEMI"
+	},
+	{
+		"code": "92.07.08.2005",
+		"type": "desa",
+		"name": "SASIREI"
+	},
+	{
+		"code": "92.07.08.2006",
+		"type": "desa",
+		"name": "TANDIA"
+	},
+	{
+		"code": "92.07.08.2007",
+		"type": "desa",
+		"name": "WEBI"
+	},
+	{
+		"code": "92.07.08.2008",
+		"type": "desa",
+		"name": "NGGATUM"
+	},
+	{
+		"code": "92.07.08.2009",
+		"type": "desa",
+		"name": "SENDERAWOY"
+	},
+	{
+		"code": "92.07.09",
+		"type": "kecamatan",
+		"name": "KURI WAMESA"
+	},
+	{
+		"code": "92.07.09.2001",
+		"type": "desa",
+		"name": "AMBUMI"
+	},
+	{
+		"code": "92.07.09.2002",
+		"type": "desa",
+		"name": "NANIMORI"
+	},
+	{
+		"code": "92.07.09.2003",
+		"type": "desa",
+		"name": "DUSNER"
+	},
+	{
+		"code": "92.07.09.2004",
+		"type": "desa",
+		"name": "YERENUSI"
+	},
+	{
+		"code": "92.07.09.2005",
+		"type": "desa",
+		"name": "SOBIAR"
+	},
+	{
+		"code": "92.07.09.2006",
+		"type": "desa",
+		"name": "SIMEI"
+	},
+	{
+		"code": "92.07.10",
+		"type": "kecamatan",
+		"name": "ROON"
+	},
+	{
+		"code": "92.07.10.2001",
+		"type": "desa",
+		"name": "YENDE"
+	},
+	{
+		"code": "92.07.10.2002",
+		"type": "desa",
+		"name": "SYABES"
+	},
+	{
+		"code": "92.07.10.2003",
+		"type": "desa",
+		"name": "MENARBU"
+	},
+	{
+		"code": "92.07.10.2004",
+		"type": "desa",
+		"name": "NIAB"
+	},
+	{
+		"code": "92.07.10.2005",
+		"type": "desa",
+		"name": "INDAY"
+	},
+	{
+		"code": "92.07.10.2006",
+		"type": "desa",
+		"name": "SARIAY"
+	},
+	{
+		"code": "92.07.10.2007",
+		"type": "desa",
+		"name": "MENA"
+	},
+	{
+		"code": "92.07.11",
+		"type": "kecamatan",
+		"name": "ROSWAR"
+	},
+	{
+		"code": "92.07.11.2001",
+		"type": "desa",
+		"name": "WAPRAK"
+	},
+	{
+		"code": "92.07.11.2002",
+		"type": "desa",
+		"name": "YOMBER"
+	},
+	{
+		"code": "92.07.11.2003",
+		"type": "desa",
+		"name": "SYEIWAR"
+	},
+	{
+		"code": "92.07.12",
+		"type": "kecamatan",
+		"name": "NIKIWAR"
+	},
+	{
+		"code": "92.07.12.2001",
+		"type": "desa",
+		"name": "WERABUR"
+	},
+	{
+		"code": "92.07.12.2002",
+		"type": "desa",
+		"name": "MAMISI"
+	},
+	{
+		"code": "92.07.12.2003",
+		"type": "desa",
+		"name": "WERIANGGI"
+	},
+	{
+		"code": "92.07.12.2004",
+		"type": "desa",
+		"name": "KUREI"
+	},
+	{
+		"code": "92.07.12.2005",
+		"type": "desa",
+		"name": "TAMOGE"
+	},
+	{
+		"code": "92.07.13",
+		"type": "kecamatan",
+		"name": "SOUG JAYA"
+	},
+	{
+		"code": "92.07.13.2001",
+		"type": "desa",
+		"name": "KAPRUS"
+	},
+	{
+		"code": "92.07.13.2002",
+		"type": "desa",
+		"name": "YARMATUM"
+	},
+	{
+		"code": "92.07.13.2003",
+		"type": "desa",
+		"name": "REYOB"
+	},
+	{
+		"code": "92.07.13.2004",
+		"type": "desa",
+		"name": "SIRESI"
+	},
+	{
+		"code": "92.07.13.2005",
+		"type": "desa",
+		"name": "NUSPAIRO"
+	},
+	{
+		"code": "92.08",
+		"type": "kabupaten",
+		"name": "KAB. KAIMANA"
+	},
+	{
+		"code": "92.08.01",
+		"type": "kecamatan",
+		"name": "KAIMANA"
+	},
+	{
+		"code": "92.08.01.1001",
+		"type": "kelurahan",
+		"name": "KAIMANA KOTA"
+	},
+	{
+		"code": "92.08.01.1014",
+		"type": "kelurahan",
+		"name": "KROOY"
+	},
+	{
+		"code": "92.08.01.2002",
+		"type": "desa",
+		"name": "MARSI"
+	},
+	{
+		"code": "92.08.01.2003",
+		"type": "desa",
+		"name": "NAMATOTA"
+	},
+	{
+		"code": "92.08.01.2004",
+		"type": "desa",
+		"name": "LOBO"
+	},
+	{
+		"code": "92.08.01.2005",
+		"type": "desa",
+		"name": "TRIKORA"
+	},
+	{
+		"code": "92.08.01.2006",
+		"type": "desa",
+		"name": "TANGGAROMI"
+	},
+	{
+		"code": "92.08.01.2007",
+		"type": "desa",
+		"name": "SISIR"
+	},
+	{
+		"code": "92.08.01.2008",
+		"type": "desa",
+		"name": "FOROMA JAYA"
+	},
+	{
+		"code": "92.08.01.2009",
+		"type": "desa",
+		"name": "MURANO"
+	},
+	{
+		"code": "92.08.01.2010",
+		"type": "desa",
+		"name": "MAI MAI"
+	},
+	{
+		"code": "92.08.01.2011",
+		"type": "desa",
+		"name": "LUMIRA"
+	},
+	{
+		"code": "92.08.01.2012",
+		"type": "desa",
+		"name": "KAMAKA"
+	},
+	{
+		"code": "92.08.01.2013",
+		"type": "desa",
+		"name": "COA"
+	},
+	{
+		"code": "92.08.01.2015",
+		"type": "desa",
+		"name": "SARIA"
+	},
+	{
+		"code": "92.08.01.2016",
+		"type": "desa",
+		"name": "JARATI"
+	},
+	{
+		"code": "92.08.01.2017",
+		"type": "desa",
+		"name": "SARA"
+	},
+	{
+		"code": "92.08.01.2018",
+		"type": "desa",
+		"name": "WERUA"
+	},
+	{
+		"code": "92.08.01.2019",
+		"type": "desa",
+		"name": "ORAY"
+	},
+	{
+		"code": "92.08.02",
+		"type": "kecamatan",
+		"name": "BURUWAY"
+	},
+	{
+		"code": "92.08.02.2001",
+		"type": "desa",
+		"name": "KAMBALA"
+	},
+	{
+		"code": "92.08.02.2002",
+		"type": "desa",
+		"name": "YARONA"
+	},
+	{
+		"code": "92.08.02.2003",
+		"type": "desa",
+		"name": "EDOR"
+	},
+	{
+		"code": "92.08.02.2004",
+		"type": "desa",
+		"name": "TAIRI"
+	},
+	{
+		"code": "92.08.02.2005",
+		"type": "desa",
+		"name": "GAKA"
+	},
+	{
+		"code": "92.08.02.2006",
+		"type": "desa",
+		"name": "GURIASA"
+	},
+	{
+		"code": "92.08.02.2007",
+		"type": "desa",
+		"name": "ADI JAYA"
+	},
+	{
+		"code": "92.08.02.2008",
+		"type": "desa",
+		"name": "NUSAULAN"
+	},
+	{
+		"code": "92.08.02.2009",
+		"type": "desa",
+		"name": "ESANIA"
+	},
+	{
+		"code": "92.08.02.2010",
+		"type": "desa",
+		"name": "HIA"
+	},
+	{
+		"code": "92.08.03",
+		"type": "kecamatan",
+		"name": "TELUK ARGUNI ATAS"
+	},
+	{
+		"code": "92.08.03.2001",
+		"type": "desa",
+		"name": "FURNUSU"
+	},
+	{
+		"code": "92.08.03.2002",
+		"type": "desa",
+		"name": "FETERMU"
+	},
+	{
+		"code": "92.08.03.2003",
+		"type": "desa",
+		"name": "SAWI"
+	},
+	{
+		"code": "92.08.03.2004",
+		"type": "desa",
+		"name": "TURGANI"
+	},
+	{
+		"code": "92.08.03.2010",
+		"type": "desa",
+		"name": "SAWATEWERA"
+	},
+	{
+		"code": "92.08.03.2012",
+		"type": "desa",
+		"name": "BOFUWER"
+	},
+	{
+		"code": "92.08.03.2013",
+		"type": "desa",
+		"name": "WARWASI"
+	},
+	{
+		"code": "92.08.03.2014",
+		"type": "desa",
+		"name": "WANGGITA"
+	},
+	{
+		"code": "92.08.03.2016",
+		"type": "desa",
+		"name": "FUDIMA"
+	},
+	{
+		"code": "92.08.03.2017",
+		"type": "desa",
+		"name": "WESWASA"
+	},
+	{
+		"code": "92.08.03.2018",
+		"type": "desa",
+		"name": "BOROGERBA"
+	},
+	{
+		"code": "92.08.03.2019",
+		"type": "desa",
+		"name": "AFU AFU"
+	},
+	{
+		"code": "92.08.03.2020",
+		"type": "desa",
+		"name": "BAYEDA"
+	},
+	{
+		"code": "92.08.03.2021",
+		"type": "desa",
+		"name": "MOYANA"
+	},
+	{
+		"code": "92.08.03.2022",
+		"type": "desa",
+		"name": "KOKOROBA"
+	},
+	{
+		"code": "92.08.03.2023",
+		"type": "desa",
+		"name": "WAINAGA"
+	},
+	{
+		"code": "92.08.03.2024",
+		"type": "desa",
+		"name": "MASKUR"
+	},
+	{
+		"code": "92.08.03.2025",
+		"type": "desa",
+		"name": "KENSI"
+	},
+	{
+		"code": "92.08.03.2027",
+		"type": "desa",
+		"name": "ERIGARA"
+	},
+	{
+		"code": "92.08.03.2028",
+		"type": "desa",
+		"name": "PIGO"
+	},
+	{
+		"code": "92.08.03.2029",
+		"type": "desa",
+		"name": "TUGUMAWA"
+	},
+	{
+		"code": "92.08.03.2030",
+		"type": "desa",
+		"name": "TIWARA"
+	},
+	{
+		"code": "92.08.03.2031",
+		"type": "desa",
+		"name": "GUSI"
+	},
+	{
+		"code": "92.08.03.2032",
+		"type": "desa",
+		"name": "WARUA"
+	},
+	{
+		"code": "92.08.04",
+		"type": "kecamatan",
+		"name": "TELUK ETNA"
+	},
+	{
+		"code": "92.08.04.2001",
+		"type": "desa",
+		"name": "RURUMO"
+	},
+	{
+		"code": "92.08.04.2002",
+		"type": "desa",
+		"name": "BOIYA"
+	},
+	{
+		"code": "92.08.04.2003",
+		"type": "desa",
+		"name": "NARIKI"
+	},
+	{
+		"code": "92.08.04.2004",
+		"type": "desa",
+		"name": "BAMANA"
+	},
+	{
+		"code": "92.08.04.2005",
+		"type": "desa",
+		"name": "SIAWATAN"
+	},
+	{
+		"code": "92.08.05",
+		"type": "kecamatan",
+		"name": "KAMBRAU"
+	},
+	{
+		"code": "92.08.05.2001",
+		"type": "desa",
+		"name": "RAUNA"
+	},
+	{
+		"code": "92.08.05.2002",
+		"type": "desa",
+		"name": "WERAFUTA"
+	},
+	{
+		"code": "92.08.05.2003",
+		"type": "desa",
+		"name": "UBIA SERMUKU"
+	},
+	{
+		"code": "92.08.05.2004",
+		"type": "desa",
+		"name": "BAHUMIA"
+	},
+	{
+		"code": "92.08.05.2005",
+		"type": "desa",
+		"name": "WAHO"
+	},
+	{
+		"code": "92.08.05.2006",
+		"type": "desa",
+		"name": "WAMESA"
+	},
+	{
+		"code": "92.08.05.2007",
+		"type": "desa",
+		"name": "KOOY"
+	},
+	{
+		"code": "92.08.06",
+		"type": "kecamatan",
+		"name": "TELUK ARGUNI BAWAH"
+	},
+	{
+		"code": "92.08.06.2001",
+		"type": "desa",
+		"name": "JAWERA"
+	},
+	{
+		"code": "92.08.06.2002",
+		"type": "desa",
+		"name": "RUWARA"
+	},
+	{
+		"code": "92.08.06.2003",
+		"type": "desa",
+		"name": "WERMENU"
+	},
+	{
+		"code": "92.08.06.2004",
+		"type": "desa",
+		"name": "EGERWARA"
+	},
+	{
+		"code": "92.08.06.2005",
+		"type": "desa",
+		"name": "KUFURIYAI"
+	},
+	{
+		"code": "92.08.06.2006",
+		"type": "desa",
+		"name": "MANGGERA"
+	},
+	{
+		"code": "92.08.06.2007",
+		"type": "desa",
+		"name": "TANUSAN"
+	},
+	{
+		"code": "92.08.06.2008",
+		"type": "desa",
+		"name": "URISA"
+	},
+	{
+		"code": "92.08.06.2009",
+		"type": "desa",
+		"name": "WAROMI"
+	},
+	{
+		"code": "92.08.06.2010",
+		"type": "desa",
+		"name": "UKIARA"
+	},
+	{
+		"code": "92.08.06.2012",
+		"type": "desa",
+		"name": "NAGURA"
+	},
+	{
+		"code": "92.08.06.2013",
+		"type": "desa",
+		"name": "INARI"
+	},
+	{
+		"code": "92.08.06.2014",
+		"type": "desa",
+		"name": "WANOMA"
+	},
+	{
+		"code": "92.08.06.2015",
+		"type": "desa",
+		"name": "SUMUN"
+	},
+	{
+		"code": "92.08.06.2016",
+		"type": "desa",
+		"name": "SERARAN"
+	},
+	{
+		"code": "92.08.07",
+		"type": "kecamatan",
+		"name": "YAMOR"
+	},
+	{
+		"code": "92.08.07.2001",
+		"type": "desa",
+		"name": "URE"
+	},
+	{
+		"code": "92.08.07.2002",
+		"type": "desa",
+		"name": "WOSOKUNO"
+	},
+	{
+		"code": "92.08.07.2003",
+		"type": "desa",
+		"name": "URUBIKA"
+	},
+	{
+		"code": "92.08.07.2004",
+		"type": "desa",
+		"name": "WAGOHA"
+	},
+	{
+		"code": "92.08.07.2005",
+		"type": "desa",
+		"name": "HAIRAPARA"
+	},
+	{
+		"code": "92.08.07.2006",
+		"type": "desa",
+		"name": "OMBA PAMUKU"
+	},
+	{
+		"code": "92.09",
+		"type": "kabupaten",
+		"name": "KAB. TAMBRAUW"
+	},
+	{
+		"code": "92.09.01",
+		"type": "kecamatan",
+		"name": "FEF"
+	},
+	{
+		"code": "92.09.01.2001",
+		"type": "desa",
+		"name": "FEF"
+	},
+	{
+		"code": "92.09.01.2003",
+		"type": "desa",
+		"name": "WAYO"
+	},
+	{
+		"code": "92.09.01.2004",
+		"type": "desa",
+		"name": "SYUBUN"
+	},
+	{
+		"code": "92.09.01.2006",
+		"type": "desa",
+		"name": "SIKOR"
+	},
+	{
+		"code": "92.09.01.2010",
+		"type": "desa",
+		"name": "IBE"
+	},
+	{
+		"code": "92.09.01.2011",
+		"type": "desa",
+		"name": "SYUNAM"
+	},
+	{
+		"code": "92.09.01.2012",
+		"type": "desa",
+		"name": "BANFOT"
+	},
+	{
+		"code": "92.09.01.2013",
+		"type": "desa",
+		"name": "IWIN"
+	},
+	{
+		"code": "92.09.01.2014",
+		"type": "desa",
+		"name": "ESYUM"
+	},
+	{
+		"code": "92.09.01.2015",
+		"type": "desa",
+		"name": "IMOR"
+	},
+	{
+		"code": "92.09.02",
+		"type": "kecamatan",
+		"name": "MIYAH"
+	},
+	{
+		"code": "92.09.02.2001",
+		"type": "desa",
+		"name": "SIAKWA"
+	},
+	{
+		"code": "92.09.02.2002",
+		"type": "desa",
+		"name": "RUVEWES"
+	},
+	{
+		"code": "92.09.02.2005",
+		"type": "desa",
+		"name": "YABUOW"
+	},
+	{
+		"code": "92.09.02.2006",
+		"type": "desa",
+		"name": "AIBOGIA"
+	},
+	{
+		"code": "92.09.02.2008",
+		"type": "desa",
+		"name": "AYAE"
+	},
+	{
+		"code": "92.09.02.2011",
+		"type": "desa",
+		"name": "HOBIAH"
+	},
+	{
+		"code": "92.09.02.2013",
+		"type": "desa",
+		"name": "AYAWIT"
+	},
+	{
+		"code": "92.09.02.2014",
+		"type": "desa",
+		"name": "AIFAIR"
+	},
+	{
+		"code": "92.09.03",
+		"type": "kecamatan",
+		"name": "YEMBUN"
+	},
+	{
+		"code": "92.09.03.2001",
+		"type": "desa",
+		"name": "BAUN"
+	},
+	{
+		"code": "92.09.03.2002",
+		"type": "desa",
+		"name": "SUMBEKAS"
+	},
+	{
+		"code": "92.09.03.2003",
+		"type": "desa",
+		"name": "METNAYAM"
+	},
+	{
+		"code": "92.09.03.2007",
+		"type": "desa",
+		"name": "METBELUM"
+	},
+	{
+		"code": "92.09.03.2011",
+		"type": "desa",
+		"name": "WORMON"
+	},
+	{
+		"code": "92.09.03.2012",
+		"type": "desa",
+		"name": "SALEM"
+	},
+	{
+		"code": "92.09.04",
+		"type": "kecamatan",
+		"name": "KWOOR"
+	},
+	{
+		"code": "92.09.04.2001",
+		"type": "desa",
+		"name": "KWOOR"
+	},
+	{
+		"code": "92.09.04.2002",
+		"type": "desa",
+		"name": "HOPMARE"
+	},
+	{
+		"code": "92.09.04.2010",
+		"type": "desa",
+		"name": "SUNGGAK"
+	},
+	{
+		"code": "92.09.04.2011",
+		"type": "desa",
+		"name": "ORWEN"
+	},
+	{
+		"code": "92.09.04.2012",
+		"type": "desa",
+		"name": "BARAR"
+	},
+	{
+		"code": "92.09.04.2013",
+		"type": "desa",
+		"name": "ESMAMBO"
+	},
+	{
+		"code": "92.09.05",
+		"type": "kecamatan",
+		"name": "SAUSAPOR"
+	},
+	{
+		"code": "92.09.05.2001",
+		"type": "desa",
+		"name": "SAUSAPOR"
+	},
+	{
+		"code": "92.09.05.2007",
+		"type": "desa",
+		"name": "EMAOS"
+	},
+	{
+		"code": "92.09.05.2008",
+		"type": "desa",
+		"name": "JOKTE"
+	},
+	{
+		"code": "92.09.05.2009",
+		"type": "desa",
+		"name": "UIGWEM"
+	},
+	{
+		"code": "92.09.05.2010",
+		"type": "desa",
+		"name": "SUNGGUWAN"
+	},
+	{
+		"code": "92.09.05.2011",
+		"type": "desa",
+		"name": "SAU URAM"
+	},
+	{
+		"code": "92.09.05.2012",
+		"type": "desa",
+		"name": "NANGGOU"
+	},
+	{
+		"code": "92.09.05.2013",
+		"type": "desa",
+		"name": "BONDEK"
+	},
+	{
+		"code": "92.09.05.2018",
+		"type": "desa",
+		"name": "BONDONGGWAN"
+	},
+	{
+		"code": "92.09.05.2019",
+		"type": "desa",
+		"name": "SYURAUW"
+	},
+	{
+		"code": "92.09.06",
+		"type": "kecamatan",
+		"name": "ABUN"
+	},
+	{
+		"code": "92.09.06.2001",
+		"type": "desa",
+		"name": "WAU"
+	},
+	{
+		"code": "92.09.06.2002",
+		"type": "desa",
+		"name": "WARMANDI"
+	},
+	{
+		"code": "92.09.06.2003",
+		"type": "desa",
+		"name": "WAIBEM"
+	},
+	{
+		"code": "92.09.06.2004",
+		"type": "desa",
+		"name": "SAUBEBA"
+	},
+	{
+		"code": "92.09.06.2005",
+		"type": "desa",
+		"name": "WEYAF"
+	},
+	{
+		"code": "92.09.06.2006",
+		"type": "desa",
+		"name": "WEPRARI"
+	},
+	{
+		"code": "92.09.06.2007",
+		"type": "desa",
+		"name": "WOWOM"
+	},
+	{
+		"code": "92.09.07",
+		"type": "kecamatan",
+		"name": "SYUJAK"
+	},
+	{
+		"code": "92.09.07.2001",
+		"type": "desa",
+		"name": "SYUJAK"
+	},
+	{
+		"code": "92.09.07.2002",
+		"type": "desa",
+		"name": "BANSO"
+	},
+	{
+		"code": "92.09.07.2004",
+		"type": "desa",
+		"name": "IOF"
+	},
+	{
+		"code": "92.09.07.2005",
+		"type": "desa",
+		"name": "FRAFANE"
+	},
+	{
+		"code": "92.09.08",
+		"type": "kecamatan",
+		"name": "MORAID"
+	},
+	{
+		"code": "92.09.08.2001",
+		"type": "desa",
+		"name": "MEGA"
+	},
+	{
+		"code": "92.09.08.2003",
+		"type": "desa",
+		"name": "SELEWOK"
+	},
+	{
+		"code": "92.09.08.2004",
+		"type": "desa",
+		"name": "MALAWORSAI"
+	},
+	{
+		"code": "92.09.08.2007",
+		"type": "desa",
+		"name": "KWADE"
+	},
+	{
+		"code": "92.09.08.2008",
+		"type": "desa",
+		"name": "BONEM"
+	},
+	{
+		"code": "92.09.08.2009",
+		"type": "desa",
+		"name": "WARAFOR"
+	},
+	{
+		"code": "92.09.08.2010",
+		"type": "desa",
+		"name": "WARMASI"
+	},
+	{
+		"code": "92.09.08.2011",
+		"type": "desa",
+		"name": "WARMANEN"
+	},
+	{
+		"code": "92.09.08.2012",
+		"type": "desa",
+		"name": "NAMUAS"
+	},
+	{
+		"code": "92.09.09",
+		"type": "kecamatan",
+		"name": "KEBAR"
+	},
+	{
+		"code": "92.09.09.2007",
+		"type": "desa",
+		"name": "INJAI"
+	},
+	{
+		"code": "92.09.09.2015",
+		"type": "desa",
+		"name": "APOKI"
+	},
+	{
+		"code": "92.09.09.2016",
+		"type": "desa",
+		"name": "MATATUN"
+	},
+	{
+		"code": "92.09.09.2017",
+		"type": "desa",
+		"name": "JAFAI"
+	},
+	{
+		"code": "92.09.09.2018",
+		"type": "desa",
+		"name": "JAMBUANI"
+	},
+	{
+		"code": "92.09.09.2019",
+		"type": "desa",
+		"name": "MANARIA"
+	},
+	{
+		"code": "92.09.09.2022",
+		"type": "desa",
+		"name": "ANARUM"
+	},
+	{
+		"code": "92.09.09.2027",
+		"type": "desa",
+		"name": "WASANGGON"
+	},
+	{
+		"code": "92.09.09.2028",
+		"type": "desa",
+		"name": "WABANEK"
+	},
+	{
+		"code": "92.09.09.2029",
+		"type": "desa",
+		"name": "PUBUAN"
+	},
+	{
+		"code": "92.09.10",
+		"type": "kecamatan",
+		"name": "AMBERBAKEN"
+	},
+	{
+		"code": "92.09.10.2002",
+		"type": "desa",
+		"name": "SAUKOREM"
+	},
+	{
+		"code": "92.09.10.2004",
+		"type": "desa",
+		"name": "WEFANI"
+	},
+	{
+		"code": "92.09.10.2005",
+		"type": "desa",
+		"name": "SERAYO"
+	},
+	{
+		"code": "92.09.10.2006",
+		"type": "desa",
+		"name": "WASARAK"
+	},
+	{
+		"code": "92.09.10.2010",
+		"type": "desa",
+		"name": "WEKARI"
+	},
+	{
+		"code": "92.09.10.2012",
+		"type": "desa",
+		"name": "BINASI"
+	},
+	{
+		"code": "92.09.10.2013",
+		"type": "desa",
+		"name": "KABIBWAN"
+	},
+	{
+		"code": "92.09.10.2014",
+		"type": "desa",
+		"name": "BINMAKS"
+	},
+	{
+		"code": "92.09.10.2016",
+		"type": "desa",
+		"name": "MANGGAPNUT"
+	},
+	{
+		"code": "92.09.10.2017",
+		"type": "desa",
+		"name": "WARAMUI"
+	},
+	{
+		"code": "92.09.11",
+		"type": "kecamatan",
+		"name": "SENOPI"
+	},
+	{
+		"code": "92.09.11.2003",
+		"type": "desa",
+		"name": "SENOPI"
+	},
+	{
+		"code": "92.09.11.2004",
+		"type": "desa",
+		"name": "ARAPI"
+	},
+	{
+		"code": "92.09.11.2005",
+		"type": "desa",
+		"name": "SRUREM"
+	},
+	{
+		"code": "92.09.11.2006",
+		"type": "desa",
+		"name": "SUMO"
+	},
+	{
+		"code": "92.09.11.2007",
+		"type": "desa",
+		"name": "IFAT MITU"
+	},
+	{
+		"code": "92.09.11.2008",
+		"type": "desa",
+		"name": "POVOKEK ANIA"
+	},
+	{
+		"code": "92.09.11.2012",
+		"type": "desa",
+		"name": "THOMAS"
+	},
+	{
+		"code": "92.09.11.2015",
+		"type": "desa",
+		"name": "TINTUM ARAW"
+	},
+	{
+		"code": "92.09.12",
+		"type": "kecamatan",
+		"name": "MUBRANI"
+	},
+	{
+		"code": "92.09.12.2001",
+		"type": "desa",
+		"name": "ARFU"
+	},
+	{
+		"code": "92.09.12.2002",
+		"type": "desa",
+		"name": "BAWEY"
+	},
+	{
+		"code": "92.09.12.2003",
+		"type": "desa",
+		"name": "WASNEMBRI"
+	},
+	{
+		"code": "92.09.12.2004",
+		"type": "desa",
+		"name": "WARU"
+	},
+	{
+		"code": "92.09.12.2005",
+		"type": "desa",
+		"name": "ATORI"
+	},
+	{
+		"code": "92.09.12.2006",
+		"type": "desa",
+		"name": "MERIAMBEKER"
+	},
+	{
+		"code": "92.09.12.2007",
+		"type": "desa",
+		"name": "BIJAMFOU"
+	},
+	{
+		"code": "92.09.12.2015",
+		"type": "desa",
+		"name": "WAROKON"
+	},
+	{
+		"code": "92.09.12.2016",
+		"type": "desa",
+		"name": "AREKON"
+	},
+	{
+		"code": "92.09.12.2017",
+		"type": "desa",
+		"name": "BONPAYA"
+	},
+	{
+		"code": "92.09.12.2018",
+		"type": "desa",
+		"name": "MARBUAN"
+	},
+	{
+		"code": "92.09.13",
+		"type": "kecamatan",
+		"name": "BIKAR"
+	},
+	{
+		"code": "92.09.13.2001",
+		"type": "desa",
+		"name": "WERUR"
+	},
+	{
+		"code": "92.09.13.2002",
+		"type": "desa",
+		"name": "BUKIT"
+	},
+	{
+		"code": "92.09.13.2003",
+		"type": "desa",
+		"name": "WERTAM"
+	},
+	{
+		"code": "92.09.13.2004",
+		"type": "desa",
+		"name": "WERWAF"
+	},
+	{
+		"code": "92.09.13.2005",
+		"type": "desa",
+		"name": "WERBES"
+	},
+	{
+		"code": "92.09.13.2006",
+		"type": "desa",
+		"name": "NOMBRAK"
+	},
+	{
+		"code": "92.09.13.2007",
+		"type": "desa",
+		"name": "BIKAR"
+	},
+	{
+		"code": "92.09.13.2008",
+		"type": "desa",
+		"name": "SYUNAI"
+	},
+	{
+		"code": "92.09.13.2009",
+		"type": "desa",
+		"name": "SUYAM"
+	},
+	{
+		"code": "92.09.13.2010",
+		"type": "desa",
+		"name": "WERTIM"
+	},
+	{
+		"code": "92.09.14",
+		"type": "kecamatan",
+		"name": "BAMUSBAMA"
+	},
+	{
+		"code": "92.09.14.2001",
+		"type": "desa",
+		"name": "BAMUSBAMA"
+	},
+	{
+		"code": "92.09.14.2002",
+		"type": "desa",
+		"name": "BAMUSWAIMAN"
+	},
+	{
+		"code": "92.09.14.2003",
+		"type": "desa",
+		"name": "SYARWOM"
+	},
+	{
+		"code": "92.09.14.2004",
+		"type": "desa",
+		"name": "METBESA"
+	},
+	{
+		"code": "92.09.14.2005",
+		"type": "desa",
+		"name": "BABAK"
+	},
+	{
+		"code": "92.09.14.2006",
+		"type": "desa",
+		"name": "BANO"
+	},
+	{
+		"code": "92.09.15",
+		"type": "kecamatan",
+		"name": "ASES"
+	},
+	{
+		"code": "92.09.15.2001",
+		"type": "desa",
+		"name": "ASES"
+	},
+	{
+		"code": "92.09.15.2002",
+		"type": "desa",
+		"name": "ASUON"
+	},
+	{
+		"code": "92.09.15.2003",
+		"type": "desa",
+		"name": "SAFOETIEK"
+	},
+	{
+		"code": "92.09.15.2004",
+		"type": "desa",
+		"name": "FRASAYOAH"
+	},
+	{
+		"code": "92.09.16",
+		"type": "kecamatan",
+		"name": "MIYAH SELATAN"
+	},
+	{
+		"code": "92.09.16.2001",
+		"type": "desa",
+		"name": "MAWOR"
+	},
+	{
+		"code": "92.09.16.2002",
+		"type": "desa",
+		"name": "RUF"
+	},
+	{
+		"code": "92.09.16.2003",
+		"type": "desa",
+		"name": "AYAMANE"
+	},
+	{
+		"code": "92.09.16.2004",
+		"type": "desa",
+		"name": "WHISMER"
+	},
+	{
+		"code": "92.09.16.2005",
+		"type": "desa",
+		"name": "SAHAE"
+	},
+	{
+		"code": "92.09.16.2006",
+		"type": "desa",
+		"name": "HEWI"
+	},
+	{
+		"code": "92.09.16.2007",
+		"type": "desa",
+		"name": "SISU"
+	},
+	{
+		"code": "92.09.17",
+		"type": "kecamatan",
+		"name": "IRERES"
+	},
+	{
+		"code": "92.09.17.2001",
+		"type": "desa",
+		"name": "MIRI"
+	},
+	{
+		"code": "92.09.17.2002",
+		"type": "desa",
+		"name": "MEIS"
+	},
+	{
+		"code": "92.09.17.2003",
+		"type": "desa",
+		"name": "AIFAMAS"
+	},
+	{
+		"code": "92.09.17.2004",
+		"type": "desa",
+		"name": "MEINAD"
+	},
+	{
+		"code": "92.09.17.2005",
+		"type": "desa",
+		"name": "ATAFRUMEK"
+	},
+	{
+		"code": "92.09.17.2006",
+		"type": "desa",
+		"name": "IFIAM"
+	},
+	{
+		"code": "92.09.18",
+		"type": "kecamatan",
+		"name": "TOBOUW"
+	},
+	{
+		"code": "92.09.18.2001",
+		"type": "desa",
+		"name": "SYUMBAB"
+	},
+	{
+		"code": "92.09.18.2002",
+		"type": "desa",
+		"name": "KRISNOS"
+	},
+	{
+		"code": "92.09.18.2003",
+		"type": "desa",
+		"name": "SYUKWES"
+	},
+	{
+		"code": "92.09.18.2004",
+		"type": "desa",
+		"name": "DONAN"
+	},
+	{
+		"code": "92.09.18.2005",
+		"type": "desa",
+		"name": "DOMBRON"
+	},
+	{
+		"code": "92.09.19",
+		"type": "kecamatan",
+		"name": "WILHEM ROUMBOUTS"
+	},
+	{
+		"code": "92.09.19.2001",
+		"type": "desa",
+		"name": "TABAMSERE"
+	},
+	{
+		"code": "92.09.19.2002",
+		"type": "desa",
+		"name": "SAYAM"
+	},
+	{
+		"code": "92.09.19.2003",
+		"type": "desa",
+		"name": "ARAF MAFAT"
+	},
+	{
+		"code": "92.09.19.2004",
+		"type": "desa",
+		"name": "ESYUOM"
+	},
+	{
+		"code": "92.09.20",
+		"type": "kecamatan",
+		"name": "TINGGOUW"
+	},
+	{
+		"code": "92.09.20.2001",
+		"type": "desa",
+		"name": "TINGGOUW"
+	},
+	{
+		"code": "92.09.20.2002",
+		"type": "desa",
+		"name": "HOHAIR"
+	},
+	{
+		"code": "92.09.20.2003",
+		"type": "desa",
+		"name": "RURIAI"
+	},
+	{
+		"code": "92.09.20.2004",
+		"type": "desa",
+		"name": "SOON"
+	},
+	{
+		"code": "92.09.20.2005",
+		"type": "desa",
+		"name": "IFATKAN"
+	},
+	{
+		"code": "92.09.21",
+		"type": "kecamatan",
+		"name": "KWESEFO"
+	},
+	{
+		"code": "92.09.21.2001",
+		"type": "desa",
+		"name": "JOKBUJOKER"
+	},
+	{
+		"code": "92.09.21.2002",
+		"type": "desa",
+		"name": "KRANFOTSU"
+	},
+	{
+		"code": "92.09.21.2003",
+		"type": "desa",
+		"name": "SYUAU"
+	},
+	{
+		"code": "92.09.21.2004",
+		"type": "desa",
+		"name": "KWESEFO"
+	},
+	{
+		"code": "92.09.21.2005",
+		"type": "desa",
+		"name": "BATDEY"
+	},
+	{
+		"code": "92.09.21.2006",
+		"type": "desa",
+		"name": "SYUMBI"
+	},
+	{
+		"code": "92.09.21.2007",
+		"type": "desa",
+		"name": "BAO"
+	},
+	{
+		"code": "92.09.22",
+		"type": "kecamatan",
+		"name": "MAWABUAN"
+	},
+	{
+		"code": "92.09.22.2001",
+		"type": "desa",
+		"name": "WAUSIN"
+	},
+	{
+		"code": "92.09.22.2002",
+		"type": "desa",
+		"name": "ASITI"
+	},
+	{
+		"code": "92.09.22.2003",
+		"type": "desa",
+		"name": "BISAUD"
+	},
+	{
+		"code": "92.09.22.2004",
+		"type": "desa",
+		"name": "WUFMANA"
+	},
+	{
+		"code": "92.09.22.2005",
+		"type": "desa",
+		"name": "NISANDAUW"
+	},
+	{
+		"code": "92.09.22.2006",
+		"type": "desa",
+		"name": "AFRAWI"
+	},
+	{
+		"code": "92.09.22.2007",
+		"type": "desa",
+		"name": "AJOKWAPI"
+	},
+	{
+		"code": "92.09.23",
+		"type": "kecamatan",
+		"name": "KEBAR TIMUR"
+	},
+	{
+		"code": "92.09.23.2001",
+		"type": "desa",
+		"name": "INAM"
+	},
+	{
+		"code": "92.09.23.2002",
+		"type": "desa",
+		"name": "JANDURAUW"
+	},
+	{
+		"code": "92.09.23.2003",
+		"type": "desa",
+		"name": "INAMBUARI"
+	},
+	{
+		"code": "92.09.23.2004",
+		"type": "desa",
+		"name": "SITORI"
+	},
+	{
+		"code": "92.09.23.2005",
+		"type": "desa",
+		"name": "UNTOREY"
+	},
+	{
+		"code": "92.09.23.2006",
+		"type": "desa",
+		"name": "NABISAI"
+	},
+	{
+		"code": "92.09.23.2007",
+		"type": "desa",
+		"name": "ARUMI"
+	},
+	{
+		"code": "92.09.23.2008",
+		"type": "desa",
+		"name": "KARAWI"
+	},
+	{
+		"code": "92.09.23.2009",
+		"type": "desa",
+		"name": "ARAMPAK"
+	},
+	{
+		"code": "92.09.23.2010",
+		"type": "desa",
+		"name": "KASI INOM"
+	},
+	{
+		"code": "92.09.23.2011",
+		"type": "desa",
+		"name": "IREJI"
+	},
+	{
+		"code": "92.09.23.2012",
+		"type": "desa",
+		"name": "MEYCOCFORGA"
+	},
+	{
+		"code": "92.09.23.2013",
+		"type": "desa",
+		"name": "WASABITI"
+	},
+	{
+		"code": "92.09.24",
+		"type": "kecamatan",
+		"name": "KEBAR SELATAN"
+	},
+	{
+		"code": "92.09.24.2001",
+		"type": "desa",
+		"name": "NEKORI"
+	},
+	{
+		"code": "92.09.24.2002",
+		"type": "desa",
+		"name": "AJAMI"
+	},
+	{
+		"code": "92.09.24.2003",
+		"type": "desa",
+		"name": "ANITI"
+	},
+	{
+		"code": "92.09.24.2004",
+		"type": "desa",
+		"name": "AKARI"
+	},
+	{
+		"code": "92.09.24.2005",
+		"type": "desa",
+		"name": "AMNAN"
+	},
+	{
+		"code": "92.09.24.2006",
+		"type": "desa",
+		"name": "ATIKI"
+	},
+	{
+		"code": "92.09.24.2007",
+		"type": "desa",
+		"name": "ARWANI"
+	},
+	{
+		"code": "92.09.24.2008",
+		"type": "desa",
+		"name": "ARITOWI"
+	},
+	{
+		"code": "92.09.24.2009",
+		"type": "desa",
+		"name": "UMPAY"
+	},
+	{
+		"code": "92.09.24.2010",
+		"type": "desa",
+		"name": "MEIWAR"
+	},
+	{
+		"code": "92.09.25",
+		"type": "kecamatan",
+		"name": "MANEKAR"
+	},
+	{
+		"code": "92.09.25.2001",
+		"type": "desa",
+		"name": "ATAI"
+	},
+	{
+		"code": "92.09.25.2002",
+		"type": "desa",
+		"name": "AKMURI"
+	},
+	{
+		"code": "92.09.25.2003",
+		"type": "desa",
+		"name": "AWORI"
+	},
+	{
+		"code": "92.09.25.2004",
+		"type": "desa",
+		"name": "ITAFITI"
+	},
+	{
+		"code": "92.09.25.2005",
+		"type": "desa",
+		"name": "ATUNARI"
+	},
+	{
+		"code": "92.09.25.2006",
+		"type": "desa",
+		"name": "AJAMI WARIPI"
+	},
+	{
+		"code": "92.09.25.2007",
+		"type": "desa",
+		"name": "NARAI"
+	},
+	{
+		"code": "92.09.25.2008",
+		"type": "desa",
+		"name": "ARANARI"
+	},
+	{
+		"code": "92.09.25.2009",
+		"type": "desa",
+		"name": "WAUMI"
+	},
+	{
+		"code": "92.09.25.2010",
+		"type": "desa",
+		"name": "ANETI"
+	},
+	{
+		"code": "92.09.26",
+		"type": "kecamatan",
+		"name": "MPUR"
+	},
+	{
+		"code": "92.09.26.2001",
+		"type": "desa",
+		"name": "ARUPI"
+	},
+	{
+		"code": "92.09.26.2002",
+		"type": "desa",
+		"name": "WARPAPERI"
+	},
+	{
+		"code": "92.09.26.2003",
+		"type": "desa",
+		"name": "MANGGANEK"
+	},
+	{
+		"code": "92.09.26.2004",
+		"type": "desa",
+		"name": "WAJAREK"
+	},
+	{
+		"code": "92.09.26.2005",
+		"type": "desa",
+		"name": "KALI AN"
+	},
+	{
+		"code": "92.09.26.2006",
+		"type": "desa",
+		"name": "ARARO"
+	},
+	{
+		"code": "92.09.27",
+		"type": "kecamatan",
+		"name": "AMBERBAKEN BARAT"
+	},
+	{
+		"code": "92.09.27.2001",
+		"type": "desa",
+		"name": "SASUI"
+	},
+	{
+		"code": "92.09.27.2002",
+		"type": "desa",
+		"name": "BONDOPI"
+	},
+	{
+		"code": "92.09.27.2003",
+		"type": "desa",
+		"name": "MANGGAEW"
+	},
+	{
+		"code": "92.09.27.2004",
+		"type": "desa",
+		"name": "SAURABON"
+	},
+	{
+		"code": "92.09.27.2005",
+		"type": "desa",
+		"name": "WASAWMONTEM"
+	},
+	{
+		"code": "92.09.28",
+		"type": "kecamatan",
+		"name": "KASI"
+	},
+	{
+		"code": "92.09.28.2001",
+		"type": "desa",
+		"name": "MESERIKWEDA"
+	},
+	{
+		"code": "92.09.28.2002",
+		"type": "desa",
+		"name": "KASI BARU"
+	},
+	{
+		"code": "92.09.28.2003",
+		"type": "desa",
+		"name": "KASI JAYA"
+	},
+	{
+		"code": "92.09.28.2004",
+		"type": "desa",
+		"name": "MEIMORUFOF"
+	},
+	{
+		"code": "92.09.28.2005",
+		"type": "desa",
+		"name": "KASI INDAH"
+	},
+	{
+		"code": "92.09.28.2006",
+		"type": "desa",
+		"name": "WACAM"
+	},
+	{
+		"code": "92.09.28.2007",
+		"type": "desa",
+		"name": "IRUMFEI"
+	},
+	{
+		"code": "92.09.29",
+		"type": "kecamatan",
+		"name": "SELEMKAI"
+	},
+	{
+		"code": "92.09.29.2001",
+		"type": "desa",
+		"name": "DELA"
+	},
+	{
+		"code": "92.09.29.2002",
+		"type": "desa",
+		"name": "MEGAME"
+	},
+	{
+		"code": "92.09.29.2003",
+		"type": "desa",
+		"name": "KALADUM"
+	},
+	{
+		"code": "92.09.29.2004",
+		"type": "desa",
+		"name": "KLASEI"
+	},
+	{
+		"code": "92.09.29.2005",
+		"type": "desa",
+		"name": "KLABILI"
+	},
+	{
+		"code": "92.10",
+		"type": "kabupaten",
+		"name": "KAB. MAYBRAT"
+	},
+	{
+		"code": "92.10.01",
+		"type": "kecamatan",
+		"name": "AIFAT"
+	},
+	{
+		"code": "92.10.01.2001",
+		"type": "desa",
+		"name": "KUMURKEK"
+	},
+	{
+		"code": "92.10.01.2002",
+		"type": "desa",
+		"name": "SUSUMUK"
+	},
+	{
+		"code": "92.10.01.2003",
+		"type": "desa",
+		"name": "KOKAS"
+	},
+	{
+		"code": "92.10.01.2004",
+		"type": "desa",
+		"name": "KOCUAS"
+	},
+	{
+		"code": "92.10.01.2005",
+		"type": "desa",
+		"name": "KOCUWER"
+	},
+	{
+		"code": "92.10.01.2006",
+		"type": "desa",
+		"name": "BORI"
+	},
+	{
+		"code": "92.10.01.2007",
+		"type": "desa",
+		"name": "WERJAYA"
+	},
+	{
+		"code": "92.10.01.2008",
+		"type": "desa",
+		"name": "TAHAHITE"
+	},
+	{
+		"code": "92.10.01.2009",
+		"type": "desa",
+		"name": "FAITMAYAF"
+	},
+	{
+		"code": "92.10.01.2010",
+		"type": "desa",
+		"name": "AISYO"
+	},
+	{
+		"code": "92.10.01.2011",
+		"type": "desa",
+		"name": "FUTON"
+	},
+	{
+		"code": "92.10.01.2012",
+		"type": "desa",
+		"name": "SAMPIKA"
+	},
+	{
+		"code": "92.10.01.2013",
+		"type": "desa",
+		"name": "MARTAIM"
+	},
+	{
+		"code": "92.10.01.2014",
+		"type": "desa",
+		"name": "FRAWEBO"
+	},
+	{
+		"code": "92.10.01.2015",
+		"type": "desa",
+		"name": "FAITSAWE"
+	},
+	{
+		"code": "92.10.01.2016",
+		"type": "desa",
+		"name": "KOCUWER SELATAN"
+	},
+	{
+		"code": "92.10.01.2017",
+		"type": "desa",
+		"name": "FAITMAYAT BARAT"
+	},
+	{
+		"code": "92.10.01.2018",
+		"type": "desa",
+		"name": "SIKOF"
+	},
+	{
+		"code": "92.10.01.2019",
+		"type": "desa",
+		"name": "BORI TIMUR"
+	},
+	{
+		"code": "92.10.01.2020",
+		"type": "desa",
+		"name": "KUMURKEK BARAT"
+	},
+	{
+		"code": "92.10.01.2021",
+		"type": "desa",
+		"name": "AINOD"
+	},
+	{
+		"code": "92.10.01.2022",
+		"type": "desa",
+		"name": "KOCUAS UTARA"
+	},
+	{
+		"code": "92.10.01.2023",
+		"type": "desa",
+		"name": "SUNEI"
+	},
+	{
+		"code": "92.10.02",
+		"type": "kecamatan",
+		"name": "AIFAT UTARA"
+	},
+	{
+		"code": "92.10.02.2001",
+		"type": "desa",
+		"name": "AYAWASI"
+	},
+	{
+		"code": "92.10.02.2002",
+		"type": "desa",
+		"name": "AYAWASI SELATAN"
+	},
+	{
+		"code": "92.10.02.2003",
+		"type": "desa",
+		"name": "AYAWASI TIMUR"
+	},
+	{
+		"code": "92.10.02.2004",
+		"type": "desa",
+		"name": "SUSAI"
+	},
+	{
+		"code": "92.10.02.2005",
+		"type": "desa",
+		"name": "FONATU"
+	},
+	{
+		"code": "92.10.02.2006",
+		"type": "desa",
+		"name": "MOSUN"
+	},
+	{
+		"code": "92.10.02.2007",
+		"type": "desa",
+		"name": "WAYANE"
+	},
+	{
+		"code": "92.10.02.2008",
+		"type": "desa",
+		"name": "KONJA"
+	},
+	{
+		"code": "92.10.02.2009",
+		"type": "desa",
+		"name": "YARAT"
+	},
+	{
+		"code": "92.10.02.2010",
+		"type": "desa",
+		"name": "MAN"
+	},
+	{
+		"code": "92.10.02.2011",
+		"type": "desa",
+		"name": "HOWAIT"
+	},
+	{
+		"code": "92.10.02.2012",
+		"type": "desa",
+		"name": "HAENKANES"
+	},
+	{
+		"code": "92.10.02.2013",
+		"type": "desa",
+		"name": "KONJA BARAT"
+	},
+	{
+		"code": "92.10.02.2014",
+		"type": "desa",
+		"name": "YARAT TIMUR"
+	},
+	{
+		"code": "92.10.02.2015",
+		"type": "desa",
+		"name": "RAHA"
+	},
+	{
+		"code": "92.10.02.2016",
+		"type": "desa",
+		"name": "MOWES"
+	},
+	{
+		"code": "92.10.02.2017",
+		"type": "desa",
+		"name": "IRATA"
+	},
+	{
+		"code": "92.10.02.2018",
+		"type": "desa",
+		"name": "NESET"
+	},
+	{
+		"code": "92.10.02.2019",
+		"type": "desa",
+		"name": "MOSUN TIMUR"
+	},
+	{
+		"code": "92.10.02.2020",
+		"type": "desa",
+		"name": "MOSUN UTARA"
+	},
+	{
+		"code": "92.10.03",
+		"type": "kecamatan",
+		"name": "AIFAT TIMUR"
+	},
+	{
+		"code": "92.10.03.2001",
+		"type": "desa",
+		"name": "AISA"
+	},
+	{
+		"code": "92.10.03.2004",
+		"type": "desa",
+		"name": "AIKRER"
+	},
+	{
+		"code": "92.10.03.2005",
+		"type": "desa",
+		"name": "AITREM"
+	},
+	{
+		"code": "92.10.03.2006",
+		"type": "desa",
+		"name": "SAWIN"
+	},
+	{
+		"code": "92.10.03.2008",
+		"type": "desa",
+		"name": "SABAH"
+	},
+	{
+		"code": "92.10.03.2009",
+		"type": "desa",
+		"name": "FUOG"
+	},
+	{
+		"code": "92.10.03.2026",
+		"type": "desa",
+		"name": "WAKOM"
+	},
+	{
+		"code": "92.10.03.2027",
+		"type": "desa",
+		"name": "SANEM"
+	},
+	{
+		"code": "92.10.03.2033",
+		"type": "desa",
+		"name": "BUOH SA"
+	},
+	{
+		"code": "92.10.04",
+		"type": "kecamatan",
+		"name": "AIFAT SELATAN"
+	},
+	{
+		"code": "92.10.04.2001",
+		"type": "desa",
+		"name": "KISOR"
+	},
+	{
+		"code": "92.10.04.2002",
+		"type": "desa",
+		"name": "SORRY"
+	},
+	{
+		"code": "92.10.04.2003",
+		"type": "desa",
+		"name": "IMSUN"
+	},
+	{
+		"code": "92.10.04.2004",
+		"type": "desa",
+		"name": "SABAH"
+	},
+	{
+		"code": "92.10.04.2005",
+		"type": "desa",
+		"name": "TAHSIMARA"
+	},
+	{
+		"code": "92.10.04.2006",
+		"type": "desa",
+		"name": "FUOG"
+	},
+	{
+		"code": "92.10.04.2008",
+		"type": "desa",
+		"name": "ASIAF ZAMAN"
+	},
+	{
+		"code": "92.10.04.2009",
+		"type": "desa",
+		"name": "HORA IEK"
+	},
+	{
+		"code": "92.10.04.2010",
+		"type": "desa",
+		"name": "FUOG SELATAN"
+	},
+	{
+		"code": "92.10.04.2011",
+		"type": "desa",
+		"name": "SAME RAKATOR"
+	},
+	{
+		"code": "92.10.04.2012",
+		"type": "desa",
+		"name": "ROMA"
+	},
+	{
+		"code": "92.10.04.2013",
+		"type": "desa",
+		"name": "KRUS"
+	},
+	{
+		"code": "92.10.04.2014",
+		"type": "desa",
+		"name": "AWET MAIN"
+	},
+	{
+		"code": "92.10.04.2015",
+		"type": "desa",
+		"name": "YEEK"
+	},
+	{
+		"code": "92.10.04.2016",
+		"type": "desa",
+		"name": "KAITANA"
+	},
+	{
+		"code": "92.10.04.2017",
+		"type": "desa",
+		"name": "TOLAK"
+	},
+	{
+		"code": "92.10.05",
+		"type": "kecamatan",
+		"name": "AITINYO BARAT"
+	},
+	{
+		"code": "92.10.05.2001",
+		"type": "desa",
+		"name": "KAMBUFATEM"
+	},
+	{
+		"code": "92.10.05.2002",
+		"type": "desa",
+		"name": "KAMBUFATEM UTARA"
+	},
+	{
+		"code": "92.10.05.2003",
+		"type": "desa",
+		"name": "FATASE"
+	},
+	{
+		"code": "92.10.05.2008",
+		"type": "desa",
+		"name": "HOSYO ATA"
+	},
+	{
+		"code": "92.10.05.2009",
+		"type": "desa",
+		"name": "WAYBOMATAH"
+	},
+	{
+		"code": "92.10.05.2010",
+		"type": "desa",
+		"name": "SIYO"
+	},
+	{
+		"code": "92.10.05.2011",
+		"type": "desa",
+		"name": "HASWEH"
+	},
+	{
+		"code": "92.10.05.2012",
+		"type": "desa",
+		"name": "FATEM"
+	},
+	{
+		"code": "92.10.05.2013",
+		"type": "desa",
+		"name": "HOSIOBANAH"
+	},
+	{
+		"code": "92.10.06",
+		"type": "kecamatan",
+		"name": "AITINYO"
+	},
+	{
+		"code": "92.10.06.2001",
+		"type": "desa",
+		"name": "AITINYO"
+	},
+	{
+		"code": "92.10.06.2002",
+		"type": "desa",
+		"name": "IHORE"
+	},
+	{
+		"code": "92.10.06.2003",
+		"type": "desa",
+		"name": "SRIS"
+	},
+	{
+		"code": "92.10.06.2005",
+		"type": "desa",
+		"name": "KAMRO"
+	},
+	{
+		"code": "92.10.06.2007",
+		"type": "desa",
+		"name": "KARSU"
+	},
+	{
+		"code": "92.10.06.2008",
+		"type": "desa",
+		"name": "TEHAK KECIL"
+	},
+	{
+		"code": "92.10.06.2009",
+		"type": "desa",
+		"name": "SIRA AYA"
+	},
+	{
+		"code": "92.10.06.2010",
+		"type": "desa",
+		"name": "KOROM"
+	},
+	{
+		"code": "92.10.06.2011",
+		"type": "desa",
+		"name": "SUMANIS"
+	},
+	{
+		"code": "92.10.06.2013",
+		"type": "desa",
+		"name": "IBASUF"
+	},
+	{
+		"code": "92.10.06.2014",
+		"type": "desa",
+		"name": "SOWAI SAU"
+	},
+	{
+		"code": "92.10.06.2015",
+		"type": "desa",
+		"name": "SUBIN"
+	},
+	{
+		"code": "92.10.06.2016",
+		"type": "desa",
+		"name": "IROHMRAR"
+	},
+	{
+		"code": "92.10.06.2017",
+		"type": "desa",
+		"name": "BOFAIT"
+	},
+	{
+		"code": "92.10.06.2018",
+		"type": "desa",
+		"name": "AFKREM"
+	},
+	{
+		"code": "92.10.06.2019",
+		"type": "desa",
+		"name": "WIHO"
+	},
+	{
+		"code": "92.10.06.2020",
+		"type": "desa",
+		"name": "KAMRO SELATAN"
+	},
+	{
+		"code": "92.10.07",
+		"type": "kecamatan",
+		"name": "AITINYO UTARA"
+	},
+	{
+		"code": "92.10.07.2001",
+		"type": "desa",
+		"name": "FATEGOMI"
+	},
+	{
+		"code": "92.10.07.2002",
+		"type": "desa",
+		"name": "TEHAK BESAR"
+	},
+	{
+		"code": "92.10.07.2003",
+		"type": "desa",
+		"name": "FAN"
+	},
+	{
+		"code": "92.10.07.2004",
+		"type": "desa",
+		"name": "GOHSAMES"
+	},
+	{
+		"code": "92.10.07.2005",
+		"type": "desa",
+		"name": "ASMURUF U"
+	},
+	{
+		"code": "92.10.07.2006",
+		"type": "desa",
+		"name": "MIRAFAN"
+	},
+	{
+		"code": "92.10.07.2011",
+		"type": "desa",
+		"name": "ASMURUF TEE"
+	},
+	{
+		"code": "92.10.07.2012",
+		"type": "desa",
+		"name": "TEHAK TEE"
+	},
+	{
+		"code": "92.10.07.2013",
+		"type": "desa",
+		"name": "FRAMAFIR"
+	},
+	{
+		"code": "92.10.07.2014",
+		"type": "desa",
+		"name": "SUBRIT"
+	},
+	{
+		"code": "92.10.07.2015",
+		"type": "desa",
+		"name": "INTA"
+	},
+	{
+		"code": "92.10.07.2016",
+		"type": "desa",
+		"name": "BOHWAT"
+	},
+	{
+		"code": "92.10.08",
+		"type": "kecamatan",
+		"name": "AYAMARU"
+	},
+	{
+		"code": "92.10.08.1001",
+		"type": "kelurahan",
+		"name": "AYAMARU"
+	},
+	{
+		"code": "92.10.08.2010",
+		"type": "desa",
+		"name": "FRAMU"
+	},
+	{
+		"code": "92.10.08.2011",
+		"type": "desa",
+		"name": "MEFKAJIM II"
+	},
+	{
+		"code": "92.10.08.2017",
+		"type": "desa",
+		"name": "FRAHARO"
+	},
+	{
+		"code": "92.10.08.2018",
+		"type": "desa",
+		"name": "SMUSUWIOH"
+	},
+	{
+		"code": "92.10.08.2019",
+		"type": "desa",
+		"name": "TWER"
+	},
+	{
+		"code": "92.10.08.2020",
+		"type": "desa",
+		"name": "AFES"
+	},
+	{
+		"code": "92.10.08.2021",
+		"type": "desa",
+		"name": "TUSO"
+	},
+	{
+		"code": "92.10.09",
+		"type": "kecamatan",
+		"name": "AYAMARU UTARA"
+	},
+	{
+		"code": "92.10.09.2001",
+		"type": "desa",
+		"name": "YUBIAH"
+	},
+	{
+		"code": "92.10.09.2003",
+		"type": "desa",
+		"name": "KARETUBUN"
+	},
+	{
+		"code": "92.10.09.2004",
+		"type": "desa",
+		"name": "SETTA"
+	},
+	{
+		"code": "92.10.09.2006",
+		"type": "desa",
+		"name": "HOHOYOR"
+	},
+	{
+		"code": "92.10.09.2007",
+		"type": "desa",
+		"name": "ARNE"
+	},
+	{
+		"code": "92.10.09.2009",
+		"type": "desa",
+		"name": "AUS TIWIT"
+	},
+	{
+		"code": "92.10.09.2010",
+		"type": "desa",
+		"name": "JOHAFAH"
+	},
+	{
+		"code": "92.10.09.2011",
+		"type": "desa",
+		"name": "YUKASE"
+	},
+	{
+		"code": "92.10.09.2012",
+		"type": "desa",
+		"name": "SERMA"
+	},
+	{
+		"code": "92.10.09.2013",
+		"type": "desa",
+		"name": "KFAA"
+	},
+	{
+		"code": "92.10.09.2014",
+		"type": "desa",
+		"name": "ARNE TIMUR"
+	},
+	{
+		"code": "92.10.09.2020",
+		"type": "desa",
+		"name": "NAUW TEE"
+	},
+	{
+		"code": "92.10.10",
+		"type": "kecamatan",
+		"name": "AYAMARU TIMUR"
+	},
+	{
+		"code": "92.10.10.2001",
+		"type": "desa",
+		"name": "KAMBUAYA"
+	},
+	{
+		"code": "92.10.10.2002",
+		"type": "desa",
+		"name": "HUBERITA"
+	},
+	{
+		"code": "92.10.10.2003",
+		"type": "desa",
+		"name": "FAITMAJIN"
+	},
+	{
+		"code": "92.10.10.2006",
+		"type": "desa",
+		"name": "ISMAYU"
+	},
+	{
+		"code": "92.10.10.2007",
+		"type": "desa",
+		"name": "SEFAYIT"
+	},
+	{
+		"code": "92.10.10.2008",
+		"type": "desa",
+		"name": "INSAS"
+	},
+	{
+		"code": "92.10.10.2009",
+		"type": "desa",
+		"name": "FAITSIUR"
+	},
+	{
+		"code": "92.10.10.2010",
+		"type": "desa",
+		"name": "KEYUM"
+	},
+	{
+		"code": "92.10.11",
+		"type": "kecamatan",
+		"name": "MARE"
+	},
+	{
+		"code": "92.10.11.2001",
+		"type": "desa",
+		"name": "SUSWA"
+	},
+	{
+		"code": "92.10.11.2002",
+		"type": "desa",
+		"name": "SEYA"
+	},
+	{
+		"code": "92.10.11.2005",
+		"type": "desa",
+		"name": "WABAM"
+	},
+	{
+		"code": "92.10.11.2006",
+		"type": "desa",
+		"name": "KOMBIF"
+	},
+	{
+		"code": "92.10.11.2008",
+		"type": "desa",
+		"name": "RUFASES"
+	},
+	{
+		"code": "92.10.11.2009",
+		"type": "desa",
+		"name": "BAKRABI"
+	},
+	{
+		"code": "92.10.11.2010",
+		"type": "desa",
+		"name": "NAFASI"
+	},
+	{
+		"code": "92.10.11.2011",
+		"type": "desa",
+		"name": "MAHOS"
+	},
+	{
+		"code": "92.10.11.2012",
+		"type": "desa",
+		"name": "SAWO"
+	},
+	{
+		"code": "92.10.12",
+		"type": "kecamatan",
+		"name": "AIFAT TIMUR TENGAH"
+	},
+	{
+		"code": "92.10.12.2001",
+		"type": "desa",
+		"name": "MUPAS"
+	},
+	{
+		"code": "92.10.12.2002",
+		"type": "desa",
+		"name": "KAMAT"
+	},
+	{
+		"code": "92.10.12.2003",
+		"type": "desa",
+		"name": "FRAMBU"
+	},
+	{
+		"code": "92.10.12.2004",
+		"type": "desa",
+		"name": "AYATA"
+	},
+	{
+		"code": "92.10.12.2005",
+		"type": "desa",
+		"name": "AIKUS"
+	},
+	{
+		"code": "92.10.12.2006",
+		"type": "desa",
+		"name": "AIWESA"
+	},
+	{
+		"code": "92.10.12.2007",
+		"type": "desa",
+		"name": "PITOR"
+	},
+	{
+		"code": "92.10.12.2008",
+		"type": "desa",
+		"name": "AIFAM"
+	},
+	{
+		"code": "92.10.12.2009",
+		"type": "desa",
+		"name": "SAUD"
+	},
+	{
+		"code": "92.10.12.2010",
+		"type": "desa",
+		"name": "TIAM"
+	},
+	{
+		"code": "92.10.12.2011",
+		"type": "desa",
+		"name": "FAAN KAHRIO"
+	},
+	{
+		"code": "92.10.12.2012",
+		"type": "desa",
+		"name": "ASSEM"
+	},
+	{
+		"code": "92.10.13",
+		"type": "kecamatan",
+		"name": "AIFAT TIMUR JAUH"
+	},
+	{
+		"code": "92.10.13.2001",
+		"type": "desa",
+		"name": "AINESRA"
+	},
+	{
+		"code": "92.10.13.2002",
+		"type": "desa",
+		"name": "AIMAU"
+	},
+	{
+		"code": "92.10.13.2003",
+		"type": "desa",
+		"name": "MESYAM"
+	},
+	{
+		"code": "92.10.13.2004",
+		"type": "desa",
+		"name": "AISASIOR"
+	},
+	{
+		"code": "92.10.13.2005",
+		"type": "desa",
+		"name": "FRAMNEWAY"
+	},
+	{
+		"code": "92.10.13.2006",
+		"type": "desa",
+		"name": "AKINGGING"
+	},
+	{
+		"code": "92.10.13.2007",
+		"type": "desa",
+		"name": "TIEFROMEN"
+	},
+	{
+		"code": "92.10.14",
+		"type": "kecamatan",
+		"name": "AIFAT TIMUR SELATAN"
+	},
+	{
+		"code": "92.10.14.2001",
+		"type": "desa",
+		"name": "WORMU"
+	},
+	{
+		"code": "92.10.14.2002",
+		"type": "desa",
+		"name": "MAKIRI"
+	},
+	{
+		"code": "92.10.14.2003",
+		"type": "desa",
+		"name": "WARBA"
+	},
+	{
+		"code": "92.10.14.2004",
+		"type": "desa",
+		"name": "WINUNI"
+	},
+	{
+		"code": "92.10.14.2005",
+		"type": "desa",
+		"name": "SRUMATE"
+	},
+	{
+		"code": "92.10.14.2006",
+		"type": "desa",
+		"name": "WOMBA"
+	},
+	{
+		"code": "92.10.15",
+		"type": "kecamatan",
+		"name": "AYAMARU SELATAN"
+	},
+	{
+		"code": "92.10.15.2001",
+		"type": "desa",
+		"name": "SAUF"
+	},
+	{
+		"code": "92.10.15.2002",
+		"type": "desa",
+		"name": "SEMBARO"
+	},
+	{
+		"code": "92.10.15.2003",
+		"type": "desa",
+		"name": "KOMA KOMA"
+	},
+	{
+		"code": "92.10.15.2004",
+		"type": "desa",
+		"name": "KANISABAR"
+	},
+	{
+		"code": "92.10.15.2005",
+		"type": "desa",
+		"name": "SFARARE"
+	},
+	{
+		"code": "92.10.15.2006",
+		"type": "desa",
+		"name": "SENEH"
+	},
+	{
+		"code": "92.10.15.2007",
+		"type": "desa",
+		"name": "LEMAUK KLIT"
+	},
+	{
+		"code": "92.10.15.2008",
+		"type": "desa",
+		"name": "HAWIOH"
+	},
+	{
+		"code": "92.10.15.2009",
+		"type": "desa",
+		"name": "SIMIYAH"
+	},
+	{
+		"code": "92.10.15.2010",
+		"type": "desa",
+		"name": "SAGRIM"
+	},
+	{
+		"code": "92.10.16",
+		"type": "kecamatan",
+		"name": "AYAMARU JAYA"
+	},
+	{
+		"code": "92.10.16.2001",
+		"type": "desa",
+		"name": "ADOH"
+	},
+	{
+		"code": "92.10.16.2002",
+		"type": "desa",
+		"name": "TEMEL"
+	},
+	{
+		"code": "92.10.16.2003",
+		"type": "desa",
+		"name": "SOSIAN"
+	},
+	{
+		"code": "92.10.16.2004",
+		"type": "desa",
+		"name": "SEGIOR"
+	},
+	{
+		"code": "92.10.16.2005",
+		"type": "desa",
+		"name": "ORAIN"
+	},
+	{
+		"code": "92.10.16.2006",
+		"type": "desa",
+		"name": "RAWAS"
+	},
+	{
+		"code": "92.10.16.2007",
+		"type": "desa",
+		"name": "ORSU"
+	},
+	{
+		"code": "92.10.16.2008",
+		"type": "desa",
+		"name": "SOAN"
+	},
+	{
+		"code": "92.10.16.2009",
+		"type": "desa",
+		"name": "WARBO"
+	},
+	{
+		"code": "92.10.16.2010",
+		"type": "desa",
+		"name": "WOMAN"
+	},
+	{
+		"code": "92.10.17",
+		"type": "kecamatan",
+		"name": "AYAMARU SELATAN JAYA"
+	},
+	{
+		"code": "92.10.17.2001",
+		"type": "desa",
+		"name": "FAITSIMAR"
+	},
+	{
+		"code": "92.10.17.2002",
+		"type": "desa",
+		"name": "ASSES"
+	},
+	{
+		"code": "92.10.17.2003",
+		"type": "desa",
+		"name": "FAIT NGGRE"
+	},
+	{
+		"code": "92.10.17.2004",
+		"type": "desa",
+		"name": "SUFU"
+	},
+	{
+		"code": "92.10.17.2005",
+		"type": "desa",
+		"name": "ARUS"
+	},
+	{
+		"code": "92.10.17.2006",
+		"type": "desa",
+		"name": "KOFAIT"
+	},
+	{
+		"code": "92.10.17.2007",
+		"type": "desa",
+		"name": "ISNUM"
+	},
+	{
+		"code": "92.10.18",
+		"type": "kecamatan",
+		"name": "AYAMARU TIMUR SELATAN"
+	},
+	{
+		"code": "92.10.18.2001",
+		"type": "desa",
+		"name": "KAMBUSKATO"
+	},
+	{
+		"code": "92.10.18.2002",
+		"type": "desa",
+		"name": "KAMBUSKATO UTARA"
+	},
+	{
+		"code": "92.10.18.2003",
+		"type": "desa",
+		"name": "KAMBUIFA"
+	},
+	{
+		"code": "92.10.18.2004",
+		"type": "desa",
+		"name": "ISUSU"
+	},
+	{
+		"code": "92.10.18.2005",
+		"type": "desa",
+		"name": "MANO"
+	},
+	{
+		"code": "92.10.18.2006",
+		"type": "desa",
+		"name": "SIPAT"
+	},
+	{
+		"code": "92.10.18.2007",
+		"type": "desa",
+		"name": "FAITWOSUR/ANGKASA PURA"
+	},
+	{
+		"code": "92.10.19",
+		"type": "kecamatan",
+		"name": "AYAMARU UTARA TIMUR"
+	},
+	{
+		"code": "92.10.19.2001",
+		"type": "desa",
+		"name": "MAPURA"
+	},
+	{
+		"code": "92.10.19.2002",
+		"type": "desa",
+		"name": "SUWIAM"
+	},
+	{
+		"code": "92.10.19.2003",
+		"type": "desa",
+		"name": "TOMASE"
+	},
+	{
+		"code": "92.10.19.2004",
+		"type": "desa",
+		"name": "FRABO"
+	},
+	{
+		"code": "92.10.19.2005",
+		"type": "desa",
+		"name": "KARFA"
+	},
+	{
+		"code": "92.10.19.2006",
+		"type": "desa",
+		"name": "KONA"
+	},
+	{
+		"code": "92.10.19.2007",
+		"type": "desa",
+		"name": "KOSAH"
+	},
+	{
+		"code": "92.10.20",
+		"type": "kecamatan",
+		"name": "AYAMARU TENGAH"
+	},
+	{
+		"code": "92.10.20.2001",
+		"type": "desa",
+		"name": "FIANE"
+	},
+	{
+		"code": "92.10.20.2002",
+		"type": "desa",
+		"name": "KARTAPURA"
+	},
+	{
+		"code": "92.10.20.2003",
+		"type": "desa",
+		"name": "MEN"
+	},
+	{
+		"code": "92.10.20.2004",
+		"type": "desa",
+		"name": "SEMU"
+	},
+	{
+		"code": "92.10.20.2005",
+		"type": "desa",
+		"name": "ISME"
+	},
+	{
+		"code": "92.10.20.2006",
+		"type": "desa",
+		"name": "RINDU"
+	},
+	{
+		"code": "92.10.20.2007",
+		"type": "desa",
+		"name": "TUT"
+	},
+	{
+		"code": "92.10.20.2008",
+		"type": "desa",
+		"name": "YOHWER"
+	},
+	{
+		"code": "92.10.20.2009",
+		"type": "desa",
+		"name": "HUFIOH"
+	},
+	{
+		"code": "92.10.20.2010",
+		"type": "desa",
+		"name": "BAWY"
+	},
+	{
+		"code": "92.10.21",
+		"type": "kecamatan",
+		"name": "AYAMARU BARAT"
+	},
+	{
+		"code": "92.10.21.2001",
+		"type": "desa",
+		"name": "SOROWAN"
+	},
+	{
+		"code": "92.10.21.2002",
+		"type": "desa",
+		"name": "FANSE"
+	},
+	{
+		"code": "92.10.21.2003",
+		"type": "desa",
+		"name": "CHALIAT"
+	},
+	{
+		"code": "92.10.21.2004",
+		"type": "desa",
+		"name": "SFACKO"
+	},
+	{
+		"code": "92.10.21.2005",
+		"type": "desa",
+		"name": "SEHU"
+	},
+	{
+		"code": "92.10.21.2006",
+		"type": "desa",
+		"name": "TBO"
+	},
+	{
+		"code": "92.10.21.2007",
+		"type": "desa",
+		"name": "SIEN"
+	},
+	{
+		"code": "92.10.21.2008",
+		"type": "desa",
+		"name": "SFAKRAKA"
+	},
+	{
+		"code": "92.10.22",
+		"type": "kecamatan",
+		"name": "AITINYO TENGAH"
+	},
+	{
+		"code": "92.10.22.2001",
+		"type": "desa",
+		"name": "YAKSORO"
+	},
+	{
+		"code": "92.10.22.2002",
+		"type": "desa",
+		"name": "AWIT"
+	},
+	{
+		"code": "92.10.22.2003",
+		"type": "desa",
+		"name": "SIRA"
+	},
+	{
+		"code": "92.10.22.2004",
+		"type": "desa",
+		"name": "EWAY"
+	},
+	{
+		"code": "92.10.22.2005",
+		"type": "desa",
+		"name": "EROKWERO"
+	},
+	{
+		"code": "92.10.22.2006",
+		"type": "desa",
+		"name": "SABUN"
+	},
+	{
+		"code": "92.10.22.2007",
+		"type": "desa",
+		"name": "ITIGAH"
+	},
+	{
+		"code": "92.10.22.2008",
+		"type": "desa",
+		"name": "SIRA TEE"
+	},
+	{
+		"code": "92.10.22.2009",
+		"type": "desa",
+		"name": "WRAIT 'U'"
+	},
+	{
+		"code": "92.10.22.2010",
+		"type": "desa",
+		"name": "WAY 'U'"
+	},
+	{
+		"code": "92.10.22.2011",
+		"type": "desa",
+		"name": "ASNAIF"
+	},
+	{
+		"code": "92.10.22.2012",
+		"type": "desa",
+		"name": "IROH SOHSER"
+	},
+	{
+		"code": "92.10.22.2013",
+		"type": "desa",
+		"name": "FRAMBOH"
+	},
+	{
+		"code": "92.10.22.2014",
+		"type": "desa",
+		"name": "TOHMRI"
+	},
+	{
+		"code": "92.10.23",
+		"type": "kecamatan",
+		"name": "AITINYO RAYA"
+	},
+	{
+		"code": "92.10.23.2001",
+		"type": "desa",
+		"name": "JITMAU"
+	},
+	{
+		"code": "92.10.23.2002",
+		"type": "desa",
+		"name": "IKUF"
+	},
+	{
+		"code": "92.10.23.2003",
+		"type": "desa",
+		"name": "ISIR"
+	},
+	{
+		"code": "92.10.23.2004",
+		"type": "desa",
+		"name": "JITMAU TIMUR"
+	},
+	{
+		"code": "92.10.23.2005",
+		"type": "desa",
+		"name": "IKUF UTARA"
+	},
+	{
+		"code": "92.10.23.2006",
+		"type": "desa",
+		"name": "SARIMO"
+	},
+	{
+		"code": "92.10.23.2007",
+		"type": "desa",
+		"name": "KAMBUSABO"
+	},
+	{
+		"code": "92.10.23.2008",
+		"type": "desa",
+		"name": "SRIRTABAM"
+	},
+	{
+		"code": "92.10.23.2009",
+		"type": "desa",
+		"name": "FAITHOWES"
+	},
+	{
+		"code": "92.10.23.2010",
+		"type": "desa",
+		"name": "YUMAME"
+	},
+	{
+		"code": "92.10.24",
+		"type": "kecamatan",
+		"name": "MARE SELATAN"
+	},
+	{
+		"code": "92.10.24.2001",
+		"type": "desa",
+		"name": "SENI"
+	},
+	{
+		"code": "92.10.24.2002",
+		"type": "desa",
+		"name": "RENIS"
+	},
+	{
+		"code": "92.10.24.2003",
+		"type": "desa",
+		"name": "SIRE"
+	},
+	{
+		"code": "92.10.24.2004",
+		"type": "desa",
+		"name": "FASE"
+	},
+	{
+		"code": "92.10.24.2005",
+		"type": "desa",
+		"name": "SABES"
+	},
+	{
+		"code": "92.10.24.2006",
+		"type": "desa",
+		"name": "KURASO"
+	},
+	{
+		"code": "92.10.24.2007",
+		"type": "desa",
+		"name": "SIDI"
+	},
+	{
+		"code": "92.10.24.2008",
+		"type": "desa",
+		"name": "OSOM"
+	},
+	{
+		"code": "92.10.24.2009",
+		"type": "desa",
+		"name": "SIRE TIMUR"
+	},
+	{
+		"code": "92.11",
+		"type": "kabupaten",
+		"name": "KAB. MANOKWARI SELATAN"
+	},
+	{
+		"code": "92.11.01",
+		"type": "kecamatan",
+		"name": "RANSIKI"
+	},
+	{
+		"code": "92.11.01.2001",
+		"type": "desa",
+		"name": "RANSIKI"
+	},
+	{
+		"code": "92.11.01.2002",
+		"type": "desa",
+		"name": "NUHUWEI"
+	},
+	{
+		"code": "92.11.01.2003",
+		"type": "desa",
+		"name": "YAMBOI"
+	},
+	{
+		"code": "92.11.01.2004",
+		"type": "desa",
+		"name": "TOBOU"
+	},
+	{
+		"code": "92.11.01.2005",
+		"type": "desa",
+		"name": "SABRI"
+	},
+	{
+		"code": "92.11.01.2006",
+		"type": "desa",
+		"name": "BAMAHA"
+	},
+	{
+		"code": "92.11.01.2007",
+		"type": "desa",
+		"name": "ABRESO"
+	},
+	{
+		"code": "92.11.01.2008",
+		"type": "desa",
+		"name": "HAMAWI"
+	},
+	{
+		"code": "92.11.01.2009",
+		"type": "desa",
+		"name": "KOBREY"
+	},
+	{
+		"code": "92.11.01.2010",
+		"type": "desa",
+		"name": "WAMCEI"
+	},
+	{
+		"code": "92.11.01.2011",
+		"type": "desa",
+		"name": "HAMOR"
+	},
+	{
+		"code": "92.11.01.2012",
+		"type": "desa",
+		"name": "SUSMOROF"
+	},
+	{
+		"code": "92.11.01.2013",
+		"type": "desa",
+		"name": "MAMBREMA"
+	},
+	{
+		"code": "92.11.02",
+		"type": "kecamatan",
+		"name": "ORANSBARI"
+	},
+	{
+		"code": "92.11.02.2001",
+		"type": "desa",
+		"name": "ORANSBARI"
+	},
+	{
+		"code": "92.11.02.2002",
+		"type": "desa",
+		"name": "SIDOMULYO"
+	},
+	{
+		"code": "92.11.02.2003",
+		"type": "desa",
+		"name": "WAROSER"
+	},
+	{
+		"code": "92.11.02.2004",
+		"type": "desa",
+		"name": "MARGO RUKUN"
+	},
+	{
+		"code": "92.11.02.2005",
+		"type": "desa",
+		"name": "MUARI"
+	},
+	{
+		"code": "92.11.02.2006",
+		"type": "desa",
+		"name": "WATARIRI"
+	},
+	{
+		"code": "92.11.02.2007",
+		"type": "desa",
+		"name": "MASABUI"
+	},
+	{
+		"code": "92.11.02.2008",
+		"type": "desa",
+		"name": "WARBIADI"
+	},
+	{
+		"code": "92.11.02.2009",
+		"type": "desa",
+		"name": "MARGOMULYO"
+	},
+	{
+		"code": "92.11.02.2010",
+		"type": "desa",
+		"name": "WARKWANDI"
+	},
+	{
+		"code": "92.11.02.2011",
+		"type": "desa",
+		"name": "SINDANG JAYA"
+	},
+	{
+		"code": "92.11.02.2012",
+		"type": "desa",
+		"name": "WANDOKI"
+	},
+	{
+		"code": "92.11.02.2013",
+		"type": "desa",
+		"name": "AKEJU"
+	},
+	{
+		"code": "92.11.02.2014",
+		"type": "desa",
+		"name": "MASABUI II"
+	},
+	{
+		"code": "92.11.03",
+		"type": "kecamatan",
+		"name": "NENEY"
+	},
+	{
+		"code": "92.11.03.2001",
+		"type": "desa",
+		"name": "WAMA"
+	},
+	{
+		"code": "92.11.03.2002",
+		"type": "desa",
+		"name": "DISI"
+	},
+	{
+		"code": "92.11.03.2003",
+		"type": "desa",
+		"name": "HIYOU"
+	},
+	{
+		"code": "92.11.03.2004",
+		"type": "desa",
+		"name": "SESUM"
+	},
+	{
+		"code": "92.11.03.2005",
+		"type": "desa",
+		"name": "BENYAS"
+	},
+	{
+		"code": "92.11.03.2006",
+		"type": "desa",
+		"name": "ARYAWENMOHO"
+	},
+	{
+		"code": "92.11.03.2007",
+		"type": "desa",
+		"name": "NENEY"
+	},
+	{
+		"code": "92.11.04",
+		"type": "kecamatan",
+		"name": "DATARAN ISIM"
+	},
+	{
+		"code": "92.11.04.2001",
+		"type": "desa",
+		"name": "ISIM"
+	},
+	{
+		"code": "92.11.04.2002",
+		"type": "desa",
+		"name": "DUHUGESA"
+	},
+	{
+		"code": "92.11.04.2003",
+		"type": "desa",
+		"name": "TUBES"
+	},
+	{
+		"code": "92.11.04.2004",
+		"type": "desa",
+		"name": "UMOHOUSI"
+	},
+	{
+		"code": "92.11.04.2005",
+		"type": "desa",
+		"name": "TOHOSTA"
+	},
+	{
+		"code": "92.11.04.2006",
+		"type": "desa",
+		"name": "HUGOMOT"
+	},
+	{
+		"code": "92.11.04.2007",
+		"type": "desa",
+		"name": "DIHISU"
+	},
+	{
+		"code": "92.11.04.2008",
+		"type": "desa",
+		"name": "INYUARA"
+	},
+	{
+		"code": "92.11.04.2009",
+		"type": "desa",
+		"name": "DESRA"
+	},
+	{
+		"code": "92.11.04.2010",
+		"type": "desa",
+		"name": "MINDERMES"
+	},
+	{
+		"code": "92.11.04.2011",
+		"type": "desa",
+		"name": "SIBJO"
+	},
+	{
+		"code": "92.11.04.2012",
+		"type": "desa",
+		"name": "DIBERA"
+	},
+	{
+		"code": "92.11.05",
+		"type": "kecamatan",
+		"name": "MOMI WAREN"
+	},
+	{
+		"code": "92.11.05.2001",
+		"type": "desa",
+		"name": "DEMBEK"
+	},
+	{
+		"code": "92.11.05.2002",
+		"type": "desa",
+		"name": "NIJ"
+	},
+	{
+		"code": "92.11.05.2003",
+		"type": "desa",
+		"name": "SIWI"
+	},
+	{
+		"code": "92.11.05.2004",
+		"type": "desa",
+		"name": "GAYA BARU"
+	},
+	{
+		"code": "92.11.05.2005",
+		"type": "desa",
+		"name": "WAREN"
+	},
+	{
+		"code": "92.11.05.2006",
+		"type": "desa",
+		"name": "DEMINI"
+	},
+	{
+		"code": "92.11.05.2007",
+		"type": "desa",
+		"name": "YEKWANDI"
+	},
+	{
+		"code": "92.11.06",
+		"type": "kecamatan",
+		"name": "TAHOTA"
+	},
+	{
+		"code": "92.11.06.2001",
+		"type": "desa",
+		"name": "YARMATUM"
+	},
+	{
+		"code": "92.11.06.2002",
+		"type": "desa",
+		"name": "REYOB"
+	},
+	{
+		"code": "92.11.06.2003",
+		"type": "desa",
+		"name": "KAPRUS"
+	},
+	{
+		"code": "92.11.06.2004",
+		"type": "desa",
+		"name": "SEIMEBA"
+	},
+	{
+		"code": "92.12",
+		"type": "kabupaten",
+		"name": "KAB. PEGUNUNGAN ARFAK"
+	},
+	{
+		"code": "92.12.01",
+		"type": "kecamatan",
+		"name": "ANGGI"
+	},
+	{
+		"code": "92.12.01.2001",
+		"type": "desa",
+		"name": "IRAIWERI"
+	},
+	{
+		"code": "92.12.01.2002",
+		"type": "desa",
+		"name": "IGEMBAI"
+	},
+	{
+		"code": "92.12.01.2003",
+		"type": "desa",
+		"name": "IMBAI"
+	},
+	{
+		"code": "92.12.01.2004",
+		"type": "desa",
+		"name": "SUTEIBEY"
+	},
+	{
+		"code": "92.12.01.2005",
+		"type": "desa",
+		"name": "SUSI"
+	},
+	{
+		"code": "92.12.01.2006",
+		"type": "desa",
+		"name": "ULLONG"
+	},
+	{
+		"code": "92.12.01.2007",
+		"type": "desa",
+		"name": "MENTUBEY"
+	},
+	{
+		"code": "92.12.01.2008",
+		"type": "desa",
+		"name": "AYAUBEY"
+	},
+	{
+		"code": "92.12.01.2009",
+		"type": "desa",
+		"name": "TESTEGA PAMAHA"
+	},
+	{
+		"code": "92.12.01.2010",
+		"type": "desa",
+		"name": "PAMAHA"
+	},
+	{
+		"code": "92.12.01.2011",
+		"type": "desa",
+		"name": "UPER"
+	},
+	{
+		"code": "92.12.01.2012",
+		"type": "desa",
+		"name": "HUNGKU"
+	},
+	{
+		"code": "92.12.01.2013",
+		"type": "desa",
+		"name": "SRUBEY"
+	},
+	{
+		"code": "92.12.02",
+		"type": "kecamatan",
+		"name": "ANGGI GIDA"
+	},
+	{
+		"code": "92.12.02.2001",
+		"type": "desa",
+		"name": "SIBIOGUD"
+	},
+	{
+		"code": "92.12.02.2002",
+		"type": "desa",
+		"name": "KROBUT"
+	},
+	{
+		"code": "92.12.02.2003",
+		"type": "desa",
+		"name": "TUBYAM"
+	},
+	{
+		"code": "92.12.02.2004",
+		"type": "desa",
+		"name": "SAKUMI"
+	},
+	{
+		"code": "92.12.02.2005",
+		"type": "desa",
+		"name": "TOMBROK"
+	},
+	{
+		"code": "92.12.02.2006",
+		"type": "desa",
+		"name": "SISRANG"
+	},
+	{
+		"code": "92.12.02.2007",
+		"type": "desa",
+		"name": "NGISROW"
+	},
+	{
+		"code": "92.12.02.2008",
+		"type": "desa",
+		"name": "ITKAU"
+	},
+	{
+		"code": "92.12.03",
+		"type": "kecamatan",
+		"name": "MEMBEY"
+	},
+	{
+		"code": "92.12.03.2001",
+		"type": "desa",
+		"name": "INYEBUOW"
+	},
+	{
+		"code": "92.12.03.2002",
+		"type": "desa",
+		"name": "IMBEISBA"
+	},
+	{
+		"code": "92.12.03.2003",
+		"type": "desa",
+		"name": "USTI"
+	},
+	{
+		"code": "92.12.03.2004",
+		"type": "desa",
+		"name": "MEMTI"
+	},
+	{
+		"code": "92.12.03.2005",
+		"type": "desa",
+		"name": "KONEY"
+	},
+	{
+		"code": "92.12.03.2006",
+		"type": "desa",
+		"name": "MEMBEY"
+	},
+	{
+		"code": "92.12.04",
+		"type": "kecamatan",
+		"name": "SURUREY"
+	},
+	{
+		"code": "92.12.04.2001",
+		"type": "desa",
+		"name": "SURUREY"
+	},
+	{
+		"code": "92.12.04.2002",
+		"type": "desa",
+		"name": "TUHUBEA"
+	},
+	{
+		"code": "92.12.04.2003",
+		"type": "desa",
+		"name": "SUNGEDES"
+	},
+	{
+		"code": "92.12.04.2004",
+		"type": "desa",
+		"name": "INYAUB"
+	},
+	{
+		"code": "92.12.04.2005",
+		"type": "desa",
+		"name": "SAUGEMEBA"
+	},
+	{
+		"code": "92.12.04.2006",
+		"type": "desa",
+		"name": "KOBREY"
+	},
+	{
+		"code": "92.12.04.2007",
+		"type": "desa",
+		"name": "KOPO"
+	},
+	{
+		"code": "92.12.04.2008",
+		"type": "desa",
+		"name": "DUGAHANI"
+	},
+	{
+		"code": "92.12.04.2009",
+		"type": "desa",
+		"name": "TOMSTERA"
+	},
+	{
+		"code": "92.12.04.2010",
+		"type": "desa",
+		"name": "KOSTERA"
+	},
+	{
+		"code": "92.12.04.2011",
+		"type": "desa",
+		"name": "ANUK"
+	},
+	{
+		"code": "92.12.04.2012",
+		"type": "desa",
+		"name": "MENESRIJ"
+	},
+	{
+		"code": "92.12.05",
+		"type": "kecamatan",
+		"name": "DIDOHU"
+	},
+	{
+		"code": "92.12.05.2001",
+		"type": "desa",
+		"name": "IRANMEBA"
+	},
+	{
+		"code": "92.12.05.2002",
+		"type": "desa",
+		"name": "CIRNOHU"
+	},
+	{
+		"code": "92.12.05.2003",
+		"type": "desa",
+		"name": "DIBETIK"
+	},
+	{
+		"code": "92.12.05.2004",
+		"type": "desa",
+		"name": "DANMOU"
+	},
+	{
+		"code": "92.12.05.2005",
+		"type": "desa",
+		"name": "MISEDA"
+	},
+	{
+		"code": "92.12.05.2006",
+		"type": "desa",
+		"name": "SIRGEMEH"
+	},
+	{
+		"code": "92.12.05.2007",
+		"type": "desa",
+		"name": "SNEREMER"
+	},
+	{
+		"code": "92.12.05.2008",
+		"type": "desa",
+		"name": "KUSMENAU"
+	},
+	{
+		"code": "92.12.05.2009",
+		"type": "desa",
+		"name": "CIGERA"
+	},
+	{
+		"code": "92.12.05.2010",
+		"type": "desa",
+		"name": "TOMSTIR"
+	},
+	{
+		"code": "92.12.05.2011",
+		"type": "desa",
+		"name": "GEDEIRA"
+	},
+	{
+		"code": "92.12.05.2012",
+		"type": "desa",
+		"name": "DEMDAMEI"
+	},
+	{
+		"code": "92.12.05.2013",
+		"type": "desa",
+		"name": "DUGRIMOG"
+	},
+	{
+		"code": "92.12.05.2014",
+		"type": "desa",
+		"name": "DISRA"
+	},
+	{
+		"code": "92.12.06",
+		"type": "kecamatan",
+		"name": "TAIGE"
+	},
+	{
+		"code": "92.12.06.2001",
+		"type": "desa",
+		"name": "GENYU"
+	},
+	{
+		"code": "92.12.06.2002",
+		"type": "desa",
+		"name": "ANSUM"
+	},
+	{
+		"code": "92.12.06.2003",
+		"type": "desa",
+		"name": "DEUROHU"
+	},
+	{
+		"code": "92.12.06.2004",
+		"type": "desa",
+		"name": "HORETA"
+	},
+	{
+		"code": "92.12.06.2005",
+		"type": "desa",
+		"name": "UBEISA"
+	},
+	{
+		"code": "92.12.06.2006",
+		"type": "desa",
+		"name": "TAIGE"
+	},
+	{
+		"code": "92.12.06.2007",
+		"type": "desa",
+		"name": "TRIDAGA"
+	},
+	{
+		"code": "92.12.06.2008",
+		"type": "desa",
+		"name": "DISURA"
+	},
+	{
+		"code": "92.12.06.2009",
+		"type": "desa",
+		"name": "AWIGAU"
+	},
+	{
+		"code": "92.12.06.2010",
+		"type": "desa",
+		"name": "SISKEDOWO"
+	},
+	{
+		"code": "92.12.06.2011",
+		"type": "desa",
+		"name": "IRBOS"
+	},
+	{
+		"code": "92.12.07",
+		"type": "kecamatan",
+		"name": "CATUBOUW"
+	},
+	{
+		"code": "92.12.07.2001",
+		"type": "desa",
+		"name": "CATUBOUW"
+	},
+	{
+		"code": "92.12.07.2002",
+		"type": "desa",
+		"name": "BIGWAIMUD"
+	},
+	{
+		"code": "92.12.07.2003",
+		"type": "desa",
+		"name": "MIHOU"
+	},
+	{
+		"code": "92.12.07.2004",
+		"type": "desa",
+		"name": "KAUNGWAM"
+	},
+	{
+		"code": "92.12.07.2005",
+		"type": "desa",
+		"name": "AIGA"
+	},
+	{
+		"code": "92.12.07.2006",
+		"type": "desa",
+		"name": "IMANDRIGO"
+	},
+	{
+		"code": "92.12.07.2007",
+		"type": "desa",
+		"name": "UNTI"
+	},
+	{
+		"code": "92.12.07.2008",
+		"type": "desa",
+		"name": "NDABOUW"
+	},
+	{
+		"code": "92.12.07.2009",
+		"type": "desa",
+		"name": "SUGEMEH"
+	},
+	{
+		"code": "92.12.07.2010",
+		"type": "desa",
+		"name": "MANGGESUK"
+	},
+	{
+		"code": "92.12.07.2011",
+		"type": "desa",
+		"name": "IJIGREG"
+	},
+	{
+		"code": "92.12.07.2012",
+		"type": "desa",
+		"name": "JIM"
+	},
+	{
+		"code": "92.12.07.2013",
+		"type": "desa",
+		"name": "SLOMIOU"
+	},
+	{
+		"code": "92.12.07.2014",
+		"type": "desa",
+		"name": "BINGGRAYUD"
+	},
+	{
+		"code": "92.12.07.2015",
+		"type": "desa",
+		"name": "MINMO"
+	},
+	{
+		"code": "92.12.07.2016",
+		"type": "desa",
+		"name": "MIHIJ"
+	},
+	{
+		"code": "92.12.07.2017",
+		"type": "desa",
+		"name": "SOUDIN"
+	},
+	{
+		"code": "92.12.07.2018",
+		"type": "desa",
+		"name": "TIMTOUW"
+	},
+	{
+		"code": "92.12.07.2019",
+		"type": "desa",
+		"name": "IDEMAI"
+	},
+	{
+		"code": "92.12.07.2020",
+		"type": "desa",
+		"name": "MIEYCOMTI"
+	},
+	{
+		"code": "92.12.07.2021",
+		"type": "desa",
+		"name": "COIJUT"
+	},
+	{
+		"code": "92.12.08",
+		"type": "kecamatan",
+		"name": "TESTEGA"
+	},
+	{
+		"code": "92.12.08.2001",
+		"type": "desa",
+		"name": "TESTEGA"
+	},
+	{
+		"code": "92.12.08.2002",
+		"type": "desa",
+		"name": "MEIDOGDA"
+	},
+	{
+		"code": "92.12.08.2003",
+		"type": "desa",
+		"name": "MEIFEKENI"
+	},
+	{
+		"code": "92.12.08.2004",
+		"type": "desa",
+		"name": "DEMUORA"
+	},
+	{
+		"code": "92.12.08.2005",
+		"type": "desa",
+		"name": "JIGJA"
+	},
+	{
+		"code": "92.12.08.2006",
+		"type": "desa",
+		"name": "MEIGEHENAWU"
+	},
+	{
+		"code": "92.12.08.2007",
+		"type": "desa",
+		"name": "MORUMFEYI"
+	},
+	{
+		"code": "92.12.08.2008",
+		"type": "desa",
+		"name": "IBA"
+	},
+	{
+		"code": "92.12.08.2009",
+		"type": "desa",
+		"name": "MEIMERSA"
+	},
+	{
+		"code": "92.12.08.2010",
+		"type": "desa",
+		"name": "MEIFOWOSKA"
+	},
+	{
+		"code": "92.12.08.2011",
+		"type": "desa",
+		"name": "MEIJUGJIJIGJA"
+	},
+	{
+		"code": "92.12.08.2012",
+		"type": "desa",
+		"name": "MEIFOKEDA"
+	},
+	{
+		"code": "92.12.08.2013",
+		"type": "desa",
+		"name": "DUMBREY"
+	},
+	{
+		"code": "92.12.08.2014",
+		"type": "desa",
+		"name": "MEKSI"
+	},
+	{
+		"code": "92.12.08.2015",
+		"type": "desa",
+		"name": "ASAI DUA"
+	},
+	{
+		"code": "92.12.09",
+		"type": "kecamatan",
+		"name": "MINYAMBAOUW"
+	},
+	{
+		"code": "92.12.09.2001",
+		"type": "desa",
+		"name": "MINYAMBOUW"
+	},
+	{
+		"code": "92.12.09.2002",
+		"type": "desa",
+		"name": "DEMAISI"
+	},
+	{
+		"code": "92.12.09.2003",
+		"type": "desa",
+		"name": "AWAIBEHEL"
+	},
+	{
+		"code": "92.12.09.2004",
+		"type": "desa",
+		"name": "INDABRI"
+	},
+	{
+		"code": "92.12.09.2005",
+		"type": "desa",
+		"name": "COISI"
+	},
+	{
+		"code": "92.12.09.2006",
+		"type": "desa",
+		"name": "IMBENTI"
+	},
+	{
+		"code": "92.12.09.2007",
+		"type": "desa",
+		"name": "SIGIM"
+	},
+	{
+		"code": "92.12.09.2008",
+		"type": "desa",
+		"name": "IMBONGGUN"
+	},
+	{
+		"code": "92.12.09.2009",
+		"type": "desa",
+		"name": "ADUER"
+	},
+	{
+		"code": "92.12.09.2010",
+		"type": "desa",
+		"name": "UGJEHEG"
+	},
+	{
+		"code": "92.12.09.2011",
+		"type": "desa",
+		"name": "MICADIWOR"
+	},
+	{
+		"code": "92.12.09.2012",
+		"type": "desa",
+		"name": "UNGGA"
+	},
+	{
+		"code": "92.12.09.2013",
+		"type": "desa",
+		"name": "MITIEDE"
+	},
+	{
+		"code": "92.12.09.2014",
+		"type": "desa",
+		"name": "SIMERBEI"
+	},
+	{
+		"code": "92.12.09.2015",
+		"type": "desa",
+		"name": "DRIYE"
+	},
+	{
+		"code": "92.12.09.2016",
+		"type": "desa",
+		"name": "WAMMINDA"
+	},
+	{
+		"code": "92.12.09.2017",
+		"type": "desa",
+		"name": "UMPUG"
+	},
+	{
+		"code": "92.12.09.2018",
+		"type": "desa",
+		"name": "HANDUK"
+	},
+	{
+		"code": "92.12.09.2019",
+		"type": "desa",
+		"name": "NINSIMOI"
+	},
+	{
+		"code": "92.12.09.2020",
+		"type": "desa",
+		"name": "ANGGRA"
+	},
+	{
+		"code": "92.12.09.2021",
+		"type": "desa",
+		"name": "INGGRAMHIM"
+	},
+	{
+		"code": "92.12.09.2022",
+		"type": "desa",
+		"name": "MBINGMA"
+	},
+	{
+		"code": "92.12.09.2023",
+		"type": "desa",
+		"name": "INJUAR"
+	},
+	{
+		"code": "92.12.09.2024",
+		"type": "desa",
+		"name": "APUL"
+	},
+	{
+		"code": "92.12.09.2025",
+		"type": "desa",
+		"name": "MEMANGKER"
+	},
+	{
+		"code": "92.12.09.2026",
+		"type": "desa",
+		"name": "MAINDA"
+	},
+	{
+		"code": "92.12.09.2027",
+		"type": "desa",
+		"name": "IMBREKTI"
+	},
+	{
+		"code": "92.12.09.2028",
+		"type": "desa",
+		"name": "IPINGOSI"
+	},
+	{
+		"code": "92.12.09.2029",
+		"type": "desa",
+		"name": "PINYAUSI"
+	},
+	{
+		"code": "92.12.09.2030",
+		"type": "desa",
+		"name": "SINALTOUSI"
+	},
+	{
+		"code": "92.12.09.2031",
+		"type": "desa",
+		"name": "MISANGOISI"
+	},
+	{
+		"code": "92.12.09.2032",
+		"type": "desa",
+		"name": "SMANGGEI"
+	},
+	{
+		"code": "92.12.09.2033",
+		"type": "desa",
+		"name": "NIMBIAU"
+	},
+	{
+		"code": "92.12.09.2034",
+		"type": "desa",
+		"name": "BINGWOYUT"
+	},
+	{
+		"code": "92.12.09.2035",
+		"type": "desa",
+		"name": "AYAU"
+	},
+	{
+		"code": "92.12.09.2036",
+		"type": "desa",
+		"name": "ANDANG"
+	},
+	{
+		"code": "92.12.09.2039",
+		"type": "desa",
+		"name": "MICONTI"
+	},
+	{
+		"code": "92.12.10",
+		"type": "kecamatan",
+		"name": "HINGK"
+	},
+	{
+		"code": "92.12.10.2001",
+		"type": "desa",
+		"name": "SOPNYAI"
+	},
+	{
+		"code": "92.12.10.2002",
+		"type": "desa",
+		"name": "IKIMABOU"
+	},
+	{
+		"code": "92.12.10.2003",
+		"type": "desa",
+		"name": "MANGGOT"
+	},
+	{
+		"code": "92.12.10.2004",
+		"type": "desa",
+		"name": "KISAP"
+	},
+	{
+		"code": "92.12.10.2005",
+		"type": "desa",
+		"name": "NUNGKIMOR"
+	},
+	{
+		"code": "92.12.10.2006",
+		"type": "desa",
+		"name": "CANGOISI"
+	},
+	{
+		"code": "92.12.10.2007",
+		"type": "desa",
+		"name": "MINYEIMEMUD"
+	},
+	{
+		"code": "92.12.10.2008",
+		"type": "desa",
+		"name": "PENIBUT"
+	},
+	{
+		"code": "92.12.10.2009",
+		"type": "desa",
+		"name": "DEMUNTI"
+	},
+	{
+		"code": "92.12.10.2010",
+		"type": "desa",
+		"name": "GUEIPIMBAI"
+	},
+	{
+		"code": "92.12.10.2011",
+		"type": "desa",
+		"name": "TIGAUCOMTI"
+	},
+	{
+		"code": "92.12.10.2012",
+		"type": "desa",
+		"name": "URWONG"
+	},
+	{
+		"code": "92.12.10.2013",
+		"type": "desa",
+		"name": "ARYON"
+	},
+	{
+		"code": "92.12.10.2014",
+		"type": "desa",
+		"name": "PUNGGUNG"
+	},
+	{
+		"code": "92.12.10.2015",
+		"type": "desa",
+		"name": "HUMEISI"
+	},
+	{
+		"code": "92.12.10.2016",
+		"type": "desa",
+		"name": "HAKTIEBOU"
+	},
+	{
+		"code": "92.12.10.2017",
+		"type": "desa",
+		"name": "KWOK SATU"
+	},
+	{
+		"code": "92.12.10.2018",
+		"type": "desa",
+		"name": "KWOK DUA"
+	},
+	{
+		"code": "92.12.10.2019",
+		"type": "desa",
+		"name": "KWAIYEHEP"
+	},
+	{
+		"code": "92.12.10.2020",
+		"type": "desa",
+		"name": "MBEGAU"
+	},
+	{
+		"code": "92.12.10.2021",
+		"type": "desa",
+		"name": "NGIMOUBRI"
+	},
+	{
+		"code": "92.12.10.2022",
+		"type": "desa",
+		"name": "LIEHAK"
+	},
+	{
+		"code": "92.12.10.2023",
+		"type": "desa",
+		"name": "UMCEP"
+	},
+	{
+		"code": "92.12.10.2024",
+		"type": "desa",
+		"name": "TUMBEIBEHEI"
+	},
+	{
+		"code": "92.12.10.2025",
+		"type": "desa",
+		"name": "TINGWOIKIOU"
+	},
+	{
+		"code": "92.12.10.2026",
+		"type": "desa",
+		"name": "GUWEI UTI"
+	},
+	{
+		"code": "92.12.10.2027",
+		"type": "desa",
+		"name": "NTAP"
+	},
+	{
+		"code": "92.12.10.2028",
+		"type": "desa",
+		"name": "MONUT"
+	},
+	{
+		"code": "92.12.10.2029",
+		"type": "desa",
+		"name": "MBRANDE"
+	},
+	{
+		"code": "92.71",
+		"type": "kabupaten",
+		"name": "KOTA SORONG"
+	},
+	{
+		"code": "92.71.01",
+		"type": "kecamatan",
+		"name": "SORONG"
+	},
+	{
+		"code": "92.71.01.1001",
+		"type": "kelurahan",
+		"name": "REMU UTARA"
+	},
+	{
+		"code": "92.71.01.1002",
+		"type": "kelurahan",
+		"name": "KLADEMAK"
+	},
+	{
+		"code": "92.71.01.1007",
+		"type": "kelurahan",
+		"name": "KOFKERBU"
+	},
+	{
+		"code": "92.71.01.1008",
+		"type": "kelurahan",
+		"name": "REMU"
+	},
+	{
+		"code": "92.71.02",
+		"type": "kecamatan",
+		"name": "SORONG TIMUR"
+	},
+	{
+		"code": "92.71.02.1008",
+		"type": "kelurahan",
+		"name": "KLAWALU"
+	},
+	{
+		"code": "92.71.02.1010",
+		"type": "kelurahan",
+		"name": "KLAMANA"
+	},
+	{
+		"code": "92.71.02.1011",
+		"type": "kelurahan",
+		"name": "KLAWUYUK"
+	},
+	{
+		"code": "92.71.02.1013",
+		"type": "kelurahan",
+		"name": "KLADUFU"
+	},
+	{
+		"code": "92.71.03",
+		"type": "kecamatan",
+		"name": "SORONG BARAT"
+	},
+	{
+		"code": "92.71.03.1002",
+		"type": "kelurahan",
+		"name": "RUFEI"
+	},
+	{
+		"code": "92.71.03.1005",
+		"type": "kelurahan",
+		"name": "KLAWASI"
+	},
+	{
+		"code": "92.71.03.1006",
+		"type": "kelurahan",
+		"name": "PUNCAK CENDRAWASIH"
+	},
+	{
+		"code": "92.71.03.1007",
+		"type": "kelurahan",
+		"name": "PAL PUTIH"
+	},
+	{
+		"code": "92.71.04",
+		"type": "kecamatan",
+		"name": "SORONG KEPULAUAN"
+	},
+	{
+		"code": "92.71.04.1001",
+		"type": "kelurahan",
+		"name": "DUM BARAT"
+	},
+	{
+		"code": "92.71.04.1002",
+		"type": "kelurahan",
+		"name": "DUM TIMUR"
+	},
+	{
+		"code": "92.71.04.1003",
+		"type": "kelurahan",
+		"name": "SOOP"
+	},
+	{
+		"code": "92.71.04.1004",
+		"type": "kelurahan",
+		"name": "RAAM"
+	},
+	{
+		"code": "92.71.05",
+		"type": "kecamatan",
+		"name": "SORONG UTARA"
+	},
+	{
+		"code": "92.71.05.1002",
+		"type": "kelurahan",
+		"name": "MALANU"
+	},
+	{
+		"code": "92.71.05.1007",
+		"type": "kelurahan",
+		"name": "MALASILEN"
+	},
+	{
+		"code": "92.71.05.1008",
+		"type": "kelurahan",
+		"name": "MALAMSO"
+	},
+	{
+		"code": "92.71.05.1009",
+		"type": "kelurahan",
+		"name": "KLABULU"
+	},
+	{
+		"code": "92.71.06",
+		"type": "kecamatan",
+		"name": "SORONG MANOI"
+	},
+	{
+		"code": "92.71.06.1001",
+		"type": "kelurahan",
+		"name": "KLALIGI"
+	},
+	{
+		"code": "92.71.06.1002",
+		"type": "kelurahan",
+		"name": "MALAWEI"
+	},
+	{
+		"code": "92.71.06.1003",
+		"type": "kelurahan",
+		"name": "MALABUTOR"
+	},
+	{
+		"code": "92.71.06.1004",
+		"type": "kelurahan",
+		"name": "REMU SELATAN"
+	},
+	{
+		"code": "92.71.06.1005",
+		"type": "kelurahan",
+		"name": "KLASABI"
+	},
+	{
+		"code": "92.71.07",
+		"type": "kecamatan",
+		"name": "SORONG KOTA"
+	},
+	{
+		"code": "92.71.07.1001",
+		"type": "kelurahan",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "92.71.07.1002",
+		"type": "kelurahan",
+		"name": "KLABALA"
+	},
+	{
+		"code": "92.71.07.1003",
+		"type": "kelurahan",
+		"name": "KLASUUR"
+	},
+	{
+		"code": "92.71.07.1004",
+		"type": "kelurahan",
+		"name": "KLAKUBLIK"
+	},
+	{
+		"code": "92.71.08",
+		"type": "kecamatan",
+		"name": "KLAURUNG"
+	},
+	{
+		"code": "92.71.08.1001",
+		"type": "kelurahan",
+		"name": "KLASUAT"
+	},
+	{
+		"code": "92.71.08.1002",
+		"type": "kelurahan",
+		"name": "KLABLIM"
+	},
+	{
+		"code": "92.71.08.1003",
+		"type": "kelurahan",
+		"name": "KLASAMAN"
+	},
+	{
+		"code": "92.71.08.1004",
+		"type": "kelurahan",
+		"name": "GIWU"
+	},
+	{
+		"code": "92.71.09",
+		"type": "kecamatan",
+		"name": "MALAIMSIMSA"
+	},
+	{
+		"code": "92.71.09.1001",
+		"type": "kelurahan",
+		"name": "KLAGETE"
+	},
+	{
+		"code": "92.71.09.1002",
+		"type": "kelurahan",
+		"name": "MATALAMAGI"
+	},
+	{
+		"code": "92.71.09.1003",
+		"type": "kelurahan",
+		"name": "SAWAGUMU"
+	},
+	{
+		"code": "92.71.09.1004",
+		"type": "kelurahan",
+		"name": "MALAINGKEDI"
+	},
+	{
+		"code": "92.71.10",
+		"type": "kecamatan",
+		"name": "MALADUM MES"
+	},
+	{
+		"code": "92.71.10.1001",
+		"type": "kelurahan",
+		"name": "SUPRAU"
+	},
+	{
+		"code": "92.71.10.1002",
+		"type": "kelurahan",
+		"name": "TAMPA GARAM"
+	},
+	{
+		"code": "92.71.10.1003",
+		"type": "kelurahan",
+		"name": "SAOKA"
+	},
+	{
+		"code": "92.71.10.1004",
+		"type": "kelurahan",
+		"name": "TANJUNG KASUARI"
+	}
+]

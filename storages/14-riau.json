@@ -1,0 +1,10057 @@
+[
+	{
+		"code": "14",
+		"type": "provinsi",
+		"name": "RIAU"
+	},
+	{
+		"code": "14.01",
+		"type": "kabupaten",
+		"name": "KAB. KAMPAR"
+	},
+	{
+		"code": "14.01.01",
+		"type": "kecamatan",
+		"name": "BANGKINANG KOTA"
+	},
+	{
+		"code": "14.01.01.1011",
+		"type": "kelurahan",
+		"name": "BANGKINANG"
+	},
+	{
+		"code": "14.01.01.1013",
+		"type": "kelurahan",
+		"name": "LANGGINI"
+	},
+	{
+		"code": "14.01.01.2009",
+		"type": "desa",
+		"name": "KUMANTAN"
+	},
+	{
+		"code": "14.01.01.2010",
+		"type": "desa",
+		"name": "RIDAN PERMAI"
+	},
+	{
+		"code": "14.01.02",
+		"type": "kecamatan",
+		"name": "KAMPAR"
+	},
+	{
+		"code": "14.01.02.1027",
+		"type": "kelurahan",
+		"name": "AIR TIRIS"
+	},
+	{
+		"code": "14.01.02.2001",
+		"type": "desa",
+		"name": "BATU BELAH"
+	},
+	{
+		"code": "14.01.02.2003",
+		"type": "desa",
+		"name": "TANJUNG BERULAK"
+	},
+	{
+		"code": "14.01.02.2006",
+		"type": "desa",
+		"name": "RANAH"
+	},
+	{
+		"code": "14.01.02.2007",
+		"type": "desa",
+		"name": "PENYASAWAN"
+	},
+	{
+		"code": "14.01.02.2008",
+		"type": "desa",
+		"name": "RUMBIO"
+	},
+	{
+		"code": "14.01.02.2013",
+		"type": "desa",
+		"name": "PADANG MUTUNG"
+	},
+	{
+		"code": "14.01.02.2023",
+		"type": "desa",
+		"name": "PULAU JAMBU"
+	},
+	{
+		"code": "14.01.02.2024",
+		"type": "desa",
+		"name": "TJ. RAMBUTAN"
+	},
+	{
+		"code": "14.01.02.2025",
+		"type": "desa",
+		"name": "SIMPANG KUBU"
+	},
+	{
+		"code": "14.01.02.2028",
+		"type": "desa",
+		"name": "LIMAU MANIS"
+	},
+	{
+		"code": "14.01.02.2030",
+		"type": "desa",
+		"name": "NAUMBAI"
+	},
+	{
+		"code": "14.01.02.2031",
+		"type": "desa",
+		"name": "PULAUTINGGI"
+	},
+	{
+		"code": "14.01.02.2032",
+		"type": "desa",
+		"name": "RANAH BARU"
+	},
+	{
+		"code": "14.01.02.2033",
+		"type": "desa",
+		"name": "BUKITRANAH"
+	},
+	{
+		"code": "14.01.02.2034",
+		"type": "desa",
+		"name": "PULAUSARAK"
+	},
+	{
+		"code": "14.01.02.2035",
+		"type": "desa",
+		"name": "KOTO TIBUN"
+	},
+	{
+		"code": "14.01.02.2036",
+		"type": "desa",
+		"name": "RANAH SINGKUANG"
+	},
+	{
+		"code": "14.01.03",
+		"type": "kecamatan",
+		"name": "TAMBANG"
+	},
+	{
+		"code": "14.01.03.2001",
+		"type": "desa",
+		"name": "TAMBANG"
+	},
+	{
+		"code": "14.01.03.2002",
+		"type": "desa",
+		"name": "KUAPAN"
+	},
+	{
+		"code": "14.01.03.2003",
+		"type": "desa",
+		"name": "GOBAH"
+	},
+	{
+		"code": "14.01.03.2004",
+		"type": "desa",
+		"name": "TELUK KENIDAI"
+	},
+	{
+		"code": "14.01.03.2005",
+		"type": "desa",
+		"name": "AURSATI"
+	},
+	{
+		"code": "14.01.03.2006",
+		"type": "desa",
+		"name": "PADANG LUAS"
+	},
+	{
+		"code": "14.01.03.2007",
+		"type": "desa",
+		"name": "TERANTANG"
+	},
+	{
+		"code": "14.01.03.2008",
+		"type": "desa",
+		"name": "KUALU"
+	},
+	{
+		"code": "14.01.03.2009",
+		"type": "desa",
+		"name": "RIMBO PANJANG"
+	},
+	{
+		"code": "14.01.03.2010",
+		"type": "desa",
+		"name": "PARIT BARU"
+	},
+	{
+		"code": "14.01.03.2011",
+		"type": "desa",
+		"name": "KEMANG INDAH"
+	},
+	{
+		"code": "14.01.03.2012",
+		"type": "desa",
+		"name": "KUALU NENAS"
+	},
+	{
+		"code": "14.01.03.2013",
+		"type": "desa",
+		"name": "TARAI BANGUN"
+	},
+	{
+		"code": "14.01.03.2014",
+		"type": "desa",
+		"name": "SUNGAI PINANG"
+	},
+	{
+		"code": "14.01.03.2015",
+		"type": "desa",
+		"name": "BALAM JAYA"
+	},
+	{
+		"code": "14.01.03.2016",
+		"type": "desa",
+		"name": "PULAUPERMAI"
+	},
+	{
+		"code": "14.01.03.2017",
+		"type": "desa",
+		"name": "PALUNGRAYA"
+	},
+	{
+		"code": "14.01.04",
+		"type": "kecamatan",
+		"name": "XIII KOTO KAMPAR"
+	},
+	{
+		"code": "14.01.04.1018",
+		"type": "kelurahan",
+		"name": "BATU BERSURAT"
+	},
+	{
+		"code": "14.01.04.2004",
+		"type": "desa",
+		"name": "GUNUNG BUNGSU"
+	},
+	{
+		"code": "14.01.04.2005",
+		"type": "desa",
+		"name": "KOTO TUO"
+	},
+	{
+		"code": "14.01.04.2006",
+		"type": "desa",
+		"name": "BALUNG"
+	},
+	{
+		"code": "14.01.04.2007",
+		"type": "desa",
+		"name": "MUARA TAKUS"
+	},
+	{
+		"code": "14.01.04.2010",
+		"type": "desa",
+		"name": "PULAU GADANG"
+	},
+	{
+		"code": "14.01.04.2011",
+		"type": "desa",
+		"name": "TANJUNG ALAI"
+	},
+	{
+		"code": "14.01.04.2012",
+		"type": "desa",
+		"name": "RANAH SUNGKAI"
+	},
+	{
+		"code": "14.01.04.2013",
+		"type": "desa",
+		"name": "LUBUK AGUNG"
+	},
+	{
+		"code": "14.01.04.2014",
+		"type": "desa",
+		"name": "KOTO MESJID"
+	},
+	{
+		"code": "14.01.04.2016",
+		"type": "desa",
+		"name": "PONGKAI ISTIQOMAH"
+	},
+	{
+		"code": "14.01.04.2017",
+		"type": "desa",
+		"name": "BINAMANG"
+	},
+	{
+		"code": "14.01.04.2019",
+		"type": "desa",
+		"name": "KOTO TUO BARAT"
+	},
+	{
+		"code": "14.01.05",
+		"type": "kecamatan",
+		"name": "KUOK"
+	},
+	{
+		"code": "14.01.05.2001",
+		"type": "desa",
+		"name": "KUOK"
+	},
+	{
+		"code": "14.01.05.2005",
+		"type": "desa",
+		"name": "MERANGIN"
+	},
+	{
+		"code": "14.01.05.2006",
+		"type": "desa",
+		"name": "EMPAT BALAI"
+	},
+	{
+		"code": "14.01.05.2007",
+		"type": "desa",
+		"name": "PULAU JAMBU"
+	},
+	{
+		"code": "14.01.05.2008",
+		"type": "desa",
+		"name": "SILAM"
+	},
+	{
+		"code": "14.01.05.2010",
+		"type": "desa",
+		"name": "BUKIT MELINTANG"
+	},
+	{
+		"code": "14.01.05.2011",
+		"type": "desa",
+		"name": "PULAUTARAP"
+	},
+	{
+		"code": "14.01.05.2012",
+		"type": "desa",
+		"name": "LERENG"
+	},
+	{
+		"code": "14.01.05.2013",
+		"type": "desa",
+		"name": "BATULANGKA KECIL"
+	},
+	{
+		"code": "14.01.06",
+		"type": "kecamatan",
+		"name": "SIAK HULU"
+	},
+	{
+		"code": "14.01.06.2001",
+		"type": "desa",
+		"name": "PANGKALAN BARU"
+	},
+	{
+		"code": "14.01.06.2002",
+		"type": "desa",
+		"name": "DESA BARU"
+	},
+	{
+		"code": "14.01.06.2003",
+		"type": "desa",
+		"name": "TERATAK BULUH"
+	},
+	{
+		"code": "14.01.06.2005",
+		"type": "desa",
+		"name": "LUBUK SIAM"
+	},
+	{
+		"code": "14.01.06.2006",
+		"type": "desa",
+		"name": "BULUH CINA"
+	},
+	{
+		"code": "14.01.06.2007",
+		"type": "desa",
+		"name": "BULUH NIPIS"
+	},
+	{
+		"code": "14.01.06.2011",
+		"type": "desa",
+		"name": "TANAH MERAH"
+	},
+	{
+		"code": "14.01.06.2012",
+		"type": "desa",
+		"name": "PANDAU JAYA"
+	},
+	{
+		"code": "14.01.06.2013",
+		"type": "desa",
+		"name": "TANJUNG BALAM"
+	},
+	{
+		"code": "14.01.06.2014",
+		"type": "desa",
+		"name": "KAPAU JAYA"
+	},
+	{
+		"code": "14.01.06.2015",
+		"type": "desa",
+		"name": "PANGKALAN SERIK"
+	},
+	{
+		"code": "14.01.06.2016",
+		"type": "desa",
+		"name": "KUBANG JAYA"
+	},
+	{
+		"code": "14.01.07",
+		"type": "kecamatan",
+		"name": "KAMPAR KIRI"
+	},
+	{
+		"code": "14.01.07.1027",
+		"type": "kelurahan",
+		"name": "LIPAT KAIN"
+	},
+	{
+		"code": "14.01.07.2003",
+		"type": "desa",
+		"name": "KUNTU"
+	},
+	{
+		"code": "14.01.07.2004",
+		"type": "desa",
+		"name": "PADANG SAWAH"
+	},
+	{
+		"code": "14.01.07.2005",
+		"type": "desa",
+		"name": "DOMO"
+	},
+	{
+		"code": "14.01.07.2006",
+		"type": "desa",
+		"name": "IV KOTO SETINGKAI"
+	},
+	{
+		"code": "14.01.07.2008",
+		"type": "desa",
+		"name": "TELUK PAMAN"
+	},
+	{
+		"code": "14.01.07.2013",
+		"type": "desa",
+		"name": "SUNGAI GIRINGGING"
+	},
+	{
+		"code": "14.01.07.2016",
+		"type": "desa",
+		"name": "SUNGAI PAKU"
+	},
+	{
+		"code": "14.01.07.2019",
+		"type": "desa",
+		"name": "MUARA SELAYAH"
+	},
+	{
+		"code": "14.01.07.2020",
+		"type": "desa",
+		"name": "SUNGAI RAMBAI"
+	},
+	{
+		"code": "14.01.07.2021",
+		"type": "desa",
+		"name": "TANJUNG HARAPAN"
+	},
+	{
+		"code": "14.01.07.2023",
+		"type": "desa",
+		"name": "SUNGAI RAJA"
+	},
+	{
+		"code": "14.01.07.2026",
+		"type": "desa",
+		"name": "SUNGAI SARIK"
+	},
+	{
+		"code": "14.01.07.2028",
+		"type": "desa",
+		"name": "LIPAT KAIN UTARA"
+	},
+	{
+		"code": "14.01.07.2029",
+		"type": "desa",
+		"name": "LIPAT KAIN SELATAN"
+	},
+	{
+		"code": "14.01.07.2030",
+		"type": "desa",
+		"name": "KUNTU DARUSSALAM"
+	},
+	{
+		"code": "14.01.07.2031",
+		"type": "desa",
+		"name": "TANJUNGMAS"
+	},
+	{
+		"code": "14.01.07.2032",
+		"type": "desa",
+		"name": "SUNGAIHARAPAN"
+	},
+	{
+		"code": "14.01.07.2033",
+		"type": "desa",
+		"name": "SUNGAILITI"
+	},
+	{
+		"code": "14.01.07.2034",
+		"type": "desa",
+		"name": "TELUKPAMAN TIMUR"
+	},
+	{
+		"code": "14.01.08",
+		"type": "kecamatan",
+		"name": "KAMPAR KIRI HILIR"
+	},
+	{
+		"code": "14.01.08.1001",
+		"type": "kelurahan",
+		"name": "SUNGAI PAGAR"
+	},
+	{
+		"code": "14.01.08.2002",
+		"type": "desa",
+		"name": "MENTULIK"
+	},
+	{
+		"code": "14.01.08.2003",
+		"type": "desa",
+		"name": "SUNGAI SMP. DUA"
+	},
+	{
+		"code": "14.01.08.2004",
+		"type": "desa",
+		"name": "SUNGAI BUNGO"
+	},
+	{
+		"code": "14.01.08.2005",
+		"type": "desa",
+		"name": "RANTAU KASIH"
+	},
+	{
+		"code": "14.01.08.2006",
+		"type": "desa",
+		"name": "SUNGAI PETAI"
+	},
+	{
+		"code": "14.01.08.2007",
+		"type": "desa",
+		"name": "GADING PERMAI"
+	},
+	{
+		"code": "14.01.08.2008",
+		"type": "desa",
+		"name": "BANGUN SARI"
+	},
+	{
+		"code": "14.01.09",
+		"type": "kecamatan",
+		"name": "KAMPAR KIRI HULU"
+	},
+	{
+		"code": "14.01.09.2001",
+		"type": "desa",
+		"name": "GEMA"
+	},
+	{
+		"code": "14.01.09.2002",
+		"type": "desa",
+		"name": "TANJUNG BELIT"
+	},
+	{
+		"code": "14.01.09.2003",
+		"type": "desa",
+		"name": "TANJUNG BELIT SELATAN"
+	},
+	{
+		"code": "14.01.09.2004",
+		"type": "desa",
+		"name": "KOTO LAMA"
+	},
+	{
+		"code": "14.01.09.2005",
+		"type": "desa",
+		"name": "BATU SANGGAN"
+	},
+	{
+		"code": "14.01.09.2006",
+		"type": "desa",
+		"name": "AUR KUNING"
+	},
+	{
+		"code": "14.01.09.2007",
+		"type": "desa",
+		"name": "LUDAI"
+	},
+	{
+		"code": "14.01.09.2008",
+		"type": "desa",
+		"name": "TANJUNG KARANG"
+	},
+	{
+		"code": "14.01.09.2009",
+		"type": "desa",
+		"name": "BATU SASAK"
+	},
+	{
+		"code": "14.01.09.2010",
+		"type": "desa",
+		"name": "PANGKALAN KAPAS"
+	},
+	{
+		"code": "14.01.09.2011",
+		"type": "desa",
+		"name": "KEBUN TINGGI"
+	},
+	{
+		"code": "14.01.09.2012",
+		"type": "desa",
+		"name": "TANJUNG BERINGIN"
+	},
+	{
+		"code": "14.01.09.2013",
+		"type": "desa",
+		"name": "GAJAH BETALUT"
+	},
+	{
+		"code": "14.01.09.2014",
+		"type": "desa",
+		"name": "DANAU SONTUL"
+	},
+	{
+		"code": "14.01.09.2015",
+		"type": "desa",
+		"name": "PANGKALAN SERAI"
+	},
+	{
+		"code": "14.01.09.2016",
+		"type": "desa",
+		"name": "DUA SEPAKAT"
+	},
+	{
+		"code": "14.01.09.2017",
+		"type": "desa",
+		"name": "TERUSAN"
+	},
+	{
+		"code": "14.01.09.2018",
+		"type": "desa",
+		"name": "DERAS TAJAK"
+	},
+	{
+		"code": "14.01.09.2019",
+		"type": "desa",
+		"name": "SUNGAI SANTI"
+	},
+	{
+		"code": "14.01.09.2020",
+		"type": "desa",
+		"name": "SUBAYANG JAYA"
+	},
+	{
+		"code": "14.01.09.2021",
+		"type": "desa",
+		"name": "TANJUNG PERMAI"
+	},
+	{
+		"code": "14.01.09.2022",
+		"type": "desa",
+		"name": "BUKITBETUNG"
+	},
+	{
+		"code": "14.01.09.2023",
+		"type": "desa",
+		"name": "MUAROBIO"
+	},
+	{
+		"code": "14.01.09.2024",
+		"type": "desa",
+		"name": "LUBUK BINGAU"
+	},
+	{
+		"code": "14.01.10",
+		"type": "kecamatan",
+		"name": "TAPUNG"
+	},
+	{
+		"code": "14.01.10.2001",
+		"type": "desa",
+		"name": "PETAPAHAN"
+	},
+	{
+		"code": "14.01.10.2002",
+		"type": "desa",
+		"name": "PANTAI CERMIN"
+	},
+	{
+		"code": "14.01.10.2003",
+		"type": "desa",
+		"name": "PETAHAPAN JAYA"
+	},
+	{
+		"code": "14.01.10.2004",
+		"type": "desa",
+		"name": "MUKTI SARI"
+	},
+	{
+		"code": "14.01.10.2005",
+		"type": "desa",
+		"name": "SUNGAI PUTIH"
+	},
+	{
+		"code": "14.01.10.2006",
+		"type": "desa",
+		"name": "INDRA SAKTI"
+	},
+	{
+		"code": "14.01.10.2007",
+		"type": "desa",
+		"name": "GADING SARI"
+	},
+	{
+		"code": "14.01.10.2008",
+		"type": "desa",
+		"name": "SUMBER MAKMUR"
+	},
+	{
+		"code": "14.01.10.2009",
+		"type": "desa",
+		"name": "PANCURAN GADING"
+	},
+	{
+		"code": "14.01.10.2010",
+		"type": "desa",
+		"name": "SARI GALUH"
+	},
+	{
+		"code": "14.01.10.2011",
+		"type": "desa",
+		"name": "TRI MANUNGGAL"
+	},
+	{
+		"code": "14.01.10.2012",
+		"type": "desa",
+		"name": "AIR TERBIT"
+	},
+	{
+		"code": "14.01.10.2013",
+		"type": "desa",
+		"name": "TANJUNG SAWIT"
+	},
+	{
+		"code": "14.01.10.2014",
+		"type": "desa",
+		"name": "PAGARUYUNG"
+	},
+	{
+		"code": "14.01.10.2015",
+		"type": "desa",
+		"name": "SIBUAK"
+	},
+	{
+		"code": "14.01.10.2016",
+		"type": "desa",
+		"name": "PELAMBAYAN"
+	},
+	{
+		"code": "14.01.10.2017",
+		"type": "desa",
+		"name": "KENANTAN"
+	},
+	{
+		"code": "14.01.10.2018",
+		"type": "desa",
+		"name": "INDRAPURI"
+	},
+	{
+		"code": "14.01.10.2019",
+		"type": "desa",
+		"name": "SUNGAI LAMBU MAKMUR"
+	},
+	{
+		"code": "14.01.10.2020",
+		"type": "desa",
+		"name": "MUARA MAHAT BARU"
+	},
+	{
+		"code": "14.01.10.2021",
+		"type": "desa",
+		"name": "KARYA INDAH"
+	},
+	{
+		"code": "14.01.10.2022",
+		"type": "desa",
+		"name": "KIJANG REJO"
+	},
+	{
+		"code": "14.01.10.2023",
+		"type": "desa",
+		"name": "SUNGAI AGUNG"
+	},
+	{
+		"code": "14.01.10.2024",
+		"type": "desa",
+		"name": "BENCAH KELUBI"
+	},
+	{
+		"code": "14.01.10.2025",
+		"type": "desa",
+		"name": "BATUGAJAH"
+	},
+	{
+		"code": "14.01.11",
+		"type": "kecamatan",
+		"name": "TAPUNG HILIR"
+	},
+	{
+		"code": "14.01.11.2001",
+		"type": "desa",
+		"name": "KOTA GARO"
+	},
+	{
+		"code": "14.01.11.2002",
+		"type": "desa",
+		"name": "SEKIJANG"
+	},
+	{
+		"code": "14.01.11.2003",
+		"type": "desa",
+		"name": "BERINGIN LESTARI"
+	},
+	{
+		"code": "14.01.11.2004",
+		"type": "desa",
+		"name": "KOTA BANGUN"
+	},
+	{
+		"code": "14.01.11.2005",
+		"type": "desa",
+		"name": "CINTA DAMAI"
+	},
+	{
+		"code": "14.01.11.2006",
+		"type": "desa",
+		"name": "SUKA MAJU"
+	},
+	{
+		"code": "14.01.11.2007",
+		"type": "desa",
+		"name": "KOTA BARU"
+	},
+	{
+		"code": "14.01.11.2008",
+		"type": "desa",
+		"name": "TEBING LESTARI"
+	},
+	{
+		"code": "14.01.11.2009",
+		"type": "desa",
+		"name": "TANAH TINGGI"
+	},
+	{
+		"code": "14.01.11.2010",
+		"type": "desa",
+		"name": "KOTO AMAN"
+	},
+	{
+		"code": "14.01.11.2011",
+		"type": "desa",
+		"name": "TAPUNG LESTARI"
+	},
+	{
+		"code": "14.01.11.2012",
+		"type": "desa",
+		"name": "TAPUNG MAKMUR"
+	},
+	{
+		"code": "14.01.11.2013",
+		"type": "desa",
+		"name": "TANDAN SARI"
+	},
+	{
+		"code": "14.01.11.2014",
+		"type": "desa",
+		"name": "GERBANG SARI"
+	},
+	{
+		"code": "14.01.11.2015",
+		"type": "desa",
+		"name": "KIJANG JAYA"
+	},
+	{
+		"code": "14.01.11.2016",
+		"type": "desa",
+		"name": "KIJANG MAKMUR"
+	},
+	{
+		"code": "14.01.12",
+		"type": "kecamatan",
+		"name": "TAPUNG HULU"
+	},
+	{
+		"code": "14.01.12.2001",
+		"type": "desa",
+		"name": "SINAMA NENEK"
+	},
+	{
+		"code": "14.01.12.2002",
+		"type": "desa",
+		"name": "KASIKAN"
+	},
+	{
+		"code": "14.01.12.2003",
+		"type": "desa",
+		"name": "BUKIT KEMUNING"
+	},
+	{
+		"code": "14.01.12.2004",
+		"type": "desa",
+		"name": "DANAU LANCANG"
+	},
+	{
+		"code": "14.01.12.2005",
+		"type": "desa",
+		"name": "MUARA INTAN"
+	},
+	{
+		"code": "14.01.12.2006",
+		"type": "desa",
+		"name": "INTAN JAYA"
+	},
+	{
+		"code": "14.01.12.2007",
+		"type": "desa",
+		"name": "TANAH DATAR"
+	},
+	{
+		"code": "14.01.12.2008",
+		"type": "desa",
+		"name": "RIMBA JAYA"
+	},
+	{
+		"code": "14.01.12.2009",
+		"type": "desa",
+		"name": "RIMBA MAKMUR"
+	},
+	{
+		"code": "14.01.12.2010",
+		"type": "desa",
+		"name": "RIMBA BERINGIN"
+	},
+	{
+		"code": "14.01.12.2011",
+		"type": "desa",
+		"name": "SUKARAMAI"
+	},
+	{
+		"code": "14.01.12.2012",
+		"type": "desa",
+		"name": "SUMBER SARI"
+	},
+	{
+		"code": "14.01.12.2013",
+		"type": "desa",
+		"name": "KUSAU MAKMUR"
+	},
+	{
+		"code": "14.01.12.2014",
+		"type": "desa",
+		"name": "TALANG DANTO"
+	},
+	{
+		"code": "14.01.13",
+		"type": "kecamatan",
+		"name": "SALO"
+	},
+	{
+		"code": "14.01.13.2001",
+		"type": "desa",
+		"name": "SALO"
+	},
+	{
+		"code": "14.01.13.2002",
+		"type": "desa",
+		"name": "SIABU"
+	},
+	{
+		"code": "14.01.13.2003",
+		"type": "desa",
+		"name": "SALO TIMUR"
+	},
+	{
+		"code": "14.01.13.2004",
+		"type": "desa",
+		"name": "SEPUNGGUK"
+	},
+	{
+		"code": "14.01.13.2005",
+		"type": "desa",
+		"name": "GANTING DAMAI"
+	},
+	{
+		"code": "14.01.13.2006",
+		"type": "desa",
+		"name": "GANTING"
+	},
+	{
+		"code": "14.01.14",
+		"type": "kecamatan",
+		"name": "RUMBIO JAYA"
+	},
+	{
+		"code": "14.01.14.2001",
+		"type": "desa",
+		"name": "PULAU PAYUNG"
+	},
+	{
+		"code": "14.01.14.2002",
+		"type": "desa",
+		"name": "TERATAK"
+	},
+	{
+		"code": "14.01.14.2003",
+		"type": "desa",
+		"name": "ALAM PANJANG"
+	},
+	{
+		"code": "14.01.14.2004",
+		"type": "desa",
+		"name": "BUKIT TERATAI"
+	},
+	{
+		"code": "14.01.14.2005",
+		"type": "desa",
+		"name": "BATANG BATINDIH"
+	},
+	{
+		"code": "14.01.14.2006",
+		"type": "desa",
+		"name": "TAMBUSAI"
+	},
+	{
+		"code": "14.01.14.2007",
+		"type": "desa",
+		"name": "SIMPANG PETAI"
+	},
+	{
+		"code": "14.01.15",
+		"type": "kecamatan",
+		"name": "BANGKINANG"
+	},
+	{
+		"code": "14.01.15.1007",
+		"type": "kelurahan",
+		"name": "PULAU"
+	},
+	{
+		"code": "14.01.15.1008",
+		"type": "kelurahan",
+		"name": "PASIR SIALANG"
+	},
+	{
+		"code": "14.01.15.2001",
+		"type": "desa",
+		"name": "PULAU LAWAS"
+	},
+	{
+		"code": "14.01.15.2002",
+		"type": "desa",
+		"name": "MUARA UWAI"
+	},
+	{
+		"code": "14.01.15.2003",
+		"type": "desa",
+		"name": "LABOY JAYA"
+	},
+	{
+		"code": "14.01.15.2004",
+		"type": "desa",
+		"name": "BUKIT PAYUNG"
+	},
+	{
+		"code": "14.01.15.2005",
+		"type": "desa",
+		"name": "SUKA MULYA"
+	},
+	{
+		"code": "14.01.15.2006",
+		"type": "desa",
+		"name": "BUKIT SEMBILAN"
+	},
+	{
+		"code": "14.01.15.2009",
+		"type": "desa",
+		"name": "BINUANG"
+	},
+	{
+		"code": "14.01.16",
+		"type": "kecamatan",
+		"name": "PERHENTIAN RAJA"
+	},
+	{
+		"code": "14.01.16.2001",
+		"type": "desa",
+		"name": "KAMPUNG PINANG"
+	},
+	{
+		"code": "14.01.16.2002",
+		"type": "desa",
+		"name": "PANTAI RAJA"
+	},
+	{
+		"code": "14.01.16.2003",
+		"type": "desa",
+		"name": "HANGTUAH"
+	},
+	{
+		"code": "14.01.16.2004",
+		"type": "desa",
+		"name": "SIALANG KUBANG"
+	},
+	{
+		"code": "14.01.16.2005",
+		"type": "desa",
+		"name": "LUBUK SAKAT"
+	},
+	{
+		"code": "14.01.17",
+		"type": "kecamatan",
+		"name": "KAMPAR TIMUR"
+	},
+	{
+		"code": "14.01.17.2001",
+		"type": "desa",
+		"name": "PULAU BIRANDANG"
+	},
+	{
+		"code": "14.01.17.2002",
+		"type": "desa",
+		"name": "PULAU RAMBAI"
+	},
+	{
+		"code": "14.01.17.2003",
+		"type": "desa",
+		"name": "KAMPAR"
+	},
+	{
+		"code": "14.01.17.2004",
+		"type": "desa",
+		"name": "KOTO PERAMBAHAN"
+	},
+	{
+		"code": "14.01.17.2005",
+		"type": "desa",
+		"name": "SEI PUTIH"
+	},
+	{
+		"code": "14.01.17.2006",
+		"type": "desa",
+		"name": "DELI MAKMUR"
+	},
+	{
+		"code": "14.01.17.2007",
+		"type": "desa",
+		"name": "SUNGAITARAP"
+	},
+	{
+		"code": "14.01.17.2008",
+		"type": "desa",
+		"name": "TANJUNGBUNGO"
+	},
+	{
+		"code": "14.01.17.2009",
+		"type": "desa",
+		"name": "SAWAHBARU"
+	},
+	{
+		"code": "14.01.18",
+		"type": "kecamatan",
+		"name": "KAMPAR UTARA"
+	},
+	{
+		"code": "14.01.18.2001",
+		"type": "desa",
+		"name": "MUARA JALAI"
+	},
+	{
+		"code": "14.01.18.2002",
+		"type": "desa",
+		"name": "SAWAH"
+	},
+	{
+		"code": "14.01.18.2003",
+		"type": "desa",
+		"name": "KAMPUNG PANJANG"
+	},
+	{
+		"code": "14.01.18.2004",
+		"type": "desa",
+		"name": "KAYU ARO"
+	},
+	{
+		"code": "14.01.18.2005",
+		"type": "desa",
+		"name": "SEI TONANG"
+	},
+	{
+		"code": "14.01.18.2006",
+		"type": "desa",
+		"name": "SEI JALAU"
+	},
+	{
+		"code": "14.01.18.2007",
+		"type": "desa",
+		"name": "SENDAYAN"
+	},
+	{
+		"code": "14.01.18.2008",
+		"type": "desa",
+		"name": "NAGA BERALIH"
+	},
+	{
+		"code": "14.01.19",
+		"type": "kecamatan",
+		"name": "KAMPAR KIRI TENGAH"
+	},
+	{
+		"code": "14.01.19.2001",
+		"type": "desa",
+		"name": "SIMALINYANG"
+	},
+	{
+		"code": "14.01.19.2002",
+		"type": "desa",
+		"name": "BINA BARU"
+	},
+	{
+		"code": "14.01.19.2003",
+		"type": "desa",
+		"name": "HIDUP BARU"
+	},
+	{
+		"code": "14.01.19.2004",
+		"type": "desa",
+		"name": "KARYA BAKTI"
+	},
+	{
+		"code": "14.01.19.2005",
+		"type": "desa",
+		"name": "LUBUK SAKAI"
+	},
+	{
+		"code": "14.01.19.2006",
+		"type": "desa",
+		"name": "PENGHIDUPAN"
+	},
+	{
+		"code": "14.01.19.2007",
+		"type": "desa",
+		"name": "MAYANG PONGKAI"
+	},
+	{
+		"code": "14.01.19.2008",
+		"type": "desa",
+		"name": "KOTO DAMAI"
+	},
+	{
+		"code": "14.01.19.2009",
+		"type": "desa",
+		"name": "UTAMA KARYA"
+	},
+	{
+		"code": "14.01.19.2010",
+		"type": "desa",
+		"name": "BUKIT SAKAI"
+	},
+	{
+		"code": "14.01.19.2011",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "14.01.20",
+		"type": "kecamatan",
+		"name": "GUNUNG SAHILAN"
+	},
+	{
+		"code": "14.01.20.2001",
+		"type": "desa",
+		"name": "KEBUN DURIAN"
+	},
+	{
+		"code": "14.01.20.2002",
+		"type": "desa",
+		"name": "GUNUNG SAHILAN"
+	},
+	{
+		"code": "14.01.20.2003",
+		"type": "desa",
+		"name": "GUNUNG SARI"
+	},
+	{
+		"code": "14.01.20.2004",
+		"type": "desa",
+		"name": "SUKA MAKMUR"
+	},
+	{
+		"code": "14.01.20.2005",
+		"type": "desa",
+		"name": "SUBARAK"
+	},
+	{
+		"code": "14.01.20.2006",
+		"type": "desa",
+		"name": "SUNGAILIPAI"
+	},
+	{
+		"code": "14.01.20.2007",
+		"type": "desa",
+		"name": "SAHILAN DARUSSALAM"
+	},
+	{
+		"code": "14.01.20.2008",
+		"type": "desa",
+		"name": "GUNUNGMULYA"
+	},
+	{
+		"code": "14.01.20.2009",
+		"type": "desa",
+		"name": "MAKMUR SEJAHTERA"
+	},
+	{
+		"code": "14.01.21",
+		"type": "kecamatan",
+		"name": "KOTO KAMPAR HULU"
+	},
+	{
+		"code": "14.01.21.2001",
+		"type": "desa",
+		"name": "SIBERUANG"
+	},
+	{
+		"code": "14.01.21.2002",
+		"type": "desa",
+		"name": "BANDUR PICAK"
+	},
+	{
+		"code": "14.01.21.2003",
+		"type": "desa",
+		"name": "GUNUNG MALELO"
+	},
+	{
+		"code": "14.01.21.2004",
+		"type": "desa",
+		"name": "TABING"
+	},
+	{
+		"code": "14.01.21.2005",
+		"type": "desa",
+		"name": "PONGKAI"
+	},
+	{
+		"code": "14.01.21.2006",
+		"type": "desa",
+		"name": "TANJUNG"
+	},
+	{
+		"code": "14.02",
+		"type": "kabupaten",
+		"name": "KAB. INDRAGIRI HULU"
+	},
+	{
+		"code": "14.02.01",
+		"type": "kecamatan",
+		"name": "RENGAT"
+	},
+	{
+		"code": "14.02.01.1004",
+		"type": "kelurahan",
+		"name": "KAMPUNG DAGANG"
+	},
+	{
+		"code": "14.02.01.1006",
+		"type": "kelurahan",
+		"name": "PASAR KOTA"
+	},
+	{
+		"code": "14.02.01.1007",
+		"type": "kelurahan",
+		"name": "KAMPUNG BESAR KOTA"
+	},
+	{
+		"code": "14.02.01.1008",
+		"type": "kelurahan",
+		"name": "SEKIP HULU"
+	},
+	{
+		"code": "14.02.01.1011",
+		"type": "kelurahan",
+		"name": "KMP BESAR SEBERANG"
+	},
+	{
+		"code": "14.02.01.1018",
+		"type": "kelurahan",
+		"name": "SEKIP HILIR"
+	},
+	{
+		"code": "14.02.01.2001",
+		"type": "desa",
+		"name": "SUNGAI GUNTUNG TENGAH"
+	},
+	{
+		"code": "14.02.01.2002",
+		"type": "desa",
+		"name": "SUNGAI GUNTUNG HILIR"
+	},
+	{
+		"code": "14.02.01.2003",
+		"type": "desa",
+		"name": "KUANTAN BARU"
+	},
+	{
+		"code": "14.02.01.2005",
+		"type": "desa",
+		"name": "KAMPUNG PULAU"
+	},
+	{
+		"code": "14.02.01.2009",
+		"type": "desa",
+		"name": "SUNGAI BERINGIN"
+	},
+	{
+		"code": "14.02.01.2010",
+		"type": "desa",
+		"name": "PASIR KEMILU"
+	},
+	{
+		"code": "14.02.01.2012",
+		"type": "desa",
+		"name": "RANTAU MAPESAI"
+	},
+	{
+		"code": "14.02.01.2013",
+		"type": "desa",
+		"name": "PULAU GAJAH"
+	},
+	{
+		"code": "14.02.01.2014",
+		"type": "desa",
+		"name": "SUNGAI RAYA"
+	},
+	{
+		"code": "14.02.01.2023",
+		"type": "desa",
+		"name": "RAWA BANGUN"
+	},
+	{
+		"code": "14.02.02",
+		"type": "kecamatan",
+		"name": "RENGAT BARAT"
+	},
+	{
+		"code": "14.02.02.1009",
+		"type": "kelurahan",
+		"name": "PEMATANG REBA"
+	},
+	{
+		"code": "14.02.02.2001",
+		"type": "desa",
+		"name": "BARANGAN"
+	},
+	{
+		"code": "14.02.02.2002",
+		"type": "desa",
+		"name": "ALANG KEPAYANG"
+	},
+	{
+		"code": "14.02.02.2003",
+		"type": "desa",
+		"name": "KOTA LAMA"
+	},
+	{
+		"code": "14.02.02.2004",
+		"type": "desa",
+		"name": "REDANG"
+	},
+	{
+		"code": "14.02.02.2005",
+		"type": "desa",
+		"name": "PEKAN HERAN"
+	},
+	{
+		"code": "14.02.02.2006",
+		"type": "desa",
+		"name": "RANTAU BAKUNG"
+	},
+	{
+		"code": "14.02.02.2007",
+		"type": "desa",
+		"name": "TALANG JERINJING"
+	},
+	{
+		"code": "14.02.02.2008",
+		"type": "desa",
+		"name": "SIALANG DUA DAHAN"
+	},
+	{
+		"code": "14.02.02.2010",
+		"type": "desa",
+		"name": "SUNGAI DAWU"
+	},
+	{
+		"code": "14.02.02.2011",
+		"type": "desa",
+		"name": "BUKIT PETALING"
+	},
+	{
+		"code": "14.02.02.2012",
+		"type": "desa",
+		"name": "PEMATANG JAYA"
+	},
+	{
+		"code": "14.02.02.2013",
+		"type": "desa",
+		"name": "DANAU BARU"
+	},
+	{
+		"code": "14.02.02.2014",
+		"type": "desa",
+		"name": "TANAH DATAR"
+	},
+	{
+		"code": "14.02.02.2015",
+		"type": "desa",
+		"name": "TANI MAKMUR"
+	},
+	{
+		"code": "14.02.02.2016",
+		"type": "desa",
+		"name": "SUNGAI BAUNG"
+	},
+	{
+		"code": "14.02.02.2017",
+		"type": "desa",
+		"name": "DANAU TIGA"
+	},
+	{
+		"code": "14.02.02.2018",
+		"type": "desa",
+		"name": "AIR JERNIH"
+	},
+	{
+		"code": "14.02.03",
+		"type": "kecamatan",
+		"name": "KELAYANG"
+	},
+	{
+		"code": "14.02.03.1019",
+		"type": "kelurahan",
+		"name": "SIMPANG KELAYANG"
+	},
+	{
+		"code": "14.02.03.2007",
+		"type": "desa",
+		"name": "PULAU SENGKILO"
+	},
+	{
+		"code": "14.02.03.2008",
+		"type": "desa",
+		"name": "KOTA MEDAN"
+	},
+	{
+		"code": "14.02.03.2009",
+		"type": "desa",
+		"name": "SIMPANG KOTA MEDAN"
+	},
+	{
+		"code": "14.02.03.2010",
+		"type": "desa",
+		"name": "POLAK PISANG"
+	},
+	{
+		"code": "14.02.03.2018",
+		"type": "desa",
+		"name": "PELANGKO"
+	},
+	{
+		"code": "14.02.03.2020",
+		"type": "desa",
+		"name": "TELUK SEJUA"
+	},
+	{
+		"code": "14.02.03.2021",
+		"type": "desa",
+		"name": "BONGKAL MALANG"
+	},
+	{
+		"code": "14.02.03.2022",
+		"type": "desa",
+		"name": "DUSUN TUA"
+	},
+	{
+		"code": "14.02.03.2024",
+		"type": "desa",
+		"name": "SUNGAI BANYAK IKAN"
+	},
+	{
+		"code": "14.02.03.2025",
+		"type": "desa",
+		"name": "TANJUNG BELUDU"
+	},
+	{
+		"code": "14.02.03.2026",
+		"type": "desa",
+		"name": "SUNGAI PASIR PUTIH"
+	},
+	{
+		"code": "14.02.03.2027",
+		"type": "desa",
+		"name": "SUNGAI GOLANG"
+	},
+	{
+		"code": "14.02.03.2028",
+		"type": "desa",
+		"name": "PASIR BERINGIN"
+	},
+	{
+		"code": "14.02.03.2029",
+		"type": "desa",
+		"name": "SUNGAI KUNING BENIO"
+	},
+	{
+		"code": "14.02.03.2030",
+		"type": "desa",
+		"name": "BUKIT SELANJUT"
+	},
+	{
+		"code": "14.02.03.2031",
+		"type": "desa",
+		"name": "DUSUN TUA PELANG"
+	},
+	{
+		"code": "14.02.04",
+		"type": "kecamatan",
+		"name": "PASIR PENYU"
+	},
+	{
+		"code": "14.02.04.1007",
+		"type": "kelurahan",
+		"name": "AIR MOLEK"
+	},
+	{
+		"code": "14.02.04.1020",
+		"type": "kelurahan",
+		"name": "KEMBANG HARUM"
+	},
+	{
+		"code": "14.02.04.1031",
+		"type": "kelurahan",
+		"name": "TANJUNG GADING"
+	},
+	{
+		"code": "14.02.04.1032",
+		"type": "kelurahan",
+		"name": "SEKAR MAWAR"
+	},
+	{
+		"code": "14.02.04.1033",
+		"type": "kelurahan",
+		"name": "TANAH MERAH"
+	},
+	{
+		"code": "14.02.04.2006",
+		"type": "desa",
+		"name": "PETALONGAN"
+	},
+	{
+		"code": "14.02.04.2008",
+		"type": "desa",
+		"name": "AIR MOLEK II"
+	},
+	{
+		"code": "14.02.04.2009",
+		"type": "desa",
+		"name": "PASIR KERANJI"
+	},
+	{
+		"code": "14.02.04.2016",
+		"type": "desa",
+		"name": "JATI REJO"
+	},
+	{
+		"code": "14.02.04.2017",
+		"type": "desa",
+		"name": "BATU GAJAH"
+	},
+	{
+		"code": "14.02.04.2018",
+		"type": "desa",
+		"name": "CANDI REJO"
+	},
+	{
+		"code": "14.02.04.2019",
+		"type": "desa",
+		"name": "LEMBAH DUSUN GADING"
+	},
+	{
+		"code": "14.02.04.2030",
+		"type": "desa",
+		"name": "SERUMPUN JAYA"
+	},
+	{
+		"code": "14.02.05",
+		"type": "kecamatan",
+		"name": "PERANAP"
+	},
+	{
+		"code": "14.02.05.1005",
+		"type": "kelurahan",
+		"name": "PERANAP"
+	},
+	{
+		"code": "14.02.05.1008",
+		"type": "kelurahan",
+		"name": "BATU RIJAL HILIR"
+	},
+	{
+		"code": "14.02.05.2003",
+		"type": "desa",
+		"name": "SEMELINANG TEBING"
+	},
+	{
+		"code": "14.02.05.2004",
+		"type": "desa",
+		"name": "GUMANTI"
+	},
+	{
+		"code": "14.02.05.2007",
+		"type": "desa",
+		"name": "BATU RIJAL HULU"
+	},
+	{
+		"code": "14.02.05.2009",
+		"type": "desa",
+		"name": "SEMELINANG DARAT"
+	},
+	{
+		"code": "14.02.05.2010",
+		"type": "desa",
+		"name": "PAUH PERANAP"
+	},
+	{
+		"code": "14.02.05.2012",
+		"type": "desa",
+		"name": "SERAI WANGI"
+	},
+	{
+		"code": "14.02.05.2013",
+		"type": "desa",
+		"name": "PANDAN WANGI"
+	},
+	{
+		"code": "14.02.05.2017",
+		"type": "desa",
+		"name": "KETIPOPURA"
+	},
+	{
+		"code": "14.02.05.2019",
+		"type": "desa",
+		"name": "BATU RIJAL BARAT"
+	},
+	{
+		"code": "14.02.05.2020",
+		"type": "desa",
+		"name": "SETAKO RAYA"
+	},
+	{
+		"code": "14.02.06",
+		"type": "kecamatan",
+		"name": "SIBERIDA"
+	},
+	{
+		"code": "14.02.06.1001",
+		"type": "kelurahan",
+		"name": "PANGKALAN KASAI"
+	},
+	{
+		"code": "14.02.06.2002",
+		"type": "desa",
+		"name": "KELESA"
+	},
+	{
+		"code": "14.02.06.2003",
+		"type": "desa",
+		"name": "BELIGAN"
+	},
+	{
+		"code": "14.02.06.2004",
+		"type": "desa",
+		"name": "SERESAM"
+	},
+	{
+		"code": "14.02.06.2005",
+		"type": "desa",
+		"name": "PAYA RUMBAI"
+	},
+	{
+		"code": "14.02.06.2006",
+		"type": "desa",
+		"name": "BUKIT MERANTI"
+	},
+	{
+		"code": "14.02.06.2007",
+		"type": "desa",
+		"name": "BULUH RAMPAI"
+	},
+	{
+		"code": "14.02.06.2008",
+		"type": "desa",
+		"name": "TITIAN RESAK"
+	},
+	{
+		"code": "14.02.06.2009",
+		"type": "desa",
+		"name": "PETALA BUMI"
+	},
+	{
+		"code": "14.02.06.2010",
+		"type": "desa",
+		"name": "SIBABAT"
+	},
+	{
+		"code": "14.02.06.2011",
+		"type": "desa",
+		"name": "BANDAR PADANG"
+	},
+	{
+		"code": "14.02.07",
+		"type": "kecamatan",
+		"name": "BATANG CENAKU"
+	},
+	{
+		"code": "14.02.07.2002",
+		"type": "desa",
+		"name": "ANAK TALANG"
+	},
+	{
+		"code": "14.02.07.2004",
+		"type": "desa",
+		"name": "BUKIT LINGKAR"
+	},
+	{
+		"code": "14.02.07.2005",
+		"type": "desa",
+		"name": "BUKIT LIPAI"
+	},
+	{
+		"code": "14.02.07.2006",
+		"type": "desa",
+		"name": "KUALA GADING"
+	},
+	{
+		"code": "14.02.07.2007",
+		"type": "desa",
+		"name": "KUALA KILAN"
+	},
+	{
+		"code": "14.02.07.2008",
+		"type": "desa",
+		"name": "KERUBUNG JAYA"
+	},
+	{
+		"code": "14.02.07.2009",
+		"type": "desa",
+		"name": "PEJANGKI"
+	},
+	{
+		"code": "14.02.07.2010",
+		"type": "desa",
+		"name": "PEMATANG MANGGIS"
+	},
+	{
+		"code": "14.02.07.2011",
+		"type": "desa",
+		"name": "SIPANG"
+	},
+	{
+		"code": "14.02.07.2012",
+		"type": "desa",
+		"name": "TALANG BERSEMI"
+	},
+	{
+		"code": "14.02.07.2013",
+		"type": "desa",
+		"name": "TALANG MULYA"
+	},
+	{
+		"code": "14.02.07.2014",
+		"type": "desa",
+		"name": "PUNTI ANAI"
+	},
+	{
+		"code": "14.02.07.2015",
+		"type": "desa",
+		"name": "PETALING JAYA"
+	},
+	{
+		"code": "14.02.07.2017",
+		"type": "desa",
+		"name": "CENAKU KECIL"
+	},
+	{
+		"code": "14.02.07.2018",
+		"type": "desa",
+		"name": "ALIM"
+	},
+	{
+		"code": "14.02.07.2019",
+		"type": "desa",
+		"name": "AUR CINA"
+	},
+	{
+		"code": "14.02.07.2020",
+		"type": "desa",
+		"name": "LAHAI KEMUNING"
+	},
+	{
+		"code": "14.02.07.2021",
+		"type": "desa",
+		"name": "KEPAYANG SARI"
+	},
+	{
+		"code": "14.02.07.2022",
+		"type": "desa",
+		"name": "BATU PAPAN"
+	},
+	{
+		"code": "14.02.07.2023",
+		"type": "desa",
+		"name": "SANGLAP"
+	},
+	{
+		"code": "14.02.08",
+		"type": "kecamatan",
+		"name": "BATANG GANGSAL"
+	},
+	{
+		"code": "14.02.08.2001",
+		"type": "desa",
+		"name": "SIAMBUL"
+	},
+	{
+		"code": "14.02.08.2002",
+		"type": "desa",
+		"name": "RANTAI LANGSAT"
+	},
+	{
+		"code": "14.02.08.2003",
+		"type": "desa",
+		"name": "SUNGAI AKAR"
+	},
+	{
+		"code": "14.02.08.2004",
+		"type": "desa",
+		"name": "USUL"
+	},
+	{
+		"code": "14.02.08.2005",
+		"type": "desa",
+		"name": "SEBERIDA"
+	},
+	{
+		"code": "14.02.08.2006",
+		"type": "desa",
+		"name": "TALANG LAKAT"
+	},
+	{
+		"code": "14.02.08.2007",
+		"type": "desa",
+		"name": "BELIMBING"
+	},
+	{
+		"code": "14.02.08.2008",
+		"type": "desa",
+		"name": "RINGIN"
+	},
+	{
+		"code": "14.02.08.2010",
+		"type": "desa",
+		"name": "PENYAGUAN"
+	},
+	{
+		"code": "14.02.08.2011",
+		"type": "desa",
+		"name": "DANAU RAMBAI"
+	},
+	{
+		"code": "14.02.09",
+		"type": "kecamatan",
+		"name": "LIRIK"
+	},
+	{
+		"code": "14.02.09.2001",
+		"type": "desa",
+		"name": "JAPURA"
+	},
+	{
+		"code": "14.02.09.2002",
+		"type": "desa",
+		"name": "SIDOMULYO"
+	},
+	{
+		"code": "14.02.09.2003",
+		"type": "desa",
+		"name": "PASIR RINGGIT"
+	},
+	{
+		"code": "14.02.09.2004",
+		"type": "desa",
+		"name": "GUDANG BATU"
+	},
+	{
+		"code": "14.02.09.2005",
+		"type": "desa",
+		"name": "SUNGAI SAGU"
+	},
+	{
+		"code": "14.02.09.2006",
+		"type": "desa",
+		"name": "LIRIK AREA"
+	},
+	{
+		"code": "14.02.09.2007",
+		"type": "desa",
+		"name": "REJOSARI"
+	},
+	{
+		"code": "14.02.09.2008",
+		"type": "desa",
+		"name": "LAMBANG SARI V"
+	},
+	{
+		"code": "14.02.09.2009",
+		"type": "desa",
+		"name": "LAMBANG SARI IV"
+	},
+	{
+		"code": "14.02.09.2010",
+		"type": "desa",
+		"name": "LAMBANG SARI I, II, III"
+	},
+	{
+		"code": "14.02.09.2011",
+		"type": "desa",
+		"name": "WONOSARI"
+	},
+	{
+		"code": "14.02.09.2012",
+		"type": "desa",
+		"name": "SEKOLUBUK TIGO"
+	},
+	{
+		"code": "14.02.09.2013",
+		"type": "desa",
+		"name": "BANJAR BALAM"
+	},
+	{
+		"code": "14.02.09.2014",
+		"type": "desa",
+		"name": "REDANG SEKO"
+	},
+	{
+		"code": "14.02.09.2015",
+		"type": "desa",
+		"name": "SUKAJADI"
+	},
+	{
+		"code": "14.02.09.2016",
+		"type": "desa",
+		"name": "MEKAR SARI"
+	},
+	{
+		"code": "14.02.09.2017",
+		"type": "desa",
+		"name": "PASIR SIALANG JAYA"
+	},
+	{
+		"code": "14.02.10",
+		"type": "kecamatan",
+		"name": "KUALA CENAKU"
+	},
+	{
+		"code": "14.02.10.2001",
+		"type": "desa",
+		"name": "TAMBAK"
+	},
+	{
+		"code": "14.02.10.2002",
+		"type": "desa",
+		"name": "KUALA CENAKU"
+	},
+	{
+		"code": "14.02.10.2003",
+		"type": "desa",
+		"name": "PULAU GELANG"
+	},
+	{
+		"code": "14.02.10.2004",
+		"type": "desa",
+		"name": "KUALA MULYA"
+	},
+	{
+		"code": "14.02.10.2005",
+		"type": "desa",
+		"name": "TANJUNG SARI"
+	},
+	{
+		"code": "14.02.10.2006",
+		"type": "desa",
+		"name": "RAWA SEKIP"
+	},
+	{
+		"code": "14.02.10.2007",
+		"type": "desa",
+		"name": "RAWA ASRI"
+	},
+	{
+		"code": "14.02.10.2008",
+		"type": "desa",
+		"name": "SUKA JADI"
+	},
+	{
+		"code": "14.02.10.2009",
+		"type": "desa",
+		"name": "TELUK SUNGKAI"
+	},
+	{
+		"code": "14.02.10.2010",
+		"type": "desa",
+		"name": "PULAU JUM'AT"
+	},
+	{
+		"code": "14.02.11",
+		"type": "kecamatan",
+		"name": "SUNGAI LALA"
+	},
+	{
+		"code": "14.02.11.2001",
+		"type": "desa",
+		"name": "MORONG"
+	},
+	{
+		"code": "14.02.11.2002",
+		"type": "desa",
+		"name": "PASIR BONGKAL"
+	},
+	{
+		"code": "14.02.11.2003",
+		"type": "desa",
+		"name": "PASIR SELABAU"
+	},
+	{
+		"code": "14.02.11.2004",
+		"type": "desa",
+		"name": "PASIR BATU MANDI"
+	},
+	{
+		"code": "14.02.11.2005",
+		"type": "desa",
+		"name": "PASIR KELAMPAIAN"
+	},
+	{
+		"code": "14.02.11.2006",
+		"type": "desa",
+		"name": "KUALA LALA"
+	},
+	{
+		"code": "14.02.11.2007",
+		"type": "desa",
+		"name": "SUNGAI LALA"
+	},
+	{
+		"code": "14.02.11.2008",
+		"type": "desa",
+		"name": "KELAWAT"
+	},
+	{
+		"code": "14.02.11.2009",
+		"type": "desa",
+		"name": "PERKEBUNAN SEI PARIT"
+	},
+	{
+		"code": "14.02.11.2010",
+		"type": "desa",
+		"name": "PERKEBUNAN SEI LALA"
+	},
+	{
+		"code": "14.02.11.2011",
+		"type": "desa",
+		"name": "TANJUNG DANAU"
+	},
+	{
+		"code": "14.02.11.2012",
+		"type": "desa",
+		"name": "SUNGAI AIR PUTIH"
+	},
+	{
+		"code": "14.02.12",
+		"type": "kecamatan",
+		"name": "LUBUK BATU JAYA"
+	},
+	{
+		"code": "14.02.12.2001",
+		"type": "desa",
+		"name": "RIMPIAN"
+	},
+	{
+		"code": "14.02.12.2002",
+		"type": "desa",
+		"name": "PONDOK GELUGUR"
+	},
+	{
+		"code": "14.02.12.2003",
+		"type": "desa",
+		"name": "LUBUK BATU TINGGAL"
+	},
+	{
+		"code": "14.02.12.2004",
+		"type": "desa",
+		"name": "SEI BERAS HILIR"
+	},
+	{
+		"code": "14.02.12.2005",
+		"type": "desa",
+		"name": "KULIM JAYA"
+	},
+	{
+		"code": "14.02.12.2006",
+		"type": "desa",
+		"name": "SEI BERAS-BERAS"
+	},
+	{
+		"code": "14.02.12.2007",
+		"type": "desa",
+		"name": "TASIK JUANG"
+	},
+	{
+		"code": "14.02.12.2008",
+		"type": "desa",
+		"name": "PONTIAN MEKAR"
+	},
+	{
+		"code": "14.02.12.2009",
+		"type": "desa",
+		"name": "AIR PUTIH"
+	},
+	{
+		"code": "14.02.13",
+		"type": "kecamatan",
+		"name": "RAKIT KULIM"
+	},
+	{
+		"code": "14.02.13.2001",
+		"type": "desa",
+		"name": "TALANG 7 BUAH TANGGA"
+	},
+	{
+		"code": "14.02.13.2002",
+		"type": "desa",
+		"name": "TALANG DURIAN CACAR"
+	},
+	{
+		"code": "14.02.13.2003",
+		"type": "desa",
+		"name": "TALANG SELANTAI"
+	},
+	{
+		"code": "14.02.13.2004",
+		"type": "desa",
+		"name": "TALANG PERIGI"
+	},
+	{
+		"code": "14.02.13.2005",
+		"type": "desa",
+		"name": "KUANTAN TENANG"
+	},
+	{
+		"code": "14.02.13.2006",
+		"type": "desa",
+		"name": "KOTA BARU"
+	},
+	{
+		"code": "14.02.13.2007",
+		"type": "desa",
+		"name": "RIMBA SEMINAI"
+	},
+	{
+		"code": "14.02.13.2008",
+		"type": "desa",
+		"name": "KELAYANG"
+	},
+	{
+		"code": "14.02.13.2009",
+		"type": "desa",
+		"name": "TALANG GEDABU"
+	},
+	{
+		"code": "14.02.13.2010",
+		"type": "desa",
+		"name": "TALANG SEI LIMAU"
+	},
+	{
+		"code": "14.02.13.2011",
+		"type": "desa",
+		"name": "TALANG SEI PARIT"
+	},
+	{
+		"code": "14.02.13.2012",
+		"type": "desa",
+		"name": "BATU SAWAR"
+	},
+	{
+		"code": "14.02.13.2013",
+		"type": "desa",
+		"name": "PETONGAN"
+	},
+	{
+		"code": "14.02.13.2014",
+		"type": "desa",
+		"name": "LUBUK SETARAK"
+	},
+	{
+		"code": "14.02.13.2015",
+		"type": "desa",
+		"name": "BUKIT INDAH"
+	},
+	{
+		"code": "14.02.13.2016",
+		"type": "desa",
+		"name": "TALANG SUNGAI ELOK"
+	},
+	{
+		"code": "14.02.13.2017",
+		"type": "desa",
+		"name": "TALANG SUNGAI MAJU"
+	},
+	{
+		"code": "14.02.13.2018",
+		"type": "desa",
+		"name": "KAMPUNG BUNGO"
+	},
+	{
+		"code": "14.02.13.2019",
+		"type": "desa",
+		"name": "TALANG PRING JAYA"
+	},
+	{
+		"code": "14.02.14",
+		"type": "kecamatan",
+		"name": "BATANG PERANAP"
+	},
+	{
+		"code": "14.02.14.2001",
+		"type": "desa",
+		"name": "PESAJIAN"
+	},
+	{
+		"code": "14.02.14.2002",
+		"type": "desa",
+		"name": "PANTI KAYU"
+	},
+	{
+		"code": "14.02.14.2003",
+		"type": "desa",
+		"name": "PEMATANG"
+	},
+	{
+		"code": "14.02.14.2004",
+		"type": "desa",
+		"name": "SELUNAK"
+	},
+	{
+		"code": "14.02.14.2005",
+		"type": "desa",
+		"name": "SUKA MAJU"
+	},
+	{
+		"code": "14.02.14.2006",
+		"type": "desa",
+		"name": "PEMATANG BENTENG"
+	},
+	{
+		"code": "14.02.14.2007",
+		"type": "desa",
+		"name": "SECANO JAYA"
+	},
+	{
+		"code": "14.02.14.2008",
+		"type": "desa",
+		"name": "SUNGAI AUR"
+	},
+	{
+		"code": "14.02.14.2009",
+		"type": "desa",
+		"name": "PELADANGAN"
+	},
+	{
+		"code": "14.02.14.2010",
+		"type": "desa",
+		"name": "KOTO TUO"
+	},
+	{
+		"code": "14.03",
+		"type": "kabupaten",
+		"name": "KAB. BENGKALIS"
+	},
+	{
+		"code": "14.03.01",
+		"type": "kecamatan",
+		"name": "BENGKALIS"
+	},
+	{
+		"code": "14.03.01.1001",
+		"type": "kelurahan",
+		"name": "KOTA BENGKALIS"
+	},
+	{
+		"code": "14.03.01.1002",
+		"type": "kelurahan",
+		"name": "DAMON"
+	},
+	{
+		"code": "14.03.01.1003",
+		"type": "kelurahan",
+		"name": "RIMBA SEKAMPUNG"
+	},
+	{
+		"code": "14.03.01.2004",
+		"type": "desa",
+		"name": "KELAPAPATI"
+	},
+	{
+		"code": "14.03.01.2005",
+		"type": "desa",
+		"name": "PEDEKIK"
+	},
+	{
+		"code": "14.03.01.2006",
+		"type": "desa",
+		"name": "PANGKALAN BATANG"
+	},
+	{
+		"code": "14.03.01.2007",
+		"type": "desa",
+		"name": "SEBAUK"
+	},
+	{
+		"code": "14.03.01.2008",
+		"type": "desa",
+		"name": "TELUKLATAK"
+	},
+	{
+		"code": "14.03.01.2009",
+		"type": "desa",
+		"name": "MESKOM"
+	},
+	{
+		"code": "14.03.01.2010",
+		"type": "desa",
+		"name": "SENGGORO"
+	},
+	{
+		"code": "14.03.01.2011",
+		"type": "desa",
+		"name": "AIR PUTIH"
+	},
+	{
+		"code": "14.03.01.2012",
+		"type": "desa",
+		"name": "SEI ALAM"
+	},
+	{
+		"code": "14.03.01.2013",
+		"type": "desa",
+		"name": "PENAMPI"
+	},
+	{
+		"code": "14.03.01.2014",
+		"type": "desa",
+		"name": "TEMERAN"
+	},
+	{
+		"code": "14.03.01.2015",
+		"type": "desa",
+		"name": "PENEBAL"
+	},
+	{
+		"code": "14.03.01.2016",
+		"type": "desa",
+		"name": "PEMATANG DUKU"
+	},
+	{
+		"code": "14.03.01.2017",
+		"type": "desa",
+		"name": "KETAM PUTIH"
+	},
+	{
+		"code": "14.03.01.2018",
+		"type": "desa",
+		"name": "KELEMANTAN"
+	},
+	{
+		"code": "14.03.01.2019",
+		"type": "desa",
+		"name": "SEKODI"
+	},
+	{
+		"code": "14.03.01.2020",
+		"type": "desa",
+		"name": "WONOSARI"
+	},
+	{
+		"code": "14.03.01.2021",
+		"type": "desa",
+		"name": "KUALA ALAM"
+	},
+	{
+		"code": "14.03.01.2022",
+		"type": "desa",
+		"name": "KELEBUK"
+	},
+	{
+		"code": "14.03.01.2023",
+		"type": "desa",
+		"name": "PALKUN"
+	},
+	{
+		"code": "14.03.01.2024",
+		"type": "desa",
+		"name": "SUNGAIBATANG"
+	},
+	{
+		"code": "14.03.01.2025",
+		"type": "desa",
+		"name": "PRAPAT TUNGGAL"
+	},
+	{
+		"code": "14.03.01.2026",
+		"type": "desa",
+		"name": "SIMPANG AYAM"
+	},
+	{
+		"code": "14.03.01.2027",
+		"type": "desa",
+		"name": "SENDEREK"
+	},
+	{
+		"code": "14.03.01.2028",
+		"type": "desa",
+		"name": "KELEMANTAN BARAT"
+	},
+	{
+		"code": "14.03.01.2029",
+		"type": "desa",
+		"name": "DAMAI"
+	},
+	{
+		"code": "14.03.01.2030",
+		"type": "desa",
+		"name": "PANGKALAN BATANG BARAT"
+	},
+	{
+		"code": "14.03.01.2031",
+		"type": "desa",
+		"name": "PEMATANG DUKU TIMUR"
+	},
+	{
+		"code": "14.03.02",
+		"type": "kecamatan",
+		"name": "BANTAN"
+	},
+	{
+		"code": "14.03.02.2001",
+		"type": "desa",
+		"name": "BANTAN TENGAH"
+	},
+	{
+		"code": "14.03.02.2002",
+		"type": "desa",
+		"name": "BANTAN AIR"
+	},
+	{
+		"code": "14.03.02.2003",
+		"type": "desa",
+		"name": "BANTAN TUA"
+	},
+	{
+		"code": "14.03.02.2004",
+		"type": "desa",
+		"name": "TELUKPAMBANG"
+	},
+	{
+		"code": "14.03.02.2005",
+		"type": "desa",
+		"name": "SELAT BARU"
+	},
+	{
+		"code": "14.03.02.2006",
+		"type": "desa",
+		"name": "TELUKLANCAR"
+	},
+	{
+		"code": "14.03.02.2007",
+		"type": "desa",
+		"name": "KEMBUNG LUAR"
+	},
+	{
+		"code": "14.03.02.2008",
+		"type": "desa",
+		"name": "JANGKANG"
+	},
+	{
+		"code": "14.03.02.2009",
+		"type": "desa",
+		"name": "MUNTAI"
+	},
+	{
+		"code": "14.03.02.2010",
+		"type": "desa",
+		"name": "RESAM LAPIS"
+	},
+	{
+		"code": "14.03.02.2011",
+		"type": "desa",
+		"name": "BERANCAH"
+	},
+	{
+		"code": "14.03.02.2012",
+		"type": "desa",
+		"name": "ULU PULAU"
+	},
+	{
+		"code": "14.03.02.2013",
+		"type": "desa",
+		"name": "MENTAYAN"
+	},
+	{
+		"code": "14.03.02.2014",
+		"type": "desa",
+		"name": "PAMPANG PESISIR"
+	},
+	{
+		"code": "14.03.02.2015",
+		"type": "desa",
+		"name": "SUKAMAJU"
+	},
+	{
+		"code": "14.03.02.2016",
+		"type": "desa",
+		"name": "PAMPANG BARU"
+	},
+	{
+		"code": "14.03.02.2017",
+		"type": "desa",
+		"name": "KEMBUNG BARU"
+	},
+	{
+		"code": "14.03.02.2018",
+		"type": "desa",
+		"name": "PASIRAN"
+	},
+	{
+		"code": "14.03.02.2019",
+		"type": "desa",
+		"name": "BANTAN SARI"
+	},
+	{
+		"code": "14.03.02.2020",
+		"type": "desa",
+		"name": "BANTAN TIMUR"
+	},
+	{
+		"code": "14.03.02.2021",
+		"type": "desa",
+		"name": "TELUKPAPAL"
+	},
+	{
+		"code": "14.03.02.2022",
+		"type": "desa",
+		"name": "MUNTAI BARAT"
+	},
+	{
+		"code": "14.03.02.2023",
+		"type": "desa",
+		"name": "DELUK"
+	},
+	{
+		"code": "14.03.03",
+		"type": "kecamatan",
+		"name": "BUKIT BATU"
+	},
+	{
+		"code": "14.03.03.1010",
+		"type": "kelurahan",
+		"name": "SUNGAIPAKNING"
+	},
+	{
+		"code": "14.03.03.2001",
+		"type": "desa",
+		"name": "SEJANGAT"
+	},
+	{
+		"code": "14.03.03.2002",
+		"type": "desa",
+		"name": "DOMPAS"
+	},
+	{
+		"code": "14.03.03.2003",
+		"type": "desa",
+		"name": "PANGKALAN JAMBI"
+	},
+	{
+		"code": "14.03.03.2004",
+		"type": "desa",
+		"name": "SUNGAISELARI"
+	},
+	{
+		"code": "14.03.03.2005",
+		"type": "desa",
+		"name": "BURUK BAKUL"
+	},
+	{
+		"code": "14.03.03.2006",
+		"type": "desa",
+		"name": "BUKIT BATU"
+	},
+	{
+		"code": "14.03.03.2007",
+		"type": "desa",
+		"name": "SUKAJADI"
+	},
+	{
+		"code": "14.03.03.2008",
+		"type": "desa",
+		"name": "PARIT I API-API"
+	},
+	{
+		"code": "14.03.03.2009",
+		"type": "desa",
+		"name": "TEMIANG"
+	},
+	{
+		"code": "14.03.03.2011",
+		"type": "desa",
+		"name": "API - API"
+	},
+	{
+		"code": "14.03.03.2012",
+		"type": "desa",
+		"name": "TENGGAYUN"
+	},
+	{
+		"code": "14.03.03.2013",
+		"type": "desa",
+		"name": "SEPAHAT"
+	},
+	{
+		"code": "14.03.03.2014",
+		"type": "desa",
+		"name": "BUKITKERIKIL"
+	},
+	{
+		"code": "14.03.03.2015",
+		"type": "desa",
+		"name": "TANJUNGLEBAN"
+	},
+	{
+		"code": "14.03.03.2016",
+		"type": "desa",
+		"name": "BATANG DUKU"
+	},
+	{
+		"code": "14.03.03.2017",
+		"type": "desa",
+		"name": "PAKNING ASAL"
+	},
+	{
+		"code": "14.03.09",
+		"type": "kecamatan",
+		"name": "MANDAU"
+	},
+	{
+		"code": "14.03.09.1001",
+		"type": "kelurahan",
+		"name": "AIR JAMBAN"
+	},
+	{
+		"code": "14.03.09.1002",
+		"type": "kelurahan",
+		"name": "BABUSSALAM"
+	},
+	{
+		"code": "14.03.09.1003",
+		"type": "kelurahan",
+		"name": "BATANG SEROSA"
+	},
+	{
+		"code": "14.03.09.1004",
+		"type": "kelurahan",
+		"name": "BALIK ALAM"
+	},
+	{
+		"code": "14.03.09.1006",
+		"type": "kelurahan",
+		"name": "DURI BARAT"
+	},
+	{
+		"code": "14.03.09.1007",
+		"type": "kelurahan",
+		"name": "DURI TIMUR"
+	},
+	{
+		"code": "14.03.09.1008",
+		"type": "kelurahan",
+		"name": "GAJAH SAKTI"
+	},
+	{
+		"code": "14.03.09.1009",
+		"type": "kelurahan",
+		"name": "TALANG MANDI"
+	},
+	{
+		"code": "14.03.09.1010",
+		"type": "kelurahan",
+		"name": "PEMATANG PUDU"
+	},
+	{
+		"code": "14.03.09.2005",
+		"type": "desa",
+		"name": "BALAI MAKAM"
+	},
+	{
+		"code": "14.03.09.2011",
+		"type": "desa",
+		"name": "HARAPAN BARU"
+	},
+	{
+		"code": "14.03.09.2012",
+		"type": "desa",
+		"name": "PETANI"
+	},
+	{
+		"code": "14.03.09.2013",
+		"type": "desa",
+		"name": "SEBANGAR"
+	},
+	{
+		"code": "14.03.09.2014",
+		"type": "desa",
+		"name": "BUMBUNG"
+	},
+	{
+		"code": "14.03.09.2015",
+		"type": "desa",
+		"name": "KESUMO AMPAI"
+	},
+	{
+		"code": "14.03.09.2016",
+		"type": "desa",
+		"name": "TAMBUSAI BATANG DUI"
+	},
+	{
+		"code": "14.03.09.2017",
+		"type": "desa",
+		"name": "SIMPANG PADANG"
+	},
+	{
+		"code": "14.03.09.2018",
+		"type": "desa",
+		"name": "PEMATANG OBO"
+	},
+	{
+		"code": "14.03.09.2019",
+		"type": "desa",
+		"name": "AIR KULIM"
+	},
+	{
+		"code": "14.03.09.2020",
+		"type": "desa",
+		"name": "BULUH MANIS"
+	},
+	{
+		"code": "14.03.09.2021",
+		"type": "desa",
+		"name": "BATHIN BETUAH"
+	},
+	{
+		"code": "14.03.09.2022",
+		"type": "desa",
+		"name": "BONCAH MAHANG"
+	},
+	{
+		"code": "14.03.09.2023",
+		"type": "desa",
+		"name": "PAMESI"
+	},
+	{
+		"code": "14.03.09.2024",
+		"type": "desa",
+		"name": "BATHIN SOBANGA"
+	},
+	{
+		"code": "14.03.10",
+		"type": "kecamatan",
+		"name": "RUPAT"
+	},
+	{
+		"code": "14.03.10.1001",
+		"type": "kelurahan",
+		"name": "BATU PANJANG"
+	},
+	{
+		"code": "14.03.10.1002",
+		"type": "kelurahan",
+		"name": "PERGAM"
+	},
+	{
+		"code": "14.03.10.1003",
+		"type": "kelurahan",
+		"name": "TERKUL"
+	},
+	{
+		"code": "14.03.10.1004",
+		"type": "kelurahan",
+		"name": "TANJUNGKAPAL"
+	},
+	{
+		"code": "14.03.10.2005",
+		"type": "desa",
+		"name": "SUNGAICINGAM"
+	},
+	{
+		"code": "14.03.10.2006",
+		"type": "desa",
+		"name": "TELUKLECAH"
+	},
+	{
+		"code": "14.03.10.2007",
+		"type": "desa",
+		"name": "MAKERUH"
+	},
+	{
+		"code": "14.03.10.2008",
+		"type": "desa",
+		"name": "HUTAN PANJANG"
+	},
+	{
+		"code": "14.03.10.2009",
+		"type": "desa",
+		"name": "PANGKALAN NYIRIH"
+	},
+	{
+		"code": "14.03.10.2010",
+		"type": "desa",
+		"name": "SUKARJO MESIN"
+	},
+	{
+		"code": "14.03.10.2011",
+		"type": "desa",
+		"name": "DARUL AMAN"
+	},
+	{
+		"code": "14.03.10.2012",
+		"type": "desa",
+		"name": "PARIT KEBUMEN"
+	},
+	{
+		"code": "14.03.10.2013",
+		"type": "desa",
+		"name": "SRI TANJUNG"
+	},
+	{
+		"code": "14.03.10.2014",
+		"type": "desa",
+		"name": "PANCUR JAYA"
+	},
+	{
+		"code": "14.03.10.2015",
+		"type": "desa",
+		"name": "PANGKALAN PINANG"
+	},
+	{
+		"code": "14.03.10.2016",
+		"type": "desa",
+		"name": "DUNGUN BARU"
+	},
+	{
+		"code": "14.03.11",
+		"type": "kecamatan",
+		"name": "RUPAT UTARA"
+	},
+	{
+		"code": "14.03.11.2001",
+		"type": "desa",
+		"name": "TANJUNGMEDANG"
+	},
+	{
+		"code": "14.03.11.2002",
+		"type": "desa",
+		"name": "TELUKRHU"
+	},
+	{
+		"code": "14.03.11.2003",
+		"type": "desa",
+		"name": "TANJUNGPUNAK"
+	},
+	{
+		"code": "14.03.11.2004",
+		"type": "desa",
+		"name": "KADUR"
+	},
+	{
+		"code": "14.03.11.2005",
+		"type": "desa",
+		"name": "TITI AKAR"
+	},
+	{
+		"code": "14.03.11.2006",
+		"type": "desa",
+		"name": "HUTAN AYU"
+	},
+	{
+		"code": "14.03.11.2007",
+		"type": "desa",
+		"name": "SUKA DAMAI"
+	},
+	{
+		"code": "14.03.11.2008",
+		"type": "desa",
+		"name": "PUTERI SEMBILAN"
+	},
+	{
+		"code": "14.03.12",
+		"type": "kecamatan",
+		"name": "SIAK KECIL"
+	},
+	{
+		"code": "14.03.12.2001",
+		"type": "desa",
+		"name": "LUBUK MUDA"
+	},
+	{
+		"code": "14.03.12.2002",
+		"type": "desa",
+		"name": "TANJUNGBELIT"
+	},
+	{
+		"code": "14.03.12.2003",
+		"type": "desa",
+		"name": "SUNGAISIPUT"
+	},
+	{
+		"code": "14.03.12.2004",
+		"type": "desa",
+		"name": "SEPOTONG"
+	},
+	{
+		"code": "14.03.12.2005",
+		"type": "desa",
+		"name": "LUBUK GAUNG"
+	},
+	{
+		"code": "14.03.12.2006",
+		"type": "desa",
+		"name": "LANGKAT"
+	},
+	{
+		"code": "14.03.12.2007",
+		"type": "desa",
+		"name": "SADAR JAYA"
+	},
+	{
+		"code": "14.03.12.2008",
+		"type": "desa",
+		"name": "SUNGAILINAU"
+	},
+	{
+		"code": "14.03.12.2009",
+		"type": "desa",
+		"name": "BANDAR JAYA"
+	},
+	{
+		"code": "14.03.12.2010",
+		"type": "desa",
+		"name": "MUARA DUA"
+	},
+	{
+		"code": "14.03.12.2011",
+		"type": "desa",
+		"name": "TANJUNGDAMAI"
+	},
+	{
+		"code": "14.03.12.2012",
+		"type": "desa",
+		"name": "SUMBER JAYA"
+	},
+	{
+		"code": "14.03.12.2013",
+		"type": "desa",
+		"name": "LUBUK GARAM"
+	},
+	{
+		"code": "14.03.12.2014",
+		"type": "desa",
+		"name": "LIANG BANIR"
+	},
+	{
+		"code": "14.03.12.2015",
+		"type": "desa",
+		"name": "TANJUNGDATUK"
+	},
+	{
+		"code": "14.03.12.2016",
+		"type": "desa",
+		"name": "KOTO RAJA"
+	},
+	{
+		"code": "14.03.12.2017",
+		"type": "desa",
+		"name": "SUNGAINIBUNG"
+	},
+	{
+		"code": "14.03.13",
+		"type": "kecamatan",
+		"name": "PINGGIR"
+	},
+	{
+		"code": "14.03.13.1001",
+		"type": "kelurahan",
+		"name": "TITIAN ANTUI"
+	},
+	{
+		"code": "14.03.13.1012",
+		"type": "kelurahan",
+		"name": "BALAI RAJA"
+	},
+	{
+		"code": "14.03.13.2002",
+		"type": "desa",
+		"name": "BERINGIN"
+	},
+	{
+		"code": "14.03.13.2003",
+		"type": "desa",
+		"name": "BALAI PUNGUT"
+	},
+	{
+		"code": "14.03.13.2004",
+		"type": "desa",
+		"name": "MELIBUR"
+	},
+	{
+		"code": "14.03.13.2005",
+		"type": "desa",
+		"name": "MUARA BASUNG"
+	},
+	{
+		"code": "14.03.13.2006",
+		"type": "desa",
+		"name": "KUALA PENASO"
+	},
+	{
+		"code": "14.03.13.2007",
+		"type": "desa",
+		"name": "PINGGIR"
+	},
+	{
+		"code": "14.03.13.2008",
+		"type": "desa",
+		"name": "SEMUNAI"
+	},
+	{
+		"code": "14.03.13.2009",
+		"type": "desa",
+		"name": "TASIK SERAI TIMUR"
+	},
+	{
+		"code": "14.03.13.2010",
+		"type": "desa",
+		"name": "TASIK SERAI"
+	},
+	{
+		"code": "14.03.13.2011",
+		"type": "desa",
+		"name": "TENGGANAU"
+	},
+	{
+		"code": "14.03.13.2013",
+		"type": "desa",
+		"name": "SERAI WANGI"
+	},
+	{
+		"code": "14.03.13.2014",
+		"type": "desa",
+		"name": "SUNGAIMERANTI"
+	},
+	{
+		"code": "14.03.13.2015",
+		"type": "desa",
+		"name": "PANGKALAN LIBUT"
+	},
+	{
+		"code": "14.03.13.2016",
+		"type": "desa",
+		"name": "BULUH APO"
+	},
+	{
+		"code": "14.03.13.2017",
+		"type": "desa",
+		"name": "TASIK SERAI BARAT"
+	},
+	{
+		"code": "14.03.13.2018",
+		"type": "desa",
+		"name": "TASIK TEBING SERAI"
+	},
+	{
+		"code": "14.03.13.2019",
+		"type": "desa",
+		"name": "KOTO PAIT BERINGIN"
+	},
+	{
+		"code": "14.04",
+		"type": "kabupaten",
+		"name": "KAB. INDRAGIRI HILIR"
+	},
+	{
+		"code": "14.04.01",
+		"type": "kecamatan",
+		"name": "RETEH"
+	},
+	{
+		"code": "14.04.01.1001",
+		"type": "kelurahan",
+		"name": "PULAUKIJANG"
+	},
+	{
+		"code": "14.04.01.1017",
+		"type": "kelurahan",
+		"name": "METRO"
+	},
+	{
+		"code": "14.04.01.1018",
+		"type": "kelurahan",
+		"name": "MADANI"
+	},
+	{
+		"code": "14.04.01.2002",
+		"type": "desa",
+		"name": "SANGLAR"
+	},
+	{
+		"code": "14.04.01.2003",
+		"type": "desa",
+		"name": "PULAUKECIL"
+	},
+	{
+		"code": "14.04.01.2004",
+		"type": "desa",
+		"name": "SUNGAITERAP"
+	},
+	{
+		"code": "14.04.01.2009",
+		"type": "desa",
+		"name": "SUNGAIUNDAN"
+	},
+	{
+		"code": "14.04.01.2010",
+		"type": "desa",
+		"name": "SEBERANG SANGLAR"
+	},
+	{
+		"code": "14.04.01.2011",
+		"type": "desa",
+		"name": "MEKAR SARI"
+	},
+	{
+		"code": "14.04.01.2012",
+		"type": "desa",
+		"name": "SEBERANG PULAU KIJANG"
+	},
+	{
+		"code": "14.04.01.2013",
+		"type": "desa",
+		"name": "SUNGAIASAM"
+	},
+	{
+		"code": "14.04.01.2014",
+		"type": "desa",
+		"name": "PULAURUKU"
+	},
+	{
+		"code": "14.04.01.2019",
+		"type": "desa",
+		"name": "TANJUNGLABUH"
+	},
+	{
+		"code": "14.04.01.2020",
+		"type": "desa",
+		"name": "SUNGAIMAHANG"
+	},
+	{
+		"code": "14.04.02",
+		"type": "kecamatan",
+		"name": "ENOK"
+	},
+	{
+		"code": "14.04.02.1001",
+		"type": "kelurahan",
+		"name": "ENOK"
+	},
+	{
+		"code": "14.04.02.1002",
+		"type": "kelurahan",
+		"name": "PUSARAN"
+	},
+	{
+		"code": "14.04.02.1003",
+		"type": "kelurahan",
+		"name": "TELUKMEDAN"
+	},
+	{
+		"code": "14.04.02.1013",
+		"type": "kelurahan",
+		"name": "PANTAISEBERANG MAKMUR"
+	},
+	{
+		"code": "14.04.02.2004",
+		"type": "desa",
+		"name": "PENGALEHAN"
+	},
+	{
+		"code": "14.04.02.2005",
+		"type": "desa",
+		"name": "SUNGAIAMBAT"
+	},
+	{
+		"code": "14.04.02.2006",
+		"type": "desa",
+		"name": "SIMPANG TIGA"
+	},
+	{
+		"code": "14.04.02.2007",
+		"type": "desa",
+		"name": "RANTAU PANJANG"
+	},
+	{
+		"code": "14.04.02.2008",
+		"type": "desa",
+		"name": "SUNGAIRUKAM"
+	},
+	{
+		"code": "14.04.02.2009",
+		"type": "desa",
+		"name": "BAGAN JAYA"
+	},
+	{
+		"code": "14.04.02.2010",
+		"type": "desa",
+		"name": "SUHADA"
+	},
+	{
+		"code": "14.04.02.2011",
+		"type": "desa",
+		"name": "JAYA BAKTI"
+	},
+	{
+		"code": "14.04.02.2012",
+		"type": "desa",
+		"name": "SUNGAILOKAN"
+	},
+	{
+		"code": "14.04.02.2014",
+		"type": "desa",
+		"name": "SIMPANG TIGA DARATAN"
+	},
+	{
+		"code": "14.04.03",
+		"type": "kecamatan",
+		"name": "KUALA INDRAGIRI"
+	},
+	{
+		"code": "14.04.03.1007",
+		"type": "kelurahan",
+		"name": "SAPAT"
+	},
+	{
+		"code": "14.04.03.2001",
+		"type": "desa",
+		"name": "SUNGAIBULUH"
+	},
+	{
+		"code": "14.04.03.2002",
+		"type": "desa",
+		"name": "TANJUNGLAJAU"
+	},
+	{
+		"code": "14.04.03.2003",
+		"type": "desa",
+		"name": "SUNGAIBELA"
+	},
+	{
+		"code": "14.04.03.2006",
+		"type": "desa",
+		"name": "TELUKDALAM"
+	},
+	{
+		"code": "14.04.03.2008",
+		"type": "desa",
+		"name": "SUNGAIPIYAI"
+	},
+	{
+		"code": "14.04.03.2009",
+		"type": "desa",
+		"name": "PERIGI RAJA"
+	},
+	{
+		"code": "14.04.03.2010",
+		"type": "desa",
+		"name": "TANJUNGMELAYU"
+	},
+	{
+		"code": "14.04.04",
+		"type": "kecamatan",
+		"name": "TEMBILAHAN"
+	},
+	{
+		"code": "14.04.04.1001",
+		"type": "kelurahan",
+		"name": "TEMBILAHAN KOTA"
+	},
+	{
+		"code": "14.04.04.1002",
+		"type": "kelurahan",
+		"name": "TEMBILAHAN HILIR"
+	},
+	{
+		"code": "14.04.04.1003",
+		"type": "kelurahan",
+		"name": "SEBERANG TEMBILAHAN"
+	},
+	{
+		"code": "14.04.04.1004",
+		"type": "kelurahan",
+		"name": "SUNGAIPERAK"
+	},
+	{
+		"code": "14.04.04.1005",
+		"type": "kelurahan",
+		"name": "SUNGAIBERINGIN"
+	},
+	{
+		"code": "14.04.04.1006",
+		"type": "kelurahan",
+		"name": "PEKAN ARBA"
+	},
+	{
+		"code": "14.04.04.1007",
+		"type": "kelurahan",
+		"name": "SEBERANG TEMBILAHAN BARAT"
+	},
+	{
+		"code": "14.04.04.1008",
+		"type": "kelurahan",
+		"name": "SEBERANG TEMBILAHAN SELATAN"
+	},
+	{
+		"code": "14.04.05",
+		"type": "kecamatan",
+		"name": "TEMPULING"
+	},
+	{
+		"code": "14.04.05.1004",
+		"type": "kelurahan",
+		"name": "SUNGAISALAK"
+	},
+	{
+		"code": "14.04.05.1005",
+		"type": "kelurahan",
+		"name": "TEMPULING"
+	},
+	{
+		"code": "14.04.05.1016",
+		"type": "kelurahan",
+		"name": "TANJUNGPIDADA"
+	},
+	{
+		"code": "14.04.05.1017",
+		"type": "kelurahan",
+		"name": "PANGKALAN TUJUH"
+	},
+	{
+		"code": "14.04.05.2002",
+		"type": "desa",
+		"name": "TELUKKIAMBANG"
+	},
+	{
+		"code": "14.04.05.2003",
+		"type": "desa",
+		"name": "MUMPA"
+	},
+	{
+		"code": "14.04.05.2007",
+		"type": "desa",
+		"name": "TELUKJIRA"
+	},
+	{
+		"code": "14.04.05.2009",
+		"type": "desa",
+		"name": "KARYA TUNAS JAYA"
+	},
+	{
+		"code": "14.04.05.2011",
+		"type": "desa",
+		"name": "HARAPAN JAYA"
+	},
+	{
+		"code": "14.04.06",
+		"type": "kecamatan",
+		"name": "GAUNG ANAK SERKA"
+	},
+	{
+		"code": "14.04.06.1004",
+		"type": "kelurahan",
+		"name": "SUNGAIEMPAT"
+	},
+	{
+		"code": "14.04.06.1005",
+		"type": "kelurahan",
+		"name": "TELUKPINANG"
+	},
+	{
+		"code": "14.04.06.1009",
+		"type": "kelurahan",
+		"name": "TANJUNGHARAPAN"
+	},
+	{
+		"code": "14.04.06.2001",
+		"type": "desa",
+		"name": "KUALA GAUNG"
+	},
+	{
+		"code": "14.04.06.2002",
+		"type": "desa",
+		"name": "TELUKPANTAIAN"
+	},
+	{
+		"code": "14.04.06.2003",
+		"type": "desa",
+		"name": "TELUKSUNGKA"
+	},
+	{
+		"code": "14.04.06.2006",
+		"type": "desa",
+		"name": "SUNGAIILIRAN"
+	},
+	{
+		"code": "14.04.06.2007",
+		"type": "desa",
+		"name": "TELUKTUASAN"
+	},
+	{
+		"code": "14.04.06.2008",
+		"type": "desa",
+		"name": "RAMBAIAN"
+	},
+	{
+		"code": "14.04.06.2010",
+		"type": "desa",
+		"name": "HARAPAN MAKMUR"
+	},
+	{
+		"code": "14.04.06.2011",
+		"type": "desa",
+		"name": "KELUMPANG"
+	},
+	{
+		"code": "14.04.06.2012",
+		"type": "desa",
+		"name": "IDAMAN"
+	},
+	{
+		"code": "14.04.07",
+		"type": "kecamatan",
+		"name": "MANDAH"
+	},
+	{
+		"code": "14.04.07.1004",
+		"type": "kelurahan",
+		"name": "KHAIRIAH MANDAH"
+	},
+	{
+		"code": "14.04.07.2001",
+		"type": "desa",
+		"name": "PULAUCAWAN"
+	},
+	{
+		"code": "14.04.07.2002",
+		"type": "desa",
+		"name": "BELARAS"
+	},
+	{
+		"code": "14.04.07.2003",
+		"type": "desa",
+		"name": "BENTE"
+	},
+	{
+		"code": "14.04.07.2005",
+		"type": "desa",
+		"name": "IGAL"
+	},
+	{
+		"code": "14.04.07.2006",
+		"type": "desa",
+		"name": "PELANDUK"
+	},
+	{
+		"code": "14.04.07.2007",
+		"type": "desa",
+		"name": "BAKAU ACEH"
+	},
+	{
+		"code": "14.04.07.2008",
+		"type": "desa",
+		"name": "BATANG TUMU"
+	},
+	{
+		"code": "14.04.07.2009",
+		"type": "desa",
+		"name": "BEKAWAN"
+	},
+	{
+		"code": "14.04.07.2010",
+		"type": "desa",
+		"name": "BANTAYAN"
+	},
+	{
+		"code": "14.04.07.2011",
+		"type": "desa",
+		"name": "BATANG SARI"
+	},
+	{
+		"code": "14.04.07.2012",
+		"type": "desa",
+		"name": "BOLAK RAYA"
+	},
+	{
+		"code": "14.04.07.2013",
+		"type": "desa",
+		"name": "CAHAYA BARU"
+	},
+	{
+		"code": "14.04.07.2014",
+		"type": "desa",
+		"name": "BELARAS BARAT"
+	},
+	{
+		"code": "14.04.07.2015",
+		"type": "desa",
+		"name": "SEPAKAT JAYA"
+	},
+	{
+		"code": "14.04.07.2016",
+		"type": "desa",
+		"name": "SURAYA MANDIRI"
+	},
+	{
+		"code": "14.04.07.2017",
+		"type": "desa",
+		"name": "BIDARI TANJUNG DATUK"
+	},
+	{
+		"code": "14.04.08",
+		"type": "kecamatan",
+		"name": "KATEMAN"
+	},
+	{
+		"code": "14.04.08.1001",
+		"type": "kelurahan",
+		"name": "TEGARAJA"
+	},
+	{
+		"code": "14.04.08.1009",
+		"type": "kelurahan",
+		"name": "AMAL BAKTI"
+	},
+	{
+		"code": "14.04.08.1010",
+		"type": "kelurahan",
+		"name": "BANDAR SRI GEMILANG"
+	},
+	{
+		"code": "14.04.08.2002",
+		"type": "desa",
+		"name": "KUALA SELAT"
+	},
+	{
+		"code": "14.04.08.2003",
+		"type": "desa",
+		"name": "SUNGAISIMBAR"
+	},
+	{
+		"code": "14.04.08.2004",
+		"type": "desa",
+		"name": "PENJURU"
+	},
+	{
+		"code": "14.04.08.2005",
+		"type": "desa",
+		"name": "SARI MULIA"
+	},
+	{
+		"code": "14.04.08.2006",
+		"type": "desa",
+		"name": "AIR TAWAR"
+	},
+	{
+		"code": "14.04.08.2007",
+		"type": "desa",
+		"name": "TANJUNGRAJA"
+	},
+	{
+		"code": "14.04.08.2008",
+		"type": "desa",
+		"name": "SUNGAITERITIP"
+	},
+	{
+		"code": "14.04.08.2011",
+		"type": "desa",
+		"name": "MAKMUR JAYA"
+	},
+	{
+		"code": "14.04.09",
+		"type": "kecamatan",
+		"name": "KERITANG"
+	},
+	{
+		"code": "14.04.09.1003",
+		"type": "kelurahan",
+		"name": "KOTA BARU RETEH"
+	},
+	{
+		"code": "14.04.09.2001",
+		"type": "desa",
+		"name": "PEBENAAN"
+	},
+	{
+		"code": "14.04.09.2002",
+		"type": "desa",
+		"name": "SEBERANG PEBENAAN"
+	},
+	{
+		"code": "14.04.09.2004",
+		"type": "desa",
+		"name": "NUSANTARA JAYA"
+	},
+	{
+		"code": "14.04.09.2005",
+		"type": "desa",
+		"name": "KOTA BARU SEBERIDA"
+	},
+	{
+		"code": "14.04.09.2006",
+		"type": "desa",
+		"name": "KEMBANG MEKARSARI"
+	},
+	{
+		"code": "14.04.09.2007",
+		"type": "desa",
+		"name": "PASAR KEMBANG"
+	},
+	{
+		"code": "14.04.09.2008",
+		"type": "desa",
+		"name": "KUALA KERITANG"
+	},
+	{
+		"code": "14.04.09.2009",
+		"type": "desa",
+		"name": "KUALA LEMANG"
+	},
+	{
+		"code": "14.04.09.2010",
+		"type": "desa",
+		"name": "TELUKKELASA"
+	},
+	{
+		"code": "14.04.09.2011",
+		"type": "desa",
+		"name": "PENGALEHAN"
+	},
+	{
+		"code": "14.04.09.2012",
+		"type": "desa",
+		"name": "PANCUR"
+	},
+	{
+		"code": "14.04.09.2013",
+		"type": "desa",
+		"name": "SENCALANG"
+	},
+	{
+		"code": "14.04.09.2014",
+		"type": "desa",
+		"name": "PETALONGAN"
+	},
+	{
+		"code": "14.04.09.2015",
+		"type": "desa",
+		"name": "NYIUR PERMAI"
+	},
+	{
+		"code": "14.04.09.2016",
+		"type": "desa",
+		"name": "LINTAS UTARA"
+	},
+	{
+		"code": "14.04.09.2017",
+		"type": "desa",
+		"name": "KAYU RAJA"
+	},
+	{
+		"code": "14.04.10",
+		"type": "kecamatan",
+		"name": "TANAH MERAH"
+	},
+	{
+		"code": "14.04.10.1001",
+		"type": "kelurahan",
+		"name": "KUALA ENOK"
+	},
+	{
+		"code": "14.04.10.2002",
+		"type": "desa",
+		"name": "SELATNAMA"
+	},
+	{
+		"code": "14.04.10.2003",
+		"type": "desa",
+		"name": "SUNGAINYIUR"
+	},
+	{
+		"code": "14.04.10.2004",
+		"type": "desa",
+		"name": "TANJUNGBARU"
+	},
+	{
+		"code": "14.04.10.2005",
+		"type": "desa",
+		"name": "TEKULAI HILIR"
+	},
+	{
+		"code": "14.04.10.2006",
+		"type": "desa",
+		"name": "TEKULAI HULU"
+	},
+	{
+		"code": "14.04.10.2007",
+		"type": "desa",
+		"name": "TEKULAI BUGIS"
+	},
+	{
+		"code": "14.04.10.2008",
+		"type": "desa",
+		"name": "TANJUNGPASIR"
+	},
+	{
+		"code": "14.04.10.2009",
+		"type": "desa",
+		"name": "TANAH MERAH"
+	},
+	{
+		"code": "14.04.10.2010",
+		"type": "desa",
+		"name": "SUNGAILAUT"
+	},
+	{
+		"code": "14.04.11",
+		"type": "kecamatan",
+		"name": "BATANG TUAKA"
+	},
+	{
+		"code": "14.04.11.1001",
+		"type": "kelurahan",
+		"name": "SUNGAIPIRING"
+	},
+	{
+		"code": "14.04.11.2002",
+		"type": "desa",
+		"name": "SUNGAILUAR"
+	},
+	{
+		"code": "14.04.11.2003",
+		"type": "desa",
+		"name": "SUNGAIDUSUN"
+	},
+	{
+		"code": "14.04.11.2004",
+		"type": "desa",
+		"name": "SUNGAIJUNJANGAN"
+	},
+	{
+		"code": "14.04.11.2005",
+		"type": "desa",
+		"name": "SUNGAIRAYA"
+	},
+	{
+		"code": "14.04.11.2006",
+		"type": "desa",
+		"name": "KUALA SEBATU"
+	},
+	{
+		"code": "14.04.11.2007",
+		"type": "desa",
+		"name": "TANJUNGSIANTAR"
+	},
+	{
+		"code": "14.04.11.2008",
+		"type": "desa",
+		"name": "SUNGAIRAWA"
+	},
+	{
+		"code": "14.04.11.2009",
+		"type": "desa",
+		"name": "SIALANG JAYA"
+	},
+	{
+		"code": "14.04.11.2010",
+		"type": "desa",
+		"name": "GEMILANG JAYA"
+	},
+	{
+		"code": "14.04.11.2011",
+		"type": "desa",
+		"name": "TASIK RAYA"
+	},
+	{
+		"code": "14.04.11.2012",
+		"type": "desa",
+		"name": "PASIR EMAS"
+	},
+	{
+		"code": "14.04.11.2013",
+		"type": "desa",
+		"name": "SIMPANG JAYA"
+	},
+	{
+		"code": "14.04.12",
+		"type": "kecamatan",
+		"name": "GAUNG"
+	},
+	{
+		"code": "14.04.12.1006",
+		"type": "kelurahan",
+		"name": "KUALA LAHANG"
+	},
+	{
+		"code": "14.04.12.2001",
+		"type": "desa",
+		"name": "TERUSAN KEMPAS"
+	},
+	{
+		"code": "14.04.12.2002",
+		"type": "desa",
+		"name": "LAHANG BARU"
+	},
+	{
+		"code": "14.04.12.2003",
+		"type": "desa",
+		"name": "SIMPANG GAUNG"
+	},
+	{
+		"code": "14.04.12.2004",
+		"type": "desa",
+		"name": "BELANTARAYA"
+	},
+	{
+		"code": "14.04.12.2005",
+		"type": "desa",
+		"name": "SUNGAIBARU"
+	},
+	{
+		"code": "14.04.12.2007",
+		"type": "desa",
+		"name": "LAHANG TENGAH"
+	},
+	{
+		"code": "14.04.12.2008",
+		"type": "desa",
+		"name": "LAHANG HULU"
+	},
+	{
+		"code": "14.04.12.2009",
+		"type": "desa",
+		"name": "PUNGKAT"
+	},
+	{
+		"code": "14.04.12.2010",
+		"type": "desa",
+		"name": "JERAMBANG"
+	},
+	{
+		"code": "14.04.12.2011",
+		"type": "desa",
+		"name": "TELUKKABUNG"
+	},
+	{
+		"code": "14.04.12.2012",
+		"type": "desa",
+		"name": "GEMBIRA"
+	},
+	{
+		"code": "14.04.12.2013",
+		"type": "desa",
+		"name": "SEMAMBU KUNING"
+	},
+	{
+		"code": "14.04.12.2014",
+		"type": "desa",
+		"name": "TELUKMERBAU"
+	},
+	{
+		"code": "14.04.12.2015",
+		"type": "desa",
+		"name": "SOREN"
+	},
+	{
+		"code": "14.04.12.2016",
+		"type": "desa",
+		"name": "PINTASAN"
+	},
+	{
+		"code": "14.04.13",
+		"type": "kecamatan",
+		"name": "TEMBILAHAN HULU"
+	},
+	{
+		"code": "14.04.13.1001",
+		"type": "kelurahan",
+		"name": "TEMBILAHAN HULU"
+	},
+	{
+		"code": "14.04.13.1005",
+		"type": "kelurahan",
+		"name": "TEMBILAHAN BARAT"
+	},
+	{
+		"code": "14.04.13.2002",
+		"type": "desa",
+		"name": "PEKAN KAMIS"
+	},
+	{
+		"code": "14.04.13.2003",
+		"type": "desa",
+		"name": "PULAUPALAS"
+	},
+	{
+		"code": "14.04.13.2004",
+		"type": "desa",
+		"name": "SIALANG PANJANG"
+	},
+	{
+		"code": "14.04.13.2006",
+		"type": "desa",
+		"name": "SUNGAIINTAN"
+	},
+	{
+		"code": "14.04.14",
+		"type": "kecamatan",
+		"name": "KEMUNING"
+	},
+	{
+		"code": "14.04.14.1001",
+		"type": "kelurahan",
+		"name": "SELENSEN"
+	},
+	{
+		"code": "14.04.14.2002",
+		"type": "desa",
+		"name": "BATU AMPAR"
+	},
+	{
+		"code": "14.04.14.2003",
+		"type": "desa",
+		"name": "KERITANG"
+	},
+	{
+		"code": "14.04.14.2004",
+		"type": "desa",
+		"name": "AIR BALUI"
+	},
+	{
+		"code": "14.04.14.2005",
+		"type": "desa",
+		"name": "TUK JIMUN"
+	},
+	{
+		"code": "14.04.14.2006",
+		"type": "desa",
+		"name": "KEMUNING TUA"
+	},
+	{
+		"code": "14.04.14.2007",
+		"type": "desa",
+		"name": "KEMUNING MUDA"
+	},
+	{
+		"code": "14.04.14.2008",
+		"type": "desa",
+		"name": "LIMAU MANIS"
+	},
+	{
+		"code": "14.04.14.2009",
+		"type": "desa",
+		"name": "LUBUK BESAR"
+	},
+	{
+		"code": "14.04.14.2010",
+		"type": "desa",
+		"name": "SEKARA"
+	},
+	{
+		"code": "14.04.14.2011",
+		"type": "desa",
+		"name": "TALANG JANGKANG"
+	},
+	{
+		"code": "14.04.14.2012",
+		"type": "desa",
+		"name": "SEKAYAN"
+	},
+	{
+		"code": "14.04.15",
+		"type": "kecamatan",
+		"name": "PELANGIRAN"
+	},
+	{
+		"code": "14.04.15.1002",
+		"type": "kelurahan",
+		"name": "PELANGIRAN"
+	},
+	{
+		"code": "14.04.15.2001",
+		"type": "desa",
+		"name": "ROTAN SEMELUR"
+	},
+	{
+		"code": "14.04.15.2003",
+		"type": "desa",
+		"name": "SIMPANG KATEMAN"
+	},
+	{
+		"code": "14.04.15.2004",
+		"type": "desa",
+		"name": "TANJUNGSIMPANG"
+	},
+	{
+		"code": "14.04.15.2005",
+		"type": "desa",
+		"name": "GAUNG REJO JAYA"
+	},
+	{
+		"code": "14.04.15.2006",
+		"type": "desa",
+		"name": "TAGAGIRI TAMA JAYA"
+	},
+	{
+		"code": "14.04.15.2007",
+		"type": "desa",
+		"name": "PINANG JAYA"
+	},
+	{
+		"code": "14.04.15.2008",
+		"type": "desa",
+		"name": "WONOSARI"
+	},
+	{
+		"code": "14.04.15.2009",
+		"type": "desa",
+		"name": "TEGAL REJO"
+	},
+	{
+		"code": "14.04.15.2010",
+		"type": "desa",
+		"name": "INTAN MULIA JAYA"
+	},
+	{
+		"code": "14.04.15.2011",
+		"type": "desa",
+		"name": "SAKA PALAS JAYA"
+	},
+	{
+		"code": "14.04.15.2012",
+		"type": "desa",
+		"name": "CATUR KARYA"
+	},
+	{
+		"code": "14.04.15.2013",
+		"type": "desa",
+		"name": "BAGAN JAYA"
+	},
+	{
+		"code": "14.04.15.2014",
+		"type": "desa",
+		"name": "TELUKBUNIAN"
+	},
+	{
+		"code": "14.04.15.2015",
+		"type": "desa",
+		"name": "TERUSAN BERINGIN JAYA"
+	},
+	{
+		"code": "14.04.15.2016",
+		"type": "desa",
+		"name": "HIDAYAH"
+	},
+	{
+		"code": "14.04.16",
+		"type": "kecamatan",
+		"name": "TELUK BELENGKONG"
+	},
+	{
+		"code": "14.04.16.2001",
+		"type": "desa",
+		"name": "HIBRIDA MULIA"
+	},
+	{
+		"code": "14.04.16.2002",
+		"type": "desa",
+		"name": "INDRA SARI JAYA"
+	},
+	{
+		"code": "14.04.16.2003",
+		"type": "desa",
+		"name": "TUNGGAL RAHAYU JAYA"
+	},
+	{
+		"code": "14.04.16.2004",
+		"type": "desa",
+		"name": "GRIYA MUKTI JAYA"
+	},
+	{
+		"code": "14.04.16.2005",
+		"type": "desa",
+		"name": "BERINGIN MULIA"
+	},
+	{
+		"code": "14.04.16.2006",
+		"type": "desa",
+		"name": "HIBRIDA JAYA"
+	},
+	{
+		"code": "14.04.16.2007",
+		"type": "desa",
+		"name": "SUMBER JAYA"
+	},
+	{
+		"code": "14.04.16.2008",
+		"type": "desa",
+		"name": "SUMBER MAKMUR JAYA"
+	},
+	{
+		"code": "14.04.16.2009",
+		"type": "desa",
+		"name": "SUMBER SARI JAYA"
+	},
+	{
+		"code": "14.04.16.2010",
+		"type": "desa",
+		"name": "KELAPA PATIH JAYA"
+	},
+	{
+		"code": "14.04.16.2011",
+		"type": "desa",
+		"name": "SAPTA MULIA JAYA"
+	},
+	{
+		"code": "14.04.16.2012",
+		"type": "desa",
+		"name": "SAKA ROTAN"
+	},
+	{
+		"code": "14.04.16.2013",
+		"type": "desa",
+		"name": "GEMBARAN"
+	},
+	{
+		"code": "14.04.17",
+		"type": "kecamatan",
+		"name": "PULAU BURUNG"
+	},
+	{
+		"code": "14.04.17.2001",
+		"type": "desa",
+		"name": "PULAUBURUNG"
+	},
+	{
+		"code": "14.04.17.2002",
+		"type": "desa",
+		"name": "TELUKNIBUNG"
+	},
+	{
+		"code": "14.04.17.2003",
+		"type": "desa",
+		"name": "SUNGAIDANAI"
+	},
+	{
+		"code": "14.04.17.2004",
+		"type": "desa",
+		"name": "MAYANG SARI JAYA"
+	},
+	{
+		"code": "14.04.17.2005",
+		"type": "desa",
+		"name": "BUKIT SARI INTAN JAYA"
+	},
+	{
+		"code": "14.04.17.2006",
+		"type": "desa",
+		"name": "MANUNGGAL JAYA"
+	},
+	{
+		"code": "14.04.17.2007",
+		"type": "desa",
+		"name": "BANGUN HARJO JAYA"
+	},
+	{
+		"code": "14.04.17.2008",
+		"type": "desa",
+		"name": "BERINGIN JAYA"
+	},
+	{
+		"code": "14.04.17.2009",
+		"type": "desa",
+		"name": "SRI DANAI"
+	},
+	{
+		"code": "14.04.17.2010",
+		"type": "desa",
+		"name": "SAPTA JAYA"
+	},
+	{
+		"code": "14.04.17.2011",
+		"type": "desa",
+		"name": "KRAMAT JAYA"
+	},
+	{
+		"code": "14.04.17.2012",
+		"type": "desa",
+		"name": "BINAGUN JAYA"
+	},
+	{
+		"code": "14.04.17.2013",
+		"type": "desa",
+		"name": "SUKA JAYA"
+	},
+	{
+		"code": "14.04.17.2014",
+		"type": "desa",
+		"name": "SUKAHARJO JAYA"
+	},
+	{
+		"code": "14.04.17.2015",
+		"type": "desa",
+		"name": "SEMPADAN JAYA"
+	},
+	{
+		"code": "14.04.18",
+		"type": "kecamatan",
+		"name": "CONCONG"
+	},
+	{
+		"code": "14.04.18.1001",
+		"type": "kelurahan",
+		"name": "CONCONG LUAR"
+	},
+	{
+		"code": "14.04.18.2002",
+		"type": "desa",
+		"name": "CONCONG DALAM"
+	},
+	{
+		"code": "14.04.18.2003",
+		"type": "desa",
+		"name": "CONCONG TENGAH"
+	},
+	{
+		"code": "14.04.18.2004",
+		"type": "desa",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "14.04.18.2005",
+		"type": "desa",
+		"name": "PANGLIMA RAJA"
+	},
+	{
+		"code": "14.04.18.2006",
+		"type": "desa",
+		"name": "SUNGAIBERAPIT"
+	},
+	{
+		"code": "14.04.19",
+		"type": "kecamatan",
+		"name": "KEMPAS"
+	},
+	{
+		"code": "14.04.19.1002",
+		"type": "kelurahan",
+		"name": "KEMPAS JAYA"
+	},
+	{
+		"code": "14.04.19.1007",
+		"type": "kelurahan",
+		"name": "HARAPAN TANI"
+	},
+	{
+		"code": "14.04.19.2001",
+		"type": "desa",
+		"name": "PEKAN TUA"
+	},
+	{
+		"code": "14.04.19.2003",
+		"type": "desa",
+		"name": "RUMBAI JAYA"
+	},
+	{
+		"code": "14.04.19.2004",
+		"type": "desa",
+		"name": "BAYAS JAYA"
+	},
+	{
+		"code": "14.04.19.2005",
+		"type": "desa",
+		"name": "SUNGAIARA"
+	},
+	{
+		"code": "14.04.19.2006",
+		"type": "desa",
+		"name": "SUNGAIGANTANG"
+	},
+	{
+		"code": "14.04.19.2008",
+		"type": "desa",
+		"name": "KARYA TANI"
+	},
+	{
+		"code": "14.04.19.2009",
+		"type": "desa",
+		"name": "KERTA JAYA"
+	},
+	{
+		"code": "14.04.19.2010",
+		"type": "desa",
+		"name": "KULIM JAYA"
+	},
+	{
+		"code": "14.04.19.2011",
+		"type": "desa",
+		"name": "DANAUPULAI INDAH"
+	},
+	{
+		"code": "14.04.19.2012",
+		"type": "desa",
+		"name": "SUNGAIRABIT"
+	},
+	{
+		"code": "14.04.20",
+		"type": "kecamatan",
+		"name": "SUNGAI BATANG"
+	},
+	{
+		"code": "14.04.20.1001",
+		"type": "kelurahan",
+		"name": "BENTENG"
+	},
+	{
+		"code": "14.04.20.2002",
+		"type": "desa",
+		"name": "BENTENG UTARA"
+	},
+	{
+		"code": "14.04.20.2003",
+		"type": "desa",
+		"name": "PASENGGERAHAN"
+	},
+	{
+		"code": "14.04.20.2004",
+		"type": "desa",
+		"name": "KUALA SUNGAI BATANG"
+	},
+	{
+		"code": "14.04.20.2005",
+		"type": "desa",
+		"name": "KUALA PATAH ARANG"
+	},
+	{
+		"code": "14.04.20.2006",
+		"type": "desa",
+		"name": "BENTENG BARAT"
+	},
+	{
+		"code": "14.04.20.2007",
+		"type": "desa",
+		"name": "PANDAN SARI"
+	},
+	{
+		"code": "14.04.20.2008",
+		"type": "desa",
+		"name": "MUGO MULYO"
+	},
+	{
+		"code": "14.05",
+		"type": "kabupaten",
+		"name": "KAB. PELALAWAN"
+	},
+	{
+		"code": "14.05.01",
+		"type": "kecamatan",
+		"name": "UKUI"
+	},
+	{
+		"code": "14.05.01.1010",
+		"type": "kelurahan",
+		"name": "UKUI I"
+	},
+	{
+		"code": "14.05.01.2001",
+		"type": "desa",
+		"name": "AIR HITAM"
+	},
+	{
+		"code": "14.05.01.2002",
+		"type": "desa",
+		"name": "AIR EMAS"
+	},
+	{
+		"code": "14.05.01.2003",
+		"type": "desa",
+		"name": "BUKIT GAJAH"
+	},
+	{
+		"code": "14.05.01.2004",
+		"type": "desa",
+		"name": "BUKIT JAYA"
+	},
+	{
+		"code": "14.05.01.2005",
+		"type": "desa",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "14.05.01.2006",
+		"type": "desa",
+		"name": "LUBUK KEMBANG BUNGA"
+	},
+	{
+		"code": "14.05.01.2007",
+		"type": "desa",
+		"name": "LUBUK KEMBANG SARI"
+	},
+	{
+		"code": "14.05.01.2008",
+		"type": "desa",
+		"name": "SILIKUAN HULU"
+	},
+	{
+		"code": "14.05.01.2009",
+		"type": "desa",
+		"name": "TRI MULYA JAYA"
+	},
+	{
+		"code": "14.05.01.2011",
+		"type": "desa",
+		"name": "UKUI DUA"
+	},
+	{
+		"code": "14.05.01.2012",
+		"type": "desa",
+		"name": "BAGAN LIMAU"
+	},
+	{
+		"code": "14.05.02",
+		"type": "kecamatan",
+		"name": "PANGKALAN KERINCI"
+	},
+	{
+		"code": "14.05.02.1007",
+		"type": "kelurahan",
+		"name": "BARAT"
+	},
+	{
+		"code": "14.05.02.1008",
+		"type": "kelurahan",
+		"name": "PANGKALAN KERINCI KOTA"
+	},
+	{
+		"code": "14.05.02.1009",
+		"type": "kelurahan",
+		"name": "PANGKALAN KERINCI TIMUR"
+	},
+	{
+		"code": "14.05.02.2001",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "14.05.02.2002",
+		"type": "desa",
+		"name": "KUALA TERUSAN"
+	},
+	{
+		"code": "14.05.02.2003",
+		"type": "desa",
+		"name": "MAKMUR"
+	},
+	{
+		"code": "14.05.02.2005",
+		"type": "desa",
+		"name": "RANTAU BARU"
+	},
+	{
+		"code": "14.05.03",
+		"type": "kecamatan",
+		"name": "PANGKALAN KURAS"
+	},
+	{
+		"code": "14.05.03.1001",
+		"type": "kelurahan",
+		"name": "SOREK I"
+	},
+	{
+		"code": "14.05.03.2002",
+		"type": "desa",
+		"name": "SOREK II"
+	},
+	{
+		"code": "14.05.03.2003",
+		"type": "desa",
+		"name": "DUNDANGAN"
+	},
+	{
+		"code": "14.05.03.2004",
+		"type": "desa",
+		"name": "PALAS"
+	},
+	{
+		"code": "14.05.03.2005",
+		"type": "desa",
+		"name": "TERANTANG MANUK"
+	},
+	{
+		"code": "14.05.03.2006",
+		"type": "desa",
+		"name": "KEMANG"
+	},
+	{
+		"code": "14.05.03.2007",
+		"type": "desa",
+		"name": "TALAU"
+	},
+	{
+		"code": "14.05.03.2008",
+		"type": "desa",
+		"name": "TANJUNG BERINGIN"
+	},
+	{
+		"code": "14.05.03.2009",
+		"type": "desa",
+		"name": "BETUNG"
+	},
+	{
+		"code": "14.05.03.2010",
+		"type": "desa",
+		"name": "KESUMA"
+	},
+	{
+		"code": "14.05.03.2011",
+		"type": "desa",
+		"name": "SURYA INDAH"
+	},
+	{
+		"code": "14.05.03.2012",
+		"type": "desa",
+		"name": "SIALANG INDAH"
+	},
+	{
+		"code": "14.05.03.2013",
+		"type": "desa",
+		"name": "BERINGIN INDAH"
+	},
+	{
+		"code": "14.05.03.2014",
+		"type": "desa",
+		"name": "MERANTI"
+	},
+	{
+		"code": "14.05.03.2015",
+		"type": "desa",
+		"name": "HARAPAN JAYA"
+	},
+	{
+		"code": "14.05.03.2016",
+		"type": "desa",
+		"name": "BATANG KULIM"
+	},
+	{
+		"code": "14.05.03.2017",
+		"type": "desa",
+		"name": "SIDOMUKTI"
+	},
+	{
+		"code": "14.05.04",
+		"type": "kecamatan",
+		"name": "PANGKALAN LESUNG"
+	},
+	{
+		"code": "14.05.04.1001",
+		"type": "kelurahan",
+		"name": "PANGKALAN LESUNG"
+	},
+	{
+		"code": "14.05.04.2002",
+		"type": "desa",
+		"name": "DUSUN TUA"
+	},
+	{
+		"code": "14.05.04.2003",
+		"type": "desa",
+		"name": "GENDUANG"
+	},
+	{
+		"code": "14.05.04.2004",
+		"type": "desa",
+		"name": "MAYANG SARI"
+	},
+	{
+		"code": "14.05.04.2005",
+		"type": "desa",
+		"name": "RAWANG SARI"
+	},
+	{
+		"code": "14.05.04.2006",
+		"type": "desa",
+		"name": "MULYA SUBUR"
+	},
+	{
+		"code": "14.05.04.2007",
+		"type": "desa",
+		"name": "SARI MULYA"
+	},
+	{
+		"code": "14.05.04.2008",
+		"type": "desa",
+		"name": "SARI MAKMUR"
+	},
+	{
+		"code": "14.05.04.2009",
+		"type": "desa",
+		"name": "TANJUNG KUYO"
+	},
+	{
+		"code": "14.05.04.2010",
+		"type": "desa",
+		"name": "PESAGUAN"
+	},
+	{
+		"code": "14.05.05",
+		"type": "kecamatan",
+		"name": "LANGGAM"
+	},
+	{
+		"code": "14.05.05.1001",
+		"type": "kelurahan",
+		"name": "LANGGAM"
+	},
+	{
+		"code": "14.05.05.2002",
+		"type": "desa",
+		"name": "TAMBAK"
+	},
+	{
+		"code": "14.05.05.2003",
+		"type": "desa",
+		"name": "PENARIKAN"
+	},
+	{
+		"code": "14.05.05.2004",
+		"type": "desa",
+		"name": "SEGATI"
+	},
+	{
+		"code": "14.05.05.2005",
+		"type": "desa",
+		"name": "SOTOL"
+	},
+	{
+		"code": "14.05.05.2006",
+		"type": "desa",
+		"name": "PANGKALAN GONDAI"
+	},
+	{
+		"code": "14.05.05.2007",
+		"type": "desa",
+		"name": "LANGKAN"
+	},
+	{
+		"code": "14.05.05.2008",
+		"type": "desa",
+		"name": "PADANG LUAS"
+	},
+	{
+		"code": "14.05.06",
+		"type": "kecamatan",
+		"name": "PELALAWAN"
+	},
+	{
+		"code": "14.05.06.1001",
+		"type": "kelurahan",
+		"name": "PELALAWAN"
+	},
+	{
+		"code": "14.05.06.2002",
+		"type": "desa",
+		"name": "SUNGAI ARA"
+	},
+	{
+		"code": "14.05.06.2003",
+		"type": "desa",
+		"name": "RANSANG"
+	},
+	{
+		"code": "14.05.06.2004",
+		"type": "desa",
+		"name": "KUALA TOLAM"
+	},
+	{
+		"code": "14.05.06.2005",
+		"type": "desa",
+		"name": "SERING"
+	},
+	{
+		"code": "14.05.06.2006",
+		"type": "desa",
+		"name": "TELAYAP"
+	},
+	{
+		"code": "14.05.06.2007",
+		"type": "desa",
+		"name": "BATANG NILO KECIL"
+	},
+	{
+		"code": "14.05.06.2008",
+		"type": "desa",
+		"name": "DELIK"
+	},
+	{
+		"code": "14.05.06.2010",
+		"type": "desa",
+		"name": "LALANG KABUNG"
+	},
+	{
+		"code": "14.05.07",
+		"type": "kecamatan",
+		"name": "KERUMUTAN"
+	},
+	{
+		"code": "14.05.07.1001",
+		"type": "kelurahan",
+		"name": "KERUMUTAN"
+	},
+	{
+		"code": "14.05.07.2002",
+		"type": "desa",
+		"name": "PANGKALAN PANDUK"
+	},
+	{
+		"code": "14.05.07.2003",
+		"type": "desa",
+		"name": "PANGKALAN TAMPUI"
+	},
+	{
+		"code": "14.05.07.2004",
+		"type": "desa",
+		"name": "BUKIT LEMBAH SUBUR"
+	},
+	{
+		"code": "14.05.07.2005",
+		"type": "desa",
+		"name": "BANJAR PANJANG"
+	},
+	{
+		"code": "14.05.07.2006",
+		"type": "desa",
+		"name": "BERINGIN MAKMUR"
+	},
+	{
+		"code": "14.05.07.2007",
+		"type": "desa",
+		"name": "PEMATANG TINGGI"
+	},
+	{
+		"code": "14.05.07.2008",
+		"type": "desa",
+		"name": "TANJUNG AIR HITAM"
+	},
+	{
+		"code": "14.05.07.2009",
+		"type": "desa",
+		"name": "MAK TEDUH"
+	},
+	{
+		"code": "14.05.07.2010",
+		"type": "desa",
+		"name": "LIPAI BULAN"
+	},
+	{
+		"code": "14.05.08",
+		"type": "kecamatan",
+		"name": "BUNUT"
+	},
+	{
+		"code": "14.05.08.1011",
+		"type": "kelurahan",
+		"name": "PANGKALAN BUNUT"
+	},
+	{
+		"code": "14.05.08.2001",
+		"type": "desa",
+		"name": "PETANI"
+	},
+	{
+		"code": "14.05.08.2002",
+		"type": "desa",
+		"name": "MERBAU"
+	},
+	{
+		"code": "14.05.08.2003",
+		"type": "desa",
+		"name": "SUNGAI BULUH"
+	},
+	{
+		"code": "14.05.08.2008",
+		"type": "desa",
+		"name": "LUBUK MAS"
+	},
+	{
+		"code": "14.05.08.2009",
+		"type": "desa",
+		"name": "BALAM MERAH"
+	},
+	{
+		"code": "14.05.08.2010",
+		"type": "desa",
+		"name": "BAGAN LABAH"
+	},
+	{
+		"code": "14.05.08.2013",
+		"type": "desa",
+		"name": "LUBUK MANDIAN GAJAH"
+	},
+	{
+		"code": "14.05.08.2017",
+		"type": "desa",
+		"name": "KERIUNG"
+	},
+	{
+		"code": "14.05.08.2018",
+		"type": "desa",
+		"name": "SIALANG KAYU BATU"
+	},
+	{
+		"code": "14.05.09",
+		"type": "kecamatan",
+		"name": "TELUK MERANTI"
+	},
+	{
+		"code": "14.05.09.1001",
+		"type": "kelurahan",
+		"name": "TELUK MERANTI"
+	},
+	{
+		"code": "14.05.09.2002",
+		"type": "desa",
+		"name": "KUALA PANDUK"
+	},
+	{
+		"code": "14.05.09.2003",
+		"type": "desa",
+		"name": "PETODAAN"
+	},
+	{
+		"code": "14.05.09.2004",
+		"type": "desa",
+		"name": "TELUK BINJAI"
+	},
+	{
+		"code": "14.05.09.2005",
+		"type": "desa",
+		"name": "PULAU MUDA"
+	},
+	{
+		"code": "14.05.09.2006",
+		"type": "desa",
+		"name": "GAMBUT MUTIARA"
+	},
+	{
+		"code": "14.05.09.2007",
+		"type": "desa",
+		"name": "LABUHAN BILIK"
+	},
+	{
+		"code": "14.05.09.2008",
+		"type": "desa",
+		"name": "PANGKALAN TERAP"
+	},
+	{
+		"code": "14.05.09.2009",
+		"type": "desa",
+		"name": "SEGAMAI"
+	},
+	{
+		"code": "14.05.10",
+		"type": "kecamatan",
+		"name": "KUALA KAMPAR"
+	},
+	{
+		"code": "14.05.10.1001",
+		"type": "kelurahan",
+		"name": "TELUK DALAM"
+	},
+	{
+		"code": "14.05.10.2002",
+		"type": "desa",
+		"name": "TANJUNG SUM"
+	},
+	{
+		"code": "14.05.10.2003",
+		"type": "desa",
+		"name": "SUNGAI SOLOK"
+	},
+	{
+		"code": "14.05.10.2004",
+		"type": "desa",
+		"name": "SUNGAI UPIH"
+	},
+	{
+		"code": "14.05.10.2005",
+		"type": "desa",
+		"name": "TELUK"
+	},
+	{
+		"code": "14.05.10.2006",
+		"type": "desa",
+		"name": "SERAPUNG"
+	},
+	{
+		"code": "14.05.10.2007",
+		"type": "desa",
+		"name": "TELUK BERINGIN"
+	},
+	{
+		"code": "14.05.10.2008",
+		"type": "desa",
+		"name": "SOKOI"
+	},
+	{
+		"code": "14.05.10.2009",
+		"type": "desa",
+		"name": "SUNGAI MAS"
+	},
+	{
+		"code": "14.05.10.2010",
+		"type": "desa",
+		"name": "TELUK BAKAU"
+	},
+	{
+		"code": "14.05.11",
+		"type": "kecamatan",
+		"name": "BANDAR SEI KIJANG"
+	},
+	{
+		"code": "14.05.11.1001",
+		"type": "kelurahan",
+		"name": "SEI KIJANG"
+	},
+	{
+		"code": "14.05.11.2002",
+		"type": "desa",
+		"name": "LUBUK OGUNG"
+	},
+	{
+		"code": "14.05.11.2003",
+		"type": "desa",
+		"name": "SIMPANG BERINGIN"
+	},
+	{
+		"code": "14.05.11.2004",
+		"type": "desa",
+		"name": "MUDA SETIA"
+	},
+	{
+		"code": "14.05.11.2005",
+		"type": "desa",
+		"name": "KIAB JAYA"
+	},
+	{
+		"code": "14.05.12",
+		"type": "kecamatan",
+		"name": "BANDAR PETALANGAN"
+	},
+	{
+		"code": "14.05.12.1002",
+		"type": "kelurahan",
+		"name": "RAWANG EMPAT"
+	},
+	{
+		"code": "14.05.12.2001",
+		"type": "desa",
+		"name": "KUALA SEMUNDAM"
+	},
+	{
+		"code": "14.05.12.2003",
+		"type": "desa",
+		"name": "TAMBUN"
+	},
+	{
+		"code": "14.05.12.2004",
+		"type": "desa",
+		"name": "TERBANGIANG"
+	},
+	{
+		"code": "14.05.12.2005",
+		"type": "desa",
+		"name": "LUBUK TERAP"
+	},
+	{
+		"code": "14.05.12.2006",
+		"type": "desa",
+		"name": "ANGKASA"
+	},
+	{
+		"code": "14.05.12.2007",
+		"type": "desa",
+		"name": "SIALANG GODANG"
+	},
+	{
+		"code": "14.05.12.2008",
+		"type": "desa",
+		"name": "LUBUK RAJA"
+	},
+	{
+		"code": "14.05.12.2009",
+		"type": "desa",
+		"name": "LUBUK KERANJI TIMUR"
+	},
+	{
+		"code": "14.05.12.2010",
+		"type": "desa",
+		"name": "AIRTERJUN"
+	},
+	{
+		"code": "14.05.12.2011",
+		"type": "desa",
+		"name": "SIALANG BUNGKUK"
+	},
+	{
+		"code": "14.06",
+		"type": "kabupaten",
+		"name": "KAB. ROKAN HULU"
+	},
+	{
+		"code": "14.06.01",
+		"type": "kecamatan",
+		"name": "UJUNG BATU"
+	},
+	{
+		"code": "14.06.01.1001",
+		"type": "kelurahan",
+		"name": "UJUNG BATU"
+	},
+	{
+		"code": "14.06.01.2002",
+		"type": "desa",
+		"name": "SUKA DAMAI"
+	},
+	{
+		"code": "14.06.01.2003",
+		"type": "desa",
+		"name": "NGASO"
+	},
+	{
+		"code": "14.06.01.2004",
+		"type": "desa",
+		"name": "UJUNG BATU TIMUR"
+	},
+	{
+		"code": "14.06.01.2005",
+		"type": "desa",
+		"name": "PEMATANG TEBIH"
+	},
+	{
+		"code": "14.06.02",
+		"type": "kecamatan",
+		"name": "ROKAN IV KOTO"
+	},
+	{
+		"code": "14.06.02.1001",
+		"type": "kelurahan",
+		"name": "ROKAN"
+	},
+	{
+		"code": "14.06.02.2002",
+		"type": "desa",
+		"name": "CIPANG KANAN"
+	},
+	{
+		"code": "14.06.02.2003",
+		"type": "desa",
+		"name": "CIPANG KIRI HULU"
+	},
+	{
+		"code": "14.06.02.2004",
+		"type": "desa",
+		"name": "CIPANG KIRI HILIR"
+	},
+	{
+		"code": "14.06.02.2006",
+		"type": "desa",
+		"name": "TANJUNG MEDAN"
+	},
+	{
+		"code": "14.06.02.2007",
+		"type": "desa",
+		"name": "LUBUK BENDAHARA TIMUR"
+	},
+	{
+		"code": "14.06.02.2008",
+		"type": "desa",
+		"name": "LUBUK BENDAHARA"
+	},
+	{
+		"code": "14.06.02.2010",
+		"type": "desa",
+		"name": "SIKEBAU JAYA"
+	},
+	{
+		"code": "14.06.02.2013",
+		"type": "desa",
+		"name": "ROKAN KOTO RUANG"
+	},
+	{
+		"code": "14.06.02.2014",
+		"type": "desa",
+		"name": "ROKAN TIMUR"
+	},
+	{
+		"code": "14.06.02.2016",
+		"type": "desa",
+		"name": "LUBUK BETUNG"
+	},
+	{
+		"code": "14.06.02.2017",
+		"type": "desa",
+		"name": "PEMANDANG"
+	},
+	{
+		"code": "14.06.02.2018",
+		"type": "desa",
+		"name": "ALAHAN"
+	},
+	{
+		"code": "14.06.02.2019",
+		"type": "desa",
+		"name": "TIBAWAN"
+	},
+	{
+		"code": "14.06.03",
+		"type": "kecamatan",
+		"name": "RAMBAH"
+	},
+	{
+		"code": "14.06.03.1001",
+		"type": "kelurahan",
+		"name": "PASIR PENGARAYAN"
+	},
+	{
+		"code": "14.06.03.2002",
+		"type": "desa",
+		"name": "RAMBAH TENGAH UTARA"
+	},
+	{
+		"code": "14.06.03.2003",
+		"type": "desa",
+		"name": "RAMBAH TENGAH HILIR"
+	},
+	{
+		"code": "14.06.03.2004",
+		"type": "desa",
+		"name": "RAMBAH TENGAH HULU"
+	},
+	{
+		"code": "14.06.03.2005",
+		"type": "desa",
+		"name": "RAMBAH TENGAH BARAT"
+	},
+	{
+		"code": "14.06.03.2006",
+		"type": "desa",
+		"name": "MENAMING"
+	},
+	{
+		"code": "14.06.03.2007",
+		"type": "desa",
+		"name": "PASIR BARU"
+	},
+	{
+		"code": "14.06.03.2008",
+		"type": "desa",
+		"name": "SIALANG JAYA"
+	},
+	{
+		"code": "14.06.03.2009",
+		"type": "desa",
+		"name": "TANJUNG BELIT"
+	},
+	{
+		"code": "14.06.03.2010",
+		"type": "desa",
+		"name": "KOTO TINGGI"
+	},
+	{
+		"code": "14.06.03.2011",
+		"type": "desa",
+		"name": "SUKA MAJU"
+	},
+	{
+		"code": "14.06.03.2012",
+		"type": "desa",
+		"name": "PEMALANG BERANGAN"
+	},
+	{
+		"code": "14.06.03.2013",
+		"type": "desa",
+		"name": "BABUSSALAM"
+	},
+	{
+		"code": "14.06.03.2014",
+		"type": "desa",
+		"name": "PASIR MAJU"
+	},
+	{
+		"code": "14.06.04",
+		"type": "kecamatan",
+		"name": "TAMBUSAI"
+	},
+	{
+		"code": "14.06.04.1001",
+		"type": "kelurahan",
+		"name": "TAMBUSAI TENGAH"
+	},
+	{
+		"code": "14.06.04.2002",
+		"type": "desa",
+		"name": "TAMBUSAI BARAT"
+	},
+	{
+		"code": "14.06.04.2003",
+		"type": "desa",
+		"name": "TAMBUSAI TIMUR"
+	},
+	{
+		"code": "14.06.04.2004",
+		"type": "desa",
+		"name": "BATAS"
+	},
+	{
+		"code": "14.06.04.2005",
+		"type": "desa",
+		"name": "TALIKUMAIN"
+	},
+	{
+		"code": "14.06.04.2006",
+		"type": "desa",
+		"name": "RANTAU PANJANG"
+	},
+	{
+		"code": "14.06.04.2007",
+		"type": "desa",
+		"name": "SUNGAI KUMANGO"
+	},
+	{
+		"code": "14.06.04.2008",
+		"type": "desa",
+		"name": "BATANG KUMU"
+	},
+	{
+		"code": "14.06.04.2009",
+		"type": "desa",
+		"name": "SIALANG RINDANG"
+	},
+	{
+		"code": "14.06.04.2010",
+		"type": "desa",
+		"name": "SUKA MAJU"
+	},
+	{
+		"code": "14.06.04.2011",
+		"type": "desa",
+		"name": "LUBUK SOTING"
+	},
+	{
+		"code": "14.06.04.2012",
+		"type": "desa",
+		"name": "TINGKOK"
+	},
+	{
+		"code": "14.06.05",
+		"type": "kecamatan",
+		"name": "KEPENUHAN"
+	},
+	{
+		"code": "14.06.05.1001",
+		"type": "kelurahan",
+		"name": "KEPENUHANTENGAH"
+	},
+	{
+		"code": "14.06.05.2003",
+		"type": "desa",
+		"name": "KEPENUHAN BARAT"
+	},
+	{
+		"code": "14.06.05.2004",
+		"type": "desa",
+		"name": "KEPENUHAN HILIR"
+	},
+	{
+		"code": "14.06.05.2005",
+		"type": "desa",
+		"name": "KEPENUHAN TIMUR"
+	},
+	{
+		"code": "14.06.05.2006",
+		"type": "desa",
+		"name": "KEPENUHAN BARAT SEI ROKAN JAYA"
+	},
+	{
+		"code": "14.06.05.2007",
+		"type": "desa",
+		"name": "KEPENUHAN RAYA"
+	},
+	{
+		"code": "14.06.05.2008",
+		"type": "desa",
+		"name": "KEPENUHAN BARU"
+	},
+	{
+		"code": "14.06.05.2009",
+		"type": "desa",
+		"name": "KEPENUHAN BARAT MULYA"
+	},
+	{
+		"code": "14.06.05.2010",
+		"type": "desa",
+		"name": "ULAK PATIAN"
+	},
+	{
+		"code": "14.06.05.2012",
+		"type": "desa",
+		"name": "RANTAU BINUANG SAKTI"
+	},
+	{
+		"code": "14.06.06",
+		"type": "kecamatan",
+		"name": "KUNTO DARUSSALAM"
+	},
+	{
+		"code": "14.06.06.1001",
+		"type": "kelurahan",
+		"name": "KOTA LAMA"
+	},
+	{
+		"code": "14.06.06.2003",
+		"type": "desa",
+		"name": "KOTA INTAN"
+	},
+	{
+		"code": "14.06.06.2004",
+		"type": "desa",
+		"name": "MUARA DILAM"
+	},
+	{
+		"code": "14.06.06.2008",
+		"type": "desa",
+		"name": "KOTA RAYA"
+	},
+	{
+		"code": "14.06.06.2009",
+		"type": "desa",
+		"name": "KOTA BARU"
+	},
+	{
+		"code": "14.06.06.2010",
+		"type": "desa",
+		"name": "SUNGAI KUTI"
+	},
+	{
+		"code": "14.06.06.2011",
+		"type": "desa",
+		"name": "PASIR INDAH"
+	},
+	{
+		"code": "14.06.06.2012",
+		"type": "desa",
+		"name": "PASIR LUHUR"
+	},
+	{
+		"code": "14.06.06.2017",
+		"type": "desa",
+		"name": "BUKIT INTAN MAKMUR"
+	},
+	{
+		"code": "14.06.06.2018",
+		"type": "desa",
+		"name": "BAGAN TUJUH"
+	},
+	{
+		"code": "14.06.07",
+		"type": "kecamatan",
+		"name": "RAMBAH SAMO"
+	},
+	{
+		"code": "14.06.07.2001",
+		"type": "desa",
+		"name": "RAMBAH SAMO"
+	},
+	{
+		"code": "14.06.07.2002",
+		"type": "desa",
+		"name": "RAMBAH SAMO BARAT"
+	},
+	{
+		"code": "14.06.07.2003",
+		"type": "desa",
+		"name": "RAMBAH BARU"
+	},
+	{
+		"code": "14.06.07.2004",
+		"type": "desa",
+		"name": "RAMBAH UTAMA"
+	},
+	{
+		"code": "14.06.07.2005",
+		"type": "desa",
+		"name": "PASIR MAKMUR"
+	},
+	{
+		"code": "14.06.07.2006",
+		"type": "desa",
+		"name": "KARYA MULYA"
+	},
+	{
+		"code": "14.06.07.2007",
+		"type": "desa",
+		"name": "MARGA MULYA"
+	},
+	{
+		"code": "14.06.07.2008",
+		"type": "desa",
+		"name": "LANGKITAN"
+	},
+	{
+		"code": "14.06.07.2009",
+		"type": "desa",
+		"name": "MASDA MAKMUR"
+	},
+	{
+		"code": "14.06.07.2010",
+		"type": "desa",
+		"name": "LUBUK NAPAI"
+	},
+	{
+		"code": "14.06.07.2011",
+		"type": "desa",
+		"name": "TELUK AUR"
+	},
+	{
+		"code": "14.06.07.2012",
+		"type": "desa",
+		"name": "SEI SALAK"
+	},
+	{
+		"code": "14.06.07.2013",
+		"type": "desa",
+		"name": "SEI KUNING"
+	},
+	{
+		"code": "14.06.07.2014",
+		"type": "desa",
+		"name": "LUBUK BILANG"
+	},
+	{
+		"code": "14.06.08",
+		"type": "kecamatan",
+		"name": "RAMBAH HILIR"
+	},
+	{
+		"code": "14.06.08.2001",
+		"type": "desa",
+		"name": "RAMBAH HILIR"
+	},
+	{
+		"code": "14.06.08.2002",
+		"type": "desa",
+		"name": "RAMBAH HILIR TENGAH"
+	},
+	{
+		"code": "14.06.08.2003",
+		"type": "desa",
+		"name": "RAMBAH HILIR TIMUR"
+	},
+	{
+		"code": "14.06.08.2004",
+		"type": "desa",
+		"name": "PASIR UTAMA"
+	},
+	{
+		"code": "14.06.08.2005",
+		"type": "desa",
+		"name": "PASIR JAYA"
+	},
+	{
+		"code": "14.06.08.2006",
+		"type": "desa",
+		"name": "RAMBAH MUDA"
+	},
+	{
+		"code": "14.06.08.2007",
+		"type": "desa",
+		"name": "SUNGAI SITOLANG"
+	},
+	{
+		"code": "14.06.08.2008",
+		"type": "desa",
+		"name": "LUBUK KERAPAT"
+	},
+	{
+		"code": "14.06.08.2009",
+		"type": "desa",
+		"name": "RAMBAH"
+	},
+	{
+		"code": "14.06.08.2010",
+		"type": "desa",
+		"name": "SERAMBAU INDAH"
+	},
+	{
+		"code": "14.06.08.2011",
+		"type": "desa",
+		"name": "SUNGAI DUA INDAH"
+	},
+	{
+		"code": "14.06.08.2012",
+		"type": "desa",
+		"name": "MUARA MUSU"
+	},
+	{
+		"code": "14.06.08.2013",
+		"type": "desa",
+		"name": "SEJATI"
+	},
+	{
+		"code": "14.06.09",
+		"type": "kecamatan",
+		"name": "TAMBUSAI UTARA"
+	},
+	{
+		"code": "14.06.09.2001",
+		"type": "desa",
+		"name": "TAMBUSAI UTARA"
+	},
+	{
+		"code": "14.06.09.2002",
+		"type": "desa",
+		"name": "MAHATO"
+	},
+	{
+		"code": "14.06.09.2003",
+		"type": "desa",
+		"name": "BANGUN JAYA"
+	},
+	{
+		"code": "14.06.09.2004",
+		"type": "desa",
+		"name": "SIMPANG HARAPAN"
+	},
+	{
+		"code": "14.06.09.2005",
+		"type": "desa",
+		"name": "PAGAR MAYANG"
+	},
+	{
+		"code": "14.06.09.2006",
+		"type": "desa",
+		"name": "PAYUNG SEKAKI"
+	},
+	{
+		"code": "14.06.09.2007",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "14.06.09.2008",
+		"type": "desa",
+		"name": "TANJUNG MEDAN"
+	},
+	{
+		"code": "14.06.09.2009",
+		"type": "desa",
+		"name": "SUKA DAMAI"
+	},
+	{
+		"code": "14.06.09.2010",
+		"type": "desa",
+		"name": "RANTAU SAKTI"
+	},
+	{
+		"code": "14.06.09.2011",
+		"type": "desa",
+		"name": "MAHATO SAKTI"
+	},
+	{
+		"code": "14.06.10",
+		"type": "kecamatan",
+		"name": "BANGUN PURBA"
+	},
+	{
+		"code": "14.06.10.2001",
+		"type": "desa",
+		"name": "PASIR AGUNG"
+	},
+	{
+		"code": "14.06.10.2002",
+		"type": "desa",
+		"name": "PASIR INTAN"
+	},
+	{
+		"code": "14.06.10.2003",
+		"type": "desa",
+		"name": "RAMBAH JAYA"
+	},
+	{
+		"code": "14.06.10.2004",
+		"type": "desa",
+		"name": "BANGUN PURBA"
+	},
+	{
+		"code": "14.06.10.2005",
+		"type": "desa",
+		"name": "BANGUN PURBA TIMUR JAYA"
+	},
+	{
+		"code": "14.06.10.2006",
+		"type": "desa",
+		"name": "BANGUN PURBA BARAT"
+	},
+	{
+		"code": "14.06.10.2007",
+		"type": "desa",
+		"name": "TANGUN"
+	},
+	{
+		"code": "14.06.11",
+		"type": "kecamatan",
+		"name": "TANDUN"
+	},
+	{
+		"code": "14.06.11.2001",
+		"type": "desa",
+		"name": "TANDUN"
+	},
+	{
+		"code": "14.06.11.2002",
+		"type": "desa",
+		"name": "KUMAIN"
+	},
+	{
+		"code": "14.06.11.2003",
+		"type": "desa",
+		"name": "BONA TAPUNG"
+	},
+	{
+		"code": "14.06.11.2004",
+		"type": "desa",
+		"name": "DAYO"
+	},
+	{
+		"code": "14.06.11.2005",
+		"type": "desa",
+		"name": "TAPUNG JAYA"
+	},
+	{
+		"code": "14.06.11.2006",
+		"type": "desa",
+		"name": "PUO RAYA"
+	},
+	{
+		"code": "14.06.11.2007",
+		"type": "desa",
+		"name": "SEI KUNING"
+	},
+	{
+		"code": "14.06.11.2008",
+		"type": "desa",
+		"name": "KOTO TANDUN"
+	},
+	{
+		"code": "14.06.11.2009",
+		"type": "desa",
+		"name": "TANDUN BARAT"
+	},
+	{
+		"code": "14.06.12",
+		"type": "kecamatan",
+		"name": "KABUN"
+	},
+	{
+		"code": "14.06.12.2001",
+		"type": "desa",
+		"name": "KABUN"
+	},
+	{
+		"code": "14.06.12.2002",
+		"type": "desa",
+		"name": "ALIANTAN"
+	},
+	{
+		"code": "14.06.12.2003",
+		"type": "desa",
+		"name": "KOTA RANAH"
+	},
+	{
+		"code": "14.06.12.2004",
+		"type": "desa",
+		"name": "BONCAH KESUMA"
+	},
+	{
+		"code": "14.06.12.2005",
+		"type": "desa",
+		"name": "BATU LANGKAH BESAR"
+	},
+	{
+		"code": "14.06.12.2006",
+		"type": "desa",
+		"name": "GITI"
+	},
+	{
+		"code": "14.06.13",
+		"type": "kecamatan",
+		"name": "BONAI DARUSSALAM"
+	},
+	{
+		"code": "14.06.13.2001",
+		"type": "desa",
+		"name": "TELUK SONO"
+	},
+	{
+		"code": "14.06.13.2002",
+		"type": "desa",
+		"name": "SONTANG"
+	},
+	{
+		"code": "14.06.13.2003",
+		"type": "desa",
+		"name": "BONAI"
+	},
+	{
+		"code": "14.06.13.2004",
+		"type": "desa",
+		"name": "RAWA MAKMUR"
+	},
+	{
+		"code": "14.06.13.2005",
+		"type": "desa",
+		"name": "PAUH"
+	},
+	{
+		"code": "14.06.13.2006",
+		"type": "desa",
+		"name": "KASANG PADANG"
+	},
+	{
+		"code": "14.06.13.2007",
+		"type": "desa",
+		"name": "KASANG MUNGAI"
+	},
+	{
+		"code": "14.06.14",
+		"type": "kecamatan",
+		"name": "PAGARAN TAPAH DARUSSALAM"
+	},
+	{
+		"code": "14.06.14.2001",
+		"type": "desa",
+		"name": "PAGARAN TAPAH"
+	},
+	{
+		"code": "14.06.14.2002",
+		"type": "desa",
+		"name": "KEMBANG DAMAI"
+	},
+	{
+		"code": "14.06.14.2005",
+		"type": "desa",
+		"name": "SANGKIR INDAH"
+	},
+	{
+		"code": "14.06.15",
+		"type": "kecamatan",
+		"name": "KEPENUHAN HULU"
+	},
+	{
+		"code": "14.06.15.2001",
+		"type": "desa",
+		"name": "KEPENUHAN HULU"
+	},
+	{
+		"code": "14.06.15.2002",
+		"type": "desa",
+		"name": "PEKAN TEBIH"
+	},
+	{
+		"code": "14.06.15.2003",
+		"type": "desa",
+		"name": "KEPAYANG"
+	},
+	{
+		"code": "14.06.15.2004",
+		"type": "desa",
+		"name": "MUARA JAYA"
+	},
+	{
+		"code": "14.06.15.2005",
+		"type": "desa",
+		"name": "KEPENUHAN JAYA"
+	},
+	{
+		"code": "14.06.16",
+		"type": "kecamatan",
+		"name": "PENDALIAN IV KOTO"
+	},
+	{
+		"code": "14.06.16.2001",
+		"type": "desa",
+		"name": "PENDALIAN"
+	},
+	{
+		"code": "14.06.16.2002",
+		"type": "desa",
+		"name": "BENGKOLAN SALAK"
+	},
+	{
+		"code": "14.06.16.2003",
+		"type": "desa",
+		"name": "SULIGI"
+	},
+	{
+		"code": "14.06.16.2004",
+		"type": "desa",
+		"name": "AIR PANAS"
+	},
+	{
+		"code": "14.06.16.2005",
+		"type": "desa",
+		"name": "SEI KANDIS"
+	},
+	{
+		"code": "14.07",
+		"type": "kabupaten",
+		"name": "KAB. ROKAN HILIR"
+	},
+	{
+		"code": "14.07.01",
+		"type": "kecamatan",
+		"name": "KUBU"
+	},
+	{
+		"code": "14.07.01.1010",
+		"type": "kelurahan",
+		"name": "TELUKMERBAU"
+	},
+	{
+		"code": "14.07.01.2002",
+		"type": "desa",
+		"name": "TANJUNGLEBAN"
+	},
+	{
+		"code": "14.07.01.2003",
+		"type": "desa",
+		"name": "SUNGAIKUBU"
+	},
+	{
+		"code": "14.07.01.2004",
+		"type": "desa",
+		"name": "RANTAU PANJANG KANAN"
+	},
+	{
+		"code": "14.07.01.2012",
+		"type": "desa",
+		"name": "TELUKPIYAI"
+	},
+	{
+		"code": "14.07.01.2013",
+		"type": "desa",
+		"name": "SUNGAISEGAJAH"
+	},
+	{
+		"code": "14.07.01.2015",
+		"type": "desa",
+		"name": "SEI SEGAJAH MAKMUR"
+	},
+	{
+		"code": "14.07.01.2020",
+		"type": "desa",
+		"name": "TELUKPIYAI PESISIR"
+	},
+	{
+		"code": "14.07.01.2021",
+		"type": "desa",
+		"name": "SUNGAIKUBU HULU"
+	},
+	{
+		"code": "14.07.01.2022",
+		"type": "desa",
+		"name": "SUNGAISEGAJAH JAYA"
+	},
+	{
+		"code": "14.07.02",
+		"type": "kecamatan",
+		"name": "BANGKO"
+	},
+	{
+		"code": "14.07.02.1011",
+		"type": "kelurahan",
+		"name": "BAGAN PUNAK"
+	},
+	{
+		"code": "14.07.02.1012",
+		"type": "kelurahan",
+		"name": "BAGAN KOTA"
+	},
+	{
+		"code": "14.07.02.1015",
+		"type": "kelurahan",
+		"name": "BAGAN HULU"
+	},
+	{
+		"code": "14.07.02.1016",
+		"type": "kelurahan",
+		"name": "BAGAN BARAT"
+	},
+	{
+		"code": "14.07.02.1017",
+		"type": "kelurahan",
+		"name": "BAGAN TIMUR"
+	},
+	{
+		"code": "14.07.02.2009",
+		"type": "desa",
+		"name": "LABUHAN TANGGA KECIL"
+	},
+	{
+		"code": "14.07.02.2010",
+		"type": "desa",
+		"name": "LABUHAN TANGGA BESAR"
+	},
+	{
+		"code": "14.07.02.2013",
+		"type": "desa",
+		"name": "BAGAN JAWA"
+	},
+	{
+		"code": "14.07.02.2014",
+		"type": "desa",
+		"name": "PARIT AMAN"
+	},
+	{
+		"code": "14.07.02.2019",
+		"type": "desa",
+		"name": "LABUHAN TANGGA BARU"
+	},
+	{
+		"code": "14.07.02.2021",
+		"type": "desa",
+		"name": "BAGAN JAWA PESISIR"
+	},
+	{
+		"code": "14.07.02.2022",
+		"type": "desa",
+		"name": "SERUSA"
+	},
+	{
+		"code": "14.07.02.2023",
+		"type": "desa",
+		"name": "LABUHAN TANGGA HILIR"
+	},
+	{
+		"code": "14.07.02.2024",
+		"type": "desa",
+		"name": "BAGAN PUNAK MERANTI"
+	},
+	{
+		"code": "14.07.02.2025",
+		"type": "desa",
+		"name": "BAGAN PUNAK PESISIR"
+	},
+	{
+		"code": "14.07.03",
+		"type": "kecamatan",
+		"name": "TANAH PUTIH"
+	},
+	{
+		"code": "14.07.03.1007",
+		"type": "kelurahan",
+		"name": "SEDINGINAN"
+	},
+	{
+		"code": "14.07.03.1010",
+		"type": "kelurahan",
+		"name": "BANJAR XII"
+	},
+	{
+		"code": "14.07.03.1019",
+		"type": "kelurahan",
+		"name": "CEMPEDAK RAHUK"
+	},
+	{
+		"code": "14.07.03.2001",
+		"type": "desa",
+		"name": "UJUNG TANJUNG"
+	},
+	{
+		"code": "14.07.03.2002",
+		"type": "desa",
+		"name": "RANTAU BAIS"
+	},
+	{
+		"code": "14.07.03.2005",
+		"type": "desa",
+		"name": "SEKELADI"
+	},
+	{
+		"code": "14.07.03.2006",
+		"type": "desa",
+		"name": "TELUK MEGA"
+	},
+	{
+		"code": "14.07.03.2008",
+		"type": "desa",
+		"name": "PUTAT"
+	},
+	{
+		"code": "14.07.03.2009",
+		"type": "desa",
+		"name": "SINTONG"
+	},
+	{
+		"code": "14.07.03.2011",
+		"type": "desa",
+		"name": "MUMUGO"
+	},
+	{
+		"code": "14.07.03.2012",
+		"type": "desa",
+		"name": "TELUK BEREMBUN"
+	},
+	{
+		"code": "14.07.03.2013",
+		"type": "desa",
+		"name": "MENGGALA SAKTI"
+	},
+	{
+		"code": "14.07.03.2014",
+		"type": "desa",
+		"name": "SEKELADI HILIR"
+	},
+	{
+		"code": "14.07.03.2015",
+		"type": "desa",
+		"name": "MENGGALA SEMPURNA"
+	},
+	{
+		"code": "14.07.03.2016",
+		"type": "desa",
+		"name": "SINTONG PUSAKA"
+	},
+	{
+		"code": "14.07.03.2017",
+		"type": "desa",
+		"name": "SINTONG BAKTI"
+	},
+	{
+		"code": "14.07.03.2018",
+		"type": "desa",
+		"name": "SINTONG MAKMUR"
+	},
+	{
+		"code": "14.07.04",
+		"type": "kecamatan",
+		"name": "RIMBA MELINTANG"
+	},
+	{
+		"code": "14.07.04.1001",
+		"type": "kelurahan",
+		"name": "RIMBA MELINTANG"
+	},
+	{
+		"code": "14.07.04.2002",
+		"type": "desa",
+		"name": "JUMRAH"
+	},
+	{
+		"code": "14.07.04.2003",
+		"type": "desa",
+		"name": "TELUKPULAU HILIR"
+	},
+	{
+		"code": "14.07.04.2004",
+		"type": "desa",
+		"name": "TELUKPULAU HULU"
+	},
+	{
+		"code": "14.07.04.2005",
+		"type": "desa",
+		"name": "LANGGADAI HULU"
+	},
+	{
+		"code": "14.07.04.2006",
+		"type": "desa",
+		"name": "LENGGADAI HILIR"
+	},
+	{
+		"code": "14.07.04.2007",
+		"type": "desa",
+		"name": "MUKTI JAYA"
+	},
+	{
+		"code": "14.07.04.2008",
+		"type": "desa",
+		"name": "KARYA MUKTI"
+	},
+	{
+		"code": "14.07.04.2009",
+		"type": "desa",
+		"name": "HARAPAN JAYA"
+	},
+	{
+		"code": "14.07.04.2010",
+		"type": "desa",
+		"name": "SEREMBAN JAYA"
+	},
+	{
+		"code": "14.07.04.2011",
+		"type": "desa",
+		"name": "PEMATANG BOTAM"
+	},
+	{
+		"code": "14.07.04.2012",
+		"type": "desa",
+		"name": "PEMATANG SIKEK"
+	},
+	{
+		"code": "14.07.05",
+		"type": "kecamatan",
+		"name": "BAGAN SINEMBAH"
+	},
+	{
+		"code": "14.07.05.1018",
+		"type": "kelurahan",
+		"name": "BAGAN BATU KOTA"
+	},
+	{
+		"code": "14.07.05.1019",
+		"type": "kelurahan",
+		"name": "BAHTERA MAKMUR KOTA"
+	},
+	{
+		"code": "14.07.05.1020",
+		"type": "kelurahan",
+		"name": "BALAI JAYA KOTA"
+	},
+	{
+		"code": "14.07.05.1021",
+		"type": "kelurahan",
+		"name": "BALAM SEMPURNA KOTA"
+	},
+	{
+		"code": "14.07.05.1022",
+		"type": "kelurahan",
+		"name": "BAGAN SINEMBAH KOTA"
+	},
+	{
+		"code": "14.07.05.2001",
+		"type": "desa",
+		"name": "BAGAN SINEMBAH"
+	},
+	{
+		"code": "14.07.05.2002",
+		"type": "desa",
+		"name": "BAGAN BATU"
+	},
+	{
+		"code": "14.07.05.2003",
+		"type": "desa",
+		"name": "BAHTERA MAKMUR"
+	},
+	{
+		"code": "14.07.05.2004",
+		"type": "desa",
+		"name": "PASIR PUTIH"
+	},
+	{
+		"code": "14.07.05.2005",
+		"type": "desa",
+		"name": "BALAI JAYA"
+	},
+	{
+		"code": "14.07.05.2006",
+		"type": "desa",
+		"name": "BALAM SEMPURNA"
+	},
+	{
+		"code": "14.07.05.2007",
+		"type": "desa",
+		"name": "PELITA"
+	},
+	{
+		"code": "14.07.05.2008",
+		"type": "desa",
+		"name": "GELORA"
+	},
+	{
+		"code": "14.07.05.2009",
+		"type": "desa",
+		"name": "KENCANA"
+	},
+	{
+		"code": "14.07.05.2010",
+		"type": "desa",
+		"name": "BAGAN BAKTI"
+	},
+	{
+		"code": "14.07.05.2011",
+		"type": "desa",
+		"name": "LUBUK JAWI"
+	},
+	{
+		"code": "14.07.05.2012",
+		"type": "desa",
+		"name": "PANCA MUKTI"
+	},
+	{
+		"code": "14.07.05.2013",
+		"type": "desa",
+		"name": "HARAPAN MAKMUR"
+	},
+	{
+		"code": "14.07.05.2014",
+		"type": "desa",
+		"name": "SALAK"
+	},
+	{
+		"code": "14.07.05.2015",
+		"type": "desa",
+		"name": "SUKA MAJU"
+	},
+	{
+		"code": "14.07.05.2016",
+		"type": "desa",
+		"name": "BAGAN MANUNGGAL"
+	},
+	{
+		"code": "14.07.05.2017",
+		"type": "desa",
+		"name": "BAGAN SAPTA PERMAI"
+	},
+	{
+		"code": "14.07.05.2023",
+		"type": "desa",
+		"name": "BAGAN SINEMBAH UTARA"
+	},
+	{
+		"code": "14.07.05.2024",
+		"type": "desa",
+		"name": "BAGAN SINEMBAH BARAT"
+	},
+	{
+		"code": "14.07.05.2025",
+		"type": "desa",
+		"name": "BAKTI MAKMUR"
+	},
+	{
+		"code": "14.07.05.2026",
+		"type": "desa",
+		"name": "MAKMUR JAYA"
+	},
+	{
+		"code": "14.07.05.2027",
+		"type": "desa",
+		"name": "PASIR PUTIH UTARA"
+	},
+	{
+		"code": "14.07.05.2028",
+		"type": "desa",
+		"name": "JAYA AGUNG"
+	},
+	{
+		"code": "14.07.05.2029",
+		"type": "desa",
+		"name": "HARAPAN MAKMUR SELATAN"
+	},
+	{
+		"code": "14.07.05.2030",
+		"type": "desa",
+		"name": "MERANTI MAKMUR"
+	},
+	{
+		"code": "14.07.05.2031",
+		"type": "desa",
+		"name": "BHAYANGKARA JAYA"
+	},
+	{
+		"code": "14.07.05.2032",
+		"type": "desa",
+		"name": "PASIR PUTIH BARAT"
+	},
+	{
+		"code": "14.07.05.2033",
+		"type": "desa",
+		"name": "BAGAN SINEMBAH TIMUR"
+	},
+	{
+		"code": "14.07.05.2034",
+		"type": "desa",
+		"name": "BALAM JAYA"
+	},
+	{
+		"code": "14.07.06",
+		"type": "kecamatan",
+		"name": "PASIR LIMAU KAPAS"
+	},
+	{
+		"code": "14.07.06.1007",
+		"type": "kelurahan",
+		"name": "PANIPAHAN"
+	},
+	{
+		"code": "14.07.06.2001",
+		"type": "desa",
+		"name": "PANIPAHAN"
+	},
+	{
+		"code": "14.07.06.2002",
+		"type": "desa",
+		"name": "TELUKPULAI"
+	},
+	{
+		"code": "14.07.06.2003",
+		"type": "desa",
+		"name": "PASIR LIMAU KAPAS"
+	},
+	{
+		"code": "14.07.06.2004",
+		"type": "desa",
+		"name": "SUNGAIDAUN"
+	},
+	{
+		"code": "14.07.06.2005",
+		"type": "desa",
+		"name": "PANIPAHAN DARAT"
+	},
+	{
+		"code": "14.07.06.2006",
+		"type": "desa",
+		"name": "PANIPAHAN LAUT"
+	},
+	{
+		"code": "14.07.06.2008",
+		"type": "desa",
+		"name": "PULAUJEMUR"
+	},
+	{
+		"code": "14.07.07",
+		"type": "kecamatan",
+		"name": "SINABOI"
+	},
+	{
+		"code": "14.07.07.1005",
+		"type": "kelurahan",
+		"name": "SINABOI KOTA"
+	},
+	{
+		"code": "14.07.07.2001",
+		"type": "desa",
+		"name": "SINABOI"
+	},
+	{
+		"code": "14.07.07.2002",
+		"type": "desa",
+		"name": "SEI BAKAU"
+	},
+	{
+		"code": "14.07.07.2003",
+		"type": "desa",
+		"name": "RAJA BEJAMU"
+	},
+	{
+		"code": "14.07.07.2004",
+		"type": "desa",
+		"name": "SUNGAI NYAMUK"
+	},
+	{
+		"code": "14.07.07.2006",
+		"type": "desa",
+		"name": "DARUSSALAM"
+	},
+	{
+		"code": "14.07.08",
+		"type": "kecamatan",
+		"name": "PUJUD"
+	},
+	{
+		"code": "14.07.08.1010",
+		"type": "kelurahan",
+		"name": "PUJUD SELATAN"
+	},
+	{
+		"code": "14.07.08.2001",
+		"type": "desa",
+		"name": "TELUKNAYANG"
+	},
+	{
+		"code": "14.07.08.2002",
+		"type": "desa",
+		"name": "PUJUD"
+	},
+	{
+		"code": "14.07.08.2003",
+		"type": "desa",
+		"name": "AIR HITAM"
+	},
+	{
+		"code": "14.07.08.2004",
+		"type": "desa",
+		"name": "KASANG BANGSAWAN"
+	},
+	{
+		"code": "14.07.08.2005",
+		"type": "desa",
+		"name": "SUNGAIPINANG"
+	},
+	{
+		"code": "14.07.08.2006",
+		"type": "desa",
+		"name": "SRI KAYANGAN"
+	},
+	{
+		"code": "14.07.08.2007",
+		"type": "desa",
+		"name": "TANJUNGMEDAN"
+	},
+	{
+		"code": "14.07.08.2008",
+		"type": "desa",
+		"name": "SIARANG-ARANG"
+	},
+	{
+		"code": "14.07.08.2009",
+		"type": "desa",
+		"name": "TANJUNGSARI"
+	},
+	{
+		"code": "14.07.08.2011",
+		"type": "desa",
+		"name": "SUKA JADI"
+	},
+	{
+		"code": "14.07.08.2012",
+		"type": "desa",
+		"name": "SUNGAITAPAH"
+	},
+	{
+		"code": "14.07.08.2013",
+		"type": "desa",
+		"name": "PONDOK KRESEK"
+	},
+	{
+		"code": "14.07.08.2014",
+		"type": "desa",
+		"name": "PERKEBUNAN TANJUNG MEDAN"
+	},
+	{
+		"code": "14.07.08.2015",
+		"type": "desa",
+		"name": "PUJUD UTARA"
+	},
+	{
+		"code": "14.07.08.2016",
+		"type": "desa",
+		"name": "BABUSSALAM ROKAN"
+	},
+	{
+		"code": "14.07.08.2017",
+		"type": "desa",
+		"name": "PERKEBUNAN SIARANG-ARANG"
+	},
+	{
+		"code": "14.07.08.2018",
+		"type": "desa",
+		"name": "TANJUNGMEDAN UTARA"
+	},
+	{
+		"code": "14.07.08.2019",
+		"type": "desa",
+		"name": "TANJUNGMEDAN BARAT"
+	},
+	{
+		"code": "14.07.08.2020",
+		"type": "desa",
+		"name": "TANGGA BATU"
+	},
+	{
+		"code": "14.07.08.2021",
+		"type": "desa",
+		"name": "SEI MERANTI"
+	},
+	{
+		"code": "14.07.08.2022",
+		"type": "desa",
+		"name": "SEI MERANTI DARUSSALAM"
+	},
+	{
+		"code": "14.07.08.2023",
+		"type": "desa",
+		"name": "AKAR BELINGKAR"
+	},
+	{
+		"code": "14.07.09",
+		"type": "kecamatan",
+		"name": "TANAH PUTIH TANJUNG MELAWAN"
+	},
+	{
+		"code": "14.07.09.1005",
+		"type": "kelurahan",
+		"name": "MELAYU BESAR KOTA"
+	},
+	{
+		"code": "14.07.09.2001",
+		"type": "desa",
+		"name": "MELAYU BESAR"
+	},
+	{
+		"code": "14.07.09.2002",
+		"type": "desa",
+		"name": "MELAYU TENGAH"
+	},
+	{
+		"code": "14.07.09.2003",
+		"type": "desa",
+		"name": "BATU HAMPAR"
+	},
+	{
+		"code": "14.07.09.2004",
+		"type": "desa",
+		"name": "MESAH"
+	},
+	{
+		"code": "14.07.09.2006",
+		"type": "desa",
+		"name": "LABUHAN PAPAN"
+	},
+	{
+		"code": "14.07.10",
+		"type": "kecamatan",
+		"name": "BANGKO PUSAKO"
+	},
+	{
+		"code": "14.07.10.1001",
+		"type": "kelurahan",
+		"name": "BANGKO KANAN"
+	},
+	{
+		"code": "14.07.10.1006",
+		"type": "kelurahan",
+		"name": "BANGKO KIRI"
+	},
+	{
+		"code": "14.07.10.2002",
+		"type": "desa",
+		"name": "BANGKO JAYA"
+	},
+	{
+		"code": "14.07.10.2003",
+		"type": "desa",
+		"name": "BANGKO SEMPURNA"
+	},
+	{
+		"code": "14.07.10.2004",
+		"type": "desa",
+		"name": "BANGKO BAKTI"
+	},
+	{
+		"code": "14.07.10.2005",
+		"type": "desa",
+		"name": "BANGKO PUSAKO"
+	},
+	{
+		"code": "14.07.10.2007",
+		"type": "desa",
+		"name": "SEI MANASIB"
+	},
+	{
+		"code": "14.07.10.2008",
+		"type": "desa",
+		"name": "TELUK BANO I"
+	},
+	{
+		"code": "14.07.10.2009",
+		"type": "desa",
+		"name": "BANGKO MAKMUR"
+	},
+	{
+		"code": "14.07.10.2010",
+		"type": "desa",
+		"name": "PEMATANG DAMAR"
+	},
+	{
+		"code": "14.07.10.2011",
+		"type": "desa",
+		"name": "PEMATANG IBUL"
+	},
+	{
+		"code": "14.07.10.2012",
+		"type": "desa",
+		"name": "BANGKO PERMATA"
+	},
+	{
+		"code": "14.07.10.2013",
+		"type": "desa",
+		"name": "BANGKO MUKTI"
+	},
+	{
+		"code": "14.07.10.2014",
+		"type": "desa",
+		"name": "BANGKO LESTARI"
+	},
+	{
+		"code": "14.07.10.2015",
+		"type": "desa",
+		"name": "BANGKO BALAM"
+	},
+	{
+		"code": "14.07.10.2016",
+		"type": "desa",
+		"name": "BANGKO MAS RAYA"
+	},
+	{
+		"code": "14.07.11",
+		"type": "kecamatan",
+		"name": "SIMPANG KANAN"
+	},
+	{
+		"code": "14.07.11.1001",
+		"type": "kelurahan",
+		"name": "SIMPANG KANAN"
+	},
+	{
+		"code": "14.07.11.2002",
+		"type": "desa",
+		"name": "KOTA PARIT"
+	},
+	{
+		"code": "14.07.11.2003",
+		"type": "desa",
+		"name": "BAGAN NIBUNG"
+	},
+	{
+		"code": "14.07.11.2004",
+		"type": "desa",
+		"name": "BUKIT DAMAR"
+	},
+	{
+		"code": "14.07.11.2005",
+		"type": "desa",
+		"name": "BUKIT MAS"
+	},
+	{
+		"code": "14.07.11.2006",
+		"type": "desa",
+		"name": "BUKIT SELAMAT"
+	},
+	{
+		"code": "14.07.12",
+		"type": "kecamatan",
+		"name": "BATU HAMPAR"
+	},
+	{
+		"code": "14.07.12.1004",
+		"type": "kelurahan",
+		"name": "BANTAYAN HILIR"
+	},
+	{
+		"code": "14.07.12.2001",
+		"type": "desa",
+		"name": "BANTAIAN"
+	},
+	{
+		"code": "14.07.12.2002",
+		"type": "desa",
+		"name": "SUNGAISIALANG"
+	},
+	{
+		"code": "14.07.12.2003",
+		"type": "desa",
+		"name": "BANTAYAN BARU"
+	},
+	{
+		"code": "14.07.12.2005",
+		"type": "desa",
+		"name": "SUNGAISIALANG HULU"
+	},
+	{
+		"code": "14.07.13",
+		"type": "kecamatan",
+		"name": "RANTAU KOPAR"
+	},
+	{
+		"code": "14.07.13.1002",
+		"type": "kelurahan",
+		"name": "RANTAU KOPAR"
+	},
+	{
+		"code": "14.07.13.1003",
+		"type": "kelurahan",
+		"name": "SUNGAI RANGAU"
+	},
+	{
+		"code": "14.07.13.2001",
+		"type": "desa",
+		"name": "SEKAPAS"
+	},
+	{
+		"code": "14.07.13.2004",
+		"type": "desa",
+		"name": "BAGAN CEMPEDAK"
+	},
+	{
+		"code": "14.07.14",
+		"type": "kecamatan",
+		"name": "PEKAITAN"
+	},
+	{
+		"code": "14.07.14.2001",
+		"type": "desa",
+		"name": "PEDAMARAN"
+	},
+	{
+		"code": "14.07.14.2002",
+		"type": "desa",
+		"name": "ROKAN BARU"
+	},
+	{
+		"code": "14.07.14.2003",
+		"type": "desa",
+		"name": "SEI BESAR"
+	},
+	{
+		"code": "14.07.14.2004",
+		"type": "desa",
+		"name": "SUAK TEMENGGUNG"
+	},
+	{
+		"code": "14.07.14.2005",
+		"type": "desa",
+		"name": "TELUKBANO II"
+	},
+	{
+		"code": "14.07.14.2006",
+		"type": "desa",
+		"name": "PEKAITAN"
+	},
+	{
+		"code": "14.07.14.2007",
+		"type": "desa",
+		"name": "SUAK AIR HITAM"
+	},
+	{
+		"code": "14.07.14.2008",
+		"type": "desa",
+		"name": "KUBU I"
+	},
+	{
+		"code": "14.07.14.2009",
+		"type": "desa",
+		"name": "KARYO MULYO SARI"
+	},
+	{
+		"code": "14.07.14.2010",
+		"type": "desa",
+		"name": "ROKAN BARU PESISIR"
+	},
+	{
+		"code": "14.07.15",
+		"type": "kecamatan",
+		"name": "KUBU BABUSSALAM"
+	},
+	{
+		"code": "14.07.15.2001",
+		"type": "desa",
+		"name": "RANTAU PANJANG KIRI"
+	},
+	{
+		"code": "14.07.15.2002",
+		"type": "desa",
+		"name": "TELUKNILAP"
+	},
+	{
+		"code": "14.07.15.2003",
+		"type": "desa",
+		"name": "SUNGAIMAJO"
+	},
+	{
+		"code": "14.07.15.2004",
+		"type": "desa",
+		"name": "SUNGAIPINANG"
+	},
+	{
+		"code": "14.07.15.2005",
+		"type": "desa",
+		"name": "SUNGAIPANJI-PANJI"
+	},
+	{
+		"code": "14.07.15.2006",
+		"type": "desa",
+		"name": "JOJOL"
+	},
+	{
+		"code": "14.07.15.2007",
+		"type": "desa",
+		"name": "PULAUHALANG MUKA"
+	},
+	{
+		"code": "14.07.15.2008",
+		"type": "desa",
+		"name": "PULAUHALANG BELAKANG"
+	},
+	{
+		"code": "14.07.15.2009",
+		"type": "desa",
+		"name": "RANTAU PANJANG KIRI HILIR"
+	},
+	{
+		"code": "14.07.15.2010",
+		"type": "desa",
+		"name": "TELUKNILAP JAYA"
+	},
+	{
+		"code": "14.07.15.2011",
+		"type": "desa",
+		"name": "SUNGAIMAJO PUSAKO"
+	},
+	{
+		"code": "14.07.15.2012",
+		"type": "desa",
+		"name": "PULAUHALANG HULU"
+	},
+	{
+		"code": "14.08",
+		"type": "kabupaten",
+		"name": "KAB. SIAK"
+	},
+	{
+		"code": "14.08.01",
+		"type": "kecamatan",
+		"name": "SIAK"
+	},
+	{
+		"code": "14.08.01.1001",
+		"type": "kelurahan",
+		"name": "KAMPUNG DALAM"
+	},
+	{
+		"code": "14.08.01.1002",
+		"type": "kelurahan",
+		"name": "KAMPUNG REMPAK"
+	},
+	{
+		"code": "14.08.01.2003",
+		"type": "desa",
+		"name": "LANGKAI"
+	},
+	{
+		"code": "14.08.01.2011",
+		"type": "desa",
+		"name": "TUMANG"
+	},
+	{
+		"code": "14.08.01.2012",
+		"type": "desa",
+		"name": "MEREMPAN HULU"
+	},
+	{
+		"code": "14.08.01.2013",
+		"type": "desa",
+		"name": "RAWANG AIR PUTIH"
+	},
+	{
+		"code": "14.08.01.2014",
+		"type": "desa",
+		"name": "SUAK LANJUT"
+	},
+	{
+		"code": "14.08.01.2015",
+		"type": "desa",
+		"name": "BUANTAN BESAR"
+	},
+	{
+		"code": "14.08.02",
+		"type": "kecamatan",
+		"name": "SUNGAI APIT"
+	},
+	{
+		"code": "14.08.02.1001",
+		"type": "kelurahan",
+		"name": "SUNGAI APIT"
+	},
+	{
+		"code": "14.08.02.2002",
+		"type": "desa",
+		"name": "TELUK LANUS"
+	},
+	{
+		"code": "14.08.02.2003",
+		"type": "desa",
+		"name": "TANJUNG KURAS"
+	},
+	{
+		"code": "14.08.02.2004",
+		"type": "desa",
+		"name": "PARIT I/II"
+	},
+	{
+		"code": "14.08.02.2005",
+		"type": "desa",
+		"name": "TELUK MESJID"
+	},
+	{
+		"code": "14.08.02.2008",
+		"type": "desa",
+		"name": "SUNGAI KAYU ARA"
+	},
+	{
+		"code": "14.08.02.2009",
+		"type": "desa",
+		"name": "LALANG"
+	},
+	{
+		"code": "14.08.02.2010",
+		"type": "desa",
+		"name": "MENGKAPAN"
+	},
+	{
+		"code": "14.08.02.2011",
+		"type": "desa",
+		"name": "SUNGAI RAWA"
+	},
+	{
+		"code": "14.08.02.2012",
+		"type": "desa",
+		"name": "PENYENGAT"
+	},
+	{
+		"code": "14.08.02.2014",
+		"type": "desa",
+		"name": "TELUK BATIL"
+	},
+	{
+		"code": "14.08.02.2016",
+		"type": "desa",
+		"name": "BUNGSUR"
+	},
+	{
+		"code": "14.08.02.2017",
+		"type": "desa",
+		"name": "HARAPAN"
+	},
+	{
+		"code": "14.08.02.2019",
+		"type": "desa",
+		"name": "KAYU ARA PERMAI"
+	},
+	{
+		"code": "14.08.02.2020",
+		"type": "desa",
+		"name": "RAWA MEKAR JAYA"
+	},
+	{
+		"code": "14.08.03",
+		"type": "kecamatan",
+		"name": "MINAS"
+	},
+	{
+		"code": "14.08.03.1001",
+		"type": "kelurahan",
+		"name": "MINAS JAYA"
+	},
+	{
+		"code": "14.08.03.2002",
+		"type": "desa",
+		"name": "MINAS TIMUR"
+	},
+	{
+		"code": "14.08.03.2003",
+		"type": "desa",
+		"name": "MINAS BARAT"
+	},
+	{
+		"code": "14.08.03.2004",
+		"type": "desa",
+		"name": "MANDI ANGIN"
+	},
+	{
+		"code": "14.08.03.2005",
+		"type": "desa",
+		"name": "RANTAU BERTUAH"
+	},
+	{
+		"code": "14.08.04",
+		"type": "kecamatan",
+		"name": "TUALANG"
+	},
+	{
+		"code": "14.08.04.1001",
+		"type": "kelurahan",
+		"name": "PERAWANG"
+	},
+	{
+		"code": "14.08.04.2002",
+		"type": "desa",
+		"name": "TUALANG"
+	},
+	{
+		"code": "14.08.04.2003",
+		"type": "desa",
+		"name": "PINANG SEBATANG"
+	},
+	{
+		"code": "14.08.04.2004",
+		"type": "desa",
+		"name": "MEREDAN"
+	},
+	{
+		"code": "14.08.04.2005",
+		"type": "desa",
+		"name": "PINANG SEBATANG TIMUR"
+	},
+	{
+		"code": "14.08.04.2006",
+		"type": "desa",
+		"name": "PINANG SEBATANG BARAT"
+	},
+	{
+		"code": "14.08.04.2007",
+		"type": "desa",
+		"name": "MEREDAN BARAT"
+	},
+	{
+		"code": "14.08.04.2008",
+		"type": "desa",
+		"name": "PERAWANG BARAT"
+	},
+	{
+		"code": "14.08.04.2009",
+		"type": "desa",
+		"name": "TUALANG TIMUR"
+	},
+	{
+		"code": "14.08.05",
+		"type": "kecamatan",
+		"name": "SUNGAI MANDAU"
+	},
+	{
+		"code": "14.08.05.2001",
+		"type": "desa",
+		"name": "MUARA KELANTAN"
+	},
+	{
+		"code": "14.08.05.2002",
+		"type": "desa",
+		"name": "TELUK LANCANG"
+	},
+	{
+		"code": "14.08.05.2003",
+		"type": "desa",
+		"name": "SUNGAI SELODANG"
+	},
+	{
+		"code": "14.08.05.2004",
+		"type": "desa",
+		"name": "OLAK"
+	},
+	{
+		"code": "14.08.05.2005",
+		"type": "desa",
+		"name": "LUBUK JERING"
+	},
+	{
+		"code": "14.08.05.2006",
+		"type": "desa",
+		"name": "MUARA BUNGKAL"
+	},
+	{
+		"code": "14.08.05.2007",
+		"type": "desa",
+		"name": "LUBUK UMBUT"
+	},
+	{
+		"code": "14.08.05.2008",
+		"type": "desa",
+		"name": "BENCAH UMBAI"
+	},
+	{
+		"code": "14.08.05.2009",
+		"type": "desa",
+		"name": "TASIK BETUNG"
+	},
+	{
+		"code": "14.08.06",
+		"type": "kecamatan",
+		"name": "DAYUN"
+	},
+	{
+		"code": "14.08.06.2001",
+		"type": "desa",
+		"name": "DAYUN"
+	},
+	{
+		"code": "14.08.06.2002",
+		"type": "desa",
+		"name": "BANJAR SEMINAI"
+	},
+	{
+		"code": "14.08.06.2003",
+		"type": "desa",
+		"name": "TELUK MERBAU"
+	},
+	{
+		"code": "14.08.06.2004",
+		"type": "desa",
+		"name": "MERANGKAI"
+	},
+	{
+		"code": "14.08.06.2005",
+		"type": "desa",
+		"name": "LUBUK TILAM"
+	},
+	{
+		"code": "14.08.06.2006",
+		"type": "desa",
+		"name": "BERUMBUNG BARU"
+	},
+	{
+		"code": "14.08.06.2007",
+		"type": "desa",
+		"name": "PANGKALAN MAKMUR"
+	},
+	{
+		"code": "14.08.06.2008",
+		"type": "desa",
+		"name": "BUANA MAKMUR"
+	},
+	{
+		"code": "14.08.06.2009",
+		"type": "desa",
+		"name": "SUKA MULYA"
+	},
+	{
+		"code": "14.08.06.2010",
+		"type": "desa",
+		"name": "SAWIT PERMAI"
+	},
+	{
+		"code": "14.08.06.2011",
+		"type": "desa",
+		"name": "SIALANG SAKTI"
+	},
+	{
+		"code": "14.08.07",
+		"type": "kecamatan",
+		"name": "KERINCI KANAN"
+	},
+	{
+		"code": "14.08.07.2001",
+		"type": "desa",
+		"name": "KERINCI KANAN"
+	},
+	{
+		"code": "14.08.07.2002",
+		"type": "desa",
+		"name": "KERINCI KIRI"
+	},
+	{
+		"code": "14.08.07.2003",
+		"type": "desa",
+		"name": "BUANA BAKTI"
+	},
+	{
+		"code": "14.08.07.2004",
+		"type": "desa",
+		"name": "BUKIT HARAPAN"
+	},
+	{
+		"code": "14.08.07.2005",
+		"type": "desa",
+		"name": "KUMBARA UTAMA"
+	},
+	{
+		"code": "14.08.07.2006",
+		"type": "desa",
+		"name": "BUKIT AGUNG"
+	},
+	{
+		"code": "14.08.07.2008",
+		"type": "desa",
+		"name": "SIMPANG PERAK JAYA"
+	},
+	{
+		"code": "14.08.07.2009",
+		"type": "desa",
+		"name": "BUATAN BARU"
+	},
+	{
+		"code": "14.08.07.2010",
+		"type": "desa",
+		"name": "GABUNG MAKMUR"
+	},
+	{
+		"code": "14.08.07.2011",
+		"type": "desa",
+		"name": "JATI MULYA"
+	},
+	{
+		"code": "14.08.07.2012",
+		"type": "desa",
+		"name": "SEMINAI"
+	},
+	{
+		"code": "14.08.07.2013",
+		"type": "desa",
+		"name": "DELIMA JAYA"
+	},
+	{
+		"code": "14.08.08",
+		"type": "kecamatan",
+		"name": "BUNGA RAYA"
+	},
+	{
+		"code": "14.08.08.2001",
+		"type": "desa",
+		"name": "BUNGA RAYA"
+	},
+	{
+		"code": "14.08.08.2002",
+		"type": "desa",
+		"name": "JATI BARU"
+	},
+	{
+		"code": "14.08.08.2003",
+		"type": "desa",
+		"name": "JAYA PURA"
+	},
+	{
+		"code": "14.08.08.2011",
+		"type": "desa",
+		"name": "KEMUNING MUDA"
+	},
+	{
+		"code": "14.08.08.2012",
+		"type": "desa",
+		"name": "BUANTAN LESTARI"
+	},
+	{
+		"code": "14.08.08.2013",
+		"type": "desa",
+		"name": "TUAH INDRAPURA"
+	},
+	{
+		"code": "14.08.08.2014",
+		"type": "desa",
+		"name": "LANGSAT PERMAI"
+	},
+	{
+		"code": "14.08.08.2015",
+		"type": "desa",
+		"name": "TEMUSAI"
+	},
+	{
+		"code": "14.08.08.2016",
+		"type": "desa",
+		"name": "DAYANGSURI"
+	},
+	{
+		"code": "14.08.08.2017",
+		"type": "desa",
+		"name": "SUAK MERAMBAI"
+	},
+	{
+		"code": "14.08.09",
+		"type": "kecamatan",
+		"name": "KOTO GASIB"
+	},
+	{
+		"code": "14.08.09.2001",
+		"type": "desa",
+		"name": "PANGKALAN PISANG"
+	},
+	{
+		"code": "14.08.09.2002",
+		"type": "desa",
+		"name": "KUALA GASIB"
+	},
+	{
+		"code": "14.08.09.2003",
+		"type": "desa",
+		"name": "TELUK RIMBA"
+	},
+	{
+		"code": "14.08.09.2004",
+		"type": "desa",
+		"name": "BUATAN I"
+	},
+	{
+		"code": "14.08.09.2005",
+		"type": "desa",
+		"name": "BUATAN II"
+	},
+	{
+		"code": "14.08.09.2006",
+		"type": "desa",
+		"name": "SENGKEMANG"
+	},
+	{
+		"code": "14.08.09.2007",
+		"type": "desa",
+		"name": "RANTAU PANJANG"
+	},
+	{
+		"code": "14.08.09.2008",
+		"type": "desa",
+		"name": "EMPANG PANDAN"
+	},
+	{
+		"code": "14.08.09.2009",
+		"type": "desa",
+		"name": "KERANJI GUGUH"
+	},
+	{
+		"code": "14.08.09.2010",
+		"type": "desa",
+		"name": "SRI GEMILANG"
+	},
+	{
+		"code": "14.08.09.2011",
+		"type": "desa",
+		"name": "TASIK SEMINAI"
+	},
+	{
+		"code": "14.08.10",
+		"type": "kecamatan",
+		"name": "KANDIS"
+	},
+	{
+		"code": "14.08.10.1001",
+		"type": "kelurahan",
+		"name": "SIMPANG BELUTU"
+	},
+	{
+		"code": "14.08.10.1002",
+		"type": "kelurahan",
+		"name": "TELAGA SAM-SAM"
+	},
+	{
+		"code": "14.08.10.1003",
+		"type": "kelurahan",
+		"name": "KANDIS KOTA"
+	},
+	{
+		"code": "14.08.10.2004",
+		"type": "desa",
+		"name": "BELUTU"
+	},
+	{
+		"code": "14.08.10.2005",
+		"type": "desa",
+		"name": "KANDIS"
+	},
+	{
+		"code": "14.08.10.2006",
+		"type": "desa",
+		"name": "SAM-SAM"
+	},
+	{
+		"code": "14.08.10.2007",
+		"type": "desa",
+		"name": "BEKALAR"
+	},
+	{
+		"code": "14.08.10.2008",
+		"type": "desa",
+		"name": "JAMBAI MAKMUR"
+	},
+	{
+		"code": "14.08.10.2009",
+		"type": "desa",
+		"name": "SUNGAI GONDANG"
+	},
+	{
+		"code": "14.08.10.2010",
+		"type": "desa",
+		"name": "PENCING BEKUTO"
+	},
+	{
+		"code": "14.08.10.2011",
+		"type": "desa",
+		"name": "LIBO JAYA"
+	},
+	{
+		"code": "14.08.11",
+		"type": "kecamatan",
+		"name": "LUBUK DALAM"
+	},
+	{
+		"code": "14.08.11.2001",
+		"type": "desa",
+		"name": "LUBUK DALAM"
+	},
+	{
+		"code": "14.08.11.2002",
+		"type": "desa",
+		"name": "RAWANG KAO"
+	},
+	{
+		"code": "14.08.11.2003",
+		"type": "desa",
+		"name": "SRI GADING"
+	},
+	{
+		"code": "14.08.11.2004",
+		"type": "desa",
+		"name": "SIALANG BARU"
+	},
+	{
+		"code": "14.08.11.2005",
+		"type": "desa",
+		"name": "SIALANG PALAS"
+	},
+	{
+		"code": "14.08.11.2006",
+		"type": "desa",
+		"name": "EMPANG BARU"
+	},
+	{
+		"code": "14.08.11.2007",
+		"type": "desa",
+		"name": "RAWANG KAO BARAT"
+	},
+	{
+		"code": "14.08.12",
+		"type": "kecamatan",
+		"name": "SABAK AUH"
+	},
+	{
+		"code": "14.08.12.2001",
+		"type": "desa",
+		"name": "BANDAR SUNGAI"
+	},
+	{
+		"code": "14.08.12.2002",
+		"type": "desa",
+		"name": "REMPAK"
+	},
+	{
+		"code": "14.08.12.2003",
+		"type": "desa",
+		"name": "BELADING"
+	},
+	{
+		"code": "14.08.12.2004",
+		"type": "desa",
+		"name": "SUNGAI TENGAH"
+	},
+	{
+		"code": "14.08.12.2005",
+		"type": "desa",
+		"name": "LAKSAMANA"
+	},
+	{
+		"code": "14.08.12.2006",
+		"type": "desa",
+		"name": "SABAK PERMAI"
+	},
+	{
+		"code": "14.08.12.2007",
+		"type": "desa",
+		"name": "BANDAR PEDADA"
+	},
+	{
+		"code": "14.08.12.2008",
+		"type": "desa",
+		"name": "SELAT GUNTUNG"
+	},
+	{
+		"code": "14.08.13",
+		"type": "kecamatan",
+		"name": "MEMPURA"
+	},
+	{
+		"code": "14.08.13.1006",
+		"type": "kelurahan",
+		"name": "SUNGAIMEMPURA"
+	},
+	{
+		"code": "14.08.13.2001",
+		"type": "desa",
+		"name": "KOTA RINGIN"
+	},
+	{
+		"code": "14.08.13.2002",
+		"type": "desa",
+		"name": "PALUH"
+	},
+	{
+		"code": "14.08.13.2003",
+		"type": "desa",
+		"name": "BENTENG HILIR"
+	},
+	{
+		"code": "14.08.13.2004",
+		"type": "desa",
+		"name": "BENTENG HULU"
+	},
+	{
+		"code": "14.08.13.2005",
+		"type": "desa",
+		"name": "KAMPUNG TENGAH"
+	},
+	{
+		"code": "14.08.13.2007",
+		"type": "desa",
+		"name": "MEREMPAN HILIR"
+	},
+	{
+		"code": "14.08.13.2008",
+		"type": "desa",
+		"name": "TELUKMEREMPAN"
+	},
+	{
+		"code": "14.08.14",
+		"type": "kecamatan",
+		"name": "PUSAKO"
+	},
+	{
+		"code": "14.08.14.2001",
+		"type": "desa",
+		"name": "SUNGAI BERBARI"
+	},
+	{
+		"code": "14.08.14.2002",
+		"type": "desa",
+		"name": "SUNGAI LIMAU"
+	},
+	{
+		"code": "14.08.14.2003",
+		"type": "desa",
+		"name": "DOSAN"
+	},
+	{
+		"code": "14.08.14.2004",
+		"type": "desa",
+		"name": "BENAYAH"
+	},
+	{
+		"code": "14.08.14.2005",
+		"type": "desa",
+		"name": "PEBADARAN"
+	},
+	{
+		"code": "14.08.14.2006",
+		"type": "desa",
+		"name": "DUSUN PUSAKA"
+	},
+	{
+		"code": "14.08.14.2007",
+		"type": "desa",
+		"name": "PERINCIT"
+	},
+	{
+		"code": "14.09",
+		"type": "kabupaten",
+		"name": "KAB. KUANTAN SINGINGI"
+	},
+	{
+		"code": "14.09.01",
+		"type": "kecamatan",
+		"name": "KUANTAN MUDIK"
+	},
+	{
+		"code": "14.09.01.1012",
+		"type": "kelurahan",
+		"name": "PASAR LUBUK JAMBI"
+	},
+	{
+		"code": "14.09.01.2004",
+		"type": "desa",
+		"name": "AIR BULUH"
+	},
+	{
+		"code": "14.09.01.2005",
+		"type": "desa",
+		"name": "PANTAI"
+	},
+	{
+		"code": "14.09.01.2007",
+		"type": "desa",
+		"name": "LUBUK RAMO"
+	},
+	{
+		"code": "14.09.01.2008",
+		"type": "desa",
+		"name": "SEBERANG CENGAR"
+	},
+	{
+		"code": "14.09.01.2009",
+		"type": "desa",
+		"name": "KOTO CENGAR"
+	},
+	{
+		"code": "14.09.01.2010",
+		"type": "desa",
+		"name": "SANGAU"
+	},
+	{
+		"code": "14.09.01.2011",
+		"type": "desa",
+		"name": "BANJAR PADANG"
+	},
+	{
+		"code": "14.09.01.2013",
+		"type": "desa",
+		"name": "KASANG"
+	},
+	{
+		"code": "14.09.01.2014",
+		"type": "desa",
+		"name": "KOTO LUBUK JAMBI"
+	},
+	{
+		"code": "14.09.01.2015",
+		"type": "desa",
+		"name": "PULAUBINJAI"
+	},
+	{
+		"code": "14.09.01.2016",
+		"type": "desa",
+		"name": "SEBERANG PANTAI"
+	},
+	{
+		"code": "14.09.01.2017",
+		"type": "desa",
+		"name": "RANTAU SIALANG"
+	},
+	{
+		"code": "14.09.01.2018",
+		"type": "desa",
+		"name": "LUAI"
+	},
+	{
+		"code": "14.09.01.2019",
+		"type": "desa",
+		"name": "BANJAR GUNTUNG"
+	},
+	{
+		"code": "14.09.01.2020",
+		"type": "desa",
+		"name": "BUKITPEDUSUNAN"
+	},
+	{
+		"code": "14.09.01.2021",
+		"type": "desa",
+		"name": "SAIK"
+	},
+	{
+		"code": "14.09.01.2022",
+		"type": "desa",
+		"name": "PEBAUN HULU"
+	},
+	{
+		"code": "14.09.01.2023",
+		"type": "desa",
+		"name": "PEBAUN HILIR"
+	},
+	{
+		"code": "14.09.01.2024",
+		"type": "desa",
+		"name": "KINALI"
+	},
+	{
+		"code": "14.09.01.2025",
+		"type": "desa",
+		"name": "BUKIT KAUMAN"
+	},
+	{
+		"code": "14.09.01.2026",
+		"type": "desa",
+		"name": "AUR DURI"
+	},
+	{
+		"code": "14.09.01.2027",
+		"type": "desa",
+		"name": "SUNGAIMANAU"
+	},
+	{
+		"code": "14.09.01.2030",
+		"type": "desa",
+		"name": "MUARO TOMBANG"
+	},
+	{
+		"code": "14.09.02",
+		"type": "kecamatan",
+		"name": "KUANTAN TENGAH"
+	},
+	{
+		"code": "14.09.02.1016",
+		"type": "kelurahan",
+		"name": "PASAR TELUK"
+	},
+	{
+		"code": "14.09.02.1018",
+		"type": "kelurahan",
+		"name": "SIMPANG TIGA"
+	},
+	{
+		"code": "14.09.02.1025",
+		"type": "kelurahan",
+		"name": "SUNGAIJERING"
+	},
+	{
+		"code": "14.09.02.2001",
+		"type": "desa",
+		"name": "BANDAR ALAI"
+	},
+	{
+		"code": "14.09.02.2002",
+		"type": "desa",
+		"name": "PULAUKEDUNDUNG"
+	},
+	{
+		"code": "14.09.02.2003",
+		"type": "desa",
+		"name": "PULAUARO"
+	},
+	{
+		"code": "14.09.02.2004",
+		"type": "desa",
+		"name": "SEBERANG TALUK"
+	},
+	{
+		"code": "14.09.02.2005",
+		"type": "desa",
+		"name": "PULAUBARU"
+	},
+	{
+		"code": "14.09.02.2006",
+		"type": "desa",
+		"name": "KOTO TUO"
+	},
+	{
+		"code": "14.09.02.2007",
+		"type": "desa",
+		"name": "KOPAH"
+	},
+	{
+		"code": "14.09.02.2008",
+		"type": "desa",
+		"name": "MUNSALO"
+	},
+	{
+		"code": "14.09.02.2014",
+		"type": "desa",
+		"name": "SAWAH"
+	},
+	{
+		"code": "14.09.02.2015",
+		"type": "desa",
+		"name": "KOTO TALUK"
+	},
+	{
+		"code": "14.09.02.2017",
+		"type": "desa",
+		"name": "KOTO KARI"
+	},
+	{
+		"code": "14.09.02.2019",
+		"type": "desa",
+		"name": "PINTU GOBANG"
+	},
+	{
+		"code": "14.09.02.2020",
+		"type": "desa",
+		"name": "JAKE"
+	},
+	{
+		"code": "14.09.02.2021",
+		"type": "desa",
+		"name": "PULAUGODANG KARI"
+	},
+	{
+		"code": "14.09.02.2022",
+		"type": "desa",
+		"name": "JAYA"
+	},
+	{
+		"code": "14.09.02.2023",
+		"type": "desa",
+		"name": "BERINGIN TALUK"
+	},
+	{
+		"code": "14.09.02.2024",
+		"type": "desa",
+		"name": "SITORAJO"
+	},
+	{
+		"code": "14.09.02.2026",
+		"type": "desa",
+		"name": "SEBERANG TALUK HILIR"
+	},
+	{
+		"code": "14.09.02.2027",
+		"type": "desa",
+		"name": "TITIAN MODANG KOPAH"
+	},
+	{
+		"code": "14.09.02.2028",
+		"type": "desa",
+		"name": "PULAUBANJAR KARI"
+	},
+	{
+		"code": "14.09.03",
+		"type": "kecamatan",
+		"name": "SINGINGI"
+	},
+	{
+		"code": "14.09.03.1003",
+		"type": "kelurahan",
+		"name": "MUARA LEMBU"
+	},
+	{
+		"code": "14.09.03.2001",
+		"type": "desa",
+		"name": "PANGKALAN INDARUNG"
+	},
+	{
+		"code": "14.09.03.2002",
+		"type": "desa",
+		"name": "PULAUPADANG"
+	},
+	{
+		"code": "14.09.03.2004",
+		"type": "desa",
+		"name": "LOGAS"
+	},
+	{
+		"code": "14.09.03.2005",
+		"type": "desa",
+		"name": "KEBUN LADO"
+	},
+	{
+		"code": "14.09.03.2006",
+		"type": "desa",
+		"name": "SUNGAIKUNING"
+	},
+	{
+		"code": "14.09.03.2007",
+		"type": "desa",
+		"name": "SUNGAISIRIH"
+	},
+	{
+		"code": "14.09.03.2008",
+		"type": "desa",
+		"name": "SUNGAIBAWANG"
+	},
+	{
+		"code": "14.09.03.2009",
+		"type": "desa",
+		"name": "AIR EMAS"
+	},
+	{
+		"code": "14.09.03.2010",
+		"type": "desa",
+		"name": "PASIR EMAS"
+	},
+	{
+		"code": "14.09.03.2011",
+		"type": "desa",
+		"name": "PETAI BARU"
+	},
+	{
+		"code": "14.09.03.2012",
+		"type": "desa",
+		"name": "SUNGAIKERANJI"
+	},
+	{
+		"code": "14.09.03.2013",
+		"type": "desa",
+		"name": "SUMBER DATAR"
+	},
+	{
+		"code": "14.09.03.2014",
+		"type": "desa",
+		"name": "LOGAS HILIR"
+	},
+	{
+		"code": "14.09.04",
+		"type": "kecamatan",
+		"name": "KUANTAN HILIR"
+	},
+	{
+		"code": "14.09.04.1001",
+		"type": "kelurahan",
+		"name": "PASAR USANG"
+	},
+	{
+		"code": "14.09.04.1002",
+		"type": "kelurahan",
+		"name": "PASAR BARU"
+	},
+	{
+		"code": "14.09.04.2003",
+		"type": "desa",
+		"name": "SIMPANG TANAH LAPANG"
+	},
+	{
+		"code": "14.09.04.2004",
+		"type": "desa",
+		"name": "RAWANG BONTO"
+	},
+	{
+		"code": "14.09.04.2005",
+		"type": "desa",
+		"name": "KOTO TUO"
+	},
+	{
+		"code": "14.09.04.2006",
+		"type": "desa",
+		"name": "BANUARAN"
+	},
+	{
+		"code": "14.09.04.2007",
+		"type": "desa",
+		"name": "KAMPUNG MADURA"
+	},
+	{
+		"code": "14.09.04.2009",
+		"type": "desa",
+		"name": "PULAUKIJANG"
+	},
+	{
+		"code": "14.09.04.2015",
+		"type": "desa",
+		"name": "PULAUMADINAH"
+	},
+	{
+		"code": "14.09.04.2016",
+		"type": "desa",
+		"name": "KAMPUNG TENGAH"
+	},
+	{
+		"code": "14.09.04.2017",
+		"type": "desa",
+		"name": "KAMPUNG MEDAN"
+	},
+	{
+		"code": "14.09.04.2018",
+		"type": "desa",
+		"name": "KEPALA PULAU"
+	},
+	{
+		"code": "14.09.04.2019",
+		"type": "desa",
+		"name": "TERATAK BARU"
+	},
+	{
+		"code": "14.09.04.2020",
+		"type": "desa",
+		"name": "DUSUN TUO"
+	},
+	{
+		"code": "14.09.04.2028",
+		"type": "desa",
+		"name": "GUNUNGMELINTANG"
+	},
+	{
+		"code": "14.09.04.2030",
+		"type": "desa",
+		"name": "SIMPANG PULAUBERALO"
+	},
+	{
+		"code": "14.09.05",
+		"type": "kecamatan",
+		"name": "CERENTI"
+	},
+	{
+		"code": "14.09.05.1001",
+		"type": "kelurahan",
+		"name": "PASAR CERENTI"
+	},
+	{
+		"code": "14.09.05.1002",
+		"type": "kelurahan",
+		"name": "KOTO PERAKU"
+	},
+	{
+		"code": "14.09.05.2003",
+		"type": "desa",
+		"name": "KOMPE BERANGIN"
+	},
+	{
+		"code": "14.09.05.2004",
+		"type": "desa",
+		"name": "SIKAKAK"
+	},
+	{
+		"code": "14.09.05.2005",
+		"type": "desa",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "14.09.05.2006",
+		"type": "desa",
+		"name": "PULAUJAMBU"
+	},
+	{
+		"code": "14.09.05.2007",
+		"type": "desa",
+		"name": "KOTO CERENTI"
+	},
+	{
+		"code": "14.09.05.2008",
+		"type": "desa",
+		"name": "PULAUBAYUR"
+	},
+	{
+		"code": "14.09.05.2009",
+		"type": "desa",
+		"name": "PULAUPAJANG CERENTI"
+	},
+	{
+		"code": "14.09.05.2010",
+		"type": "desa",
+		"name": "PESIKAIAN"
+	},
+	{
+		"code": "14.09.05.2011",
+		"type": "desa",
+		"name": "TELUKPAUH"
+	},
+	{
+		"code": "14.09.05.2012",
+		"type": "desa",
+		"name": "TANJUNGMEDAN"
+	},
+	{
+		"code": "14.09.05.2013",
+		"type": "desa",
+		"name": "KAMPUNG BARU TIMUR"
+	},
+	{
+		"code": "14.09.06",
+		"type": "kecamatan",
+		"name": "BENAI"
+	},
+	{
+		"code": "14.09.06.1001",
+		"type": "kelurahan",
+		"name": "BENAI"
+	},
+	{
+		"code": "14.09.06.2003",
+		"type": "desa",
+		"name": "BANJAR BENAI"
+	},
+	{
+		"code": "14.09.06.2004",
+		"type": "desa",
+		"name": "TALONTOM"
+	},
+	{
+		"code": "14.09.06.2005",
+		"type": "desa",
+		"name": "GUNUNGKESIANGAN"
+	},
+	{
+		"code": "14.09.06.2006",
+		"type": "desa",
+		"name": "PULAUKALIMANTING"
+	},
+	{
+		"code": "14.09.06.2007",
+		"type": "desa",
+		"name": "BANJAR LOPAK"
+	},
+	{
+		"code": "14.09.06.2008",
+		"type": "desa",
+		"name": "TANJUNGSIMANDOLAK"
+	},
+	{
+		"code": "14.09.06.2009",
+		"type": "desa",
+		"name": "SIBERAKUN"
+	},
+	{
+		"code": "14.09.06.2010",
+		"type": "desa",
+		"name": "PULAUTONGAH"
+	},
+	{
+		"code": "14.09.06.2011",
+		"type": "desa",
+		"name": "UJUNG TANJUNG"
+	},
+	{
+		"code": "14.09.06.2012",
+		"type": "desa",
+		"name": "PULAUINGU"
+	},
+	{
+		"code": "14.09.06.2013",
+		"type": "desa",
+		"name": "SIMANDOLAK"
+	},
+	{
+		"code": "14.09.06.2014",
+		"type": "desa",
+		"name": "TEBING TINGGI"
+	},
+	{
+		"code": "14.09.06.2015",
+		"type": "desa",
+		"name": "PULAULANCANG"
+	},
+	{
+		"code": "14.09.06.2016",
+		"type": "desa",
+		"name": "BENAI KECIL"
+	},
+	{
+		"code": "14.09.06.2021",
+		"type": "desa",
+		"name": "KOTO BENAI"
+	},
+	{
+		"code": "14.09.07",
+		"type": "kecamatan",
+		"name": "GUNUNGTOAR"
+	},
+	{
+		"code": "14.09.07.2001",
+		"type": "desa",
+		"name": "PULAUMUNGKUR"
+	},
+	{
+		"code": "14.09.07.2002",
+		"type": "desa",
+		"name": "TELUKBERINGIN"
+	},
+	{
+		"code": "14.09.07.2003",
+		"type": "desa",
+		"name": "PULAURUMPUT"
+	},
+	{
+		"code": "14.09.07.2004",
+		"type": "desa",
+		"name": "SEBERANG GUNUNG"
+	},
+	{
+		"code": "14.09.07.2005",
+		"type": "desa",
+		"name": "TEBERAU PANJANG"
+	},
+	{
+		"code": "14.09.07.2006",
+		"type": "desa",
+		"name": "KOTO GUNUNG"
+	},
+	{
+		"code": "14.09.07.2007",
+		"type": "desa",
+		"name": "GUNUNG"
+	},
+	{
+		"code": "14.09.07.2008",
+		"type": "desa",
+		"name": "TOAR"
+	},
+	{
+		"code": "14.09.07.2009",
+		"type": "desa",
+		"name": "PETAPAHAN"
+	},
+	{
+		"code": "14.09.07.2010",
+		"type": "desa",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "14.09.07.2011",
+		"type": "desa",
+		"name": "PISANG BEREBUS"
+	},
+	{
+		"code": "14.09.07.2012",
+		"type": "desa",
+		"name": "LUBUK TERENTANG"
+	},
+	{
+		"code": "14.09.07.2013",
+		"type": "desa",
+		"name": "SIBEROBAH"
+	},
+	{
+		"code": "14.09.07.2014",
+		"type": "desa",
+		"name": "SEBERANG SUNGAI"
+	},
+	{
+		"code": "14.09.08",
+		"type": "kecamatan",
+		"name": "SINGINGI HILIR"
+	},
+	{
+		"code": "14.09.08.2001",
+		"type": "desa",
+		"name": "KOTO BARU"
+	},
+	{
+		"code": "14.09.08.2002",
+		"type": "desa",
+		"name": "PETAI"
+	},
+	{
+		"code": "14.09.08.2003",
+		"type": "desa",
+		"name": "SUNGAIPAKU"
+	},
+	{
+		"code": "14.09.08.2004",
+		"type": "desa",
+		"name": "TANJUNGPAUH"
+	},
+	{
+		"code": "14.09.08.2005",
+		"type": "desa",
+		"name": "SIMPANG RAYA"
+	},
+	{
+		"code": "14.09.08.2006",
+		"type": "desa",
+		"name": "SUNGAIBULUH"
+	},
+	{
+		"code": "14.09.08.2007",
+		"type": "desa",
+		"name": "SUKA DAMAI"
+	},
+	{
+		"code": "14.09.08.2008",
+		"type": "desa",
+		"name": "SUMBER JAYA"
+	},
+	{
+		"code": "14.09.08.2009",
+		"type": "desa",
+		"name": "MUARA BAHAN"
+	},
+	{
+		"code": "14.09.08.2010",
+		"type": "desa",
+		"name": "BUKITRAYA"
+	},
+	{
+		"code": "14.09.08.2011",
+		"type": "desa",
+		"name": "BERINGIN JAYA"
+	},
+	{
+		"code": "14.09.08.2012",
+		"type": "desa",
+		"name": "SUKA MAJU"
+	},
+	{
+		"code": "14.09.09",
+		"type": "kecamatan",
+		"name": "PANGEAN"
+	},
+	{
+		"code": "14.09.09.2001",
+		"type": "desa",
+		"name": "PASAR BARU PANGEAN"
+	},
+	{
+		"code": "14.09.09.2002",
+		"type": "desa",
+		"name": "KOTO PANGEAN"
+	},
+	{
+		"code": "14.09.09.2003",
+		"type": "desa",
+		"name": "PULAUKUMPAI"
+	},
+	{
+		"code": "14.09.09.2004",
+		"type": "desa",
+		"name": "PULAUTONGAH"
+	},
+	{
+		"code": "14.09.09.2005",
+		"type": "desa",
+		"name": "PULAUDERAS"
+	},
+	{
+		"code": "14.09.09.2006",
+		"type": "desa",
+		"name": "TELUKPAUH"
+	},
+	{
+		"code": "14.09.09.2007",
+		"type": "desa",
+		"name": "TANAH BEKALI"
+	},
+	{
+		"code": "14.09.09.2008",
+		"type": "desa",
+		"name": "PADANG TANGGUNG"
+	},
+	{
+		"code": "14.09.09.2009",
+		"type": "desa",
+		"name": "PADANG KUNIK"
+	},
+	{
+		"code": "14.09.09.2010",
+		"type": "desa",
+		"name": "PEMBATANG"
+	},
+	{
+		"code": "14.09.09.2011",
+		"type": "desa",
+		"name": "PAUH ANGIT"
+	},
+	{
+		"code": "14.09.09.2012",
+		"type": "desa",
+		"name": "SUKAPING"
+	},
+	{
+		"code": "14.09.09.2013",
+		"type": "desa",
+		"name": "PULAURENGAS"
+	},
+	{
+		"code": "14.09.09.2014",
+		"type": "desa",
+		"name": "RAWANG BINJAI"
+	},
+	{
+		"code": "14.09.09.2015",
+		"type": "desa",
+		"name": "SAKO"
+	},
+	{
+		"code": "14.09.09.2016",
+		"type": "desa",
+		"name": "SUNGAILANGSAT"
+	},
+	{
+		"code": "14.09.09.2017",
+		"type": "desa",
+		"name": "PAUH ANGIT HULU"
+	},
+	{
+		"code": "14.09.10",
+		"type": "kecamatan",
+		"name": "LOGAS TANAH DARAT"
+	},
+	{
+		"code": "14.09.10.2001",
+		"type": "desa",
+		"name": "PERHENTIAN LUAS"
+	},
+	{
+		"code": "14.09.10.2002",
+		"type": "desa",
+		"name": "LOGAS"
+	},
+	{
+		"code": "14.09.10.2003",
+		"type": "desa",
+		"name": "LUBUK KEBUN"
+	},
+	{
+		"code": "14.09.10.2004",
+		"type": "desa",
+		"name": "SUNGAI RAMBAI"
+	},
+	{
+		"code": "14.09.10.2005",
+		"type": "desa",
+		"name": "SITUGAL"
+	},
+	{
+		"code": "14.09.10.2006",
+		"type": "desa",
+		"name": "RAMBAHAN"
+	},
+	{
+		"code": "14.09.10.2007",
+		"type": "desa",
+		"name": "TERATAK RENDAH"
+	},
+	{
+		"code": "14.09.10.2008",
+		"type": "desa",
+		"name": "SIKIJANG"
+	},
+	{
+		"code": "14.09.10.2009",
+		"type": "desa",
+		"name": "SUKARAJA"
+	},
+	{
+		"code": "14.09.10.2010",
+		"type": "desa",
+		"name": "SAKO MARGASARI"
+	},
+	{
+		"code": "14.09.10.2011",
+		"type": "desa",
+		"name": "KUANTAN SAKO"
+	},
+	{
+		"code": "14.09.10.2012",
+		"type": "desa",
+		"name": "HULU TESO"
+	},
+	{
+		"code": "14.09.10.2013",
+		"type": "desa",
+		"name": "GIRI SAKO"
+	},
+	{
+		"code": "14.09.10.2014",
+		"type": "desa",
+		"name": "BUMI MULYA"
+	},
+	{
+		"code": "14.09.10.2015",
+		"type": "desa",
+		"name": "SIDODADI"
+	},
+	{
+		"code": "14.09.11",
+		"type": "kecamatan",
+		"name": "INUMAN"
+	},
+	{
+		"code": "14.09.11.2001",
+		"type": "desa",
+		"name": "PASAR INUMAN"
+	},
+	{
+		"code": "14.09.11.2002",
+		"type": "desa",
+		"name": "KOTO INUMAN"
+	},
+	{
+		"code": "14.09.11.2003",
+		"type": "desa",
+		"name": "PULAUPANJANG HULU"
+	},
+	{
+		"code": "14.09.11.2004",
+		"type": "desa",
+		"name": "PULAUPANJANG HILIR"
+	},
+	{
+		"code": "14.09.11.2005",
+		"type": "desa",
+		"name": "SIGARUNTANG"
+	},
+	{
+		"code": "14.09.11.2006",
+		"type": "desa",
+		"name": "PULAUBUSUK"
+	},
+	{
+		"code": "14.09.11.2007",
+		"type": "desa",
+		"name": "BEDENG SIKURAN"
+	},
+	{
+		"code": "14.09.11.2008",
+		"type": "desa",
+		"name": "BANJAR NAN TIGO"
+	},
+	{
+		"code": "14.09.11.2009",
+		"type": "desa",
+		"name": "PULAUSIPAN"
+	},
+	{
+		"code": "14.09.11.2010",
+		"type": "desa",
+		"name": "PULAUBUSUK JAYA"
+	},
+	{
+		"code": "14.09.11.2011",
+		"type": "desa",
+		"name": "SEBERANG PULAU BUSUK"
+	},
+	{
+		"code": "14.09.11.2012",
+		"type": "desa",
+		"name": "LEBUH LURUS"
+	},
+	{
+		"code": "14.09.11.2013",
+		"type": "desa",
+		"name": "KAMPUNG BARU KOTO"
+	},
+	{
+		"code": "14.09.11.2014",
+		"type": "desa",
+		"name": "KETAPING JAYA"
+	},
+	{
+		"code": "14.09.12",
+		"type": "kecamatan",
+		"name": "HULU KUANTAN"
+	},
+	{
+		"code": "14.09.12.2001",
+		"type": "desa",
+		"name": "LUBUK AMBACANG"
+	},
+	{
+		"code": "14.09.12.2002",
+		"type": "desa",
+		"name": "SUNGAIKELELAWAR"
+	},
+	{
+		"code": "14.09.12.2003",
+		"type": "desa",
+		"name": "TANJUNG"
+	},
+	{
+		"code": "14.09.12.2004",
+		"type": "desa",
+		"name": "SUNGAIPINANG"
+	},
+	{
+		"code": "14.09.12.2005",
+		"type": "desa",
+		"name": "SUNGAIALAH"
+	},
+	{
+		"code": "14.09.12.2006",
+		"type": "desa",
+		"name": "KOTO KOMBU"
+	},
+	{
+		"code": "14.09.12.2007",
+		"type": "desa",
+		"name": "SUMPU"
+	},
+	{
+		"code": "14.09.12.2008",
+		"type": "desa",
+		"name": "MUDIK ULO"
+	},
+	{
+		"code": "14.09.12.2009",
+		"type": "desa",
+		"name": "INUMAN"
+	},
+	{
+		"code": "14.09.12.2010",
+		"type": "desa",
+		"name": "TANJUNGMEDANG"
+	},
+	{
+		"code": "14.09.12.2011",
+		"type": "desa",
+		"name": "SEROSA"
+	},
+	{
+		"code": "14.09.12.2012",
+		"type": "desa",
+		"name": "SAMPURAGO"
+	},
+	{
+		"code": "14.09.13",
+		"type": "kecamatan",
+		"name": "KUANTAN HILIR SEBERANG"
+	},
+	{
+		"code": "14.09.13.2001",
+		"type": "desa",
+		"name": "PULAUBARU"
+	},
+	{
+		"code": "14.09.13.2002",
+		"type": "desa",
+		"name": "PULAUBERALO"
+	},
+	{
+		"code": "14.09.13.2003",
+		"type": "desa",
+		"name": "PULAUKULUR"
+	},
+	{
+		"code": "14.09.13.2004",
+		"type": "desa",
+		"name": "PELUKAHAN"
+	},
+	{
+		"code": "14.09.13.2005",
+		"type": "desa",
+		"name": "PENGALIHAN"
+	},
+	{
+		"code": "14.09.13.2006",
+		"type": "desa",
+		"name": "LUMBOK"
+	},
+	{
+		"code": "14.09.13.2007",
+		"type": "desa",
+		"name": "TERATAK JERING"
+	},
+	{
+		"code": "14.09.13.2008",
+		"type": "desa",
+		"name": "TANJUNGPISANG"
+	},
+	{
+		"code": "14.09.13.2009",
+		"type": "desa",
+		"name": "DANAU"
+	},
+	{
+		"code": "14.09.13.2010",
+		"type": "desa",
+		"name": "KASANG LIMAU SUNDAI"
+	},
+	{
+		"code": "14.09.13.2011",
+		"type": "desa",
+		"name": "KOTO RAJO"
+	},
+	{
+		"code": "14.09.13.2012",
+		"type": "desa",
+		"name": "TANJUNG"
+	},
+	{
+		"code": "14.09.13.2013",
+		"type": "desa",
+		"name": "SUNGAISORIK"
+	},
+	{
+		"code": "14.09.13.2014",
+		"type": "desa",
+		"name": "RAWANG OGUANG"
+	},
+	{
+		"code": "14.09.14",
+		"type": "kecamatan",
+		"name": "SENTAJO RAYA"
+	},
+	{
+		"code": "14.09.14.1015",
+		"type": "kelurahan",
+		"name": "BERINGIN JAYA"
+	},
+	{
+		"code": "14.09.14.2001",
+		"type": "desa",
+		"name": "PULAUKOMANG SENTAJO"
+	},
+	{
+		"code": "14.09.14.2002",
+		"type": "desa",
+		"name": "MUARO SENTAJO"
+	},
+	{
+		"code": "14.09.14.2003",
+		"type": "desa",
+		"name": "KOTO SENTAJO"
+	},
+	{
+		"code": "14.09.14.2004",
+		"type": "desa",
+		"name": "KAMPUNG BARU SENTAJO"
+	},
+	{
+		"code": "14.09.14.2005",
+		"type": "desa",
+		"name": "PULAUKOPUNG SENTAJO"
+	},
+	{
+		"code": "14.09.14.2006",
+		"type": "desa",
+		"name": "TERATAK AIR HITAM"
+	},
+	{
+		"code": "14.09.14.2007",
+		"type": "desa",
+		"name": "SEBERANG TERATAK AIR HITAM"
+	},
+	{
+		"code": "14.09.14.2008",
+		"type": "desa",
+		"name": "PARIT TERATAK AIR HITAM"
+	},
+	{
+		"code": "14.09.14.2009",
+		"type": "desa",
+		"name": "JALUR PATAH"
+	},
+	{
+		"code": "14.09.14.2010",
+		"type": "desa",
+		"name": "GERINGING BARU"
+	},
+	{
+		"code": "14.09.14.2011",
+		"type": "desa",
+		"name": "MARSAWA"
+	},
+	{
+		"code": "14.09.14.2012",
+		"type": "desa",
+		"name": "LANGSAT HULU"
+	},
+	{
+		"code": "14.09.14.2013",
+		"type": "desa",
+		"name": "MUARA LANGSAT"
+	},
+	{
+		"code": "14.09.14.2014",
+		"type": "desa",
+		"name": "GERINGGING JAYA"
+	},
+	{
+		"code": "14.09.15",
+		"type": "kecamatan",
+		"name": "PUCUK RANTAU"
+	},
+	{
+		"code": "14.09.15.2001",
+		"type": "desa",
+		"name": "PERHENTIAN SUNGKAI"
+	},
+	{
+		"code": "14.09.15.2002",
+		"type": "desa",
+		"name": "IBUL"
+	},
+	{
+		"code": "14.09.15.2003",
+		"type": "desa",
+		"name": "MUARAPETAI"
+	},
+	{
+		"code": "14.09.15.2004",
+		"type": "desa",
+		"name": "PANGKALAN"
+	},
+	{
+		"code": "14.09.15.2005",
+		"type": "desa",
+		"name": "SUNGAIBESAR"
+	},
+	{
+		"code": "14.09.15.2006",
+		"type": "desa",
+		"name": "SETIANG"
+	},
+	{
+		"code": "14.09.15.2007",
+		"type": "desa",
+		"name": "MUARO TIU MAKMUR"
+	},
+	{
+		"code": "14.09.15.2008",
+		"type": "desa",
+		"name": "MUARATOBEK"
+	},
+	{
+		"code": "14.09.15.2009",
+		"type": "desa",
+		"name": "SUNGAIBESAR HILIR"
+	},
+	{
+		"code": "14.09.15.2010",
+		"type": "desa",
+		"name": "KAMPUNG BARU IBUL"
+	},
+	{
+		"code": "14.10",
+		"type": "kabupaten",
+		"name": "KAB. KEPULAUAN MERANTI"
+	},
+	{
+		"code": "14.10.01",
+		"type": "kecamatan",
+		"name": "TEBING TINGGI"
+	},
+	{
+		"code": "14.10.01.1001",
+		"type": "kelurahan",
+		"name": "SELATPANJANG KOTA"
+	},
+	{
+		"code": "14.10.01.1002",
+		"type": "kelurahan",
+		"name": "SELATPANJANG BARAT"
+	},
+	{
+		"code": "14.10.01.1003",
+		"type": "kelurahan",
+		"name": "SELATPANJANG SELATAN"
+	},
+	{
+		"code": "14.10.01.1004",
+		"type": "kelurahan",
+		"name": "SELATPANJANG TIMUR"
+	},
+	{
+		"code": "14.10.01.2005",
+		"type": "desa",
+		"name": "BANGLAS"
+	},
+	{
+		"code": "14.10.01.2006",
+		"type": "desa",
+		"name": "ALAH AIR"
+	},
+	{
+		"code": "14.10.01.2007",
+		"type": "desa",
+		"name": "ALAH AIR TIMUR"
+	},
+	{
+		"code": "14.10.01.2008",
+		"type": "desa",
+		"name": "SESAP"
+	},
+	{
+		"code": "14.10.01.2016",
+		"type": "desa",
+		"name": "BANGLAS BARAT"
+	},
+	{
+		"code": "14.10.02",
+		"type": "kecamatan",
+		"name": "RANGSANG BARAT"
+	},
+	{
+		"code": "14.10.02.2001",
+		"type": "desa",
+		"name": "SEGOMENG"
+	},
+	{
+		"code": "14.10.02.2002",
+		"type": "desa",
+		"name": "BANTAR"
+	},
+	{
+		"code": "14.10.02.2003",
+		"type": "desa",
+		"name": "ANAK SETATAH"
+	},
+	{
+		"code": "14.10.02.2004",
+		"type": "desa",
+		"name": "LEMANG"
+	},
+	{
+		"code": "14.10.02.2005",
+		"type": "desa",
+		"name": "BOKOR"
+	},
+	{
+		"code": "14.10.02.2006",
+		"type": "desa",
+		"name": "SUNGAI CINA"
+	},
+	{
+		"code": "14.10.02.2007",
+		"type": "desa",
+		"name": "MELAI"
+	},
+	{
+		"code": "14.10.02.2011",
+		"type": "desa",
+		"name": "TELAGA BARU"
+	},
+	{
+		"code": "14.10.02.2012",
+		"type": "desa",
+		"name": "BINA MAJU"
+	},
+	{
+		"code": "14.10.02.2015",
+		"type": "desa",
+		"name": "SIALANG PASUNG"
+	},
+	{
+		"code": "14.10.02.2016",
+		"type": "desa",
+		"name": "PERMAI"
+	},
+	{
+		"code": "14.10.02.2017",
+		"type": "desa",
+		"name": "MEKAR BARU"
+	},
+	{
+		"code": "14.10.03",
+		"type": "kecamatan",
+		"name": "RANGSANG"
+	},
+	{
+		"code": "14.10.03.2001",
+		"type": "desa",
+		"name": "TANJUNG SAMAK"
+	},
+	{
+		"code": "14.10.03.2002",
+		"type": "desa",
+		"name": "TANJUNG MEDANG"
+	},
+	{
+		"code": "14.10.03.2004",
+		"type": "desa",
+		"name": "GEMALA SARI"
+	},
+	{
+		"code": "14.10.03.2007",
+		"type": "desa",
+		"name": "TOPANG"
+	},
+	{
+		"code": "14.10.03.2008",
+		"type": "desa",
+		"name": "PENYAGUN"
+	},
+	{
+		"code": "14.10.03.2010",
+		"type": "desa",
+		"name": "REPAN"
+	},
+	{
+		"code": "14.10.03.2011",
+		"type": "desa",
+		"name": "TANJUNG BAKAU"
+	},
+	{
+		"code": "14.10.03.2012",
+		"type": "desa",
+		"name": "TELUK SAMAK"
+	},
+	{
+		"code": "14.10.03.2013",
+		"type": "desa",
+		"name": "SUNGAI GAYUNG KIRI"
+	},
+	{
+		"code": "14.10.03.2014",
+		"type": "desa",
+		"name": "CITRA DAMAI"
+	},
+	{
+		"code": "14.10.03.2016",
+		"type": "desa",
+		"name": "DWI TUNGGAL"
+	},
+	{
+		"code": "14.10.03.2017",
+		"type": "desa",
+		"name": "WONOSARI"
+	},
+	{
+		"code": "14.10.03.2018",
+		"type": "desa",
+		"name": "TEBUN"
+	},
+	{
+		"code": "14.10.03.2020",
+		"type": "desa",
+		"name": "TANJUNG GEMUK"
+	},
+	{
+		"code": "14.10.04",
+		"type": "kecamatan",
+		"name": "TEBING TINGGI BARAT"
+	},
+	{
+		"code": "14.10.04.2001",
+		"type": "desa",
+		"name": "ALAI"
+	},
+	{
+		"code": "14.10.04.2002",
+		"type": "desa",
+		"name": "TENAN"
+	},
+	{
+		"code": "14.10.04.2003",
+		"type": "desa",
+		"name": "INSIT"
+	},
+	{
+		"code": "14.10.04.2004",
+		"type": "desa",
+		"name": "TANJUNG"
+	},
+	{
+		"code": "14.10.04.2005",
+		"type": "desa",
+		"name": "TANJUNG PERANAP"
+	},
+	{
+		"code": "14.10.04.2006",
+		"type": "desa",
+		"name": "KUNDUR"
+	},
+	{
+		"code": "14.10.04.2007",
+		"type": "desa",
+		"name": "MEKONG"
+	},
+	{
+		"code": "14.10.04.2008",
+		"type": "desa",
+		"name": "BATANG MALAS"
+	},
+	{
+		"code": "14.10.04.2009",
+		"type": "desa",
+		"name": "MANTIASA"
+	},
+	{
+		"code": "14.10.04.2010",
+		"type": "desa",
+		"name": "GOGOK DARUSSALAM"
+	},
+	{
+		"code": "14.10.04.2011",
+		"type": "desa",
+		"name": "MAINI DARUL AMAN"
+	},
+	{
+		"code": "14.10.04.2012",
+		"type": "desa",
+		"name": "MENGKIKIP"
+	},
+	{
+		"code": "14.10.04.2013",
+		"type": "desa",
+		"name": "ALAI SELATAN"
+	},
+	{
+		"code": "14.10.04.2014",
+		"type": "desa",
+		"name": "TANJUNG DARUL TAKZIM"
+	},
+	{
+		"code": "14.10.05",
+		"type": "kecamatan",
+		"name": "MERBAU"
+	},
+	{
+		"code": "14.10.05.1001",
+		"type": "kelurahan",
+		"name": "TELUK BELITUNG"
+	},
+	{
+		"code": "14.10.05.2002",
+		"type": "desa",
+		"name": "MERANTI BUNTING"
+	},
+	{
+		"code": "14.10.05.2003",
+		"type": "desa",
+		"name": "LUKIT"
+	},
+	{
+		"code": "14.10.05.2004",
+		"type": "desa",
+		"name": "BAGAN MELIBUR"
+	},
+	{
+		"code": "14.10.05.2018",
+		"type": "desa",
+		"name": "PELANTAI"
+	},
+	{
+		"code": "14.10.05.2019",
+		"type": "desa",
+		"name": "TANJUNG KULIM"
+	},
+	{
+		"code": "14.10.05.2021",
+		"type": "desa",
+		"name": "MEKAR SARI"
+	},
+	{
+		"code": "14.10.05.2023",
+		"type": "desa",
+		"name": "MAYANG SARI"
+	},
+	{
+		"code": "14.10.05.2026",
+		"type": "desa",
+		"name": "SUNGAI ANAK KAMAL"
+	},
+	{
+		"code": "14.10.05.2027",
+		"type": "desa",
+		"name": "SUNGAI TENGAH"
+	},
+	{
+		"code": "14.10.06",
+		"type": "kecamatan",
+		"name": "PULAUMERBAU"
+	},
+	{
+		"code": "14.10.06.2001",
+		"type": "desa",
+		"name": "KUALA MERBAU"
+	},
+	{
+		"code": "14.10.06.2002",
+		"type": "desa",
+		"name": "RENAK DUNGUN"
+	},
+	{
+		"code": "14.10.06.2003",
+		"type": "desa",
+		"name": "BARAN MELINTANG"
+	},
+	{
+		"code": "14.10.06.2004",
+		"type": "desa",
+		"name": "TELUK KETAPANG"
+	},
+	{
+		"code": "14.10.06.2005",
+		"type": "desa",
+		"name": "SEMUKUT"
+	},
+	{
+		"code": "14.10.06.2006",
+		"type": "desa",
+		"name": "CENTAI"
+	},
+	{
+		"code": "14.10.06.2007",
+		"type": "desa",
+		"name": "TANJUNGBUNGA"
+	},
+	{
+		"code": "14.10.06.2008",
+		"type": "desa",
+		"name": "BATANG MERANTI"
+	},
+	{
+		"code": "14.10.06.2009",
+		"type": "desa",
+		"name": "PANGKALAN BALAI"
+	},
+	{
+		"code": "14.10.06.2010",
+		"type": "desa",
+		"name": "PADANG KAMAL"
+	},
+	{
+		"code": "14.10.06.2011",
+		"type": "desa",
+		"name": "KETAPANG PERMAI"
+	},
+	{
+		"code": "14.10.07",
+		"type": "kecamatan",
+		"name": "TEBING TINGGI TIMUR"
+	},
+	{
+		"code": "14.10.07.2001",
+		"type": "desa",
+		"name": "LUKUN"
+	},
+	{
+		"code": "14.10.07.2002",
+		"type": "desa",
+		"name": "SUNGAI TOHOR"
+	},
+	{
+		"code": "14.10.07.2003",
+		"type": "desa",
+		"name": "NIPAH SENDANU"
+	},
+	{
+		"code": "14.10.07.2004",
+		"type": "desa",
+		"name": "TANJUNG SARI"
+	},
+	{
+		"code": "14.10.07.2005",
+		"type": "desa",
+		"name": "TANJUNG GADAI"
+	},
+	{
+		"code": "14.10.07.2006",
+		"type": "desa",
+		"name": "TELUK BUNTAL"
+	},
+	{
+		"code": "14.10.07.2007",
+		"type": "desa",
+		"name": "KEPAU BARU"
+	},
+	{
+		"code": "14.10.07.2008",
+		"type": "desa",
+		"name": "SUNGAI TOHOR BARAT"
+	},
+	{
+		"code": "14.10.07.2009",
+		"type": "desa",
+		"name": "SENDANU DARUL IHSAN"
+	},
+	{
+		"code": "14.10.07.2010",
+		"type": "desa",
+		"name": "BATIN SUIR"
+	},
+	{
+		"code": "14.10.08",
+		"type": "kecamatan",
+		"name": "TASIK PUTRI PUYU"
+	},
+	{
+		"code": "14.10.08.2001",
+		"type": "desa",
+		"name": "TANJUNG PADANG"
+	},
+	{
+		"code": "14.10.08.2002",
+		"type": "desa",
+		"name": "PUTRI PUYU"
+	},
+	{
+		"code": "14.10.08.2003",
+		"type": "desa",
+		"name": "MEKAR DELIMA"
+	},
+	{
+		"code": "14.10.08.2004",
+		"type": "desa",
+		"name": "DEDAP"
+	},
+	{
+		"code": "14.10.08.2005",
+		"type": "desa",
+		"name": "KUDAP"
+	},
+	{
+		"code": "14.10.08.2006",
+		"type": "desa",
+		"name": "BANDUL"
+	},
+	{
+		"code": "14.10.08.2007",
+		"type": "desa",
+		"name": "SELAT AKAR"
+	},
+	{
+		"code": "14.10.08.2008",
+		"type": "desa",
+		"name": "TANJUNG PISANG"
+	},
+	{
+		"code": "14.10.08.2009",
+		"type": "desa",
+		"name": "MENGKOPOT"
+	},
+	{
+		"code": "14.10.08.2010",
+		"type": "desa",
+		"name": "MENGKIRAU"
+	},
+	{
+		"code": "14.10.09",
+		"type": "kecamatan",
+		"name": "RANGSANG PESISIR"
+	},
+	{
+		"code": "14.10.09.2001",
+		"type": "desa",
+		"name": "TANJUNG KEDABU"
+	},
+	{
+		"code": "14.10.09.2002",
+		"type": "desa",
+		"name": "BETING"
+	},
+	{
+		"code": "14.10.09.2003",
+		"type": "desa",
+		"name": "SOKOP"
+	},
+	{
+		"code": "14.10.09.2004",
+		"type": "desa",
+		"name": "TELESUNG"
+	},
+	{
+		"code": "14.10.09.2005",
+		"type": "desa",
+		"name": "BUNGUR"
+	},
+	{
+		"code": "14.10.09.2006",
+		"type": "desa",
+		"name": "TENGGAYUN RAYA"
+	},
+	{
+		"code": "14.10.09.2007",
+		"type": "desa",
+		"name": "SENDAUR"
+	},
+	{
+		"code": "14.10.09.2008",
+		"type": "desa",
+		"name": "KAYU ARA"
+	},
+	{
+		"code": "14.10.09.2009",
+		"type": "desa",
+		"name": "SONDE"
+	},
+	{
+		"code": "14.10.09.2010",
+		"type": "desa",
+		"name": "KEDABU RAPAT"
+	},
+	{
+		"code": "14.10.09.2011",
+		"type": "desa",
+		"name": "TANAH MERAH"
+	},
+	{
+		"code": "14.71",
+		"type": "kabupaten",
+		"name": "KOTA PEKANBARU"
+	},
+	{
+		"code": "14.71.01",
+		"type": "kecamatan",
+		"name": "SUKAJADI"
+	},
+	{
+		"code": "14.71.01.1002",
+		"type": "kelurahan",
+		"name": "JADIREJO"
+	},
+	{
+		"code": "14.71.01.1003",
+		"type": "kelurahan",
+		"name": "KAMPUNG TENGAH"
+	},
+	{
+		"code": "14.71.01.1004",
+		"type": "kelurahan",
+		"name": "KAMPUNG MELAYU"
+	},
+	{
+		"code": "14.71.01.1005",
+		"type": "kelurahan",
+		"name": "KEDUNG SARI"
+	},
+	{
+		"code": "14.71.01.1006",
+		"type": "kelurahan",
+		"name": "HARJOSARI"
+	},
+	{
+		"code": "14.71.01.1007",
+		"type": "kelurahan",
+		"name": "SUKAJADI"
+	},
+	{
+		"code": "14.71.01.1008",
+		"type": "kelurahan",
+		"name": "PULAU KARAM"
+	},
+	{
+		"code": "14.71.02",
+		"type": "kecamatan",
+		"name": "PEKANBARU KOTA"
+	},
+	{
+		"code": "14.71.02.1001",
+		"type": "kelurahan",
+		"name": "SIMPANG EMPAT"
+	},
+	{
+		"code": "14.71.02.1002",
+		"type": "kelurahan",
+		"name": "SUMAHILANG"
+	},
+	{
+		"code": "14.71.02.1003",
+		"type": "kelurahan",
+		"name": "TANAH DATAR"
+	},
+	{
+		"code": "14.71.02.1004",
+		"type": "kelurahan",
+		"name": "KOTA BARU"
+	},
+	{
+		"code": "14.71.02.1005",
+		"type": "kelurahan",
+		"name": "SUKARAMAI"
+	},
+	{
+		"code": "14.71.02.1006",
+		"type": "kelurahan",
+		"name": "KOTA TINGGI"
+	},
+	{
+		"code": "14.71.03",
+		"type": "kecamatan",
+		"name": "SAIL"
+	},
+	{
+		"code": "14.71.03.1001",
+		"type": "kelurahan",
+		"name": "CINTA RAJA"
+	},
+	{
+		"code": "14.71.03.1002",
+		"type": "kelurahan",
+		"name": "SUKAMULYA"
+	},
+	{
+		"code": "14.71.03.1003",
+		"type": "kelurahan",
+		"name": "SUKAMAJU"
+	},
+	{
+		"code": "14.71.04",
+		"type": "kecamatan",
+		"name": "LIMA PULUH"
+	},
+	{
+		"code": "14.71.04.1001",
+		"type": "kelurahan",
+		"name": "RINTIS"
+	},
+	{
+		"code": "14.71.04.1002",
+		"type": "kelurahan",
+		"name": "TANJUNG RHU"
+	},
+	{
+		"code": "14.71.04.1003",
+		"type": "kelurahan",
+		"name": "PESISIR"
+	},
+	{
+		"code": "14.71.04.1004",
+		"type": "kelurahan",
+		"name": "SEKIP"
+	},
+	{
+		"code": "14.71.05",
+		"type": "kecamatan",
+		"name": "SENAPELAN"
+	},
+	{
+		"code": "14.71.05.1001",
+		"type": "kelurahan",
+		"name": "PADANG BULAN"
+	},
+	{
+		"code": "14.71.05.1002",
+		"type": "kelurahan",
+		"name": "SAGO"
+	},
+	{
+		"code": "14.71.05.1003",
+		"type": "kelurahan",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "14.71.05.1004",
+		"type": "kelurahan",
+		"name": "KAMPUNG DALAM"
+	},
+	{
+		"code": "14.71.05.1005",
+		"type": "kelurahan",
+		"name": "KAMPUNG BANDAR"
+	},
+	{
+		"code": "14.71.05.1006",
+		"type": "kelurahan",
+		"name": "PADANG TERUBUK"
+	},
+	{
+		"code": "14.71.06",
+		"type": "kecamatan",
+		"name": "RUMBAI"
+	},
+	{
+		"code": "14.71.06.1003",
+		"type": "kelurahan",
+		"name": "RUMBAI BUKIT"
+	},
+	{
+		"code": "14.71.06.1005",
+		"type": "kelurahan",
+		"name": "MUARA FAJAR"
+	},
+	{
+		"code": "14.71.06.1006",
+		"type": "kelurahan",
+		"name": "UMBAN SARI"
+	},
+	{
+		"code": "14.71.06.1008",
+		"type": "kelurahan",
+		"name": "SRI MERANTI"
+	},
+	{
+		"code": "14.71.06.1009",
+		"type": "kelurahan",
+		"name": "PALAS"
+	},
+	{
+		"code": "14.71.07",
+		"type": "kecamatan",
+		"name": "BUKIT RAYA"
+	},
+	{
+		"code": "14.71.07.1005",
+		"type": "kelurahan",
+		"name": "SIMPANG TIGA"
+	},
+	{
+		"code": "14.71.07.1006",
+		"type": "kelurahan",
+		"name": "TANGKERANG SELATAN"
+	},
+	{
+		"code": "14.71.07.1008",
+		"type": "kelurahan",
+		"name": "TANGKERANG UTARA"
+	},
+	{
+		"code": "14.71.07.1011",
+		"type": "kelurahan",
+		"name": "TANGKERANG LABUAI"
+	},
+	{
+		"code": "14.71.08",
+		"type": "kecamatan",
+		"name": "TAMPAN"
+	},
+	{
+		"code": "14.71.08.1001",
+		"type": "kelurahan",
+		"name": "SIMPANG BARU"
+	},
+	{
+		"code": "14.71.08.1006",
+		"type": "kelurahan",
+		"name": "SIDOMULYA BARAT"
+	},
+	{
+		"code": "14.71.08.1007",
+		"type": "kelurahan",
+		"name": "TUAH KARYA"
+	},
+	{
+		"code": "14.71.08.1008",
+		"type": "kelurahan",
+		"name": "DELIMA"
+	},
+	{
+		"code": "14.71.09",
+		"type": "kecamatan",
+		"name": "MARPOYAN DAMAI"
+	},
+	{
+		"code": "14.71.09.1001",
+		"type": "kelurahan",
+		"name": "TANGKERANG BARAT"
+	},
+	{
+		"code": "14.71.09.1002",
+		"type": "kelurahan",
+		"name": "TANGKERANG TENGAH"
+	},
+	{
+		"code": "14.71.09.1003",
+		"type": "kelurahan",
+		"name": "SIDOMULYO TIMUR"
+	},
+	{
+		"code": "14.71.09.1004",
+		"type": "kelurahan",
+		"name": "WONOREJO"
+	},
+	{
+		"code": "14.71.09.1005",
+		"type": "kelurahan",
+		"name": "MAHARATU"
+	},
+	{
+		"code": "14.71.10",
+		"type": "kecamatan",
+		"name": "TENAYAN RAYA"
+	},
+	{
+		"code": "14.71.10.1001",
+		"type": "kelurahan",
+		"name": "KULIM"
+	},
+	{
+		"code": "14.71.10.1002",
+		"type": "kelurahan",
+		"name": "SAIL"
+	},
+	{
+		"code": "14.71.10.1003",
+		"type": "kelurahan",
+		"name": "TANGKERANG TIMUR"
+	},
+	{
+		"code": "14.71.10.1004",
+		"type": "kelurahan",
+		"name": "REJO SARI"
+	},
+	{
+		"code": "14.71.11",
+		"type": "kecamatan",
+		"name": "PAYUNG SEKAKI"
+	},
+	{
+		"code": "14.71.11.1001",
+		"type": "kelurahan",
+		"name": "TAMPAN"
+	},
+	{
+		"code": "14.71.11.1002",
+		"type": "kelurahan",
+		"name": "LABUH BARU TIMUR"
+	},
+	{
+		"code": "14.71.11.1003",
+		"type": "kelurahan",
+		"name": "LABUH BARU BARAT"
+	},
+	{
+		"code": "14.71.11.1004",
+		"type": "kelurahan",
+		"name": "AIR HITAM"
+	},
+	{
+		"code": "14.71.12",
+		"type": "kecamatan",
+		"name": "RUMBAI PESISIR"
+	},
+	{
+		"code": "14.71.12.1001",
+		"type": "kelurahan",
+		"name": "MERANTI PANDAK"
+	},
+	{
+		"code": "14.71.12.1002",
+		"type": "kelurahan",
+		"name": "LIMBUNGAN"
+	},
+	{
+		"code": "14.71.12.1003",
+		"type": "kelurahan",
+		"name": "LEMBAH SARI"
+	},
+	{
+		"code": "14.71.12.1004",
+		"type": "kelurahan",
+		"name": "LEMBAH DAMAI"
+	},
+	{
+		"code": "14.71.12.1005",
+		"type": "kelurahan",
+		"name": "TEBING TINGGI OKURA"
+	},
+	{
+		"code": "14.71.12.1006",
+		"type": "kelurahan",
+		"name": "LIMBUNGAN BARU"
+	},
+	{
+		"code": "14.72",
+		"type": "kabupaten",
+		"name": "KOTA DUMAI"
+	},
+	{
+		"code": "14.72.01",
+		"type": "kecamatan",
+		"name": "DUMAI BARAT"
+	},
+	{
+		"code": "14.72.01.1003",
+		"type": "kelurahan",
+		"name": "PANGKALAN SESAI"
+	},
+	{
+		"code": "14.72.01.1006",
+		"type": "kelurahan",
+		"name": "PURNAMA"
+	},
+	{
+		"code": "14.72.01.1008",
+		"type": "kelurahan",
+		"name": "BAGAN KELADI"
+	},
+	{
+		"code": "14.72.01.1009",
+		"type": "kelurahan",
+		"name": "SIMAPANG TETAP DARUL ICHSAN"
+	},
+	{
+		"code": "14.72.02",
+		"type": "kecamatan",
+		"name": "DUMAI TIMUR"
+	},
+	{
+		"code": "14.72.02.1002",
+		"type": "kelurahan",
+		"name": "TELUK BINJAI"
+	},
+	{
+		"code": "14.72.02.1003",
+		"type": "kelurahan",
+		"name": "TANJUNG PALAS"
+	},
+	{
+		"code": "14.72.02.1004",
+		"type": "kelurahan",
+		"name": "JAYA MUKTI"
+	},
+	{
+		"code": "14.72.02.1006",
+		"type": "kelurahan",
+		"name": "BULUH KASAP"
+	},
+	{
+		"code": "14.72.02.1009",
+		"type": "kelurahan",
+		"name": "BUKIT BATREM"
+	},
+	{
+		"code": "14.72.03",
+		"type": "kecamatan",
+		"name": "BUKIT KAPUR"
+	},
+	{
+		"code": "14.72.03.1001",
+		"type": "kelurahan",
+		"name": "BUKIT NANAS"
+	},
+	{
+		"code": "14.72.03.1002",
+		"type": "kelurahan",
+		"name": "KAYU KAPUR"
+	},
+	{
+		"code": "14.72.03.1003",
+		"type": "kelurahan",
+		"name": "GURUN PANJANG"
+	},
+	{
+		"code": "14.72.03.1004",
+		"type": "kelurahan",
+		"name": "BAGAN BESAR"
+	},
+	{
+		"code": "14.72.03.1005",
+		"type": "kelurahan",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "14.72.04",
+		"type": "kecamatan",
+		"name": "SUNGAI SEMBILAN"
+	},
+	{
+		"code": "14.72.04.1001",
+		"type": "kelurahan",
+		"name": "LUBUK GAUNG"
+	},
+	{
+		"code": "14.72.04.1002",
+		"type": "kelurahan",
+		"name": "TANJUNG PENYEBAL"
+	},
+	{
+		"code": "14.72.04.1003",
+		"type": "kelurahan",
+		"name": "BANGSAL ACEH"
+	},
+	{
+		"code": "14.72.04.1004",
+		"type": "kelurahan",
+		"name": "BASILAM BARU"
+	},
+	{
+		"code": "14.72.04.1005",
+		"type": "kelurahan",
+		"name": "BATU TERITIP"
+	},
+	{
+		"code": "14.72.05",
+		"type": "kecamatan",
+		"name": "MEDANG KAMPAI"
+	},
+	{
+		"code": "14.72.05.1001",
+		"type": "kelurahan",
+		"name": "TELUK MAKMUR"
+	},
+	{
+		"code": "14.72.05.1002",
+		"type": "kelurahan",
+		"name": "MUNDAM"
+	},
+	{
+		"code": "14.72.05.1003",
+		"type": "kelurahan",
+		"name": "GUNTUNG"
+	},
+	{
+		"code": "14.72.05.1004",
+		"type": "kelurahan",
+		"name": "PELINTUNG"
+	},
+	{
+		"code": "14.72.06",
+		"type": "kecamatan",
+		"name": "DUMAI KOTA"
+	},
+	{
+		"code": "14.72.06.1001",
+		"type": "kelurahan",
+		"name": "LAKSAMANA"
+	},
+	{
+		"code": "14.72.06.1002",
+		"type": "kelurahan",
+		"name": "RIMBA SEKAMPUNG"
+	},
+	{
+		"code": "14.72.06.1003",
+		"type": "kelurahan",
+		"name": "DUMAI KOTA"
+	},
+	{
+		"code": "14.72.06.1004",
+		"type": "kelurahan",
+		"name": "BINTAN"
+	},
+	{
+		"code": "14.72.06.1005",
+		"type": "kelurahan",
+		"name": "SUKAJADI"
+	},
+	{
+		"code": "14.72.07",
+		"type": "kecamatan",
+		"name": "DUMAI SELATAN"
+	},
+	{
+		"code": "14.72.07.1001",
+		"type": "kelurahan",
+		"name": "RATU SIMA"
+	},
+	{
+		"code": "14.72.07.1002",
+		"type": "kelurahan",
+		"name": "BUKIT TIMAH"
+	},
+	{
+		"code": "14.72.07.1003",
+		"type": "kelurahan",
+		"name": "MEKAR SARI"
+	},
+	{
+		"code": "14.72.07.1004",
+		"type": "kelurahan",
+		"name": "BUKIT DATUK"
+	},
+	{
+		"code": "14.72.07.1005",
+		"type": "kelurahan",
+		"name": "BUMI AYU"
+	}
+]

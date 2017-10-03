@@ -1,0 +1,2612 @@
+[
+	{
+		"code": "34",
+		"type": "provinsi",
+		"name": "YOGYAKARTA"
+	},
+	{
+		"code": "34.01",
+		"type": "kabupaten",
+		"name": "KAB. KULON PROGO"
+	},
+	{
+		"code": "34.01.01",
+		"type": "kecamatan",
+		"name": "TEMON"
+	},
+	{
+		"code": "34.01.01.2001",
+		"type": "desa",
+		"name": "JANGKARAN"
+	},
+	{
+		"code": "34.01.01.2002",
+		"type": "desa",
+		"name": "SINDUTAN"
+	},
+	{
+		"code": "34.01.01.2003",
+		"type": "desa",
+		"name": "PALIHAN"
+	},
+	{
+		"code": "34.01.01.2004",
+		"type": "desa",
+		"name": "GLAGAH"
+	},
+	{
+		"code": "34.01.01.2005",
+		"type": "desa",
+		"name": "KALIDENGEN"
+	},
+	{
+		"code": "34.01.01.2006",
+		"type": "desa",
+		"name": "PLUMBON"
+	},
+	{
+		"code": "34.01.01.2007",
+		"type": "desa",
+		"name": "KEDUNDANG"
+	},
+	{
+		"code": "34.01.01.2008",
+		"type": "desa",
+		"name": "DEMEN"
+	},
+	{
+		"code": "34.01.01.2009",
+		"type": "desa",
+		"name": "KULUR"
+	},
+	{
+		"code": "34.01.01.2010",
+		"type": "desa",
+		"name": "KALIGINTUNG"
+	},
+	{
+		"code": "34.01.01.2011",
+		"type": "desa",
+		"name": "TEMON WETAN"
+	},
+	{
+		"code": "34.01.01.2012",
+		"type": "desa",
+		"name": "TEMON KULON"
+	},
+	{
+		"code": "34.01.01.2013",
+		"type": "desa",
+		"name": "KEBONREJO"
+	},
+	{
+		"code": "34.01.01.2014",
+		"type": "desa",
+		"name": "JANTEN"
+	},
+	{
+		"code": "34.01.01.2015",
+		"type": "desa",
+		"name": "KARANGWULUH"
+	},
+	{
+		"code": "34.01.02",
+		"type": "kecamatan",
+		"name": "WATES"
+	},
+	{
+		"code": "34.01.02.1008",
+		"type": "kelurahan",
+		"name": "WATES"
+	},
+	{
+		"code": "34.01.02.2001",
+		"type": "desa",
+		"name": "KARANGWUNI"
+	},
+	{
+		"code": "34.01.02.2002",
+		"type": "desa",
+		"name": "SOGAN"
+	},
+	{
+		"code": "34.01.02.2003",
+		"type": "desa",
+		"name": "KULWARU"
+	},
+	{
+		"code": "34.01.02.2004",
+		"type": "desa",
+		"name": "NGESTIHARJO"
+	},
+	{
+		"code": "34.01.02.2005",
+		"type": "desa",
+		"name": "BENDUNGAN"
+	},
+	{
+		"code": "34.01.02.2006",
+		"type": "desa",
+		"name": "TRIHARJO"
+	},
+	{
+		"code": "34.01.02.2007",
+		"type": "desa",
+		"name": "GIRIPENI"
+	},
+	{
+		"code": "34.01.03",
+		"type": "kecamatan",
+		"name": "PANJATAN"
+	},
+	{
+		"code": "34.01.03.2001",
+		"type": "desa",
+		"name": "GARONGAN"
+	},
+	{
+		"code": "34.01.03.2002",
+		"type": "desa",
+		"name": "PLERET"
+	},
+	{
+		"code": "34.01.03.2003",
+		"type": "desa",
+		"name": "BUGEL"
+	},
+	{
+		"code": "34.01.03.2004",
+		"type": "desa",
+		"name": "KANOMAN"
+	},
+	{
+		"code": "34.01.03.2005",
+		"type": "desa",
+		"name": "DEPOK"
+	},
+	{
+		"code": "34.01.03.2006",
+		"type": "desa",
+		"name": "BOJONG"
+	},
+	{
+		"code": "34.01.03.2007",
+		"type": "desa",
+		"name": "TAYUBAN"
+	},
+	{
+		"code": "34.01.03.2008",
+		"type": "desa",
+		"name": "GOTAKAN"
+	},
+	{
+		"code": "34.01.03.2009",
+		"type": "desa",
+		"name": "PANJATAN"
+	},
+	{
+		"code": "34.01.03.2010",
+		"type": "desa",
+		"name": "CERME"
+	},
+	{
+		"code": "34.01.03.2011",
+		"type": "desa",
+		"name": "KREMBANGAN"
+	},
+	{
+		"code": "34.01.04",
+		"type": "kecamatan",
+		"name": "GALUR"
+	},
+	{
+		"code": "34.01.04.2001",
+		"type": "desa",
+		"name": "BANARAN"
+	},
+	{
+		"code": "34.01.04.2002",
+		"type": "desa",
+		"name": "KRANGGAN"
+	},
+	{
+		"code": "34.01.04.2003",
+		"type": "desa",
+		"name": "NOMPOREJO"
+	},
+	{
+		"code": "34.01.04.2004",
+		"type": "desa",
+		"name": "KARANGSEWU"
+	},
+	{
+		"code": "34.01.04.2005",
+		"type": "desa",
+		"name": "TIRTORAHAYU"
+	},
+	{
+		"code": "34.01.04.2006",
+		"type": "desa",
+		"name": "PANDOWAN"
+	},
+	{
+		"code": "34.01.04.2007",
+		"type": "desa",
+		"name": "BROSOT"
+	},
+	{
+		"code": "34.01.05",
+		"type": "kecamatan",
+		"name": "LENDAH"
+	},
+	{
+		"code": "34.01.05.2001",
+		"type": "desa",
+		"name": "WAHYUHARJO"
+	},
+	{
+		"code": "34.01.05.2002",
+		"type": "desa",
+		"name": "BUMIREJO"
+	},
+	{
+		"code": "34.01.05.2003",
+		"type": "desa",
+		"name": "JATIREJO"
+	},
+	{
+		"code": "34.01.05.2004",
+		"type": "desa",
+		"name": "SIDOREJO"
+	},
+	{
+		"code": "34.01.05.2005",
+		"type": "desa",
+		"name": "GULUREJO"
+	},
+	{
+		"code": "34.01.05.2006",
+		"type": "desa",
+		"name": "NGENTAKREJO"
+	},
+	{
+		"code": "34.01.06",
+		"type": "kecamatan",
+		"name": "SENTOLO"
+	},
+	{
+		"code": "34.01.06.2001",
+		"type": "desa",
+		"name": "DEMANGREJO"
+	},
+	{
+		"code": "34.01.06.2002",
+		"type": "desa",
+		"name": "SRIKAYANGAN"
+	},
+	{
+		"code": "34.01.06.2003",
+		"type": "desa",
+		"name": "TUKSONO"
+	},
+	{
+		"code": "34.01.06.2004",
+		"type": "desa",
+		"name": "SALAMREJO"
+	},
+	{
+		"code": "34.01.06.2005",
+		"type": "desa",
+		"name": "SUKORENO"
+	},
+	{
+		"code": "34.01.06.2006",
+		"type": "desa",
+		"name": "KALIAGUNG"
+	},
+	{
+		"code": "34.01.06.2007",
+		"type": "desa",
+		"name": "SENTOLO"
+	},
+	{
+		"code": "34.01.06.2008",
+		"type": "desa",
+		"name": "BANGUNCIPTO"
+	},
+	{
+		"code": "34.01.07",
+		"type": "kecamatan",
+		"name": "PENGASIH"
+	},
+	{
+		"code": "34.01.07.2001",
+		"type": "desa",
+		"name": "TAWANGSARI"
+	},
+	{
+		"code": "34.01.07.2002",
+		"type": "desa",
+		"name": "KARANGSARI"
+	},
+	{
+		"code": "34.01.07.2003",
+		"type": "desa",
+		"name": "KEDUNGSARI"
+	},
+	{
+		"code": "34.01.07.2004",
+		"type": "desa",
+		"name": "MARGOSARI"
+	},
+	{
+		"code": "34.01.07.2005",
+		"type": "desa",
+		"name": "PENGASIH"
+	},
+	{
+		"code": "34.01.07.2006",
+		"type": "desa",
+		"name": "SENDANGSARI"
+	},
+	{
+		"code": "34.01.07.2007",
+		"type": "desa",
+		"name": "SIDOMULYO"
+	},
+	{
+		"code": "34.01.08",
+		"type": "kecamatan",
+		"name": "KOKAP"
+	},
+	{
+		"code": "34.01.08.2001",
+		"type": "desa",
+		"name": "HARGOMULYO"
+	},
+	{
+		"code": "34.01.08.2002",
+		"type": "desa",
+		"name": "HARGOREJO"
+	},
+	{
+		"code": "34.01.08.2003",
+		"type": "desa",
+		"name": "HARGOWILIS"
+	},
+	{
+		"code": "34.01.08.2004",
+		"type": "desa",
+		"name": "KALIREJO"
+	},
+	{
+		"code": "34.01.08.2005",
+		"type": "desa",
+		"name": "HARGOTIRTO"
+	},
+	{
+		"code": "34.01.09",
+		"type": "kecamatan",
+		"name": "GIRIMULYO"
+	},
+	{
+		"code": "34.01.09.2001",
+		"type": "desa",
+		"name": "JATIMULYO"
+	},
+	{
+		"code": "34.01.09.2002",
+		"type": "desa",
+		"name": "GIRIPURWO"
+	},
+	{
+		"code": "34.01.09.2003",
+		"type": "desa",
+		"name": "PENDOWOREJO"
+	},
+	{
+		"code": "34.01.09.2004",
+		"type": "desa",
+		"name": "PURWOSARI"
+	},
+	{
+		"code": "34.01.10",
+		"type": "kecamatan",
+		"name": "NANGGULAN"
+	},
+	{
+		"code": "34.01.10.2001",
+		"type": "desa",
+		"name": "BANYUROTO"
+	},
+	{
+		"code": "34.01.10.2002",
+		"type": "desa",
+		"name": "DONOMULYO"
+	},
+	{
+		"code": "34.01.10.2003",
+		"type": "desa",
+		"name": "WIJIMULYO"
+	},
+	{
+		"code": "34.01.10.2004",
+		"type": "desa",
+		"name": "TANJUNGHARJO"
+	},
+	{
+		"code": "34.01.10.2005",
+		"type": "desa",
+		"name": "JATISARONO"
+	},
+	{
+		"code": "34.01.10.2006",
+		"type": "desa",
+		"name": "KEMBANG"
+	},
+	{
+		"code": "34.01.11",
+		"type": "kecamatan",
+		"name": "SAMIGALUH"
+	},
+	{
+		"code": "34.01.11.2001",
+		"type": "desa",
+		"name": "KEBONHARJO"
+	},
+	{
+		"code": "34.01.11.2002",
+		"type": "desa",
+		"name": "BANJARSARI"
+	},
+	{
+		"code": "34.01.11.2003",
+		"type": "desa",
+		"name": "PURWOHARJO"
+	},
+	{
+		"code": "34.01.11.2004",
+		"type": "desa",
+		"name": "SIDOHARJO"
+	},
+	{
+		"code": "34.01.11.2005",
+		"type": "desa",
+		"name": "GERBOSARI"
+	},
+	{
+		"code": "34.01.11.2006",
+		"type": "desa",
+		"name": "NGARGOSARI"
+	},
+	{
+		"code": "34.01.11.2007",
+		"type": "desa",
+		"name": "PAGERHARJO"
+	},
+	{
+		"code": "34.01.12",
+		"type": "kecamatan",
+		"name": "KALIBAWANG"
+	},
+	{
+		"code": "34.01.12.2001",
+		"type": "desa",
+		"name": "BANJARARUM"
+	},
+	{
+		"code": "34.01.12.2002",
+		"type": "desa",
+		"name": "BANJARASRI"
+	},
+	{
+		"code": "34.01.12.2003",
+		"type": "desa",
+		"name": "BANJARHARJO"
+	},
+	{
+		"code": "34.01.12.2004",
+		"type": "desa",
+		"name": "BANJAROYO"
+	},
+	{
+		"code": "34.02",
+		"type": "kabupaten",
+		"name": "KAB. BANTUL"
+	},
+	{
+		"code": "34.02.01",
+		"type": "kecamatan",
+		"name": "SRANDAKAN"
+	},
+	{
+		"code": "34.02.01.2001",
+		"type": "desa",
+		"name": "PONCOSARI"
+	},
+	{
+		"code": "34.02.01.2002",
+		"type": "desa",
+		"name": "TRIMURTI"
+	},
+	{
+		"code": "34.02.02",
+		"type": "kecamatan",
+		"name": "SANDEN"
+	},
+	{
+		"code": "34.02.02.2001",
+		"type": "desa",
+		"name": "GADINGSARI"
+	},
+	{
+		"code": "34.02.02.2002",
+		"type": "desa",
+		"name": "GADINGHARJO"
+	},
+	{
+		"code": "34.02.02.2003",
+		"type": "desa",
+		"name": "SRIGADING"
+	},
+	{
+		"code": "34.02.02.2004",
+		"type": "desa",
+		"name": "MURTIGADING"
+	},
+	{
+		"code": "34.02.03",
+		"type": "kecamatan",
+		"name": "KRETEK"
+	},
+	{
+		"code": "34.02.03.2001",
+		"type": "desa",
+		"name": "TIRTOMULYO"
+	},
+	{
+		"code": "34.02.03.2002",
+		"type": "desa",
+		"name": "PARANGTRITIS"
+	},
+	{
+		"code": "34.02.03.2003",
+		"type": "desa",
+		"name": "DONOTIRTO"
+	},
+	{
+		"code": "34.02.03.2004",
+		"type": "desa",
+		"name": "TIRTOSARI"
+	},
+	{
+		"code": "34.02.03.2005",
+		"type": "desa",
+		"name": "TIRTOHARGO"
+	},
+	{
+		"code": "34.02.04",
+		"type": "kecamatan",
+		"name": "PUNDONG"
+	},
+	{
+		"code": "34.02.04.2001",
+		"type": "desa",
+		"name": "SELOHARJO"
+	},
+	{
+		"code": "34.02.04.2002",
+		"type": "desa",
+		"name": "PANJANGREJO"
+	},
+	{
+		"code": "34.02.04.2003",
+		"type": "desa",
+		"name": "SRIHARDONO"
+	},
+	{
+		"code": "34.02.05",
+		"type": "kecamatan",
+		"name": "BAMBANGLIPURO"
+	},
+	{
+		"code": "34.02.05.2001",
+		"type": "desa",
+		"name": "SIDOMULYO"
+	},
+	{
+		"code": "34.02.05.2002",
+		"type": "desa",
+		"name": "MULYODADI"
+	},
+	{
+		"code": "34.02.05.2003",
+		"type": "desa",
+		"name": "SUMBERMULYO"
+	},
+	{
+		"code": "34.02.06",
+		"type": "kecamatan",
+		"name": "PANDAK"
+	},
+	{
+		"code": "34.02.06.2001",
+		"type": "desa",
+		"name": "CATUHARJO"
+	},
+	{
+		"code": "34.02.06.2002",
+		"type": "desa",
+		"name": "TRIHARJO"
+	},
+	{
+		"code": "34.02.06.2003",
+		"type": "desa",
+		"name": "GILANGHARJO"
+	},
+	{
+		"code": "34.02.06.2004",
+		"type": "desa",
+		"name": "WIJIREJO"
+	},
+	{
+		"code": "34.02.07",
+		"type": "kecamatan",
+		"name": "PAJANGAN"
+	},
+	{
+		"code": "34.02.07.2001",
+		"type": "desa",
+		"name": "TRIWIDADI"
+	},
+	{
+		"code": "34.02.07.2002",
+		"type": "desa",
+		"name": "SENDANGSARI"
+	},
+	{
+		"code": "34.02.07.2003",
+		"type": "desa",
+		"name": "GUWOSARI"
+	},
+	{
+		"code": "34.02.08",
+		"type": "kecamatan",
+		"name": "BANTUL"
+	},
+	{
+		"code": "34.02.08.2001",
+		"type": "desa",
+		"name": "PALBAPANG"
+	},
+	{
+		"code": "34.02.08.2002",
+		"type": "desa",
+		"name": "RINGINHARJO"
+	},
+	{
+		"code": "34.02.08.2003",
+		"type": "desa",
+		"name": "BANTUL"
+	},
+	{
+		"code": "34.02.08.2004",
+		"type": "desa",
+		"name": "TRIRENGGO"
+	},
+	{
+		"code": "34.02.08.2005",
+		"type": "desa",
+		"name": "SABDODADI"
+	},
+	{
+		"code": "34.02.09",
+		"type": "kecamatan",
+		"name": "JETIS"
+	},
+	{
+		"code": "34.02.09.2001",
+		"type": "desa",
+		"name": "PATALAN"
+	},
+	{
+		"code": "34.02.09.2002",
+		"type": "desa",
+		"name": "CANDEN"
+	},
+	{
+		"code": "34.02.09.2003",
+		"type": "desa",
+		"name": "SUMBERAGUNG"
+	},
+	{
+		"code": "34.02.09.2004",
+		"type": "desa",
+		"name": "TRIMULYO"
+	},
+	{
+		"code": "34.02.10",
+		"type": "kecamatan",
+		"name": "IMOGIRI"
+	},
+	{
+		"code": "34.02.10.2001",
+		"type": "desa",
+		"name": "SELOPAMIORO"
+	},
+	{
+		"code": "34.02.10.2002",
+		"type": "desa",
+		"name": "SRIHARJO"
+	},
+	{
+		"code": "34.02.10.2003",
+		"type": "desa",
+		"name": "WUKIRSARI"
+	},
+	{
+		"code": "34.02.10.2004",
+		"type": "desa",
+		"name": "KEBONAGUNG"
+	},
+	{
+		"code": "34.02.10.2005",
+		"type": "desa",
+		"name": "KARANGTENGAH"
+	},
+	{
+		"code": "34.02.10.2006",
+		"type": "desa",
+		"name": "GIRIREJO"
+	},
+	{
+		"code": "34.02.10.2007",
+		"type": "desa",
+		"name": "KARANGTALUN"
+	},
+	{
+		"code": "34.02.10.2008",
+		"type": "desa",
+		"name": "IMOGIRI"
+	},
+	{
+		"code": "34.02.11",
+		"type": "kecamatan",
+		"name": "DLINGO"
+	},
+	{
+		"code": "34.02.11.2001",
+		"type": "desa",
+		"name": "MANGUNAN"
+	},
+	{
+		"code": "34.02.11.2002",
+		"type": "desa",
+		"name": "MUNTUK"
+	},
+	{
+		"code": "34.02.11.2003",
+		"type": "desa",
+		"name": "DLINGO"
+	},
+	{
+		"code": "34.02.11.2004",
+		"type": "desa",
+		"name": "TEMUWUH"
+	},
+	{
+		"code": "34.02.11.2005",
+		"type": "desa",
+		"name": "TERONG"
+	},
+	{
+		"code": "34.02.11.2006",
+		"type": "desa",
+		"name": "JATIMULYO"
+	},
+	{
+		"code": "34.02.12",
+		"type": "kecamatan",
+		"name": "BANGUNTAPAN"
+	},
+	{
+		"code": "34.02.12.2001",
+		"type": "desa",
+		"name": "BATURETNO"
+	},
+	{
+		"code": "34.02.12.2002",
+		"type": "desa",
+		"name": "BANGUNTAPAN"
+	},
+	{
+		"code": "34.02.12.2003",
+		"type": "desa",
+		"name": "JAGALAN"
+	},
+	{
+		"code": "34.02.12.2004",
+		"type": "desa",
+		"name": "SINGOSAREN"
+	},
+	{
+		"code": "34.02.12.2005",
+		"type": "desa",
+		"name": "JAMBIDAN"
+	},
+	{
+		"code": "34.02.12.2006",
+		"type": "desa",
+		"name": "POTORONO"
+	},
+	{
+		"code": "34.02.12.2007",
+		"type": "desa",
+		"name": "TAMANAN"
+	},
+	{
+		"code": "34.02.12.2008",
+		"type": "desa",
+		"name": "WIROKERTEN"
+	},
+	{
+		"code": "34.02.13",
+		"type": "kecamatan",
+		"name": "PLERET"
+	},
+	{
+		"code": "34.02.13.2001",
+		"type": "desa",
+		"name": "WONOKROMO"
+	},
+	{
+		"code": "34.02.13.2002",
+		"type": "desa",
+		"name": "PLERET"
+	},
+	{
+		"code": "34.02.13.2003",
+		"type": "desa",
+		"name": "SEGOROYOSO"
+	},
+	{
+		"code": "34.02.13.2004",
+		"type": "desa",
+		"name": "BAWURAN"
+	},
+	{
+		"code": "34.02.13.2005",
+		"type": "desa",
+		"name": "WONOLELO"
+	},
+	{
+		"code": "34.02.14",
+		"type": "kecamatan",
+		"name": "PIYUNGAN"
+	},
+	{
+		"code": "34.02.14.2001",
+		"type": "desa",
+		"name": "SITIMULYO"
+	},
+	{
+		"code": "34.02.14.2002",
+		"type": "desa",
+		"name": "SRIMULYO"
+	},
+	{
+		"code": "34.02.14.2003",
+		"type": "desa",
+		"name": "SRIMARTANI"
+	},
+	{
+		"code": "34.02.15",
+		"type": "kecamatan",
+		"name": "SEWON"
+	},
+	{
+		"code": "34.02.15.2001",
+		"type": "desa",
+		"name": "PENDOWOHARJO"
+	},
+	{
+		"code": "34.02.15.2002",
+		"type": "desa",
+		"name": "TIMBULHARJO"
+	},
+	{
+		"code": "34.02.15.2003",
+		"type": "desa",
+		"name": "BANGUNHARJO"
+	},
+	{
+		"code": "34.02.15.2004",
+		"type": "desa",
+		"name": "PANGGUNGHARJO"
+	},
+	{
+		"code": "34.02.16",
+		"type": "kecamatan",
+		"name": "KASIHAN"
+	},
+	{
+		"code": "34.02.16.2001",
+		"type": "desa",
+		"name": "BANGUJIWO"
+	},
+	{
+		"code": "34.02.16.2002",
+		"type": "desa",
+		"name": "TIRTONIRMOLO"
+	},
+	{
+		"code": "34.02.16.2003",
+		"type": "desa",
+		"name": "TAMANTIRTO"
+	},
+	{
+		"code": "34.02.16.2004",
+		"type": "desa",
+		"name": "NGESTIHARJO"
+	},
+	{
+		"code": "34.02.17",
+		"type": "kecamatan",
+		"name": "SEDAYU"
+	},
+	{
+		"code": "34.02.17.2001",
+		"type": "desa",
+		"name": "ARGODADI"
+	},
+	{
+		"code": "34.02.17.2002",
+		"type": "desa",
+		"name": "ARGOREJO"
+	},
+	{
+		"code": "34.02.17.2003",
+		"type": "desa",
+		"name": "ARGOSARI"
+	},
+	{
+		"code": "34.02.17.2004",
+		"type": "desa",
+		"name": "ARGOMULYO"
+	},
+	{
+		"code": "34.03",
+		"type": "kabupaten",
+		"name": "KAB. GUNUNGKIDUL"
+	},
+	{
+		"code": "34.03.01",
+		"type": "kecamatan",
+		"name": "WONOSARI"
+	},
+	{
+		"code": "34.03.01.2001",
+		"type": "desa",
+		"name": "WONOSARI"
+	},
+	{
+		"code": "34.03.01.2002",
+		"type": "desa",
+		"name": "KEPEK"
+	},
+	{
+		"code": "34.03.01.2003",
+		"type": "desa",
+		"name": "PIYAMAN"
+	},
+	{
+		"code": "34.03.01.2004",
+		"type": "desa",
+		"name": "GARI"
+	},
+	{
+		"code": "34.03.01.2005",
+		"type": "desa",
+		"name": "KARANGTENGAH"
+	},
+	{
+		"code": "34.03.01.2006",
+		"type": "desa",
+		"name": "SELANG"
+	},
+	{
+		"code": "34.03.01.2007",
+		"type": "desa",
+		"name": "BALEHARJO"
+	},
+	{
+		"code": "34.03.01.2008",
+		"type": "desa",
+		"name": "SIRAMAN"
+	},
+	{
+		"code": "34.03.01.2009",
+		"type": "desa",
+		"name": "PULUTAN"
+	},
+	{
+		"code": "34.03.01.2010",
+		"type": "desa",
+		"name": "WARENG"
+	},
+	{
+		"code": "34.03.01.2011",
+		"type": "desa",
+		"name": "DUWET"
+	},
+	{
+		"code": "34.03.01.2012",
+		"type": "desa",
+		"name": "MULO"
+	},
+	{
+		"code": "34.03.01.2013",
+		"type": "desa",
+		"name": "WUNUNG"
+	},
+	{
+		"code": "34.03.01.2014",
+		"type": "desa",
+		"name": "KARANGREJEK"
+	},
+	{
+		"code": "34.03.02",
+		"type": "kecamatan",
+		"name": "NGLIPAR"
+	},
+	{
+		"code": "34.03.02.2001",
+		"type": "desa",
+		"name": "NATAH"
+	},
+	{
+		"code": "34.03.02.2002",
+		"type": "desa",
+		"name": "PILANGREJO"
+	},
+	{
+		"code": "34.03.02.2003",
+		"type": "desa",
+		"name": "KEDUNGPOH"
+	},
+	{
+		"code": "34.03.02.2004",
+		"type": "desa",
+		"name": "PENGKOL"
+	},
+	{
+		"code": "34.03.02.2005",
+		"type": "desa",
+		"name": "KEDUNGKERIS"
+	},
+	{
+		"code": "34.03.02.2006",
+		"type": "desa",
+		"name": "NGLIPAR"
+	},
+	{
+		"code": "34.03.02.2007",
+		"type": "desa",
+		"name": "KATONGAN"
+	},
+	{
+		"code": "34.03.03",
+		"type": "kecamatan",
+		"name": "PLAYEN"
+	},
+	{
+		"code": "34.03.03.2001",
+		"type": "desa",
+		"name": "BANYUSOCO"
+	},
+	{
+		"code": "34.03.03.2002",
+		"type": "desa",
+		"name": "PLEMBUTAN"
+	},
+	{
+		"code": "34.03.03.2003",
+		"type": "desa",
+		"name": "BLEBERAN"
+	},
+	{
+		"code": "34.03.03.2004",
+		"type": "desa",
+		"name": "GETAS"
+	},
+	{
+		"code": "34.03.03.2005",
+		"type": "desa",
+		"name": "DENGOK"
+	},
+	{
+		"code": "34.03.03.2006",
+		"type": "desa",
+		"name": "NGUNUT"
+	},
+	{
+		"code": "34.03.03.2007",
+		"type": "desa",
+		"name": "PLAYEN"
+	},
+	{
+		"code": "34.03.03.2008",
+		"type": "desa",
+		"name": "NGAWU"
+	},
+	{
+		"code": "34.03.03.2009",
+		"type": "desa",
+		"name": "BANDUNG"
+	},
+	{
+		"code": "34.03.03.2010",
+		"type": "desa",
+		"name": "LOGANDENG"
+	},
+	{
+		"code": "34.03.03.2011",
+		"type": "desa",
+		"name": "GADING"
+	},
+	{
+		"code": "34.03.03.2012",
+		"type": "desa",
+		"name": "BANARAN"
+	},
+	{
+		"code": "34.03.03.2013",
+		"type": "desa",
+		"name": "NGLERI"
+	},
+	{
+		"code": "34.03.04",
+		"type": "kecamatan",
+		"name": "PATUK"
+	},
+	{
+		"code": "34.03.04.2001",
+		"type": "desa",
+		"name": "BUNDER"
+	},
+	{
+		"code": "34.03.04.2002",
+		"type": "desa",
+		"name": "BEJI"
+	},
+	{
+		"code": "34.03.04.2003",
+		"type": "desa",
+		"name": "PENGKOK"
+	},
+	{
+		"code": "34.03.04.2004",
+		"type": "desa",
+		"name": "SEMOYO"
+	},
+	{
+		"code": "34.03.04.2005",
+		"type": "desa",
+		"name": "SALAM"
+	},
+	{
+		"code": "34.03.04.2006",
+		"type": "desa",
+		"name": "PATUK"
+	},
+	{
+		"code": "34.03.04.2007",
+		"type": "desa",
+		"name": "NGORO-ORO"
+	},
+	{
+		"code": "34.03.04.2008",
+		"type": "desa",
+		"name": "NGLANGGERAN"
+	},
+	{
+		"code": "34.03.04.2009",
+		"type": "desa",
+		"name": "PUTAT"
+	},
+	{
+		"code": "34.03.04.2010",
+		"type": "desa",
+		"name": "NGLEGI"
+	},
+	{
+		"code": "34.03.04.2011",
+		"type": "desa",
+		"name": "TERBAH"
+	},
+	{
+		"code": "34.03.05",
+		"type": "kecamatan",
+		"name": "PALIYAN"
+	},
+	{
+		"code": "34.03.05.2001",
+		"type": "desa",
+		"name": "SODO"
+	},
+	{
+		"code": "34.03.05.2002",
+		"type": "desa",
+		"name": "PAMPANG"
+	},
+	{
+		"code": "34.03.05.2003",
+		"type": "desa",
+		"name": "GROGOL"
+	},
+	{
+		"code": "34.03.05.2004",
+		"type": "desa",
+		"name": "KARANGDUWET"
+	},
+	{
+		"code": "34.03.05.2005",
+		"type": "desa",
+		"name": "KARANGASEM"
+	},
+	{
+		"code": "34.03.05.2006",
+		"type": "desa",
+		"name": "MULUSAN"
+	},
+	{
+		"code": "34.03.05.2007",
+		"type": "desa",
+		"name": "GIRING"
+	},
+	{
+		"code": "34.03.06",
+		"type": "kecamatan",
+		"name": "PANGGANG"
+	},
+	{
+		"code": "34.03.06.2001",
+		"type": "desa",
+		"name": "GIRIKARTO"
+	},
+	{
+		"code": "34.03.06.2002",
+		"type": "desa",
+		"name": "GIRISEKAR"
+	},
+	{
+		"code": "34.03.06.2003",
+		"type": "desa",
+		"name": "GIRIMULYO"
+	},
+	{
+		"code": "34.03.06.2004",
+		"type": "desa",
+		"name": "GIRIWUNGU"
+	},
+	{
+		"code": "34.03.06.2005",
+		"type": "desa",
+		"name": "GIRIHARJO"
+	},
+	{
+		"code": "34.03.06.2006",
+		"type": "desa",
+		"name": "GIRISUKO"
+	},
+	{
+		"code": "34.03.07",
+		"type": "kecamatan",
+		"name": "TEPUS"
+	},
+	{
+		"code": "34.03.07.2001",
+		"type": "desa",
+		"name": "GIRIPANGGUNG"
+	},
+	{
+		"code": "34.03.07.2002",
+		"type": "desa",
+		"name": "SUMBERWUNGU"
+	},
+	{
+		"code": "34.03.07.2003",
+		"type": "desa",
+		"name": "SIDOHARJO"
+	},
+	{
+		"code": "34.03.07.2004",
+		"type": "desa",
+		"name": "TEPUS"
+	},
+	{
+		"code": "34.03.07.2005",
+		"type": "desa",
+		"name": "PURWODADI"
+	},
+	{
+		"code": "34.03.08",
+		"type": "kecamatan",
+		"name": "SEMANU"
+	},
+	{
+		"code": "34.03.08.2001",
+		"type": "desa",
+		"name": "NGEPOSARI"
+	},
+	{
+		"code": "34.03.08.2002",
+		"type": "desa",
+		"name": "SEMANU"
+	},
+	{
+		"code": "34.03.08.2003",
+		"type": "desa",
+		"name": "PACAREJO"
+	},
+	{
+		"code": "34.03.08.2004",
+		"type": "desa",
+		"name": "CANDIREJO"
+	},
+	{
+		"code": "34.03.08.2005",
+		"type": "desa",
+		"name": "DADAPAYU"
+	},
+	{
+		"code": "34.03.09",
+		"type": "kecamatan",
+		"name": "KARANGMOJO"
+	},
+	{
+		"code": "34.03.09.2001",
+		"type": "desa",
+		"name": "BEJIHARJO"
+	},
+	{
+		"code": "34.03.09.2002",
+		"type": "desa",
+		"name": "WILADEG"
+	},
+	{
+		"code": "34.03.09.2003",
+		"type": "desa",
+		"name": "BENDUNGAN"
+	},
+	{
+		"code": "34.03.09.2004",
+		"type": "desa",
+		"name": "KELOR"
+	},
+	{
+		"code": "34.03.09.2005",
+		"type": "desa",
+		"name": "NGIPAK"
+	},
+	{
+		"code": "34.03.09.2006",
+		"type": "desa",
+		"name": "KARANGMOJO"
+	},
+	{
+		"code": "34.03.09.2007",
+		"type": "desa",
+		"name": "GEDANGREJO"
+	},
+	{
+		"code": "34.03.09.2008",
+		"type": "desa",
+		"name": "NGAWIS"
+	},
+	{
+		"code": "34.03.09.2009",
+		"type": "desa",
+		"name": "JATIAYU"
+	},
+	{
+		"code": "34.03.10",
+		"type": "kecamatan",
+		"name": "PONJONG"
+	},
+	{
+		"code": "34.03.10.2001",
+		"type": "desa",
+		"name": "UMBULREJO"
+	},
+	{
+		"code": "34.03.10.2002",
+		"type": "desa",
+		"name": "SAWAHAN"
+	},
+	{
+		"code": "34.03.10.2003",
+		"type": "desa",
+		"name": "TAMBAKROMO"
+	},
+	{
+		"code": "34.03.10.2004",
+		"type": "desa",
+		"name": "KENTENG"
+	},
+	{
+		"code": "34.03.10.2005",
+		"type": "desa",
+		"name": "SUMBERGIRI"
+	},
+	{
+		"code": "34.03.10.2006",
+		"type": "desa",
+		"name": "GENJAHAN"
+	},
+	{
+		"code": "34.03.10.2007",
+		"type": "desa",
+		"name": "PONJONG"
+	},
+	{
+		"code": "34.03.10.2008",
+		"type": "desa",
+		"name": "KARANGASEM"
+	},
+	{
+		"code": "34.03.10.2009",
+		"type": "desa",
+		"name": "BEDOYO"
+	},
+	{
+		"code": "34.03.10.2010",
+		"type": "desa",
+		"name": "SIDOREJO"
+	},
+	{
+		"code": "34.03.10.2011",
+		"type": "desa",
+		"name": "GOMBANG"
+	},
+	{
+		"code": "34.03.11",
+		"type": "kecamatan",
+		"name": "RONGKOP"
+	},
+	{
+		"code": "34.03.11.2001",
+		"type": "desa",
+		"name": "BOHOL"
+	},
+	{
+		"code": "34.03.11.2002",
+		"type": "desa",
+		"name": "PRINGOMBO"
+	},
+	{
+		"code": "34.03.11.2003",
+		"type": "desa",
+		"name": "BOTODAYAAN"
+	},
+	{
+		"code": "34.03.11.2004",
+		"type": "desa",
+		"name": "PETIR"
+	},
+	{
+		"code": "34.03.11.2005",
+		"type": "desa",
+		"name": "PUCANGANOM"
+	},
+	{
+		"code": "34.03.11.2006",
+		"type": "desa",
+		"name": "SEMUGIH"
+	},
+	{
+		"code": "34.03.11.2007",
+		"type": "desa",
+		"name": "MELIKAN"
+	},
+	{
+		"code": "34.03.11.2008",
+		"type": "desa",
+		"name": "KARANGWUNI"
+	},
+	{
+		"code": "34.03.12",
+		"type": "kecamatan",
+		"name": "SEMIN"
+	},
+	{
+		"code": "34.03.12.2001",
+		"type": "desa",
+		"name": "KALITEKUK"
+	},
+	{
+		"code": "34.03.12.2002",
+		"type": "desa",
+		"name": "KEMEJING"
+	},
+	{
+		"code": "34.03.12.2003",
+		"type": "desa",
+		"name": "BULUREJO"
+	},
+	{
+		"code": "34.03.12.2004",
+		"type": "desa",
+		"name": "SUMBEREJO"
+	},
+	{
+		"code": "34.03.12.2005",
+		"type": "desa",
+		"name": "BENDUNG"
+	},
+	{
+		"code": "34.03.12.2006",
+		"type": "desa",
+		"name": "CANDIREJO"
+	},
+	{
+		"code": "34.03.12.2007",
+		"type": "desa",
+		"name": "REJOSARI"
+	},
+	{
+		"code": "34.03.12.2008",
+		"type": "desa",
+		"name": "KARANGSARI"
+	},
+	{
+		"code": "34.03.12.2009",
+		"type": "desa",
+		"name": "PUNDUNGSARI"
+	},
+	{
+		"code": "34.03.12.2010",
+		"type": "desa",
+		"name": "SEMIN"
+	},
+	{
+		"code": "34.03.13",
+		"type": "kecamatan",
+		"name": "NGAWEN"
+	},
+	{
+		"code": "34.03.13.2001",
+		"type": "desa",
+		"name": "TANCEP"
+	},
+	{
+		"code": "34.03.13.2002",
+		"type": "desa",
+		"name": "SAMBIREJO"
+	},
+	{
+		"code": "34.03.13.2003",
+		"type": "desa",
+		"name": "JURANGJERO"
+	},
+	{
+		"code": "34.03.13.2004",
+		"type": "desa",
+		"name": "KAMPUNG"
+	},
+	{
+		"code": "34.03.13.2005",
+		"type": "desa",
+		"name": "BEJI"
+	},
+	{
+		"code": "34.03.13.2006",
+		"type": "desa",
+		"name": "WATUSIGAR"
+	},
+	{
+		"code": "34.03.14",
+		"type": "kecamatan",
+		"name": "GEDANGSARI"
+	},
+	{
+		"code": "34.03.14.2001",
+		"type": "desa",
+		"name": "HARGOMULYO"
+	},
+	{
+		"code": "34.03.14.2002",
+		"type": "desa",
+		"name": "MERTELU"
+	},
+	{
+		"code": "34.03.14.2003",
+		"type": "desa",
+		"name": "WATUGAJAH"
+	},
+	{
+		"code": "34.03.14.2004",
+		"type": "desa",
+		"name": "SAMPANG"
+	},
+	{
+		"code": "34.03.14.2005",
+		"type": "desa",
+		"name": "SERUT"
+	},
+	{
+		"code": "34.03.14.2006",
+		"type": "desa",
+		"name": "NGALANG"
+	},
+	{
+		"code": "34.03.14.2007",
+		"type": "desa",
+		"name": "TEGALREJO"
+	},
+	{
+		"code": "34.03.15",
+		"type": "kecamatan",
+		"name": "SAPTOSARI"
+	},
+	{
+		"code": "34.03.15.2001",
+		"type": "desa",
+		"name": "KRAMBILSAWIT"
+	},
+	{
+		"code": "34.03.15.2002",
+		"type": "desa",
+		"name": "NGLORO"
+	},
+	{
+		"code": "34.03.15.2003",
+		"type": "desa",
+		"name": "JETIS"
+	},
+	{
+		"code": "34.03.15.2004",
+		"type": "desa",
+		"name": "KEPEK"
+	},
+	{
+		"code": "34.03.15.2005",
+		"type": "desa",
+		"name": "KANIGORO"
+	},
+	{
+		"code": "34.03.15.2006",
+		"type": "desa",
+		"name": "MONGGOL"
+	},
+	{
+		"code": "34.03.15.2007",
+		"type": "desa",
+		"name": "PLANJAN"
+	},
+	{
+		"code": "34.03.16",
+		"type": "kecamatan",
+		"name": "GIRISUBO"
+	},
+	{
+		"code": "34.03.16.2001",
+		"type": "desa",
+		"name": "BALONG"
+	},
+	{
+		"code": "34.03.16.2002",
+		"type": "desa",
+		"name": "JEPITU"
+	},
+	{
+		"code": "34.03.16.2003",
+		"type": "desa",
+		"name": "KARANGAWEN"
+	},
+	{
+		"code": "34.03.16.2004",
+		"type": "desa",
+		"name": "NGLINDUR"
+	},
+	{
+		"code": "34.03.16.2005",
+		"type": "desa",
+		"name": "JERUKWUDEL"
+	},
+	{
+		"code": "34.03.16.2006",
+		"type": "desa",
+		"name": "TILENG"
+	},
+	{
+		"code": "34.03.16.2007",
+		"type": "desa",
+		"name": "PUCUNG"
+	},
+	{
+		"code": "34.03.16.2008",
+		"type": "desa",
+		"name": "SONGBANYU"
+	},
+	{
+		"code": "34.03.17",
+		"type": "kecamatan",
+		"name": "TANJUNGSARI"
+	},
+	{
+		"code": "34.03.17.2001",
+		"type": "desa",
+		"name": "HARGOSARI"
+	},
+	{
+		"code": "34.03.17.2002",
+		"type": "desa",
+		"name": "KEMIRI"
+	},
+	{
+		"code": "34.03.17.2003",
+		"type": "desa",
+		"name": "KEMADANG"
+	},
+	{
+		"code": "34.03.17.2004",
+		"type": "desa",
+		"name": "BANJAREJO"
+	},
+	{
+		"code": "34.03.17.2005",
+		"type": "desa",
+		"name": "NGESTIREJO"
+	},
+	{
+		"code": "34.03.18",
+		"type": "kecamatan",
+		"name": "PURWOSARI"
+	},
+	{
+		"code": "34.03.18.2001",
+		"type": "desa",
+		"name": "GIRIPURWO"
+	},
+	{
+		"code": "34.03.18.2002",
+		"type": "desa",
+		"name": "GIRICAHYO"
+	},
+	{
+		"code": "34.03.18.2003",
+		"type": "desa",
+		"name": "GIRIJATI"
+	},
+	{
+		"code": "34.03.18.2004",
+		"type": "desa",
+		"name": "GIRIASIH"
+	},
+	{
+		"code": "34.03.18.2005",
+		"type": "desa",
+		"name": "GIRITIRTO"
+	},
+	{
+		"code": "34.04",
+		"type": "kabupaten",
+		"name": "KAB. SLEMAN"
+	},
+	{
+		"code": "34.04.01",
+		"type": "kecamatan",
+		"name": "GAMPING"
+	},
+	{
+		"code": "34.04.01.2001",
+		"type": "desa",
+		"name": "BALECATUR"
+	},
+	{
+		"code": "34.04.01.2002",
+		"type": "desa",
+		"name": "AMBARKETAWANG"
+	},
+	{
+		"code": "34.04.01.2003",
+		"type": "desa",
+		"name": "BANYURADEN"
+	},
+	{
+		"code": "34.04.01.2004",
+		"type": "desa",
+		"name": "NOGOTIRTO"
+	},
+	{
+		"code": "34.04.01.2005",
+		"type": "desa",
+		"name": "TRIHANGGO"
+	},
+	{
+		"code": "34.04.02",
+		"type": "kecamatan",
+		"name": "GODEAN"
+	},
+	{
+		"code": "34.04.02.2001",
+		"type": "desa",
+		"name": "SIDOREJO"
+	},
+	{
+		"code": "34.04.02.2002",
+		"type": "desa",
+		"name": "SIDOLUHUR"
+	},
+	{
+		"code": "34.04.02.2003",
+		"type": "desa",
+		"name": "SIDOMULYO"
+	},
+	{
+		"code": "34.04.02.2004",
+		"type": "desa",
+		"name": "SIDOAGUNG"
+	},
+	{
+		"code": "34.04.02.2005",
+		"type": "desa",
+		"name": "SIDOKARTO"
+	},
+	{
+		"code": "34.04.02.2006",
+		"type": "desa",
+		"name": "SIDOARUM"
+	},
+	{
+		"code": "34.04.02.2007",
+		"type": "desa",
+		"name": "SIDOMOYO"
+	},
+	{
+		"code": "34.04.03",
+		"type": "kecamatan",
+		"name": "MOYUDAN"
+	},
+	{
+		"code": "34.04.03.2001",
+		"type": "desa",
+		"name": "SUMBERAHAYU"
+	},
+	{
+		"code": "34.04.03.2002",
+		"type": "desa",
+		"name": "SUMBERSARI"
+	},
+	{
+		"code": "34.04.03.2003",
+		"type": "desa",
+		"name": "SUMBERAGUNG"
+	},
+	{
+		"code": "34.04.03.2004",
+		"type": "desa",
+		"name": "SUMBERARUM"
+	},
+	{
+		"code": "34.04.04",
+		"type": "kecamatan",
+		"name": "MINGGIR"
+	},
+	{
+		"code": "34.04.04.2001",
+		"type": "desa",
+		"name": "SENDANGARUM"
+	},
+	{
+		"code": "34.04.04.2002",
+		"type": "desa",
+		"name": "SENDANGMULYO"
+	},
+	{
+		"code": "34.04.04.2003",
+		"type": "desa",
+		"name": "SENDANGAGUNG"
+	},
+	{
+		"code": "34.04.04.2004",
+		"type": "desa",
+		"name": "SENDANGSARI"
+	},
+	{
+		"code": "34.04.04.2005",
+		"type": "desa",
+		"name": "SENDANGREJO"
+	},
+	{
+		"code": "34.04.05",
+		"type": "kecamatan",
+		"name": "SEYEGAN"
+	},
+	{
+		"code": "34.04.05.2001",
+		"type": "desa",
+		"name": "MARGOLUWIH"
+	},
+	{
+		"code": "34.04.05.2002",
+		"type": "desa",
+		"name": "MARGODADI"
+	},
+	{
+		"code": "34.04.05.2003",
+		"type": "desa",
+		"name": "MARGOMULYO"
+	},
+	{
+		"code": "34.04.05.2004",
+		"type": "desa",
+		"name": "MARGOKATON"
+	},
+	{
+		"code": "34.04.05.2005",
+		"type": "desa",
+		"name": "MARGOAGUNG"
+	},
+	{
+		"code": "34.04.06",
+		"type": "kecamatan",
+		"name": "MLATI"
+	},
+	{
+		"code": "34.04.06.2001",
+		"type": "desa",
+		"name": "SINDUADI"
+	},
+	{
+		"code": "34.04.06.2002",
+		"type": "desa",
+		"name": "SENDANGADI"
+	},
+	{
+		"code": "34.04.06.2003",
+		"type": "desa",
+		"name": "TLOGOADI"
+	},
+	{
+		"code": "34.04.06.2004",
+		"type": "desa",
+		"name": "TIRTOADI"
+	},
+	{
+		"code": "34.04.06.2005",
+		"type": "desa",
+		"name": "SUMBERADI"
+	},
+	{
+		"code": "34.04.07",
+		"type": "kecamatan",
+		"name": "DEPOK"
+	},
+	{
+		"code": "34.04.07.2001",
+		"type": "desa",
+		"name": "CATURTUNGGAL"
+	},
+	{
+		"code": "34.04.07.2002",
+		"type": "desa",
+		"name": "MAGUWOHARJO"
+	},
+	{
+		"code": "34.04.07.2003",
+		"type": "desa",
+		"name": "CONDONGCATUR"
+	},
+	{
+		"code": "34.04.08",
+		"type": "kecamatan",
+		"name": "BERBAH"
+	},
+	{
+		"code": "34.04.08.2001",
+		"type": "desa",
+		"name": "SENDANGTIRTO"
+	},
+	{
+		"code": "34.04.08.2002",
+		"type": "desa",
+		"name": "TEGALTIRTO"
+	},
+	{
+		"code": "34.04.08.2003",
+		"type": "desa",
+		"name": "KALITIRTO"
+	},
+	{
+		"code": "34.04.08.2004",
+		"type": "desa",
+		"name": "JOGOTIRTO"
+	},
+	{
+		"code": "34.04.09",
+		"type": "kecamatan",
+		"name": "PRAMBANAN"
+	},
+	{
+		"code": "34.04.09.2001",
+		"type": "desa",
+		"name": "SUMBERHARJO"
+	},
+	{
+		"code": "34.04.09.2002",
+		"type": "desa",
+		"name": "WUKIRHARJO"
+	},
+	{
+		"code": "34.04.09.2003",
+		"type": "desa",
+		"name": "GAYAMHARJO"
+	},
+	{
+		"code": "34.04.09.2004",
+		"type": "desa",
+		"name": "SAMBIREJO"
+	},
+	{
+		"code": "34.04.09.2005",
+		"type": "desa",
+		"name": "MADUREJO"
+	},
+	{
+		"code": "34.04.09.2006",
+		"type": "desa",
+		"name": "BOKOHARJO"
+	},
+	{
+		"code": "34.04.10",
+		"type": "kecamatan",
+		"name": "KALASAN"
+	},
+	{
+		"code": "34.04.10.2001",
+		"type": "desa",
+		"name": "PURWOMARTANI"
+	},
+	{
+		"code": "34.04.10.2002",
+		"type": "desa",
+		"name": "TIRTOMARTANI"
+	},
+	{
+		"code": "34.04.10.2003",
+		"type": "desa",
+		"name": "TAMANMARTANI"
+	},
+	{
+		"code": "34.04.10.2004",
+		"type": "desa",
+		"name": "SELOMARTANI"
+	},
+	{
+		"code": "34.04.11",
+		"type": "kecamatan",
+		"name": "NGEMPLAK"
+	},
+	{
+		"code": "34.04.11.2001",
+		"type": "desa",
+		"name": "SINDUMARTANI"
+	},
+	{
+		"code": "34.04.11.2002",
+		"type": "desa",
+		"name": "BIMOMARTANI"
+	},
+	{
+		"code": "34.04.11.2003",
+		"type": "desa",
+		"name": "WIDODOMARTANI"
+	},
+	{
+		"code": "34.04.11.2004",
+		"type": "desa",
+		"name": "WEDOMARTANI"
+	},
+	{
+		"code": "34.04.11.2005",
+		"type": "desa",
+		"name": "UMBULMARTANI"
+	},
+	{
+		"code": "34.04.12",
+		"type": "kecamatan",
+		"name": "NGAGLIK"
+	},
+	{
+		"code": "34.04.12.2001",
+		"type": "desa",
+		"name": "SARIHARJO"
+	},
+	{
+		"code": "34.04.12.2002",
+		"type": "desa",
+		"name": "MINOMARTANI"
+	},
+	{
+		"code": "34.04.12.2003",
+		"type": "desa",
+		"name": "SINDUHARJO"
+	},
+	{
+		"code": "34.04.12.2004",
+		"type": "desa",
+		"name": "SUKOHARJO"
+	},
+	{
+		"code": "34.04.12.2005",
+		"type": "desa",
+		"name": "SARDONOHARJO"
+	},
+	{
+		"code": "34.04.12.2006",
+		"type": "desa",
+		"name": "DONOHARJO"
+	},
+	{
+		"code": "34.04.13",
+		"type": "kecamatan",
+		"name": "SLEMAN"
+	},
+	{
+		"code": "34.04.13.2001",
+		"type": "desa",
+		"name": "CATURHARJO"
+	},
+	{
+		"code": "34.04.13.2002",
+		"type": "desa",
+		"name": "TRIHARJO"
+	},
+	{
+		"code": "34.04.13.2003",
+		"type": "desa",
+		"name": "TRIDADI"
+	},
+	{
+		"code": "34.04.13.2004",
+		"type": "desa",
+		"name": "PANDOWOHARJO"
+	},
+	{
+		"code": "34.04.13.2005",
+		"type": "desa",
+		"name": "TRIMULYO"
+	},
+	{
+		"code": "34.04.14",
+		"type": "kecamatan",
+		"name": "TEMPEL"
+	},
+	{
+		"code": "34.04.14.2001",
+		"type": "desa",
+		"name": "BANYUREJO"
+	},
+	{
+		"code": "34.04.14.2002",
+		"type": "desa",
+		"name": "TAMBAKREJO"
+	},
+	{
+		"code": "34.04.14.2003",
+		"type": "desa",
+		"name": "SUMBERREJO"
+	},
+	{
+		"code": "34.04.14.2004",
+		"type": "desa",
+		"name": "PONDOKREJO"
+	},
+	{
+		"code": "34.04.14.2005",
+		"type": "desa",
+		"name": "MOROREJO"
+	},
+	{
+		"code": "34.04.14.2006",
+		"type": "desa",
+		"name": "MARGOREJO"
+	},
+	{
+		"code": "34.04.14.2007",
+		"type": "desa",
+		"name": "LUMBUNGREJO"
+	},
+	{
+		"code": "34.04.14.2008",
+		"type": "desa",
+		"name": "MERDIKOREJO"
+	},
+	{
+		"code": "34.04.15",
+		"type": "kecamatan",
+		"name": "TURI"
+	},
+	{
+		"code": "34.04.15.2001",
+		"type": "desa",
+		"name": "BANGUNKERTO"
+	},
+	{
+		"code": "34.04.15.2002",
+		"type": "desa",
+		"name": "DONOKERTO"
+	},
+	{
+		"code": "34.04.15.2003",
+		"type": "desa",
+		"name": "GIRIKERTO"
+	},
+	{
+		"code": "34.04.15.2004",
+		"type": "desa",
+		"name": "WONOKERTO"
+	},
+	{
+		"code": "34.04.16",
+		"type": "kecamatan",
+		"name": "PAKEM"
+	},
+	{
+		"code": "34.04.16.2001",
+		"type": "desa",
+		"name": "PURWOBINANGUN"
+	},
+	{
+		"code": "34.04.16.2002",
+		"type": "desa",
+		"name": "CANDIBINANGUN"
+	},
+	{
+		"code": "34.04.16.2003",
+		"type": "desa",
+		"name": "HARJOBINANGUN"
+	},
+	{
+		"code": "34.04.16.2004",
+		"type": "desa",
+		"name": "PAKEMBINANGUN"
+	},
+	{
+		"code": "34.04.16.2005",
+		"type": "desa",
+		"name": "HARGOBINANGUN"
+	},
+	{
+		"code": "34.04.17",
+		"type": "kecamatan",
+		"name": "CANGKRINGAN"
+	},
+	{
+		"code": "34.04.17.2001",
+		"type": "desa",
+		"name": "ARGOMULYO"
+	},
+	{
+		"code": "34.04.17.2002",
+		"type": "desa",
+		"name": "WUKIRSARI"
+	},
+	{
+		"code": "34.04.17.2003",
+		"type": "desa",
+		"name": "GLAGAHARJO"
+	},
+	{
+		"code": "34.04.17.2004",
+		"type": "desa",
+		"name": "KEPUHARJO"
+	},
+	{
+		"code": "34.04.17.2005",
+		"type": "desa",
+		"name": "UMBULHARJO"
+	},
+	{
+		"code": "34.71",
+		"type": "kabupaten",
+		"name": "KOTA YOGYAKARTA"
+	},
+	{
+		"code": "34.71.01",
+		"type": "kecamatan",
+		"name": "TEGALREJO"
+	},
+	{
+		"code": "34.71.01.1001",
+		"type": "kelurahan",
+		"name": "KRICAK"
+	},
+	{
+		"code": "34.71.01.1002",
+		"type": "kelurahan",
+		"name": "KARANGWARU"
+	},
+	{
+		"code": "34.71.01.1003",
+		"type": "kelurahan",
+		"name": "TEGALREJO"
+	},
+	{
+		"code": "34.71.01.1004",
+		"type": "kelurahan",
+		"name": "BENER"
+	},
+	{
+		"code": "34.71.02",
+		"type": "kecamatan",
+		"name": "JETIS"
+	},
+	{
+		"code": "34.71.02.1001",
+		"type": "kelurahan",
+		"name": "BUMIJO"
+	},
+	{
+		"code": "34.71.02.1002",
+		"type": "kelurahan",
+		"name": "COKRODININGRATAN"
+	},
+	{
+		"code": "34.71.02.1003",
+		"type": "kelurahan",
+		"name": "GOWONGAN"
+	},
+	{
+		"code": "34.71.03",
+		"type": "kecamatan",
+		"name": "GONDOKUSUMAN"
+	},
+	{
+		"code": "34.71.03.1001",
+		"type": "kelurahan",
+		"name": "DEMANGAN"
+	},
+	{
+		"code": "34.71.03.1002",
+		"type": "kelurahan",
+		"name": "KOTABARU"
+	},
+	{
+		"code": "34.71.03.1003",
+		"type": "kelurahan",
+		"name": "KLITREN"
+	},
+	{
+		"code": "34.71.03.1004",
+		"type": "kelurahan",
+		"name": "BACIRO"
+	},
+	{
+		"code": "34.71.03.1005",
+		"type": "kelurahan",
+		"name": "TERBAN"
+	},
+	{
+		"code": "34.71.04",
+		"type": "kecamatan",
+		"name": "DANUREJAN"
+	},
+	{
+		"code": "34.71.04.1001",
+		"type": "kelurahan",
+		"name": "SURYATMAJAN"
+	},
+	{
+		"code": "34.71.04.1002",
+		"type": "kelurahan",
+		"name": "TEGALPANGGUNG"
+	},
+	{
+		"code": "34.71.04.1003",
+		"type": "kelurahan",
+		"name": "BAUSASRAN"
+	},
+	{
+		"code": "34.71.05",
+		"type": "kecamatan",
+		"name": "GEDONGTENGEN"
+	},
+	{
+		"code": "34.71.05.1001",
+		"type": "kelurahan",
+		"name": "SOSROMENDURAN"
+	},
+	{
+		"code": "34.71.05.1002",
+		"type": "kelurahan",
+		"name": "PRINGGOKUSUMAN"
+	},
+	{
+		"code": "34.71.06",
+		"type": "kecamatan",
+		"name": "NGAMPILAN"
+	},
+	{
+		"code": "34.71.06.1001",
+		"type": "kelurahan",
+		"name": "NGAMPILAN"
+	},
+	{
+		"code": "34.71.06.1002",
+		"type": "kelurahan",
+		"name": "NOTOPRAJAN"
+	},
+	{
+		"code": "34.71.07",
+		"type": "kecamatan",
+		"name": "WIROBRAJAN"
+	},
+	{
+		"code": "34.71.07.1001",
+		"type": "kelurahan",
+		"name": "PAKUNCEN"
+	},
+	{
+		"code": "34.71.07.1002",
+		"type": "kelurahan",
+		"name": "WIROBRAJAN"
+	},
+	{
+		"code": "34.71.07.1003",
+		"type": "kelurahan",
+		"name": "PATANGPULUHAN"
+	},
+	{
+		"code": "34.71.08",
+		"type": "kecamatan",
+		"name": "MANTRIJERON"
+	},
+	{
+		"code": "34.71.08.1001",
+		"type": "kelurahan",
+		"name": "GEDONGKIWO"
+	},
+	{
+		"code": "34.71.08.1002",
+		"type": "kelurahan",
+		"name": "SURYODININGRATAN"
+	},
+	{
+		"code": "34.71.08.1003",
+		"type": "kelurahan",
+		"name": "MANTRIJERON"
+	},
+	{
+		"code": "34.71.09",
+		"type": "kecamatan",
+		"name": "KRATON"
+	},
+	{
+		"code": "34.71.09.1001",
+		"type": "kelurahan",
+		"name": "PATEHAN"
+	},
+	{
+		"code": "34.71.09.1002",
+		"type": "kelurahan",
+		"name": "PANEMBAHAN"
+	},
+	{
+		"code": "34.71.09.1003",
+		"type": "kelurahan",
+		"name": "KADIPATEN"
+	},
+	{
+		"code": "34.71.10",
+		"type": "kecamatan",
+		"name": "GONDOMANAN"
+	},
+	{
+		"code": "34.71.10.1001",
+		"type": "kelurahan",
+		"name": "NGUPASAN"
+	},
+	{
+		"code": "34.71.10.1002",
+		"type": "kelurahan",
+		"name": "PRAWIRODIRJAN"
+	},
+	{
+		"code": "34.71.11",
+		"type": "kecamatan",
+		"name": "PAKUALAMAN"
+	},
+	{
+		"code": "34.71.11.1001",
+		"type": "kelurahan",
+		"name": "PURWOKINANTI"
+	},
+	{
+		"code": "34.71.11.1002",
+		"type": "kelurahan",
+		"name": "GUNUNGKETUR"
+	},
+	{
+		"code": "34.71.12",
+		"type": "kecamatan",
+		"name": "MERGANGSAN"
+	},
+	{
+		"code": "34.71.12.1001",
+		"type": "kelurahan",
+		"name": "KEPARAKAN"
+	},
+	{
+		"code": "34.71.12.1002",
+		"type": "kelurahan",
+		"name": "WIROGUNAN"
+	},
+	{
+		"code": "34.71.12.1003",
+		"type": "kelurahan",
+		"name": "BRONTOKUSUMAN"
+	},
+	{
+		"code": "34.71.13",
+		"type": "kecamatan",
+		"name": "UMBULHARJO"
+	},
+	{
+		"code": "34.71.13.1001",
+		"type": "kelurahan",
+		"name": "SEMAKI"
+	},
+	{
+		"code": "34.71.13.1002",
+		"type": "kelurahan",
+		"name": "MUJA MUJU"
+	},
+	{
+		"code": "34.71.13.1003",
+		"type": "kelurahan",
+		"name": "TAHUNAN"
+	},
+	{
+		"code": "34.71.13.1004",
+		"type": "kelurahan",
+		"name": "WARUNGBOTO"
+	},
+	{
+		"code": "34.71.13.1005",
+		"type": "kelurahan",
+		"name": "PANDEYAN"
+	},
+	{
+		"code": "34.71.13.1006",
+		"type": "kelurahan",
+		"name": "SOROSUTAN"
+	},
+	{
+		"code": "34.71.13.1007",
+		"type": "kelurahan",
+		"name": "GIWANGAN"
+	},
+	{
+		"code": "34.71.14",
+		"type": "kecamatan",
+		"name": "KOTAGEDE"
+	},
+	{
+		"code": "34.71.14.1001",
+		"type": "kelurahan",
+		"name": "REJOWINANGUN"
+	},
+	{
+		"code": "34.71.14.1002",
+		"type": "kelurahan",
+		"name": "PRENGGAN"
+	},
+	{
+		"code": "34.71.14.1003",
+		"type": "kelurahan",
+		"name": "PURBAYAN"
+	}
+]
