@@ -1,3 +1,12 @@
 language: node_js
 node_js:
   - '8'
+before_install:
+  - npm install --global npm
+  - npm --version
+before_script:
+  - npm install coveralls
+  - npm run download
+  - npm run convert
+after_success:
+  - './node_modules/.bin/nyc report --reporter=text-lcov | ./node_modules/.bin/coveralls'
