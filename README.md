@@ -85,4 +85,4 @@ Returns a `boolean` value if key has exists.
 
 ## License
 
-MIT © [Guntur Poetra](http://iguntur.starmediateknik.com)
+MIT © [Guntur Poetra](https://github.com/iguntur)
