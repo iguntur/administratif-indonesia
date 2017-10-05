@@ -16,6 +16,31 @@
 		"test": "xo && nyc ava",
 		"test:report": "nyc report --reporter=html ava"
 	},
+	"keywords": [
+		"Kemendagri",
+		"BPS",
+		"Indonesia",
+		"administratif",
+		"wilayah",
+		"provinsi",
+		"kabupaten",
+		"kecamatan",
+		"kelurahan",
+		"desa",
+		"statistik",
+		"statistics",
+		"analysis",
+		"analisis",
+		"visit",
+		"cdn",
+		"database",
+		"frontend",
+		"backend",
+		"web",
+		"ui/ux",
+		"api",
+		"RESTful"
+	],
 	"files": [
 		"storages",
 		"index.js"
@@ -32,10 +57,5 @@
 		"path-ensure": "^1.1.0",
 		"pdf2json": "^1.1.7",
 		"xo": "^0.18.2"
-	},
-	"ava": {
-		"source": [
-			"!**/node_modules/**"
-		]
 	}
 }
