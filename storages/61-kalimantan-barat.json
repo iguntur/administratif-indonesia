@@ -1802,7 +1802,7 @@
 	{
 		"code": "61.03.06.2003",
 		"type": "desa",
-		"name": "MUARA ILAI"
+		"name": "SUNGAI ILAI"
 	},
 	{
 		"code": "61.03.06.2004",
@@ -2112,7 +2112,7 @@
 	{
 		"code": "61.03.11.2009",
 		"type": "desa",
-		"name": "BEGINJAI"
+		"name": "BEGINJAN"
 	},
 	{
 		"code": "61.03.11.2010",
@@ -2362,7 +2362,7 @@
 	{
 		"code": "61.03.21.2002",
 		"type": "desa",
-		"name": "SEMANGIT"
+		"name": "SEMANGET"
 	},
 	{
 		"code": "61.03.21.2003",
@@ -2372,7 +2372,7 @@
 	{
 		"code": "61.03.21.2004",
 		"type": "desa",
-		"name": "PALA ASANG"
+		"name": "PALA PASANG"
 	},
 	{
 		"code": "61.03.21.2005",
@@ -3930,6 +3930,26 @@
 		"name": "LALANG BARU"
 	},
 	{
+		"code": "61.05.01.2026",
+		"type": "desa",
+		"name": "TEBING RAYA"
+	},
+	{
+		"code": "61.05.01.2027",
+		"type": "desa",
+		"name": "MAIL JAMPONG"
+	},
+	{
+		"code": "61.05.01.2028",
+		"type": "desa",
+		"name": "JERORA SATU"
+	},
+	{
+		"code": "61.05.01.2029",
+		"type": "desa",
+		"name": "KEBIAU BARU"
+	},
+	{
 		"code": "61.05.02",
 		"type": "kecamatan",
 		"name": "TEMPUNAK"
@@ -4250,6 +4270,16 @@
 		"name": "NANGA LAYUNG"
 	},
 	{
+		"code": "61.05.03.2037",
+		"type": "desa",
+		"name": "LIMAU BAKTI"
+	},
+	{
+		"code": "61.05.03.2038",
+		"type": "desa",
+		"name": "TANJUNG MAWANG"
+	},
+	{
 		"code": "61.05.03.2040",
 		"type": "desa",
 		"name": "SUNGAI JAUNG"
@@ -4343,6 +4373,41 @@
 		"code": "61.05.04.2018",
 		"type": "desa",
 		"name": "KENUAK"
+	},
+	{
+		"code": "61.05.04.2019",
+		"type": "desa",
+		"name": "JENTAWANG HILIR"
+	},
+	{
+		"code": "61.05.04.2020",
+		"type": "desa",
+		"name": "BATU NYADI"
+	},
+	{
+		"code": "61.05.04.2021",
+		"type": "desa",
+		"name": "RATU DAMAI"
+	},
+	{
+		"code": "61.05.04.2022",
+		"type": "desa",
+		"name": "LEPUNG PANTAK"
+	},
+	{
+		"code": "61.05.04.2023",
+		"type": "desa",
+		"name": "PAMPANG DUA"
+	},
+	{
+		"code": "61.05.04.2024",
+		"type": "desa",
+		"name": "MUNGGUK KELAPA"
+	},
+	{
+		"code": "61.05.04.2025",
+		"type": "desa",
+		"name": "MAUNG"
 	},
 	{
 		"code": "61.05.05",
@@ -4490,6 +4555,11 @@
 		"name": "KUBU BERANGAN"
 	},
 	{
+		"code": "61.05.05.2029",
+		"type": "desa",
+		"name": "SEMAREH"
+	},
+	{
 		"code": "61.05.06",
 		"type": "kecamatan",
 		"name": "KETUNGAU HULU"
@@ -4628,6 +4698,16 @@
 		"code": "61.05.06.2027",
 		"type": "desa",
 		"name": "UJUNG KEMPAS"
+	},
+	{
+		"code": "61.05.06.2028",
+		"type": "desa",
+		"name": "NERACI JAYA"
+	},
+	{
+		"code": "61.05.06.2029",
+		"type": "desa",
+		"name": "SEJAWAK"
 	},
 	{
 		"code": "61.05.07",
@@ -4770,9 +4850,24 @@
 		"name": "TERUSAN"
 	},
 	{
+		"code": "61.05.07.2028",
+		"type": "desa",
+		"name": "TANJUNG"
+	},
+	{
+		"code": "61.05.07.2029",
+		"type": "desa",
+		"name": "BATU LANDUNG"
+	},
+	{
 		"code": "61.05.07.2030",
 		"type": "desa",
 		"name": "SAMAK"
+	},
+	{
+		"code": "61.05.07.2031",
+		"type": "desa",
+		"name": "MANYAM"
 	},
 	{
 		"code": "61.05.08",
@@ -4910,6 +5005,26 @@
 		"name": "NATAI LESUNG"
 	},
 	{
+		"code": "61.05.08.2027",
+		"type": "desa",
+		"name": "BEGENDANG MAL"
+	},
+	{
+		"code": "61.05.08.2028",
+		"type": "desa",
+		"name": "SUNGAI RANAP"
+	},
+	{
+		"code": "61.05.08.2029",
+		"type": "desa",
+		"name": "LENGKONG BINDU"
+	},
+	{
+		"code": "61.05.08.2030",
+		"type": "desa",
+		"name": "NANGA LIDAU"
+	},
+	{
 		"code": "61.05.08.2031",
 		"type": "desa",
 		"name": "MENGKIRAI"
@@ -4935,6 +5050,16 @@
 		"name": "TANJUNG PUTAR"
 	},
 	{
+		"code": "61.05.08.2036",
+		"type": "desa",
+		"name": "SUNGAI EMANG"
+	},
+	{
+		"code": "61.05.08.2037",
+		"type": "desa",
+		"name": "SUNGAI MERAYA"
+	},
+	{
 		"code": "61.05.08.2038",
 		"type": "desa",
 		"name": "KEMPAS RAYA"
@@ -4943,6 +5068,26 @@
 		"code": "61.05.08.2039",
 		"type": "desa",
 		"name": "IPOH EMANG"
+	},
+	{
+		"code": "61.05.08.2040",
+		"type": "desa",
+		"name": "SUNGAI PENGGA"
+	},
+	{
+		"code": "61.05.08.2041",
+		"type": "desa",
+		"name": "BATU NETAK"
+	},
+	{
+		"code": "61.05.08.2042",
+		"type": "desa",
+		"name": "NERAN BAYA"
+	},
+	{
+		"code": "61.05.08.2043",
+		"type": "desa",
+		"name": "MONBAI BEGUNUNK"
 	},
 	{
 		"code": "61.05.09",
@@ -5100,6 +5245,11 @@
 		"name": "NANGA TAMPANG"
 	},
 	{
+		"code": "61.05.09.2031",
+		"type": "desa",
+		"name": "KEBARAU"
+	},
+	{
 		"code": "61.05.14",
 		"type": "kecamatan",
 		"name": "SERAWAI"
@@ -5225,6 +5375,76 @@
 		"name": "NANGA TEKUNGAI"
 	},
 	{
+		"code": "61.05.14.2025",
+		"type": "desa",
+		"name": "TALIAN SAHABUNG"
+	},
+	{
+		"code": "61.05.14.2026",
+		"type": "desa",
+		"name": "BATU KETEBUNG"
+	},
+	{
+		"code": "61.05.14.2027",
+		"type": "desa",
+		"name": "MUARA KOTA"
+	},
+	{
+		"code": "61.05.14.2028",
+		"type": "desa",
+		"name": "MEKAR SARI"
+	},
+	{
+		"code": "61.05.14.2029",
+		"type": "desa",
+		"name": "TANJUNG BARU"
+	},
+	{
+		"code": "61.05.14.2030",
+		"type": "desa",
+		"name": "NUSA TUJUH"
+	},
+	{
+		"code": "61.05.14.2031",
+		"type": "desa",
+		"name": "NANGA RUHAN"
+	},
+	{
+		"code": "61.05.14.2032",
+		"type": "desa",
+		"name": "MEROBOI"
+	},
+	{
+		"code": "61.05.14.2033",
+		"type": "desa",
+		"name": "PANEKASAN"
+	},
+	{
+		"code": "61.05.14.2034",
+		"type": "desa",
+		"name": "TAMAKUNG"
+	},
+	{
+		"code": "61.05.14.2035",
+		"type": "desa",
+		"name": "LIMBUR BERNAUNG LESTARI"
+	},
+	{
+		"code": "61.05.14.2036",
+		"type": "desa",
+		"name": "MENSULUNG BIO"
+	},
+	{
+		"code": "61.05.14.2037",
+		"type": "desa",
+		"name": "SABHANG LANDAN"
+	},
+	{
+		"code": "61.05.14.2038",
+		"type": "desa",
+		"name": "NANGA TANGOI"
+	},
+	{
 		"code": "61.05.15",
 		"type": "kecamatan",
 		"name": "AMBALAU"
@@ -5295,6 +5515,36 @@
 		"name": "NANGA SAKAI"
 	},
 	{
+		"code": "61.05.15.2014",
+		"type": "desa",
+		"name": "NANGA MENTOMOI"
+	},
+	{
+		"code": "61.05.15.2015",
+		"type": "desa",
+		"name": "SUNGAI TAMBUN"
+	},
+	{
+		"code": "61.05.15.2016",
+		"type": "desa",
+		"name": "RIAM SABON"
+	},
+	{
+		"code": "61.05.15.2017",
+		"type": "desa",
+		"name": "NANGA UKAI"
+	},
+	{
+		"code": "61.05.15.2018",
+		"type": "desa",
+		"name": "MENSUANG"
+	},
+	{
+		"code": "61.05.15.2019",
+		"type": "desa",
+		"name": "DAHTAH BUNGAI"
+	},
+	{
 		"code": "61.05.15.2020",
 		"type": "desa",
 		"name": "LUNJAN TINGANG"
@@ -5345,9 +5595,24 @@
 		"name": "KOLANGAN JUOI"
 	},
 	{
+		"code": "61.05.15.2030",
+		"type": "desa",
+		"name": "NANGA RADE"
+	},
+	{
 		"code": "61.05.15.2031",
 		"type": "desa",
 		"name": "JENGKARANG"
+	},
+	{
+		"code": "61.05.15.2032",
+		"type": "desa",
+		"name": "DEME"
+	},
+	{
+		"code": "61.05.15.2033",
+		"type": "desa",
+		"name": "NANGA PAHANGAN"
 	},
 	{
 		"code": "61.05.19",
@@ -7292,7 +7557,7 @@
 	{
 		"code": "61.07.03.2018",
 		"type": "desa",
-		"name": "TEBUAH MORONG"
+		"name": "TEBUAH MARONG"
 	},
 	{
 		"code": "61.07.03.2019",
@@ -7462,7 +7727,7 @@
 	{
 		"code": "61.07.08.2006",
 		"type": "desa",
-		"name": "NEK GINEP"
+		"name": "NEK GINAP"
 	},
 	{
 		"code": "61.07.08.2007",
@@ -7627,7 +7892,7 @@
 	{
 		"code": "61.07.10.2006",
 		"type": "desa",
-		"name": "KELAYU"
+		"name": "KELAYUK"
 	},
 	{
 		"code": "61.07.10.2007",
@@ -7667,7 +7932,7 @@
 	{
 		"code": "61.07.11.2005",
 		"type": "desa",
-		"name": "SABANDUT"
+		"name": "SEBANDUT"
 	},
 	{
 		"code": "61.07.11.2006",
@@ -7692,7 +7957,7 @@
 	{
 		"code": "61.07.12.2005",
 		"type": "desa",
-		"name": "LHIBUIE"
+		"name": "HLI BUIE"
 	},
 	{
 		"code": "61.07.12.2006",
@@ -10192,7 +10457,7 @@
 	{
 		"code": "61.11.02.2005",
 		"type": "desa",
-		"name": "PENJALAAN HILIR"
+		"name": "PENJALAAN"
 	},
 	{
 		"code": "61.11.02.2006",
@@ -10618,6 +10883,11 @@
 		"code": "61.12.04.2010",
 		"type": "desa",
 		"name": "TELUK BAYUR"
+	},
+	{
+		"code": "61.12.04.2011",
+		"type": "desa",
+		"name": "RADAK BARU"
 	},
 	{
 		"code": "61.12.05",

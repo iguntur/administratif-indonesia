@@ -6,7 +6,5 @@ before_install:
   - npm --version
 before_script:
   - npm install coveralls
-  - npm run download
-  - npm run convert
 after_success:
   - './node_modules/.bin/nyc report --reporter=text-lcov | ./node_modules/.bin/coveralls'

@@ -342,7 +342,7 @@
 	{
 		"code": "53.01.10.2008",
 		"type": "desa",
-		"name": "NAUNU"
+		"name": "NAUNNU"
 	},
 	{
 		"code": "53.01.10.2009",
@@ -3855,9 +3855,9 @@
 		"name": "NAITIMU"
 	},
 	{
-		"code": "53.04.04.2008",
+		"code": "53.04.04.2009",
 		"type": "desa",
-		"name": "DUBESI"
+		"name": "LAWALUTOLUS"
 	},
 	{
 		"code": "53.04.05",
@@ -3927,7 +3927,7 @@
 	{
 		"code": "53.04.13.2001",
 		"type": "desa",
-		"name": "RAIMANUS"
+		"name": "MANDEU RAIMANUS"
 	},
 	{
 		"code": "53.04.13.2002",
@@ -3987,12 +3987,12 @@
 	{
 		"code": "53.04.17.2003",
 		"type": "desa",
-		"name": "LAKANMAU"
+		"name": "LAKAN MAU"
 	},
 	{
 		"code": "53.04.17.2004",
 		"type": "desa",
-		"name": "DUALASI RAIULUN"
+		"name": "DUALASI RAI ULUN"
 	},
 	{
 		"code": "53.04.17.2005",
@@ -4112,7 +4112,7 @@
 	{
 		"code": "53.04.23.2001",
 		"type": "desa",
-		"name": "LAWALUTOLUS"
+		"name": "DUBESI"
 	},
 	{
 		"code": "53.04.23.2002",
@@ -10195,14 +10195,54 @@
 		"name": "CAREP"
 	},
 	{
+		"code": "53.10.12.1012",
+		"type": "kelurahan",
+		"name": "BANGKA NEKANG"
+	},
+	{
+		"code": "53.10.12.1013",
+		"type": "kelurahan",
+		"name": "SATAR TACIK"
+	},
+	{
+		"code": "53.10.12.1014",
+		"type": "kelurahan",
+		"name": "POCO MAL"
+	},
+	{
+		"code": "53.10.12.1015",
+		"type": "kelurahan",
+		"name": "COMPANG CAREP"
+	},
+	{
+		"code": "53.10.12.1016",
+		"type": "kelurahan",
+		"name": "LACI CAREP"
+	},
+	{
+		"code": "53.10.12.1017",
+		"type": "kelurahan",
+		"name": "TADONG"
+	},
+	{
+		"code": "53.10.12.1018",
+		"type": "kelurahan",
+		"name": "ROWANG"
+	},
+	{
+		"code": "53.10.12.1019",
+		"type": "kelurahan",
+		"name": "BANGKA LEDA"
+	},
+	{
+		"code": "53.10.12.1020",
+		"type": "kelurahan",
+		"name": "COMPANG TUKE"
+	},
+	{
 		"code": "53.10.13",
 		"type": "kecamatan",
 		"name": "SATAR MESE BARAT"
-	},
-	{
-		"code": "53.10.13.2001",
-		"type": "desa",
-		"name": "TODO"
 	},
 	{
 		"code": "53.10.13.2002",
@@ -10210,49 +10250,9 @@
 		"name": "HILIHINTIR"
 	},
 	{
-		"code": "53.10.13.2003",
-		"type": "desa",
-		"name": "GULUNG"
-	},
-	{
-		"code": "53.10.13.2004",
-		"type": "desa",
-		"name": "RENDA"
-	},
-	{
 		"code": "53.10.13.2005",
 		"type": "desa",
 		"name": "BEA KONDO"
-	},
-	{
-		"code": "53.10.13.2006",
-		"type": "desa",
-		"name": "POPO"
-	},
-	{
-		"code": "53.10.13.2007",
-		"type": "desa",
-		"name": "LIA"
-	},
-	{
-		"code": "53.10.13.2008",
-		"type": "desa",
-		"name": "LING"
-	},
-	{
-		"code": "53.10.13.2009",
-		"type": "desa",
-		"name": "KOLE"
-	},
-	{
-		"code": "53.10.13.2010",
-		"type": "desa",
-		"name": "NAO"
-	},
-	{
-		"code": "53.10.13.2011",
-		"type": "desa",
-		"name": "CIRENG"
 	},
 	{
 		"code": "53.10.13.2012",
@@ -10295,11 +10295,6 @@
 		"name": "BORIK"
 	},
 	{
-		"code": "53.10.13.2020",
-		"type": "desa",
-		"name": "RUANG"
-	},
-	{
 		"code": "53.10.13.2021",
 		"type": "desa",
 		"name": "CAMBIR LECA"
@@ -10308,11 +10303,6 @@
 		"code": "53.10.13.2022",
 		"type": "desa",
 		"name": "WONGKA"
-	},
-	{
-		"code": "53.10.13.2023",
-		"type": "desa",
-		"name": "MATA WAE"
 	},
 	{
 		"code": "53.10.14",
@@ -10543,6 +10533,66 @@
 		"code": "53.10.17.2010",
 		"type": "desa",
 		"name": "LENDA"
+	},
+	{
+		"code": "53.10.18",
+		"type": "kecamatan",
+		"name": "SATAR MESE UTARA"
+	},
+	{
+		"code": "53.10.18.2001",
+		"type": "desa",
+		"name": "RENDA"
+	},
+	{
+		"code": "53.10.18.2002",
+		"type": "desa",
+		"name": "TODO"
+	},
+	{
+		"code": "53.10.18.2003",
+		"type": "desa",
+		"name": "GULUNG"
+	},
+	{
+		"code": "53.10.18.2004",
+		"type": "desa",
+		"name": "POPO"
+	},
+	{
+		"code": "53.10.18.2005",
+		"type": "desa",
+		"name": "LIA"
+	},
+	{
+		"code": "53.10.18.2006",
+		"type": "desa",
+		"name": "KOLE"
+	},
+	{
+		"code": "53.10.18.2007",
+		"type": "desa",
+		"name": "LING"
+	},
+	{
+		"code": "53.10.18.2008",
+		"type": "desa",
+		"name": "NAO"
+	},
+	{
+		"code": "53.10.18.2009",
+		"type": "desa",
+		"name": "CIRENG"
+	},
+	{
+		"code": "53.10.18.2010",
+		"type": "desa",
+		"name": "RUANG"
+	},
+	{
+		"code": "53.10.18.2011",
+		"type": "desa",
+		"name": "MATA WAE"
 	},
 	{
 		"code": "53.11",
@@ -12730,6 +12780,31 @@
 		"name": "LANDU"
 	},
 	{
+		"code": "53.14.01.2019",
+		"type": "desa",
+		"name": "LENTERA"
+	},
+	{
+		"code": "53.14.01.2020",
+		"type": "desa",
+		"name": "SANGGANDOLU"
+	},
+	{
+		"code": "53.14.01.2021",
+		"type": "desa",
+		"name": "SAKUBATUN"
+	},
+	{
+		"code": "53.14.01.2022",
+		"type": "desa",
+		"name": "FUAFUNI"
+	},
+	{
+		"code": "53.14.01.2023",
+		"type": "desa",
+		"name": "DALEK ESA"
+	},
+	{
 		"code": "53.14.02",
 		"type": "kecamatan",
 		"name": "ROTE BARAT LAUT"
@@ -12798,6 +12873,51 @@
 		"code": "53.14.02.2017",
 		"type": "desa",
 		"name": "TUALIMA"
+	},
+	{
+		"code": "53.14.02.2018",
+		"type": "desa",
+		"name": "HOLULAI"
+	},
+	{
+		"code": "53.14.02.2019",
+		"type": "desa",
+		"name": "HUNDIHUK"
+	},
+	{
+		"code": "53.14.02.2020",
+		"type": "desa",
+		"name": "OEBOLE"
+	},
+	{
+		"code": "53.14.02.2021",
+		"type": "desa",
+		"name": "SAINDULE"
+	},
+	{
+		"code": "53.14.02.2022",
+		"type": "desa",
+		"name": "TASILO"
+	},
+	{
+		"code": "53.14.02.2023",
+		"type": "desa",
+		"name": "BALAOLI"
+	},
+	{
+		"code": "53.14.02.2024",
+		"type": "desa",
+		"name": "MUNDEK"
+	},
+	{
+		"code": "53.14.02.2025",
+		"type": "desa",
+		"name": "BUSALANGGA TIMUR"
+	},
+	{
+		"code": "53.14.02.2026",
+		"type": "desa",
+		"name": "BUSALANGGA BARAT"
 	},
 	{
 		"code": "53.14.03",
@@ -12875,6 +12995,26 @@
 		"name": "BAADALE"
 	},
 	{
+		"code": "53.14.03.2015",
+		"type": "desa",
+		"name": "LEKUNIK"
+	},
+	{
+		"code": "53.14.03.2016",
+		"type": "desa",
+		"name": "LOLEOEN"
+	},
+	{
+		"code": "53.14.03.2017",
+		"type": "desa",
+		"name": "KULI AISELE"
+	},
+	{
+		"code": "53.14.03.2018",
+		"type": "desa",
+		"name": "OELEKA"
+	},
+	{
 		"code": "53.14.04",
 		"type": "kecamatan",
 		"name": "ROTE TENGAH"
@@ -12913,6 +13053,11 @@
 		"code": "53.14.04.2011",
 		"type": "desa",
 		"name": "LIDABESI"
+	},
+	{
+		"code": "53.14.04.2013",
+		"type": "desa",
+		"name": "SIOMEDA"
 	},
 	{
 		"code": "53.14.05",
@@ -12975,6 +13120,26 @@
 		"name": "TESA BELA"
 	},
 	{
+		"code": "53.14.05.2012",
+		"type": "desa",
+		"name": "LEKONA"
+	},
+	{
+		"code": "53.14.05.2013",
+		"type": "desa",
+		"name": "OENGGAE"
+	},
+	{
+		"code": "53.14.05.2014",
+		"type": "desa",
+		"name": "FATELILO"
+	},
+	{
+		"code": "53.14.05.2015",
+		"type": "desa",
+		"name": "OFALANGGA"
+	},
+	{
 		"code": "53.14.06",
 		"type": "kecamatan",
 		"name": "ROTE TIMUR"
@@ -13013,6 +13178,26 @@
 		"code": "53.14.06.2007",
 		"type": "desa",
 		"name": "MATASIO"
+	},
+	{
+		"code": "53.14.06.2014",
+		"type": "desa",
+		"name": "PENGODUA"
+	},
+	{
+		"code": "53.14.06.2015",
+		"type": "desa",
+		"name": "BATEFALU"
+	},
+	{
+		"code": "53.14.06.2016",
+		"type": "desa",
+		"name": "PAPELA"
+	},
+	{
+		"code": "53.14.06.2017",
+		"type": "desa",
+		"name": "MATANAE"
 	},
 	{
 		"code": "53.14.07",
@@ -13085,6 +13270,16 @@
 		"name": "INAOE"
 	},
 	{
+		"code": "53.14.08.2006",
+		"type": "desa",
+		"name": "NGGELODAE"
+	},
+	{
+		"code": "53.14.08.2007",
+		"type": "desa",
+		"name": "PILASUE"
+	},
+	{
 		"code": "53.14.09",
 		"type": "kecamatan",
 		"name": "NDAO NUSE"
@@ -13150,6 +13345,11 @@
 		"name": "PUKUAFU"
 	},
 	{
+		"code": "53.14.10.2007",
+		"type": "desa",
+		"name": "TENA LAI"
+	},
+	{
 		"code": "53.15",
 		"type": "kabupaten",
 		"name": "KAB. MANGGARAI BARAT"
@@ -13200,31 +13400,6 @@
 		"name": "NANGA KANTOR"
 	},
 	{
-		"code": "53.15.01.2009",
-		"type": "desa",
-		"name": "KOMBO"
-	},
-	{
-		"code": "53.15.01.2010",
-		"type": "desa",
-		"name": "PACAR"
-	},
-	{
-		"code": "53.15.01.2011",
-		"type": "desa",
-		"name": "GOLO LAJANG"
-	},
-	{
-		"code": "53.15.01.2012",
-		"type": "desa",
-		"name": "COMPANG"
-	},
-	{
-		"code": "53.15.01.2013",
-		"type": "desa",
-		"name": "LOHA"
-	},
-	{
 		"code": "53.15.01.2014",
 		"type": "desa",
 		"name": "WATUBARU"
@@ -13238,46 +13413,6 @@
 		"code": "53.15.01.2016",
 		"type": "desa",
 		"name": "WATU MANGGAR"
-	},
-	{
-		"code": "53.15.01.2017",
-		"type": "desa",
-		"name": "ROMANG"
-	},
-	{
-		"code": "53.15.01.2018",
-		"type": "desa",
-		"name": "MANONG"
-	},
-	{
-		"code": "53.15.01.2019",
-		"type": "desa",
-		"name": "BENTENG NDOPE"
-	},
-	{
-		"code": "53.15.01.2020",
-		"type": "desa",
-		"name": "KOMBO TENGAH"
-	},
-	{
-		"code": "53.15.01.2021",
-		"type": "desa",
-		"name": "KOMBO SELATAN"
-	},
-	{
-		"code": "53.15.01.2022",
-		"type": "desa",
-		"name": "GOLO LAJANG BARAT"
-	},
-	{
-		"code": "53.15.01.2023",
-		"type": "desa",
-		"name": "WAKA"
-	},
-	{
-		"code": "53.15.01.2024",
-		"type": "desa",
-		"name": "PONG KOLONG"
 	},
 	{
 		"code": "53.15.01.2025",
@@ -13305,19 +13440,9 @@
 		"name": "NANTAL"
 	},
 	{
-		"code": "53.15.02.2001",
-		"type": "desa",
-		"name": "KOLANG"
-	},
-	{
 		"code": "53.15.02.2002",
 		"type": "desa",
 		"name": "COAL"
-	},
-	{
-		"code": "53.15.02.2003",
-		"type": "desa",
-		"name": "GOLO RIWU"
 	},
 	{
 		"code": "53.15.02.2004",
@@ -13335,21 +13460,6 @@
 		"name": "LAWI"
 	},
 	{
-		"code": "53.15.02.2012",
-		"type": "desa",
-		"name": "RANGGU"
-	},
-	{
-		"code": "53.15.02.2014",
-		"type": "desa",
-		"name": "GOLO LEWE"
-	},
-	{
-		"code": "53.15.02.2015",
-		"type": "desa",
-		"name": "TUENG"
-	},
-	{
 		"code": "53.15.02.2017",
 		"type": "desa",
 		"name": "COMPANG SUKA"
@@ -13363,31 +13473,6 @@
 		"code": "53.15.02.2021",
 		"type": "desa",
 		"name": "SAMA"
-	},
-	{
-		"code": "53.15.02.2025",
-		"type": "desa",
-		"name": "GOLO WEDONG"
-	},
-	{
-		"code": "53.15.02.2026",
-		"type": "desa",
-		"name": "TENGKU"
-	},
-	{
-		"code": "53.15.02.2027",
-		"type": "desa",
-		"name": "COMPANG KULES"
-	},
-	{
-		"code": "53.15.02.2028",
-		"type": "desa",
-		"name": "SOMPANG KOLANG"
-	},
-	{
-		"code": "53.15.02.2029",
-		"type": "desa",
-		"name": "WAJUR"
 	},
 	{
 		"code": "53.15.02.2030",
@@ -14050,6 +14135,131 @@
 		"name": "WATU GALANG"
 	},
 	{
+		"code": "53.15.11",
+		"type": "kecamatan",
+		"name": "PACAR"
+	},
+	{
+		"code": "53.15.11.2001",
+		"type": "desa",
+		"name": "PACAR"
+	},
+	{
+		"code": "53.15.11.2002",
+		"type": "desa",
+		"name": "MANONG"
+	},
+	{
+		"code": "53.15.11.2003",
+		"type": "desa",
+		"name": "ROMANG"
+	},
+	{
+		"code": "53.15.11.2004",
+		"type": "desa",
+		"name": "COMPANG"
+	},
+	{
+		"code": "53.15.11.2005",
+		"type": "desa",
+		"name": "WAKA"
+	},
+	{
+		"code": "53.15.11.2006",
+		"type": "desa",
+		"name": "PONG KOLONG"
+	},
+	{
+		"code": "53.15.11.2007",
+		"type": "desa",
+		"name": "LOHA"
+	},
+	{
+		"code": "53.15.11.2008",
+		"type": "desa",
+		"name": "BENTENG NDOPE"
+	},
+	{
+		"code": "53.15.11.2009",
+		"type": "desa",
+		"name": "GOLO LAJANG"
+	},
+	{
+		"code": "53.15.11.2010",
+		"type": "desa",
+		"name": "GOLO LAJANG BARAT"
+	},
+	{
+		"code": "53.15.11.2011",
+		"type": "desa",
+		"name": "KOMBO"
+	},
+	{
+		"code": "53.15.11.2012",
+		"type": "desa",
+		"name": "KOMBO SELATAN"
+	},
+	{
+		"code": "53.15.11.2013",
+		"type": "desa",
+		"name": "KOMBO TENGAH"
+	},
+	{
+		"code": "53.15.12",
+		"type": "kecamatan",
+		"name": "KUWUS BARAT"
+	},
+	{
+		"code": "53.15.12.2001",
+		"type": "desa",
+		"name": "GOLO LEWE"
+	},
+	{
+		"code": "53.15.12.2002",
+		"type": "desa",
+		"name": "TUENG"
+	},
+	{
+		"code": "53.15.12.2003",
+		"type": "desa",
+		"name": "SOMPANG KOLANG"
+	},
+	{
+		"code": "53.15.12.2004",
+		"type": "desa",
+		"name": "WAJUR"
+	},
+	{
+		"code": "53.15.12.2005",
+		"type": "desa",
+		"name": "KOLANG"
+	},
+	{
+		"code": "53.15.12.2006",
+		"type": "desa",
+		"name": "GOLO RIWU"
+	},
+	{
+		"code": "53.15.12.2007",
+		"type": "desa",
+		"name": "COMPANG KULES"
+	},
+	{
+		"code": "53.15.12.2008",
+		"type": "desa",
+		"name": "TENGKU"
+	},
+	{
+		"code": "53.15.12.2009",
+		"type": "desa",
+		"name": "GOLO WEDONG"
+	},
+	{
+		"code": "53.15.12.2010",
+		"type": "desa",
+		"name": "RANGGU"
+	},
+	{
 		"code": "53.16",
 		"type": "kabupaten",
 		"name": "KAB. NAGEKEO"
@@ -14602,7 +14812,7 @@
 	{
 		"code": "53.16.06.2014",
 		"type": "desa",
-		"name": "LADOLIMA BARAT"
+		"name": "LADOLIMA UTARA"
 	},
 	{
 		"code": "53.16.06.2015",
@@ -15172,7 +15382,7 @@
 	{
 		"code": "53.18.03.2013",
 		"type": "desa",
-		"name": "LETE KOMOUNA"
+		"name": "LETE KAMOUNA"
 	},
 	{
 		"code": "53.18.03.2014",
@@ -15282,7 +15492,7 @@
 	{
 		"code": "53.18.04.2008",
 		"type": "desa",
-		"name": "KALIMBU TILU"
+		"name": "KALIMBU TILLU"
 	},
 	{
 		"code": "53.18.04.2011",
@@ -15352,7 +15562,7 @@
 	{
 		"code": "53.18.05.2001",
 		"type": "desa",
-		"name": "BURU DELILO"
+		"name": "BURU DEILO"
 	},
 	{
 		"code": "53.18.05.2002",
@@ -15382,7 +15592,7 @@
 	{
 		"code": "53.18.05.2007",
 		"type": "desa",
-		"name": "TANA TEKE"
+		"name": "TENA TEKE"
 	},
 	{
 		"code": "53.18.05.2008",
@@ -15462,7 +15672,7 @@
 	{
 		"code": "53.18.06.2014",
 		"type": "desa",
-		"name": "WAIMAHAKA"
+		"name": "WAIMAKAHA"
 	},
 	{
 		"code": "53.18.06.2015",
@@ -15502,7 +15712,7 @@
 	{
 		"code": "53.18.06.2022",
 		"type": "desa",
-		"name": "ANA GOGKA"
+		"name": "ANA GOKA"
 	},
 	{
 		"code": "53.18.06.2023",
@@ -15677,7 +15887,7 @@
 	{
 		"code": "53.18.08.2009",
 		"type": "desa",
-		"name": "KANDU WELA"
+		"name": "KENDU WELA"
 	},
 	{
 		"code": "53.18.08.2010",
@@ -16933,6 +17143,11 @@
 		"code": "53.20.01.2010",
 		"type": "desa",
 		"name": "RAEMUDE"
+	},
+	{
+		"code": "53.20.01.2011",
+		"type": "desa",
+		"name": "RAEKORE"
 	},
 	{
 		"code": "53.20.01.2012",

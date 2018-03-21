@@ -102,7 +102,7 @@
 	{
 		"code": "64.01.03",
 		"type": "kecamatan",
-		"name": "PASIR BALENGKONG"
+		"name": "PASER BELENGKONG"
 	},
 	{
 		"code": "64.01.03.2001",
@@ -862,7 +862,7 @@
 	{
 		"code": "64.02.02.2001",
 		"type": "desa",
-		"name": "JONGGON"
+		"name": "JONGGON DESA"
 	},
 	{
 		"code": "64.02.02.2002",
@@ -897,7 +897,7 @@
 	{
 		"code": "64.02.02.2008",
 		"type": "desa",
-		"name": "MARGA RAHAYU"
+		"name": "MARGAHAYU"
 	},
 	{
 		"code": "64.02.02.2009",
@@ -1032,7 +1032,7 @@
 	{
 		"code": "64.02.05.2001",
 		"type": "desa",
-		"name": "SELIKI"
+		"name": "SALIKI"
 	},
 	{
 		"code": "64.02.05.2002",
@@ -1212,7 +1212,7 @@
 	{
 		"code": "64.02.07.2008",
 		"type": "desa",
-		"name": "MANUNGGAL JAYA"
+		"name": "MANUNGGAL DAYA"
 	},
 	{
 		"code": "64.02.07.2009",
@@ -1417,7 +1417,7 @@
 	{
 		"code": "64.02.10.2002",
 		"type": "desa",
-		"name": "LOA SAKUH"
+		"name": "LOA SAKOH"
 	},
 	{
 		"code": "64.02.10.2003",
@@ -1547,7 +1547,7 @@
 	{
 		"code": "64.02.11.2016",
 		"type": "desa",
-		"name": "LEBAHU ULOQ"
+		"name": "LEBAHO ULAQ"
 	},
 	{
 		"code": "64.02.11.2017",
@@ -1657,7 +1657,7 @@
 	{
 		"code": "64.02.12.2017",
 		"type": "desa",
-		"name": "MUARA TUBOD"
+		"name": "MUARA TUBOQ"
 	},
 	{
 		"code": "64.02.12.2018",
@@ -2002,12 +2002,12 @@
 	{
 		"code": "64.02.17.2008",
 		"type": "desa",
-		"name": "PERANGKAT SELATAN"
+		"name": "PRANGAT SELATAN"
 	},
 	{
 		"code": "64.02.17.2009",
 		"type": "desa",
-		"name": "PERANGKAT BARU"
+		"name": "PRANGAT BARU"
 	},
 	{
 		"code": "64.02.17.2010",
@@ -2047,12 +2047,12 @@
 	{
 		"code": "64.02.18.2005",
 		"type": "desa",
-		"name": "LEBAQ MANTAN"
+		"name": "LEBAK MANTAN"
 	},
 	{
 		"code": "64.02.18.2006",
 		"type": "desa",
-		"name": "LEBAQ CILANG"
+		"name": "LEBAK CILONG"
 	},
 	{
 		"code": "64.02.18.2007",
@@ -2692,7 +2692,7 @@
 	{
 		"code": "64.07.05.2008",
 		"type": "desa",
-		"name": "MUARA LEBAN"
+		"name": "LEBAN"
 	},
 	{
 		"code": "64.07.05.2009",
@@ -3332,17 +3332,17 @@
 	{
 		"code": "64.07.15.2001",
 		"type": "desa",
-		"name": "MELAPEH BARU"
+		"name": "LINGGANG MELAPEH BARU"
 	},
 	{
 		"code": "64.07.15.2002",
 		"type": "desa",
-		"name": "BIGUNG BARU"
+		"name": "LINGGANG BIGUNG BARU"
 	},
 	{
 		"code": "64.07.15.2003",
 		"type": "desa",
-		"name": "TUTUNG"
+		"name": "LINGGANG TUTUNG"
 	},
 	{
 		"code": "64.07.15.2004",
@@ -3367,12 +3367,12 @@
 	{
 		"code": "64.07.15.2008",
 		"type": "desa",
-		"name": "BANGUN SARI"
+		"name": "LINGGANG BANGUNSARI"
 	},
 	{
 		"code": "64.07.15.2009",
 		"type": "desa",
-		"name": "PURWODADI"
+		"name": "LINGGANG PURWODADI"
 	},
 	{
 		"code": "64.07.15.2010",
@@ -3572,7 +3572,7 @@
 	{
 		"code": "64.07.18.2009",
 		"type": "desa",
-		"name": "MUARA BATUQ"
+		"name": "LINGGANG MUARA BATUQ"
 	},
 	{
 		"code": "64.07.18.2010",
@@ -3627,7 +3627,7 @@
 	{
 		"code": "64.07.19.2003",
 		"type": "desa",
-		"name": "TERING SEBERANG"
+		"name": "LINGGANG TERING SEBERANG"
 	},
 	{
 		"code": "64.07.19.2004",
@@ -3637,17 +3637,17 @@
 	{
 		"code": "64.07.19.2005",
 		"type": "desa",
-		"name": "KELUBAQ"
+		"name": "LINGGANG KELUBAQ"
 	},
 	{
 		"code": "64.07.19.2006",
 		"type": "desa",
-		"name": "PURWOREJO"
+		"name": "LINGGANG PURWOREJO"
 	},
 	{
 		"code": "64.07.19.2007",
 		"type": "desa",
-		"name": "JELEMUQ"
+		"name": "LINGGANG JELEMUQ"
 	},
 	{
 		"code": "64.07.19.2008",
@@ -3657,7 +3657,7 @@
 	{
 		"code": "64.07.19.2009",
 		"type": "desa",
-		"name": "MUARA MUJAN"
+		"name": "LINGGANG MUARA MUJAN"
 	},
 	{
 		"code": "64.07.19.2010",
@@ -3672,7 +3672,7 @@
 	{
 		"code": "64.07.19.2013",
 		"type": "desa",
-		"name": "MUYUB ILIR"
+		"name": "LINGGANG MUYUB ILIR"
 	},
 	{
 		"code": "64.07.19.2014",
@@ -3682,7 +3682,7 @@
 	{
 		"code": "64.07.19.2015",
 		"type": "desa",
-		"name": "BANJAREJO"
+		"name": "LINGGANG BANJAREJO"
 	},
 	{
 		"code": "64.07.19.2016",
@@ -3777,12 +3777,17 @@
 	{
 		"code": "64.08.01.2012",
 		"type": "desa",
-		"name": "LONG FAQ BARU"
+		"name": "LONG POQ BARU"
 	},
 	{
 		"code": "64.08.01.2013",
 		"type": "desa",
 		"name": "MUARA DUN"
+	},
+	{
+		"code": "64.08.01.2014",
+		"type": "desa",
+		"name": "TELUK BARU"
 	},
 	{
 		"code": "64.08.02",
@@ -3792,7 +3797,7 @@
 	{
 		"code": "64.08.02.2001",
 		"type": "desa",
-		"name": "JUK LUAY"
+		"name": "JAK LUAY"
 	},
 	{
 		"code": "64.08.02.2002",
@@ -3927,7 +3932,7 @@
 	{
 		"code": "64.08.05.2004",
 		"type": "desa",
-		"name": "SAQA"
+		"name": "SAKA"
 	},
 	{
 		"code": "64.08.05.2005",
@@ -3937,7 +3942,7 @@
 	{
 		"code": "64.08.05.2006",
 		"type": "desa",
-		"name": "BANUA BARU"
+		"name": "BENUA BARU"
 	},
 	{
 		"code": "64.08.05.2011",
@@ -3952,7 +3957,7 @@
 	{
 		"code": "64.08.05.2013",
 		"type": "desa",
-		"name": "TEPIAN TARAP"
+		"name": "TEPIAN TERAP"
 	},
 	{
 		"code": "64.08.05.2015",
@@ -3982,7 +3987,7 @@
 	{
 		"code": "64.08.05.2020",
 		"type": "desa",
-		"name": "MANDAU PANTAI SEJAHTERA"
+		"name": "MANDU PANTAI SEJAHTERA"
 	},
 	{
 		"code": "64.08.06",
@@ -3992,7 +3997,7 @@
 	{
 		"code": "64.08.06.2001",
 		"type": "desa",
-		"name": "LONG BETUQ"
+		"name": "LONG BENTUQ"
 	},
 	{
 		"code": "64.08.06.2002",
@@ -4032,7 +4037,7 @@
 	{
 		"code": "64.08.07.2002",
 		"type": "desa",
-		"name": "LONG MELAH"
+		"name": "LUNG MELAH"
 	},
 	{
 		"code": "64.08.07.2003",
@@ -4058,6 +4063,11 @@
 		"code": "64.08.07.2007",
 		"type": "desa",
 		"name": "RANTAU PANJANG"
+	},
+	{
+		"code": "64.08.07.2008",
+		"type": "desa",
+		"name": "KERNYANYAN"
 	},
 	{
 		"code": "64.08.08",
@@ -4127,7 +4137,7 @@
 	{
 		"code": "64.08.09.2005",
 		"type": "desa",
-		"name": "TEBAGAN LEMBAK"
+		"name": "TEBANGAN LEMBAK"
 	},
 	{
 		"code": "64.08.09.2006",
@@ -4182,7 +4192,7 @@
 	{
 		"code": "64.08.10.2008",
 		"type": "desa",
-		"name": "CITRA MANUNGGAL"
+		"name": "CITRA MANUNGGAL JAYA"
 	},
 	{
 		"code": "64.08.10.2009",
@@ -4237,7 +4247,17 @@
 	{
 		"code": "64.08.11.2007",
 		"type": "desa",
-		"name": "TANJUNG MANGKALIHAT"
+		"name": "TANJUNG MANGKALIAT"
+	},
+	{
+		"code": "64.08.11.2008",
+		"type": "desa",
+		"name": "MANUBAR DALAM"
+	},
+	{
+		"code": "64.08.11.2009",
+		"type": "desa",
+		"name": "SUSUK TENGAH"
 	},
 	{
 		"code": "64.08.12",
@@ -4245,14 +4265,14 @@
 		"name": "SANGATTA SELATAN"
 	},
 	{
+		"code": "64.08.12.1002",
+		"type": "kelurahan",
+		"name": "SINGA GEWEH"
+	},
+	{
 		"code": "64.08.12.2001",
 		"type": "desa",
 		"name": "SANGATTA SELATAN"
-	},
-	{
-		"code": "64.08.12.2002",
-		"type": "desa",
-		"name": "SINGA GEWEH"
 	},
 	{
 		"code": "64.08.12.2003",
@@ -4345,6 +4365,11 @@
 		"name": "TEPIAN MAKMUR"
 	},
 	{
+		"code": "64.08.14.2009",
+		"type": "desa",
+		"name": "MASALAP RAYA"
+	},
+	{
 		"code": "64.08.15",
 		"type": "kecamatan",
 		"name": "KAUBUN"
@@ -4412,7 +4437,7 @@
 	{
 		"code": "64.08.16.2004",
 		"type": "desa",
-		"name": "BA'AY"
+		"name": "BAAY"
 	},
 	{
 		"code": "64.08.16.2005",
@@ -4465,6 +4490,11 @@
 		"name": "TELAGA"
 	},
 	{
+		"code": "64.08.17.2007",
+		"type": "desa",
+		"name": "BATU TIMBAU ULU"
+	},
+	{
 		"code": "64.08.18",
 		"type": "kecamatan",
 		"name": "LONG MESANGAT"
@@ -4477,7 +4507,7 @@
 	{
 		"code": "64.08.18.2002",
 		"type": "desa",
-		"name": "SEGOI MAKMUR"
+		"name": "SEGOY MAKMUR"
 	},
 	{
 		"code": "64.08.18.2003",
@@ -4627,7 +4657,7 @@
 	{
 		"code": "64.09.01.2023",
 		"type": "desa",
-		"name": "GIRIPURWA"
+		"name": "GIRI PURWA"
 	},
 	{
 		"code": "64.09.02",
@@ -5492,12 +5522,12 @@
 	{
 		"code": "64.72.06.1003",
 		"type": "kelurahan",
-		"name": "KARANG ASEM ULU"
+		"name": "KARANG ASAM ULU"
 	},
 	{
 		"code": "64.72.06.1004",
 		"type": "kelurahan",
-		"name": "LOA BAHU"
+		"name": "LOK BAHU"
 	},
 	{
 		"code": "64.72.06.1005",
@@ -5667,7 +5697,7 @@
 	{
 		"code": "64.74.01.1005",
 		"type": "kelurahan",
-		"name": "GUNTUNG ELAI"
+		"name": "GUNUNG ELAI"
 	},
 	{
 		"code": "64.74.01.1006",
@@ -5687,7 +5717,7 @@
 	{
 		"code": "64.74.02.1002",
 		"type": "kelurahan",
-		"name": "BERBAS TANGAH"
+		"name": "BERBAS TENGAH"
 	},
 	{
 		"code": "64.74.02.1003",

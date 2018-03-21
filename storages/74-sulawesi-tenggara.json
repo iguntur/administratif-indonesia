@@ -47,7 +47,7 @@
 	{
 		"code": "74.01.01.2006",
 		"type": "desa",
-		"name": "TOWUA I"
+		"name": "TOWUA"
 	},
 	{
 		"code": "74.01.01.2007",
@@ -477,7 +477,7 @@
 	{
 		"code": "74.01.18.2011",
 		"type": "desa",
-		"name": "PUUNDAPIA"
+		"name": "PUUNDAIPA"
 	},
 	{
 		"code": "74.01.18.2012",
@@ -682,7 +682,7 @@
 	{
 		"code": "74.01.25.2006",
 		"type": "desa",
-		"name": "PONDOUWAEE"
+		"name": "PONDOWAE"
 	},
 	{
 		"code": "74.01.25.2007",
@@ -965,6 +965,16 @@
 		"name": "KORUMBA"
 	},
 	{
+		"code": "74.02.03.2031",
+		"type": "desa",
+		"name": "KASUMEWUHO"
+	},
+	{
+		"code": "74.02.03.2032",
+		"type": "desa",
+		"name": "KUKULURI"
+	},
+	{
 		"code": "74.02.04",
 		"type": "kecamatan",
 		"name": "PONDIDAHA"
@@ -1020,6 +1030,36 @@
 		"name": "WAWOLEMO"
 	},
 	{
+		"code": "74.02.04.2045",
+		"type": "desa",
+		"name": "SULEMANDARA"
+	},
+	{
+		"code": "74.02.04.2046",
+		"type": "desa",
+		"name": "LALODANGGE"
+	},
+	{
+		"code": "74.02.04.2047",
+		"type": "desa",
+		"name": "WAWOLAHUMBUTI"
+	},
+	{
+		"code": "74.02.04.2048",
+		"type": "desa",
+		"name": "LALOIKA"
+	},
+	{
+		"code": "74.02.04.2049",
+		"type": "desa",
+		"name": "LALONGGOTOMI"
+	},
+	{
+		"code": "74.02.04.2050",
+		"type": "desa",
+		"name": "WONUA MANDARA"
+	},
+	{
 		"code": "74.02.04.2051",
 		"type": "desa",
 		"name": "WONUA MONAPA"
@@ -1060,24 +1100,9 @@
 		"name": "PUULORO"
 	},
 	{
-		"code": "74.02.05.2010",
-		"type": "desa",
-		"name": "ANGGALOMOARE"
-	},
-	{
-		"code": "74.02.05.2011",
-		"type": "desa",
-		"name": "ABELISAWAH"
-	},
-	{
 		"code": "74.02.05.2012",
 		"type": "desa",
 		"name": "ANDADOWI"
-	},
-	{
-		"code": "74.02.05.2016",
-		"type": "desa",
-		"name": "TABANGGELE"
 	},
 	{
 		"code": "74.02.05.2027",
@@ -1088,11 +1113,6 @@
 		"code": "74.02.05.2028",
 		"type": "desa",
 		"name": "BOA BOA"
-	},
-	{
-		"code": "74.02.05.2029",
-		"type": "desa",
-		"name": "LAKOMEA"
 	},
 	{
 		"code": "74.02.05.2030",
@@ -1110,19 +1130,9 @@
 		"name": "POLUA"
 	},
 	{
-		"code": "74.02.05.2039",
-		"type": "desa",
-		"name": "GALU"
-	},
-	{
 		"code": "74.02.05.2041",
 		"type": "desa",
 		"name": "POHARA"
-	},
-	{
-		"code": "74.02.05.2042",
-		"type": "desa",
-		"name": "PUUSANGI"
 	},
 	{
 		"code": "74.02.05.2048",
@@ -1130,14 +1140,14 @@
 		"name": "BONDOALA"
 	},
 	{
-		"code": "74.02.05.2050",
-		"type": "desa",
-		"name": "LASOSO"
-	},
-	{
 		"code": "74.02.05.2052",
 		"type": "desa",
 		"name": "KONGGA MEA"
+	},
+	{
+		"code": "74.02.05.2057",
+		"type": "desa",
+		"name": "WAWO ANDAROA"
 	},
 	{
 		"code": "74.02.10",
@@ -1175,54 +1185,14 @@
 		"name": "EPEEYA"
 	},
 	{
-		"code": "74.02.10.2016",
-		"type": "desa",
-		"name": "PADANGGUNI"
-	},
-	{
-		"code": "74.02.10.2017",
-		"type": "desa",
-		"name": "ALOSIKA"
-	},
-	{
-		"code": "74.02.10.2018",
-		"type": "desa",
-		"name": "LANGGEA"
-	},
-	{
-		"code": "74.02.10.2023",
-		"type": "desa",
-		"name": "SAMBAOSU"
-	},
-	{
 		"code": "74.02.10.2024",
 		"type": "desa",
 		"name": "KUMAPO"
 	},
 	{
-		"code": "74.02.10.2029",
+		"code": "74.02.10.2035",
 		"type": "desa",
-		"name": "ATODOPOI"
-	},
-	{
-		"code": "74.02.10.2030",
-		"type": "desa",
-		"name": "ALEUTI"
-	},
-	{
-		"code": "74.02.10.2031",
-		"type": "desa",
-		"name": "MATANGGORAI"
-	},
-	{
-		"code": "74.02.10.2034",
-		"type": "desa",
-		"name": "PADANG MEKAR"
-	},
-	{
-		"code": "74.02.10.2037",
-		"type": "desa",
-		"name": "GARUDA"
+		"name": "UNAASI JAYA"
 	},
 	{
 		"code": "74.02.10.2038",
@@ -1240,9 +1210,9 @@
 		"name": "PADANGGUNI UTAMA"
 	},
 	{
-		"code": "74.02.10.2041",
+		"code": "74.02.10.2042",
 		"type": "desa",
-		"name": "MEKARJAYA"
+		"name": "ANGGORO"
 	},
 	{
 		"code": "74.02.11",
@@ -1405,6 +1375,21 @@
 		"name": "OLUA AO"
 	},
 	{
+		"code": "74.02.15.2016",
+		"type": "desa",
+		"name": "NAMBEABORU"
+	},
+	{
+		"code": "74.02.15.2017",
+		"type": "desa",
+		"name": "OLO ONUA"
+	},
+	{
+		"code": "74.02.15.2018",
+		"type": "desa",
+		"name": "AMBEPULU"
+	},
+	{
 		"code": "74.02.15.2019",
 		"type": "desa",
 		"name": "BAROWILA"
@@ -1468,6 +1453,21 @@
 		"code": "74.02.16.2010",
 		"type": "desa",
 		"name": "TITIOA"
+	},
+	{
+		"code": "74.02.16.2012",
+		"type": "desa",
+		"name": "ANGONGA"
+	},
+	{
+		"code": "74.02.16.2013",
+		"type": "desa",
+		"name": "NAPOOHA"
+	},
+	{
+		"code": "74.02.16.2014",
+		"type": "desa",
+		"name": "AROMBU UTAMA"
 	},
 	{
 		"code": "74.02.17",
@@ -1615,6 +1615,46 @@
 		"name": "ANGGOPIU"
 	},
 	{
+		"code": "74.02.18.2012",
+		"type": "desa",
+		"name": "TAMESANDI"
+	},
+	{
+		"code": "74.02.18.2013",
+		"type": "desa",
+		"name": "HUMBOTO"
+	},
+	{
+		"code": "74.02.18.2014",
+		"type": "desa",
+		"name": "MOOREHE"
+	},
+	{
+		"code": "74.02.18.2015",
+		"type": "desa",
+		"name": "ANGGAWO"
+	},
+	{
+		"code": "74.02.18.2016",
+		"type": "desa",
+		"name": "KASAEDA"
+	},
+	{
+		"code": "74.02.18.2017",
+		"type": "desa",
+		"name": "TANGGODIPO"
+	},
+	{
+		"code": "74.02.18.2018",
+		"type": "desa",
+		"name": "PANGGULAWU"
+	},
+	{
+		"code": "74.02.18.2019",
+		"type": "desa",
+		"name": "PUURODA JAYA"
+	},
+	{
 		"code": "74.02.19",
 		"type": "kecamatan",
 		"name": "WONGGEDUKU"
@@ -1625,39 +1665,14 @@
 		"name": "PUUDURIA"
 	},
 	{
-		"code": "74.02.19.2001",
-		"type": "desa",
-		"name": "PUDAY"
-	},
-	{
-		"code": "74.02.19.2002",
-		"type": "desa",
-		"name": "TETEONA"
-	},
-	{
-		"code": "74.02.19.2003",
-		"type": "desa",
-		"name": "LANONGGASAI"
-	},
-	{
 		"code": "74.02.19.2004",
 		"type": "desa",
 		"name": "DURIAASI"
 	},
 	{
-		"code": "74.02.19.2005",
-		"type": "desa",
-		"name": "LAMBANGI"
-	},
-	{
 		"code": "74.02.19.2006",
 		"type": "desa",
 		"name": "LALOUSU"
-	},
-	{
-		"code": "74.02.19.2007",
-		"type": "desa",
-		"name": "LAMOKUNI"
 	},
 	{
 		"code": "74.02.19.2008",
@@ -1670,24 +1685,9 @@
 		"name": "WAWOSOLO"
 	},
 	{
-		"code": "74.02.19.2011",
-		"type": "desa",
-		"name": "KASUMOKUNI"
-	},
-	{
 		"code": "74.02.19.2012",
 		"type": "desa",
 		"name": "WAWONGGOLE"
-	},
-	{
-		"code": "74.02.19.2013",
-		"type": "desa",
-		"name": "MASOOSE"
-	},
-	{
-		"code": "74.02.19.2014",
-		"type": "desa",
-		"name": "WONGGEDUKU"
 	},
 	{
 		"code": "74.02.19.2015",
@@ -1720,19 +1720,24 @@
 		"name": "TOMULIPU / WAKUSAO"
 	},
 	{
-		"code": "74.02.19.2021",
-		"type": "desa",
-		"name": "LAHUTUTU"
-	},
-	{
-		"code": "74.02.19.2022",
-		"type": "desa",
-		"name": "BARUGA"
-	},
-	{
 		"code": "74.02.19.2026",
 		"type": "desa",
 		"name": "TAWAROLONDO"
+	},
+	{
+		"code": "74.02.19.2027",
+		"type": "desa",
+		"name": "POLANDANGI"
+	},
+	{
+		"code": "74.02.19.2028",
+		"type": "desa",
+		"name": "ANGGORO"
+	},
+	{
+		"code": "74.02.19.2029",
+		"type": "desa",
+		"name": "TETEWONUA"
 	},
 	{
 		"code": "74.02.20",
@@ -1762,7 +1767,7 @@
 	{
 		"code": "74.02.20.2005",
 		"type": "desa",
-		"name": "ASUNDE"
+		"name": "ASUNDA"
 	},
 	{
 		"code": "74.02.20.2006",
@@ -1795,6 +1800,11 @@
 		"name": "ANDOMESINGGO"
 	},
 	{
+		"code": "74.02.20.2012",
+		"type": "desa",
+		"name": "PUULOWARU"
+	},
+	{
 		"code": "74.02.20.2013",
 		"type": "desa",
 		"name": "PUUNDOHO"
@@ -1803,6 +1813,16 @@
 		"code": "74.02.20.2014",
 		"type": "desa",
 		"name": "PUNGGALUKU"
+	},
+	{
+		"code": "74.02.20.2015",
+		"type": "desa",
+		"name": "WAWORAHA"
+	},
+	{
+		"code": "74.02.20.2016",
+		"type": "desa",
+		"name": "LALOWULO"
 	},
 	{
 		"code": "74.02.21",
@@ -1815,11 +1835,6 @@
 		"name": "LAOSU"
 	},
 	{
-		"code": "74.02.21.2001",
-		"type": "desa",
-		"name": "PAKU JAYA"
-	},
-	{
 		"code": "74.02.21.2002",
 		"type": "desa",
 		"name": "PEBUNOOHA"
@@ -1827,12 +1842,7 @@
 	{
 		"code": "74.02.21.2004",
 		"type": "desa",
-		"name": "LALONGGALUKU"
-	},
-	{
-		"code": "74.02.21.2008",
-		"type": "desa",
-		"name": "MENDIKUNO"
+		"name": "LALONGGALAKU"
 	},
 	{
 		"code": "74.02.21.2009",
@@ -1840,49 +1850,14 @@
 		"name": "DIOLO"
 	},
 	{
-		"code": "74.02.21.2013",
-		"type": "desa",
-		"name": "MOROSI"
-	},
-	{
-		"code": "74.02.21.2014",
-		"type": "desa",
-		"name": "PUURUI"
-	},
-	{
-		"code": "74.02.21.2015",
-		"type": "desa",
-		"name": "TONDOWATU"
-	},
-	{
-		"code": "74.02.21.2016",
-		"type": "desa",
-		"name": "WONUAMORINI"
-	},
-	{
 		"code": "74.02.21.2018",
 		"type": "desa",
 		"name": "PEBUNOOHA DALAM"
 	},
 	{
-		"code": "74.02.21.2021",
-		"type": "desa",
-		"name": "TANGGOBU"
-	},
-	{
 		"code": "74.02.21.2023",
 		"type": "desa",
 		"name": "RUMBIA"
-	},
-	{
-		"code": "74.02.21.2026",
-		"type": "desa",
-		"name": "BESU"
-	},
-	{
-		"code": "74.02.21.2027",
-		"type": "desa",
-		"name": "PAKU"
 	},
 	{
 		"code": "74.02.21.2028",
@@ -1895,9 +1870,9 @@
 		"name": "LAOSU JAYA"
 	},
 	{
-		"code": "74.02.21.2030",
+		"code": "74.02.21.2031",
 		"type": "desa",
-		"name": "PORARA"
+		"name": "LANGGALUKU TIMUR"
 	},
 	{
 		"code": "74.02.23",
@@ -1923,6 +1898,26 @@
 		"code": "74.02.23.2004",
 		"type": "desa",
 		"name": "WALANDAWE"
+	},
+	{
+		"code": "74.02.23.2005",
+		"type": "desa",
+		"name": "PUUWIWIRANO"
+	},
+	{
+		"code": "74.02.23.2006",
+		"type": "desa",
+		"name": "TANGGOLA"
+	},
+	{
+		"code": "74.02.23.2007",
+		"type": "desa",
+		"name": "LALOMERUI"
+	},
+	{
+		"code": "74.02.23.2008",
+		"type": "desa",
+		"name": "WIAU"
 	},
 	{
 		"code": "74.02.24",
@@ -1960,6 +1955,16 @@
 		"name": "TORIKI"
 	},
 	{
+		"code": "74.02.24.2007",
+		"type": "desa",
+		"name": "LEREHOMA"
+	},
+	{
+		"code": "74.02.24.2008",
+		"type": "desa",
+		"name": "WUNDUONGOHI"
+	},
+	{
 		"code": "74.02.25",
 		"type": "kecamatan",
 		"name": "MELUHU"
@@ -1982,7 +1987,7 @@
 	{
 		"code": "74.02.25.2004",
 		"type": "desa",
-		"name": "AHUHU"
+		"name": "ABUHU"
 	},
 	{
 		"code": "74.02.25.2005",
@@ -1993,6 +1998,21 @@
 		"code": "74.02.25.2006",
 		"type": "desa",
 		"name": "LAROWIU"
+	},
+	{
+		"code": "74.02.25.2007",
+		"type": "desa",
+		"name": "AHULOA"
+	},
+	{
+		"code": "74.02.25.2008",
+		"type": "desa",
+		"name": "SAMBASULE"
+	},
+	{
+		"code": "74.02.25.2009",
+		"type": "desa",
+		"name": "LALOPISI"
 	},
 	{
 		"code": "74.02.28",
@@ -2063,6 +2083,11 @@
 		"code": "74.02.28.2012",
 		"type": "desa",
 		"name": "WARANDETE"
+	},
+	{
+		"code": "74.02.28.2014",
+		"type": "desa",
+		"name": "MATAIWOI"
 	},
 	{
 		"code": "74.02.28.2015",
@@ -2175,6 +2200,11 @@
 		"name": "ASINOWOWO"
 	},
 	{
+		"code": "74.02.32.2012",
+		"type": "desa",
+		"name": "PUUWONUA"
+	},
+	{
 		"code": "74.02.33",
 		"type": "kecamatan",
 		"name": "KAPOIALA"
@@ -2245,6 +2275,11 @@
 		"name": "KAPOIALA BARU"
 	},
 	{
+		"code": "74.02.33.2014",
+		"type": "desa",
+		"name": "LABOTOY JAYA"
+	},
+	{
 		"code": "74.02.36",
 		"type": "kecamatan",
 		"name": "LALONGGASUMEETO"
@@ -2300,6 +2335,16 @@
 		"name": "WAWOBUNGI"
 	},
 	{
+		"code": "74.02.36.2011",
+		"type": "desa",
+		"name": "BATU GONG"
+	},
+	{
+		"code": "74.02.36.2012",
+		"type": "desa",
+		"name": "WATUNGGARANDU"
+	},
+	{
 		"code": "74.02.37",
 		"type": "kecamatan",
 		"name": "ONEMBUTE"
@@ -2317,7 +2362,7 @@
 	{
 		"code": "74.02.37.2003",
 		"type": "desa",
-		"name": "NOPOOSI"
+		"name": "NONOOSI"
 	},
 	{
 		"code": "74.02.37.2004",
@@ -2353,6 +2398,261 @@
 		"code": "74.02.37.2010",
 		"type": "desa",
 		"name": "TAWAPANDERE"
+	},
+	{
+		"code": "74.02.37.2011",
+		"type": "desa",
+		"name": "ANGGALOOSI"
+	},
+	{
+		"code": "74.02.37.2012",
+		"type": "desa",
+		"name": "ANA ONEMBUTE"
+	},
+	{
+		"code": "74.02.38",
+		"type": "kecamatan",
+		"name": "PADANGGUNI"
+	},
+	{
+		"code": "74.02.38.2001",
+		"type": "desa",
+		"name": "ATODOPI"
+	},
+	{
+		"code": "74.02.38.2002",
+		"type": "desa",
+		"name": "MATAHORI"
+	},
+	{
+		"code": "74.02.38.2003",
+		"type": "desa",
+		"name": "SAMBAOSU"
+	},
+	{
+		"code": "74.02.38.2004",
+		"type": "desa",
+		"name": "MATANGGORAI"
+	},
+	{
+		"code": "74.02.38.2005",
+		"type": "desa",
+		"name": "ALOSIKA"
+	},
+	{
+		"code": "74.02.38.2006",
+		"type": "desa",
+		"name": "MEKAR JAYA"
+	},
+	{
+		"code": "74.02.38.2007",
+		"type": "desa",
+		"name": "LANGGEA"
+	},
+	{
+		"code": "74.02.38.2008",
+		"type": "desa",
+		"name": "ALEUTI"
+	},
+	{
+		"code": "74.02.38.2009",
+		"type": "desa",
+		"name": "GARUDA"
+	},
+	{
+		"code": "74.02.38.2010",
+		"type": "desa",
+		"name": "PADANGGUNI"
+	},
+	{
+		"code": "74.02.38.2011",
+		"type": "desa",
+		"name": "PADANG MEKAR"
+	},
+	{
+		"code": "74.02.39",
+		"type": "kecamatan",
+		"name": "MOROSI"
+	},
+	{
+		"code": "74.02.39.2001",
+		"type": "desa",
+		"name": "MENDIKONU"
+	},
+	{
+		"code": "74.02.39.2002",
+		"type": "desa",
+		"name": "WONUA MORINI"
+	},
+	{
+		"code": "74.02.39.2003",
+		"type": "desa",
+		"name": "BESU"
+	},
+	{
+		"code": "74.02.39.2004",
+		"type": "desa",
+		"name": "PAKU"
+	},
+	{
+		"code": "74.02.39.2005",
+		"type": "desa",
+		"name": "PUURUY"
+	},
+	{
+		"code": "74.02.39.2006",
+		"type": "desa",
+		"name": "MOROSI"
+	},
+	{
+		"code": "74.02.39.2007",
+		"type": "desa",
+		"name": "TANGGOBU"
+	},
+	{
+		"code": "74.02.39.2008",
+		"type": "desa",
+		"name": "PAKU JAYA"
+	},
+	{
+		"code": "74.02.39.2009",
+		"type": "desa",
+		"name": "TONDOWATU"
+	},
+	{
+		"code": "74.02.39.2010",
+		"type": "desa",
+		"name": "PORARA"
+	},
+	{
+		"code": "74.02.40",
+		"type": "kecamatan",
+		"name": "ANGGALOMOARE"
+	},
+	{
+		"code": "74.02.40.2001",
+		"type": "desa",
+		"name": "ANGGALOMOARE"
+	},
+	{
+		"code": "74.02.40.2002",
+		"type": "desa",
+		"name": "LASOSO"
+	},
+	{
+		"code": "74.02.40.2003",
+		"type": "desa",
+		"name": "LAKOME"
+	},
+	{
+		"code": "74.02.40.2004",
+		"type": "desa",
+		"name": "ABELISAWAH"
+	},
+	{
+		"code": "74.02.40.2005",
+		"type": "desa",
+		"name": "GALU"
+	},
+	{
+		"code": "74.02.40.2006",
+		"type": "desa",
+		"name": "TABANGGELE"
+	},
+	{
+		"code": "74.02.40.2007",
+		"type": "desa",
+		"name": "PUUSANGI"
+	},
+	{
+		"code": "74.02.40.2008",
+		"type": "desa",
+		"name": "ANDOBEU JAYA"
+	},
+	{
+		"code": "74.02.40.2009",
+		"type": "desa",
+		"name": "ANGGALOMOARE JAYA"
+	},
+	{
+		"code": "74.02.40.2010",
+		"type": "desa",
+		"name": "PUSAWA JAYA"
+	},
+	{
+		"code": "74.02.41",
+		"type": "kecamatan",
+		"name": "WONGGEDUKU BARAT"
+	},
+	{
+		"code": "74.02.41.2001",
+		"type": "desa",
+		"name": "WONGGEDUKU"
+	},
+	{
+		"code": "74.02.41.2002",
+		"type": "desa",
+		"name": "PUDAY"
+	},
+	{
+		"code": "74.02.41.2003",
+		"type": "desa",
+		"name": "WATURAY"
+	},
+	{
+		"code": "74.02.41.2004",
+		"type": "desa",
+		"name": "TOBIMEITA"
+	},
+	{
+		"code": "74.02.41.2005",
+		"type": "desa",
+		"name": "KASUKIA"
+	},
+	{
+		"code": "74.02.41.2006",
+		"type": "desa",
+		"name": "BARUGA"
+	},
+	{
+		"code": "74.02.41.2007",
+		"type": "desa",
+		"name": "TETEONA"
+	},
+	{
+		"code": "74.02.41.2008",
+		"type": "desa",
+		"name": "AMBUWIU"
+	},
+	{
+		"code": "74.02.41.2009",
+		"type": "desa",
+		"name": "LINONGGASAY"
+	},
+	{
+		"code": "74.02.41.2010",
+		"type": "desa",
+		"name": "LAMBANGI"
+	},
+	{
+		"code": "74.02.41.2011",
+		"type": "desa",
+		"name": "LAHOTUTU"
+	},
+	{
+		"code": "74.02.41.2012",
+		"type": "desa",
+		"name": "LAMOKUNI"
+	},
+	{
+		"code": "74.02.41.2013",
+		"type": "desa",
+		"name": "RANOTUNDOBU"
+	},
+	{
+		"code": "74.02.41.2014",
+		"type": "desa",
+		"name": "ANGGADOLA"
 	},
 	{
 		"code": "74.03",
@@ -2447,7 +2747,7 @@
 	{
 		"code": "74.03.13.2004",
 		"type": "desa",
-		"name": "BAKEALU"
+		"name": "BHAKEALU"
 	},
 	{
 		"code": "74.03.13.2005",
@@ -2557,7 +2857,7 @@
 	{
 		"code": "74.03.16.1006",
 		"type": "kelurahan",
-		"name": "MANGGA KUNING"
+		"name": "FOO KUNI"
 	},
 	{
 		"code": "74.03.16.1007",
@@ -2597,7 +2897,7 @@
 	{
 		"code": "74.03.17.2004",
 		"type": "desa",
-		"name": "BONE BALANO"
+		"name": "GHONE BHALENO"
 	},
 	{
 		"code": "74.03.17.2006",
@@ -2622,7 +2922,7 @@
 	{
 		"code": "74.03.18.2002",
 		"type": "desa",
-		"name": "BOLO"
+		"name": "MAABHOLU"
 	},
 	{
 		"code": "74.03.18.2003",
@@ -2642,7 +2942,7 @@
 	{
 		"code": "74.03.18.2006",
 		"type": "desa",
-		"name": "WABINTINGI"
+		"name": "LOGHIYA"
 	},
 	{
 		"code": "74.03.18.2007",
@@ -2677,12 +2977,12 @@
 	{
 		"code": "74.03.19.2001",
 		"type": "desa",
-		"name": "WAKADIA"
+		"name": "LAKAPODO"
 	},
 	{
 		"code": "74.03.19.2002",
 		"type": "desa",
-		"name": "WAKAPODO"
+		"name": "WAKADIA"
 	},
 	{
 		"code": "74.03.19.2003",
@@ -2692,7 +2992,7 @@
 	{
 		"code": "74.03.19.2005",
 		"type": "desa",
-		"name": "LAKAUDUMA"
+		"name": "BHANGKALI BARAT"
 	},
 	{
 		"code": "74.03.19.2006",
@@ -2732,7 +3032,7 @@
 	{
 		"code": "74.03.20.2005",
 		"type": "desa",
-		"name": "MABODO"
+		"name": "MAABHODO"
 	},
 	{
 		"code": "74.03.20.2006",
@@ -2807,7 +3107,7 @@
 	{
 		"code": "74.03.24.2001",
 		"type": "desa",
-		"name": "TANJUNG BATU"
+		"name": "LAMUNU"
 	},
 	{
 		"code": "74.03.24.2002",
@@ -2912,7 +3212,7 @@
 	{
 		"code": "74.03.25.2012",
 		"type": "desa",
-		"name": "WAKUMORO"
+		"name": "KOSUNDANO"
 	},
 	{
 		"code": "74.03.26",
@@ -2927,7 +3227,7 @@
 	{
 		"code": "74.03.26.2007",
 		"type": "desa",
-		"name": "BONE KACINTALA"
+		"name": "BHONE KAINSETALA"
 	},
 	{
 		"code": "74.03.26.2008",
@@ -2967,12 +3267,12 @@
 	{
 		"code": "74.03.27.2003",
 		"type": "desa",
-		"name": "LAGHONTOGHE"
+		"name": "LAMORENDE"
 	},
 	{
 		"code": "74.03.27.2004",
 		"type": "desa",
-		"name": "LAMORENDE"
+		"name": "LAGHONTOGHE"
 	},
 	{
 		"code": "74.03.27.2006",
@@ -2982,17 +3282,17 @@
 	{
 		"code": "74.03.27.2009",
 		"type": "desa",
-		"name": "MATANOOE"
+		"name": "LAANOSANDARA"
 	},
 	{
 		"code": "74.03.27.2014",
 		"type": "desa",
-		"name": "LAPADINDI"
+		"name": "OENO KANDOLI"
 	},
 	{
 		"code": "74.03.27.2015",
 		"type": "desa",
-		"name": "OEMPU"
+		"name": "WALENGKABHOLA"
 	},
 	{
 		"code": "74.03.27.2016",
@@ -3002,7 +3302,7 @@
 	{
 		"code": "74.03.27.2017",
 		"type": "desa",
-		"name": "TANJUNG"
+		"name": "MATANOOE"
 	},
 	{
 		"code": "74.03.27.2019",
@@ -3017,12 +3317,12 @@
 	{
 		"code": "74.03.28.2001",
 		"type": "desa",
-		"name": "OENGGUMORA"
+		"name": "KOGHOLIFANO"
 	},
 	{
 		"code": "74.03.28.2002",
 		"type": "desa",
-		"name": "KOHOLIFANO"
+		"name": "POLA"
 	},
 	{
 		"code": "74.03.28.2007",
@@ -3057,7 +3357,7 @@
 	{
 		"code": "74.03.30.2002",
 		"type": "desa",
-		"name": "LEMBO"
+		"name": "KAROO"
 	},
 	{
 		"code": "74.03.30.2003",
@@ -3077,7 +3377,7 @@
 	{
 		"code": "74.03.30.2006",
 		"type": "desa",
-		"name": "LAHORIO"
+		"name": "LAGHORIO"
 	},
 	{
 		"code": "74.03.31",
@@ -3117,17 +3417,17 @@
 	{
 		"code": "74.03.32.1001",
 		"type": "kelurahan",
-		"name": "LAWAMA"
+		"name": "KATUMPU"
 	},
 	{
 		"code": "74.03.32.2002",
 		"type": "desa",
-		"name": "WALEALE"
+		"name": "WAALE-ALE"
 	},
 	{
 		"code": "74.03.32.2003",
 		"type": "desa",
-		"name": "KALIDAWA"
+		"name": "KULIDAWA"
 	},
 	{
 		"code": "74.03.32.2004",
@@ -3137,7 +3437,7 @@
 	{
 		"code": "74.03.32.2005",
 		"type": "desa",
-		"name": "WATONDO"
+		"name": "OWE WAUNGKA"
 	},
 	{
 		"code": "74.03.32.2006",
@@ -3222,7 +3522,7 @@
 	{
 		"code": "74.03.37.2005",
 		"type": "desa",
-		"name": "BAHARI"
+		"name": "BHONTU-BHONTU"
 	},
 	{
 		"code": "74.04",
@@ -3237,17 +3537,17 @@
 	{
 		"code": "74.04.11.1005",
 		"type": "kelurahan",
-		"name": "WASAGA"
+		"name": "WAKOKO"
 	},
 	{
 		"code": "74.04.11.1006",
 		"type": "kelurahan",
-		"name": "KAHULUNGAYA"
+		"name": "WASAGA"
 	},
 	{
 		"code": "74.04.11.1020",
 		"type": "kelurahan",
-		"name": "WAGOLA"
+		"name": "HOLIMOMBO"
 	},
 	{
 		"code": "74.04.11.1021",
@@ -3282,7 +3582,7 @@
 	{
 		"code": "74.04.11.2002",
 		"type": "desa",
-		"name": "WANGU ANGU"
+		"name": "WAANGU-ANGU"
 	},
 	{
 		"code": "74.04.11.2003",
@@ -3417,7 +3717,7 @@
 	{
 		"code": "74.04.22.2014",
 		"type": "desa",
-		"name": "MAMBULUGO"
+		"name": "MABULUGO"
 	},
 	{
 		"code": "74.04.22.2015",
@@ -3552,7 +3852,7 @@
 	{
 		"code": "74.04.24.2012",
 		"type": "desa",
-		"name": "SIOTAPINA"
+		"name": "SIONTAPINA"
 	},
 	{
 		"code": "74.04.24.2013",
@@ -3727,7 +4027,7 @@
 	{
 		"code": "74.04.29.2005",
 		"type": "desa",
-		"name": "KOHOLIMOMBANA"
+		"name": "KOHOLIMEMBONA"
 	},
 	{
 		"code": "74.04.29.2006",
@@ -4020,24 +4320,9 @@
 		"name": "ALENGGE AGUNG"
 	},
 	{
-		"code": "74.05.03.2006",
-		"type": "desa",
-		"name": "ANESE"
-	},
-	{
 		"code": "74.05.03.2010",
 		"type": "desa",
 		"name": "BUMI RAYA"
-	},
-	{
-		"code": "74.05.03.2011",
-		"type": "desa",
-		"name": "BEKENGGASU"
-	},
-	{
-		"code": "74.05.03.2013",
-		"type": "desa",
-		"name": "BIMA MAROA"
 	},
 	{
 		"code": "74.05.03.2014",
@@ -4050,54 +4335,14 @@
 		"name": "LALONGGOMBU"
 	},
 	{
-		"code": "74.05.03.2016",
-		"type": "desa",
-		"name": "LAPOA INDAH"
-	},
-	{
-		"code": "74.05.03.2017",
-		"type": "desa",
-		"name": "MATAIWOI"
-	},
-	{
-		"code": "74.05.03.2021",
-		"type": "desa",
-		"name": "PAPAWU"
-	},
-	{
-		"code": "74.05.03.2025",
-		"type": "desa",
-		"name": "WATUMOKALA"
-	},
-	{
 		"code": "74.05.03.2026",
 		"type": "desa",
 		"name": "WUNDUWATU"
 	},
 	{
-		"code": "74.05.03.2027",
-		"type": "desa",
-		"name": "WAWOBENDE"
-	},
-	{
-		"code": "74.05.03.2028",
-		"type": "desa",
-		"name": "MATEUPE"
-	},
-	{
-		"code": "74.05.03.2030",
-		"type": "desa",
-		"name": "ADAYU"
-	},
-	{
 		"code": "74.05.03.2031",
 		"type": "desa",
 		"name": "PUNGGAPU"
-	},
-	{
-		"code": "74.05.03.2032",
-		"type": "desa",
-		"name": "PUUNDOHO"
 	},
 	{
 		"code": "74.05.03.2033",
@@ -4185,11 +4430,6 @@
 		"name": "SANGGI-SANGGI"
 	},
 	{
-		"code": "74.05.04.2033",
-		"type": "desa",
-		"name": "AHUANGGULURI"
-	},
-	{
 		"code": "74.05.05",
 		"type": "kecamatan",
 		"name": "LANDONO"
@@ -4200,16 +4440,6 @@
 		"name": "LANDONO"
 	},
 	{
-		"code": "74.05.05.2003",
-		"type": "desa",
-		"name": "WAWOBENDE"
-	},
-	{
-		"code": "74.05.05.2006",
-		"type": "desa",
-		"name": "ASARIA"
-	},
-	{
 		"code": "74.05.05.2008",
 		"type": "desa",
 		"name": "LALONGGAPU"
@@ -4218,11 +4448,6 @@
 		"code": "74.05.05.2009",
 		"type": "desa",
 		"name": "MATABENUA / WATAWUNUA"
-	},
-	{
-		"code": "74.05.05.2013",
-		"type": "desa",
-		"name": "WATU-WATU"
 	},
 	{
 		"code": "74.05.05.2014",
@@ -4238,16 +4463,6 @@
 		"code": "74.05.05.2016",
 		"type": "desa",
 		"name": "AMOTOWO"
-	},
-	{
-		"code": "74.05.05.2020",
-		"type": "desa",
-		"name": "SABULAKOA"
-	},
-	{
-		"code": "74.05.05.2021",
-		"type": "desa",
-		"name": "KORONUA"
 	},
 	{
 		"code": "74.05.05.2022",
@@ -4267,17 +4482,7 @@
 	{
 		"code": "74.05.05.2028",
 		"type": "desa",
-		"name": "WONUKAO"
-	},
-	{
-		"code": "74.05.05.2029",
-		"type": "desa",
-		"name": "TETENGGABO"
-	},
-	{
-		"code": "74.05.05.2030",
-		"type": "desa",
-		"name": "TALUMBINGA"
+		"name": "WONUA KOA"
 	},
 	{
 		"code": "74.05.05.2032",
@@ -4293,11 +4498,6 @@
 		"code": "74.05.05.2042",
 		"type": "desa",
 		"name": "MORINI MULYA"
-	},
-	{
-		"code": "74.05.05.2043",
-		"type": "desa",
-		"name": "ULUSABULAKOA"
 	},
 	{
 		"code": "74.05.06",
@@ -4600,54 +4800,9 @@
 		"name": "RODA"
 	},
 	{
-		"code": "74.05.09.2015",
-		"type": "desa",
-		"name": "LAMBANGI"
-	},
-	{
 		"code": "74.05.09.2016",
 		"type": "desa",
 		"name": "LAMAPU"
-	},
-	{
-		"code": "74.05.09.2017",
-		"type": "desa",
-		"name": "RUMBA RUMBA"
-	},
-	{
-		"code": "74.05.09.2018",
-		"type": "desa",
-		"name": "TUMBU TUMBU JAYA"
-	},
-	{
-		"code": "74.05.09.2019",
-		"type": "desa",
-		"name": "NGAPAWALI"
-	},
-	{
-		"code": "74.05.09.2020",
-		"type": "desa",
-		"name": "BATU PUTIH"
-	},
-	{
-		"code": "74.05.09.2021",
-		"type": "desa",
-		"name": "RAMBU RAMBU"
-	},
-	{
-		"code": "74.05.09.2022",
-		"type": "desa",
-		"name": "AMPERA"
-	},
-	{
-		"code": "74.05.09.2023",
-		"type": "desa",
-		"name": "AMOLENGU"
-	},
-	{
-		"code": "74.05.09.2024",
-		"type": "desa",
-		"name": "LANGGAPULU"
 	},
 	{
 		"code": "74.05.09.2025",
@@ -4658,11 +4813,6 @@
 		"code": "74.05.09.2026",
 		"type": "desa",
 		"name": "WAWOOSU"
-	},
-	{
-		"code": "74.05.09.2027",
-		"type": "desa",
-		"name": "TORODALE"
 	},
 	{
 		"code": "74.05.09.2028",
@@ -4683,11 +4833,6 @@
 		"code": "74.05.09.2031",
 		"type": "desa",
 		"name": "SARANDUA"
-	},
-	{
-		"code": "74.05.09.2032",
-		"type": "desa",
-		"name": "ULUNESE"
 	},
 	{
 		"code": "74.05.10",
@@ -4888,11 +5033,6 @@
 		"code": "74.05.11.2018",
 		"type": "desa",
 		"name": "RUMBI-RUMBIA"
-	},
-	{
-		"code": "74.05.11.2019",
-		"type": "desa",
-		"name": "MATA BONDU"
 	},
 	{
 		"code": "74.05.11.2020",
@@ -5390,11 +5530,6 @@
 		"name": "MATA WOLASI"
 	},
 	{
-		"code": "74.05.18.2006",
-		"type": "desa",
-		"name": "RANOWILA"
-	},
-	{
 		"code": "74.05.18.2007",
 		"type": "desa",
 		"name": "AUNUPE"
@@ -5633,6 +5768,161 @@
 		"code": "74.05.22.2009",
 		"type": "desa",
 		"name": "TUNDUNO"
+	},
+	{
+		"code": "74.05.23",
+		"type": "kecamatan",
+		"name": "KOLONO TIMUR"
+	},
+	{
+		"code": "74.05.23.2001",
+		"type": "desa",
+		"name": "RAMBU-RAMBU"
+	},
+	{
+		"code": "74.05.23.2002",
+		"type": "desa",
+		"name": "LAMBANGI"
+	},
+	{
+		"code": "74.05.23.2003",
+		"type": "desa",
+		"name": "TUMBU-TUMBU JAYA"
+	},
+	{
+		"code": "74.05.23.2004",
+		"type": "desa",
+		"name": "NGAPAWALI"
+	},
+	{
+		"code": "74.05.23.2005",
+		"type": "desa",
+		"name": "BATUH PUTIH"
+	},
+	{
+		"code": "74.05.23.2006",
+		"type": "desa",
+		"name": "RUMBA-RUMBA"
+	},
+	{
+		"code": "74.05.23.2007",
+		"type": "desa",
+		"name": "AMPERA"
+	},
+	{
+		"code": "74.05.23.2008",
+		"type": "desa",
+		"name": "AMOLENGU"
+	},
+	{
+		"code": "74.05.23.2009",
+		"type": "desa",
+		"name": "ULUNESE"
+	},
+	{
+		"code": "74.05.23.2010",
+		"type": "desa",
+		"name": "LANGGAPULU"
+	},
+	{
+		"code": "74.05.24",
+		"type": "kecamatan",
+		"name": "SABULAKOA"
+	},
+	{
+		"code": "74.05.24.2001",
+		"type": "desa",
+		"name": "SABULAKOA"
+	},
+	{
+		"code": "74.05.24.2002",
+		"type": "desa",
+		"name": "TALUMBINGA"
+	},
+	{
+		"code": "74.05.24.2003",
+		"type": "desa",
+		"name": "TETENGGABO"
+	},
+	{
+		"code": "74.05.24.2004",
+		"type": "desa",
+		"name": "WATU-WATU"
+	},
+	{
+		"code": "74.05.24.2005",
+		"type": "desa",
+		"name": "KAROONUA"
+	},
+	{
+		"code": "74.05.24.2006",
+		"type": "desa",
+		"name": "ULU SABULAKOA"
+	},
+	{
+		"code": "74.05.24.2007",
+		"type": "desa",
+		"name": "ASARIA"
+	},
+	{
+		"code": "74.05.24.2008",
+		"type": "desa",
+		"name": "WAWOBENDE"
+	},
+	{
+		"code": "74.05.25",
+		"type": "kecamatan",
+		"name": "ANDOOLO BARAT"
+	},
+	{
+		"code": "74.05.25.2001",
+		"type": "desa",
+		"name": "PAPAWU"
+	},
+	{
+		"code": "74.05.25.2002",
+		"type": "desa",
+		"name": "ANESE"
+	},
+	{
+		"code": "74.05.25.2003",
+		"type": "desa",
+		"name": "BEKENGGASU"
+	},
+	{
+		"code": "74.05.25.2004",
+		"type": "desa",
+		"name": "WATUMOKALA"
+	},
+	{
+		"code": "74.05.25.2005",
+		"type": "desa",
+		"name": "MATAUPE"
+	},
+	{
+		"code": "74.05.25.2006",
+		"type": "desa",
+		"name": "BIMAMAROA"
+	},
+	{
+		"code": "74.05.25.2007",
+		"type": "desa",
+		"name": "WAWOBENDE"
+	},
+	{
+		"code": "74.05.25.2008",
+		"type": "desa",
+		"name": "LAPOA INDAH"
+	},
+	{
+		"code": "74.05.25.2009",
+		"type": "desa",
+		"name": "PUUNDOHO"
+	},
+	{
+		"code": "74.05.25.2010",
+		"type": "desa",
+		"name": "MATAIWOI"
 	},
 	{
 		"code": "74.06",
@@ -6870,6 +7160,11 @@
 		"name": "MOLA NELAYAN BHAKTI"
 	},
 	{
+		"code": "74.07.05.2031",
+		"type": "desa",
+		"name": "LIYA BAHARI INDAH"
+	},
+	{
 		"code": "74.07.06",
 		"type": "kecamatan",
 		"name": "KALEDUPA SELATAN"
@@ -6980,11 +7275,6 @@
 		"name": "KAHIYANGA"
 	},
 	{
-		"code": "74.07.07.2010",
-		"type": "desa",
-		"name": "PALAHIDU BARAT"
-	},
-	{
 		"code": "74.07.08",
 		"type": "kecamatan",
 		"name": "TOGO BINONGKO"
@@ -7013,11 +7303,6 @@
 		"code": "74.07.08.2005",
 		"type": "desa",
 		"name": "HAKA"
-	},
-	{
-		"code": "74.07.08.2006",
-		"type": "desa",
-		"name": "TOGO BINONGKO"
 	},
 	{
 		"code": "74.08",
@@ -7657,37 +7942,37 @@
 	{
 		"code": "74.08.13",
 		"type": "kecamatan",
-		"name": "TOLALA"
+		"name": "KATOI"
 	},
 	{
 		"code": "74.08.13.2001",
 		"type": "desa",
-		"name": "LAWAKI JAYA"
+		"name": "LANIPA - NIPA"
 	},
 	{
 		"code": "74.08.13.2002",
 		"type": "desa",
-		"name": "PATIKALA"
+		"name": "UJUNG TOBAKU"
 	},
 	{
 		"code": "74.08.13.2003",
 		"type": "desa",
-		"name": "TOLALA"
+		"name": "KATOI"
 	},
 	{
 		"code": "74.08.13.2004",
 		"type": "desa",
-		"name": "BAHARI"
+		"name": "SIMBULA"
 	},
 	{
 		"code": "74.08.13.2005",
 		"type": "desa",
-		"name": "LELEULU"
+		"name": "MARUGE"
 	},
 	{
 		"code": "74.08.13.2006",
 		"type": "desa",
-		"name": "LOKA"
+		"name": "LAMBUNO"
 	},
 	{
 		"code": "74.08.14",
@@ -7732,37 +8017,37 @@
 	{
 		"code": "74.08.15",
 		"type": "kecamatan",
-		"name": "KATOI"
+		"name": "TOLALA"
 	},
 	{
 		"code": "74.08.15.2001",
 		"type": "desa",
-		"name": "LANIPA - NIPA"
+		"name": "LAWAKI JAYA"
 	},
 	{
 		"code": "74.08.15.2002",
 		"type": "desa",
-		"name": "UJUNG TOBAKU"
+		"name": "PATIKALA"
 	},
 	{
 		"code": "74.08.15.2003",
 		"type": "desa",
-		"name": "KATOI"
+		"name": "TOLALA"
 	},
 	{
 		"code": "74.08.15.2004",
 		"type": "desa",
-		"name": "SIMBULA"
+		"name": "BAHARI"
 	},
 	{
 		"code": "74.08.15.2005",
 		"type": "desa",
-		"name": "MARUGE"
+		"name": "LELEULU"
 	},
 	{
 		"code": "74.08.15.2006",
 		"type": "desa",
-		"name": "LAMBUNO"
+		"name": "LOKA"
 	},
 	{
 		"code": "74.09",
@@ -7865,6 +8150,11 @@
 		"name": "ALAA WANGGUDU"
 	},
 	{
+		"code": "74.09.01.2037",
+		"type": "desa",
+		"name": "OHEO TRANS"
+	},
+	{
 		"code": "74.09.02",
 		"type": "kecamatan",
 		"name": "WIWIRANO"
@@ -7907,7 +8197,7 @@
 	{
 		"code": "74.09.02.2012",
 		"type": "desa",
-		"name": "MACUMELEWE"
+		"name": "WACUMELEWE"
 	},
 	{
 		"code": "74.09.02.2013",
@@ -7922,12 +8212,12 @@
 	{
 		"code": "74.09.02.2020",
 		"type": "desa",
-		"name": "WAWOSANGI"
+		"name": "WAWONSANGI"
 	},
 	{
 		"code": "74.09.02.2021",
 		"type": "desa",
-		"name": "WAWONTOAHA"
+		"name": "WAWONTOAHO"
 	},
 	{
 		"code": "74.09.02.2022",
@@ -7943,11 +8233,6 @@
 		"code": "74.09.02.2024",
 		"type": "desa",
 		"name": "PADALERE UTAMA"
-	},
-	{
-		"code": "74.09.02.2026",
-		"type": "desa",
-		"name": "HIALU"
 	},
 	{
 		"code": "74.09.03",
@@ -8047,7 +8332,7 @@
 	{
 		"code": "74.09.04.2006",
 		"type": "desa",
-		"name": "TAPUNGGAEYA"
+		"name": "TAPUNGGAYA"
 	},
 	{
 		"code": "74.09.04.2007",
@@ -8143,6 +8428,16 @@
 		"code": "74.09.05.2026",
 		"type": "desa",
 		"name": "MUARA TINOBU"
+	},
+	{
+		"code": "74.09.05.2030",
+		"type": "desa",
+		"name": "MAROMBO PANTAI"
+	},
+	{
+		"code": "74.09.05.2031",
+		"type": "desa",
+		"name": "TOKOWUTA"
 	},
 	{
 		"code": "74.09.06",
@@ -8265,11 +8560,6 @@
 		"name": "ULU SAWA"
 	},
 	{
-		"code": "74.09.07.2020",
-		"type": "desa",
-		"name": "SAMBA SULE"
-	},
-	{
 		"code": "74.09.07.2021",
 		"type": "desa",
 		"name": "TUDUNGANO"
@@ -8302,7 +8592,7 @@
 	{
 		"code": "74.09.08.2001",
 		"type": "desa",
-		"name": "LAROONAHA"
+		"name": "LARONAHA"
 	},
 	{
 		"code": "74.09.08.2002",
@@ -8370,14 +8660,14 @@
 		"name": "TINONDO"
 	},
 	{
-		"code": "74.09.08.2017",
-		"type": "desa",
-		"name": "OHEO TRANS"
-	},
-	{
 		"code": "74.09.08.2018",
 		"type": "desa",
 		"name": "HOROE"
+	},
+	{
+		"code": "74.09.08.2019",
+		"type": "desa",
+		"name": "TADOLOIYO TRANS"
 	},
 	{
 		"code": "74.09.09",
@@ -8535,6 +8825,11 @@
 		"name": "KAPOLANO"
 	},
 	{
+		"code": "74.09.10.2015",
+		"type": "desa",
+		"name": "SAMBASULE"
+	},
+	{
 		"code": "74.09.11",
 		"type": "kecamatan",
 		"name": "WAWOLESEA"
@@ -8573,11 +8868,6 @@
 		"code": "74.09.11.2007",
 		"type": "desa",
 		"name": "OTIPULU"
-	},
-	{
-		"code": "74.09.11.2008",
-		"type": "desa",
-		"name": "TOKOWUTA"
 	},
 	{
 		"code": "74.09.11.2009",
@@ -8675,6 +8965,11 @@
 		"name": "MATA BENUA"
 	},
 	{
+		"code": "74.09.13.2011",
+		"type": "desa",
+		"name": "HIALU"
+	},
+	{
 		"code": "74.10",
 		"type": "kabupaten",
 		"name": "KAB. BUTON UTARA"
@@ -8757,7 +9052,7 @@
 	{
 		"code": "74.10.01.2011",
 		"type": "desa",
-		"name": "LINSOLIWU"
+		"name": "LINSOWU"
 	},
 	{
 		"code": "74.10.01.2013",
@@ -8817,7 +9112,7 @@
 	{
 		"code": "74.10.02.2002",
 		"type": "desa",
-		"name": "LAHAMOKO JAYA"
+		"name": "LAHUMOKO"
 	},
 	{
 		"code": "74.10.02.2003",
@@ -8827,7 +9122,7 @@
 	{
 		"code": "74.10.02.2005",
 		"type": "desa",
-		"name": "PONGKAWULU"
+		"name": "PONGKOWULU"
 	},
 	{
 		"code": "74.10.02.2006",
@@ -8837,7 +9132,7 @@
 	{
 		"code": "74.10.02.2007",
 		"type": "desa",
-		"name": "KONDO"
+		"name": "KONDE"
 	},
 	{
 		"code": "74.10.02.2008",
@@ -8892,12 +9187,12 @@
 	{
 		"code": "74.10.03.2004",
 		"type": "desa",
-		"name": "LANGGERE"
+		"name": "LANGERE"
 	},
 	{
 		"code": "74.10.03.2005",
 		"type": "desa",
-		"name": "KOEFISINO"
+		"name": "KOEPISINO"
 	},
 	{
 		"code": "74.10.03.2007",
@@ -8912,7 +9207,7 @@
 	{
 		"code": "74.10.03.2009",
 		"type": "desa",
-		"name": "SOLOI AGUNG"
+		"name": "EENSUMALA"
 	},
 	{
 		"code": "74.10.03.2013",
@@ -8977,12 +9272,12 @@
 	{
 		"code": "74.10.04.2007",
 		"type": "desa",
-		"name": "SOIOI AGUNG"
+		"name": "SOLOY AGUNG"
 	},
 	{
 		"code": "74.10.04.2008",
 		"type": "desa",
-		"name": "BUMI LAPERA"
+		"name": "BUMI LAPERO"
 	},
 	{
 		"code": "74.10.04.2009",
@@ -9022,7 +9317,7 @@
 	{
 		"code": "74.10.05.2001",
 		"type": "desa",
-		"name": "KOROLABU"
+		"name": "KUROLABU"
 	},
 	{
 		"code": "74.10.05.2002",
@@ -9047,7 +9342,7 @@
 	{
 		"code": "74.10.05.2006",
 		"type": "desa",
-		"name": "PETETEA"
+		"name": "PETETEA'A"
 	},
 	{
 		"code": "74.10.05.2007",
@@ -9062,7 +9357,7 @@
 	{
 		"code": "74.10.05.2009",
 		"type": "desa",
-		"name": "ULU NAMBO"
+		"name": "ULUNAMBO"
 	},
 	{
 		"code": "74.10.05.2010",
@@ -9527,7 +9822,7 @@
 	{
 		"code": "74.11.06.2005",
 		"type": "desa",
-		"name": "WESOLO"
+		"name": "WESALO"
 	},
 	{
 		"code": "74.11.07",
@@ -9622,7 +9917,7 @@
 	{
 		"code": "74.11.08.2010",
 		"type": "desa",
-		"name": "LALOMBAIA"
+		"name": "LALOMBAI"
 	},
 	{
 		"code": "74.11.08.2014",
@@ -9757,7 +10052,7 @@
 	{
 		"code": "74.11.10.2010",
 		"type": "desa",
-		"name": "WATUOHA"
+		"name": "WATUWOHA"
 	},
 	{
 		"code": "74.11.10.2011",
@@ -9802,7 +10097,7 @@
 	{
 		"code": "74.11.11.2007",
 		"type": "desa",
-		"name": "AHILOLU"
+		"name": "AHILULU"
 	},
 	{
 		"code": "74.11.11.2008",
@@ -9950,6 +10245,36 @@
 		"name": "MATA BAHO"
 	},
 	{
+		"code": "74.12.01.2011",
+		"type": "desa",
+		"name": "LANOWATU"
+	},
+	{
+		"code": "74.12.01.2012",
+		"type": "desa",
+		"name": "LANTULA"
+	},
+	{
+		"code": "74.12.01.2013",
+		"type": "desa",
+		"name": "PASIR PUTIH"
+	},
+	{
+		"code": "74.12.01.2014",
+		"type": "desa",
+		"name": "LANGKOWALA"
+	},
+	{
+		"code": "74.12.01.2015",
+		"type": "desa",
+		"name": "KAWA-KAWALI"
+	},
+	{
+		"code": "74.12.01.2016",
+		"type": "desa",
+		"name": "LANGARA TANJUNG BATU"
+	},
+	{
 		"code": "74.12.02",
 		"type": "kecamatan",
 		"name": "WAWONII UTARA"
@@ -10033,6 +10358,31 @@
 		"code": "74.12.02.2016",
 		"type": "desa",
 		"name": "WAWOBEAU"
+	},
+	{
+		"code": "74.12.02.2017",
+		"type": "desa",
+		"name": "TAPUM BATU"
+	},
+	{
+		"code": "74.12.02.2018",
+		"type": "desa",
+		"name": "PALINGI TIMUR"
+	},
+	{
+		"code": "74.12.02.2019",
+		"type": "desa",
+		"name": "TONGALERE"
+	},
+	{
+		"code": "74.12.02.2020",
+		"type": "desa",
+		"name": "TEPOLAWA"
+	},
+	{
+		"code": "74.12.02.2021",
+		"type": "desa",
+		"name": "SAWA INDAH"
 	},
 	{
 		"code": "74.12.03",
@@ -10145,6 +10495,11 @@
 		"name": "LEMBONO"
 	},
 	{
+		"code": "74.12.04.2011",
+		"type": "desa",
+		"name": "SABURANO"
+	},
+	{
 		"code": "74.12.05",
 		"type": "kecamatan",
 		"name": "WAWONII TENGGARA"
@@ -10195,11 +10550,6 @@
 		"name": "SUKARELA JAYA"
 	},
 	{
-		"code": "74.12.05.2010",
-		"type": "desa",
-		"name": "SAINOA JAYA"
-	},
-	{
 		"code": "74.12.05.2011",
 		"type": "desa",
 		"name": "SAINOA INDAH"
@@ -10213,6 +10563,21 @@
 		"code": "74.12.05.2013",
 		"type": "desa",
 		"name": "SINAR MASOLO"
+	},
+	{
+		"code": "74.12.05.2014",
+		"type": "desa",
+		"name": "WATURAI"
+	},
+	{
+		"code": "74.12.05.2015",
+		"type": "desa",
+		"name": "BAHABA"
+	},
+	{
+		"code": "74.12.05.2016",
+		"type": "desa",
+		"name": "KEKEA"
 	},
 	{
 		"code": "74.12.06",
@@ -10270,6 +10635,11 @@
 		"name": "WAWOONE"
 	},
 	{
+		"code": "74.12.06.2011",
+		"type": "desa",
+		"name": "LANGGARA JAYA"
+	},
+	{
 		"code": "74.12.07",
 		"type": "kecamatan",
 		"name": "WAWONII TENGAH"
@@ -10323,6 +10693,16 @@
 		"code": "74.12.07.2010",
 		"type": "desa",
 		"name": "PESUE"
+	},
+	{
+		"code": "74.12.07.2011",
+		"type": "desa",
+		"name": "PUURAU"
+	},
+	{
+		"code": "74.12.07.2012",
+		"type": "desa",
+		"name": "BAHO PUU WULU"
 	},
 	{
 		"code": "74.13",
@@ -10882,7 +11262,7 @@
 	{
 		"code": "74.14.01.2012",
 		"type": "desa",
-		"name": "WARA"
+		"name": "WARAA"
 	},
 	{
 		"code": "74.14.01.2013",
@@ -11122,7 +11502,7 @@
 	{
 		"code": "74.14.05.2003",
 		"type": "desa",
-		"name": "TALAGA DUA"
+		"name": "TALAGA II"
 	},
 	{
 		"code": "74.14.05.2005",
@@ -11177,7 +11557,7 @@
 	{
 		"code": "74.14.06.2007",
 		"type": "desa",
-		"name": "WAKE KEA"
+		"name": "WAKEA KEA"
 	},
 	{
 		"code": "74.14.06.2008",

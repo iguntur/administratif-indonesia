@@ -270,11 +270,6 @@
 		"name": "BAJA"
 	},
 	{
-		"code": "82.01.02.2017",
-		"type": "desa",
-		"name": "TUA KARA"
-	},
-	{
 		"code": "82.01.02.2018",
 		"type": "desa",
 		"name": "KAHATOLA"
@@ -5817,7 +5812,7 @@
 	{
 		"code": "82.71.03.1012",
 		"type": "kelurahan",
-		"name": "SANGADJI"
+		"name": "SANGAJI"
 	},
 	{
 		"code": "82.71.03.1013",
@@ -5862,7 +5857,7 @@
 	{
 		"code": "82.71.04",
 		"type": "kecamatan",
-		"name": "PULAU MOTI"
+		"name": "MOTI"
 	},
 	{
 		"code": "82.71.04.1001",
@@ -5922,7 +5917,7 @@
 	{
 		"code": "82.71.05.1005",
 		"type": "kelurahan",
-		"name": "PANTE SAGU"
+		"name": "PANTAI SAGU"
 	},
 	{
 		"code": "82.71.05.1006",

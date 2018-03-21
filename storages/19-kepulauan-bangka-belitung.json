@@ -100,6 +100,26 @@
 		"name": "BUKIT KETOK"
 	},
 	{
+		"code": "19.01.02.1009",
+		"type": "kelurahan",
+		"name": "REMODONG INDAH"
+	},
+	{
+		"code": "19.01.02.1010",
+		"type": "kelurahan",
+		"name": "AIR ASAM"
+	},
+	{
+		"code": "19.01.02.1011",
+		"type": "kelurahan",
+		"name": "MANTUNG"
+	},
+	{
+		"code": "19.01.02.1012",
+		"type": "kelurahan",
+		"name": "BELINYU"
+	},
+	{
 		"code": "19.01.02.2004",
 		"type": "desa",
 		"name": "GUNUNG MUDA"
@@ -512,7 +532,7 @@
 	{
 		"code": "19.02.01.2013",
 		"type": "desa",
-		"name": "AIK PALEMPANG JAYA"
+		"name": "AIK PELEMPANG JAYA"
 	},
 	{
 		"code": "19.02.01.2014",
@@ -572,17 +592,17 @@
 	{
 		"code": "19.02.02.2009",
 		"type": "desa",
-		"name": "PULAUSELIU"
+		"name": "PULAU SELIU"
 	},
 	{
 		"code": "19.02.02.2010",
 		"type": "desa",
-		"name": "PULAUSUMEDANG"
+		"name": "PULAU SUMEDANG"
 	},
 	{
 		"code": "19.02.02.2011",
 		"type": "desa",
-		"name": "GUNUNGRITING"
+		"name": "GUNUNG RITING"
 	},
 	{
 		"code": "19.02.02.2012",
@@ -612,7 +632,7 @@
 	{
 		"code": "19.02.03.2004",
 		"type": "desa",
-		"name": "PULAUGERSIK"
+		"name": "PULAU GERSIK"
 	},
 	{
 		"code": "19.02.04",
@@ -642,7 +662,7 @@
 	{
 		"code": "19.02.04.2005",
 		"type": "desa",
-		"name": "TANJUNGBINGA"
+		"name": "TANJUNG BINGA"
 	},
 	{
 		"code": "19.02.04.2006",
@@ -652,7 +672,7 @@
 	{
 		"code": "19.02.04.2007",
 		"type": "desa",
-		"name": "SUNGAIPADANG"
+		"name": "SUNGAI PADANG"
 	},
 	{
 		"code": "19.02.04.2008",
@@ -687,7 +707,7 @@
 	{
 		"code": "19.02.05.2003",
 		"type": "desa",
-		"name": "SUNGAISAMAK"
+		"name": "SUNGAI SAMAK"
 	},
 	{
 		"code": "19.02.05.2004",
@@ -807,7 +827,7 @@
 	{
 		"code": "19.03.03.2001",
 		"type": "desa",
-		"name": "AIR GEGAS"
+		"name": "AIRGEGAS"
 	},
 	{
 		"code": "19.03.03.2002",
@@ -842,7 +862,7 @@
 	{
 		"code": "19.03.03.2008",
 		"type": "desa",
-		"name": "AIR BARA"
+		"name": "AIRBARA"
 	},
 	{
 		"code": "19.03.03.2009",
@@ -972,7 +992,7 @@
 	{
 		"code": "19.03.06.2005",
 		"type": "desa",
-		"name": "BUKITTERAP"
+		"name": "BUKIT TERAP"
 	},
 	{
 		"code": "19.03.07",
@@ -1202,7 +1222,7 @@
 	{
 		"code": "19.04.03.2010",
 		"type": "desa",
-		"name": "RAMADHON"
+		"name": "ROMADHON"
 	},
 	{
 		"code": "19.04.03.2011",
@@ -1437,7 +1457,7 @@
 	{
 		"code": "19.05.02.2004",
 		"type": "desa",
-		"name": "PARADONG"
+		"name": "PERADONG"
 	},
 	{
 		"code": "19.05.02.2005",
@@ -1767,7 +1787,7 @@
 	{
 		"code": "19.06.01.2010",
 		"type": "desa",
-		"name": "PULAU BUKU LIMAU"
+		"name": "BUKU LIMAU"
 	},
 	{
 		"code": "19.06.01.2012",
@@ -1792,7 +1812,7 @@
 	{
 		"code": "19.06.02.2002",
 		"type": "desa",
-		"name": "SELINSING"
+		"name": "SELINGSING"
 	},
 	{
 		"code": "19.06.02.2003",
@@ -1852,7 +1872,7 @@
 	{
 		"code": "19.06.04.2001",
 		"type": "desa",
-		"name": "MENTAWA"
+		"name": "MENTAWAK"
 	},
 	{
 		"code": "19.06.04.2002",

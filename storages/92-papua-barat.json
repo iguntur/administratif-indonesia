@@ -217,7 +217,7 @@
 	{
 		"code": "92.01.06.2005",
 		"type": "desa",
-		"name": "KASIM"
+		"name": "PULAU KASIM"
 	},
 	{
 		"code": "92.01.06.2010",
@@ -347,7 +347,7 @@
 	{
 		"code": "92.01.08.2008",
 		"type": "desa",
-		"name": "KLALOMON"
+		"name": "KLAMONO"
 	},
 	{
 		"code": "92.01.08.2009",
@@ -367,7 +367,7 @@
 	{
 		"code": "92.01.08.2020",
 		"type": "desa",
-		"name": "MALASMILIY"
+		"name": "MLASMILY"
 	},
 	{
 		"code": "92.01.08.2021",
@@ -537,7 +537,7 @@
 	{
 		"code": "92.01.14.2002",
 		"type": "desa",
-		"name": "KLOTLOF"
+		"name": "KLOTLOL"
 	},
 	{
 		"code": "92.01.14.2007",
@@ -557,7 +557,7 @@
 	{
 		"code": "92.01.14.2012",
 		"type": "desa",
-		"name": "MASMAPOP"
+		"name": "MASMASPOP"
 	},
 	{
 		"code": "92.01.17",
@@ -622,12 +622,12 @@
 	{
 		"code": "92.01.18.2008",
 		"type": "desa",
-		"name": "AYOLOKLE"
+		"name": "BYAKLOKFLE"
 	},
 	{
 		"code": "92.01.18.2009",
 		"type": "desa",
-		"name": "TOTJIN"
+		"name": "TBOTJIN"
 	},
 	{
 		"code": "92.01.18.2010",
@@ -662,12 +662,12 @@
 	{
 		"code": "92.01.18.2019",
 		"type": "desa",
-		"name": "BETWAF"
+		"name": "BETWAFT"
 	},
 	{
 		"code": "92.01.18.2025",
 		"type": "desa",
-		"name": "COKHIF"
+		"name": "COKIF"
 	},
 	{
 		"code": "92.01.20",
@@ -697,7 +697,7 @@
 	{
 		"code": "92.01.20.2009",
 		"type": "desa",
-		"name": "BOUSUI"
+		"name": "BOSI"
 	},
 	{
 		"code": "92.01.20.2010",
@@ -1002,7 +1002,7 @@
 	{
 		"code": "92.01.45.2002",
 		"type": "desa",
-		"name": "KLAWAREN"
+		"name": "KLAWREN"
 	},
 	{
 		"code": "92.01.45.2003",
@@ -1062,7 +1062,7 @@
 	{
 		"code": "92.01.46.2007",
 		"type": "desa",
-		"name": "BOUWOI"
+		"name": "BOLWI"
 	},
 	{
 		"code": "92.01.47",
@@ -1242,17 +1242,17 @@
 	{
 		"code": "92.01.51.2001",
 		"type": "desa",
-		"name": "KELADUM/MALADUK"
+		"name": "MALADUK"
 	},
 	{
 		"code": "92.01.51.2002",
 		"type": "desa",
-		"name": "KLAMONO OLIE"
+		"name": "KLAMONO OIL"
 	},
 	{
 		"code": "92.01.51.2003",
 		"type": "desa",
-		"name": "BARROS"
+		"name": "BAR ROS"
 	},
 	{
 		"code": "92.01.51.2004",
@@ -1262,7 +1262,7 @@
 	{
 		"code": "92.01.51.2005",
 		"type": "desa",
-		"name": "KLAWILIBE"
+		"name": "KLAWILI BE"
 	},
 	{
 		"code": "92.01.52",
@@ -1287,7 +1287,7 @@
 	{
 		"code": "92.01.52.2004",
 		"type": "desa",
-		"name": "KLAZELT"
+		"name": "KLAZELTH"
 	},
 	{
 		"code": "92.01.52.2005",
@@ -1467,7 +1467,7 @@
 	{
 		"code": "92.02.03.2008",
 		"type": "desa",
-		"name": "UMCEM"
+		"name": "UMCEN"
 	},
 	{
 		"code": "92.02.03.2009",
@@ -1537,12 +1537,12 @@
 	{
 		"code": "92.02.03.2022",
 		"type": "desa",
-		"name": "SIYAU"
+		"name": "SYOU"
 	},
 	{
 		"code": "92.02.03.2023",
 		"type": "desa",
-		"name": "INDONDEY"
+		"name": "INDONBEY"
 	},
 	{
 		"code": "92.02.03.2024",
@@ -1552,17 +1552,17 @@
 	{
 		"code": "92.02.03.2025",
 		"type": "desa",
-		"name": "AYWOU"
+		"name": "AIWOW"
 	},
 	{
 		"code": "92.02.03.2026",
 		"type": "desa",
-		"name": "ASARBEI"
+		"name": "ASARBEY"
 	},
 	{
 		"code": "92.02.03.2027",
 		"type": "desa",
-		"name": "MINOGBEI"
+		"name": "MINOQBEI"
 	},
 	{
 		"code": "92.02.03.2028",
@@ -1577,12 +1577,12 @@
 	{
 		"code": "92.02.03.2030",
 		"type": "desa",
-		"name": "KIBAUW"
+		"name": "KIPUWAU"
 	},
 	{
 		"code": "92.02.03.2031",
 		"type": "desa",
-		"name": "DUEIBEI"
+		"name": "DUWEIBEY"
 	},
 	{
 		"code": "92.02.04",
@@ -1612,12 +1612,12 @@
 	{
 		"code": "92.02.04.2005",
 		"type": "desa",
-		"name": "UDAP HILIR"
+		"name": "UDAPI HILIR"
 	},
 	{
 		"code": "92.02.04.2006",
 		"type": "desa",
-		"name": "WASEGI POP"
+		"name": "WASEKI POP"
 	},
 	{
 		"code": "92.02.04.2007",
@@ -1627,7 +1627,7 @@
 	{
 		"code": "92.02.04.2008",
 		"type": "desa",
-		"name": "INGUISI"
+		"name": "INGKWOISI"
 	},
 	{
 		"code": "92.02.04.2009",
@@ -1637,12 +1637,12 @@
 	{
 		"code": "92.02.04.2010",
 		"type": "desa",
-		"name": "SEMI"
+		"name": "SOMI"
 	},
 	{
 		"code": "92.02.04.2011",
 		"type": "desa",
-		"name": "DEBIT MOTOA"
+		"name": "BEDIP MATOA"
 	},
 	{
 		"code": "92.02.04.2012",
@@ -1652,12 +1652,12 @@
 	{
 		"code": "92.02.04.2013",
 		"type": "desa",
-		"name": "LISMANGGU"
+		"name": "LISMAUNGU"
 	},
 	{
 		"code": "92.02.04.2014",
 		"type": "desa",
-		"name": "OGYEHEK"
+		"name": "UHYEHEBRIG"
 	},
 	{
 		"code": "92.02.04.2015",
@@ -1667,7 +1667,7 @@
 	{
 		"code": "92.02.04.2016",
 		"type": "desa",
-		"name": "MEBIJI"
+		"name": "MEBJI"
 	},
 	{
 		"code": "92.02.05",
@@ -1792,12 +1792,12 @@
 	{
 		"code": "92.02.05.2034",
 		"type": "desa",
-		"name": "KOYAMI"
+		"name": "KOYANI"
 	},
 	{
 		"code": "92.02.05.2035",
 		"type": "desa",
-		"name": "MEREYUK"
+		"name": "MEYERUK"
 	},
 	{
 		"code": "92.02.05.2036",
@@ -1837,7 +1837,7 @@
 	{
 		"code": "92.02.05.2046",
 		"type": "desa",
-		"name": "WAM BOLA"
+		"name": "WAMFOURA"
 	},
 	{
 		"code": "92.02.12",
@@ -1882,7 +1882,7 @@
 	{
 		"code": "92.02.12.2008",
 		"type": "desa",
-		"name": "INGGRAMUI"
+		"name": "INGRAMUI"
 	},
 	{
 		"code": "92.02.12.2009",
@@ -1892,7 +1892,7 @@
 	{
 		"code": "92.02.12.2010",
 		"type": "desa",
-		"name": "BINIRAW"
+		"name": "TANAH MERAH INDAH"
 	},
 	{
 		"code": "92.02.13",
@@ -2007,12 +2007,12 @@
 	{
 		"code": "92.02.14.2014",
 		"type": "desa",
-		"name": "TANAH RUBU"
+		"name": "TANAH RUBUH"
 	},
 	{
 		"code": "92.02.14.2015",
 		"type": "desa",
-		"name": "SAYRO"
+		"name": "SAIRO"
 	},
 	{
 		"code": "92.02.14.2016",
@@ -2022,7 +2022,7 @@
 	{
 		"code": "92.02.14.2017",
 		"type": "desa",
-		"name": "IRODUAS"
+		"name": "INODUAS"
 	},
 	{
 		"code": "92.02.14.2018",
@@ -2030,14 +2030,9 @@
 		"name": "LEBAU"
 	},
 	{
-		"code": "92.02.14.2019",
-		"type": "desa",
-		"name": "MEBJI"
-	},
-	{
 		"code": "92.02.14.2020",
 		"type": "desa",
-		"name": "CABAN DUA"
+		"name": "CABANG DUA"
 	},
 	{
 		"code": "92.02.14.2021",
@@ -2047,7 +2042,7 @@
 	{
 		"code": "92.02.14.2022",
 		"type": "desa",
-		"name": "INDO OUFA"
+		"name": "INDOU OUFA"
 	},
 	{
 		"code": "92.02.14.2023",
@@ -2092,7 +2087,7 @@
 	{
 		"code": "92.02.15.2007",
 		"type": "desa",
-		"name": "WELURI"
+		"name": "WALURI"
 	},
 	{
 		"code": "92.02.15.2008",
@@ -2122,7 +2117,7 @@
 	{
 		"code": "92.02.15.2013",
 		"type": "desa",
-		"name": "WASWAMI"
+		"name": "WARSWAMI"
 	},
 	{
 		"code": "92.02.15.2014",
@@ -2132,12 +2127,12 @@
 	{
 		"code": "92.02.15.2015",
 		"type": "desa",
-		"name": "NIMBAUW"
+		"name": "WAMESA"
 	},
 	{
 		"code": "92.02.15.2016",
 		"type": "desa",
-		"name": "DOOPUD"
+		"name": "DOBUT"
 	},
 	{
 		"code": "92.02.15.2017",
@@ -2147,7 +2142,7 @@
 	{
 		"code": "92.02.15.2018",
 		"type": "desa",
-		"name": "NGINIBOUW"
+		"name": "NGUNIMBOUW"
 	},
 	{
 		"code": "92.02.17",
@@ -2187,12 +2182,12 @@
 	{
 		"code": "92.02.17.2007",
 		"type": "desa",
-		"name": "IMBEISIKA"
+		"name": "IMBEISIKA I"
 	},
 	{
 		"code": "92.02.17.2008",
 		"type": "desa",
-		"name": "IMBOISIKA"
+		"name": "IMBEISIKA II"
 	},
 	{
 		"code": "92.02.17.2009",
@@ -2267,7 +2262,7 @@
 	{
 		"code": "92.02.17.2023",
 		"type": "desa",
-		"name": "MIRONI"
+		"name": "MIROWI"
 	},
 	{
 		"code": "92.02.17.2024",
@@ -2292,7 +2287,7 @@
 	{
 		"code": "92.02.21.2003",
 		"type": "desa",
-		"name": "WARAMOI"
+		"name": "WARAMUI"
 	},
 	{
 		"code": "92.02.21.2004",
@@ -5357,7 +5352,7 @@
 	{
 		"code": "92.07.01.2009",
 		"type": "desa",
-		"name": "WONDAMAWI"
+		"name": "MANOPI"
 	},
 	{
 		"code": "92.07.01.2010",
@@ -5443,11 +5438,6 @@
 		"code": "92.07.04.2010",
 		"type": "desa",
 		"name": "ISSUI"
-	},
-	{
-		"code": "92.07.04.2012",
-		"type": "desa",
-		"name": "MANOPI"
 	},
 	{
 		"code": "92.07.04.2015",
@@ -7512,7 +7502,7 @@
 	{
 		"code": "92.10.01.2008",
 		"type": "desa",
-		"name": "TAHAHITE"
+		"name": "TEHAHITE"
 	},
 	{
 		"code": "92.10.01.2009",
@@ -7557,7 +7547,7 @@
 	{
 		"code": "92.10.01.2017",
 		"type": "desa",
-		"name": "FAITMAYAT BARAT"
+		"name": "FAITMAYAF BARAT"
 	},
 	{
 		"code": "92.10.01.2018",
@@ -7722,12 +7712,12 @@
 	{
 		"code": "92.10.03.2008",
 		"type": "desa",
-		"name": "SABAH"
+		"name": "SAHBUKU"
 	},
 	{
 		"code": "92.10.03.2009",
 		"type": "desa",
-		"name": "FUOG"
+		"name": "SASIOR FRABUKU"
 	},
 	{
 		"code": "92.10.03.2026",
@@ -7782,7 +7772,7 @@
 	{
 		"code": "92.10.04.2008",
 		"type": "desa",
-		"name": "ASIAF ZAMAN"
+		"name": "ASIAF SAMAN"
 	},
 	{
 		"code": "92.10.04.2009",
@@ -7877,7 +7867,7 @@
 	{
 		"code": "92.10.05.2013",
 		"type": "desa",
-		"name": "HOSIOBANAH"
+		"name": "HOSYO BANAH"
 	},
 	{
 		"code": "92.10.06",
@@ -7892,7 +7882,7 @@
 	{
 		"code": "92.10.06.2002",
 		"type": "desa",
-		"name": "IHORE"
+		"name": "IROHE"
 	},
 	{
 		"code": "92.10.06.2003",
@@ -8002,7 +7992,7 @@
 	{
 		"code": "92.10.07.2006",
 		"type": "desa",
-		"name": "MIRAFAN"
+		"name": "MIRAFAAN"
 	},
 	{
 		"code": "92.10.07.2011",
@@ -8032,7 +8022,7 @@
 	{
 		"code": "92.10.07.2016",
 		"type": "desa",
-		"name": "BOHWAT"
+		"name": "BAHWAT"
 	},
 	{
 		"code": "92.10.08",
@@ -8062,7 +8052,7 @@
 	{
 		"code": "92.10.08.2018",
 		"type": "desa",
-		"name": "SMUSUWIOH"
+		"name": "SMUSSWIOH"
 	},
 	{
 		"code": "92.10.08.2019",
@@ -8142,7 +8132,7 @@
 	{
 		"code": "92.10.09.2020",
 		"type": "desa",
-		"name": "NAUW TEE"
+		"name": "NAUWITA"
 	},
 	{
 		"code": "92.10.10",
@@ -8167,7 +8157,7 @@
 	{
 		"code": "92.10.10.2006",
 		"type": "desa",
-		"name": "ISMAYU"
+		"name": "ISMAYO"
 	},
 	{
 		"code": "92.10.10.2007",
@@ -8207,7 +8197,7 @@
 	{
 		"code": "92.10.11.2005",
 		"type": "desa",
-		"name": "WABAM"
+		"name": "WABAN"
 	},
 	{
 		"code": "92.10.11.2006",
@@ -8332,12 +8322,12 @@
 	{
 		"code": "92.10.13.2005",
 		"type": "desa",
-		"name": "FRAMNEWAY"
+		"name": "FRANEWAY"
 	},
 	{
 		"code": "92.10.13.2006",
 		"type": "desa",
-		"name": "AKINGGING"
+		"name": "AIKINGGING"
 	},
 	{
 		"code": "92.10.13.2007",
@@ -8412,7 +8402,7 @@
 	{
 		"code": "92.10.15.2006",
 		"type": "desa",
-		"name": "SENEH"
+		"name": "SANEH"
 	},
 	{
 		"code": "92.10.15.2007",
@@ -8507,7 +8497,7 @@
 	{
 		"code": "92.10.17.2003",
 		"type": "desa",
-		"name": "FAIT NGGRE"
+		"name": "FAIT NIGRE"
 	},
 	{
 		"code": "92.10.17.2004",
@@ -8672,7 +8662,7 @@
 	{
 		"code": "92.10.21.2001",
 		"type": "desa",
-		"name": "SOROWAN"
+		"name": "SOROAN"
 	},
 	{
 		"code": "92.10.21.2002",
@@ -8707,7 +8697,7 @@
 	{
 		"code": "92.10.21.2008",
 		"type": "desa",
-		"name": "SFAKRAKA"
+		"name": "SFARAKA"
 	},
 	{
 		"code": "92.10.22",
@@ -10215,14 +10205,14 @@
 		"name": "MALASILEN"
 	},
 	{
-		"code": "92.71.05.1008",
+		"code": "92.71.05.1010",
 		"type": "kelurahan",
-		"name": "MALAMSO"
+		"name": "MATALAMAGI"
 	},
 	{
-		"code": "92.71.05.1009",
+		"code": "92.71.05.1011",
 		"type": "kelurahan",
-		"name": "KLABULU"
+		"name": "SAWAGUMU"
 	},
 	{
 		"code": "92.71.06",
@@ -10315,19 +10305,19 @@
 		"name": "KLAGETE"
 	},
 	{
-		"code": "92.71.09.1002",
-		"type": "kelurahan",
-		"name": "MATALAMAGI"
-	},
-	{
-		"code": "92.71.09.1003",
-		"type": "kelurahan",
-		"name": "SAWAGUMU"
-	},
-	{
 		"code": "92.71.09.1004",
 		"type": "kelurahan",
 		"name": "MALAINGKEDI"
+	},
+	{
+		"code": "92.71.09.1005",
+		"type": "kelurahan",
+		"name": "MALAMSO"
+	},
+	{
+		"code": "92.71.09.1006",
+		"type": "kelurahan",
+		"name": "KLABULU"
 	},
 	{
 		"code": "92.71.10",

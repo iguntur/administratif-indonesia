@@ -797,7 +797,7 @@
 	{
 		"code": "13.01.12",
 		"type": "kecamatan",
-		"name": "UTARA"
+		"name": "IV NAGARI BAYANG UTARA"
 	},
 	{
 		"code": "13.01.12.2001",
@@ -998,6 +998,11 @@
 		"code": "13.02",
 		"type": "kabupaten",
 		"name": "KAB. SOLOK"
+	},
+	{
+		"code": "13.02.02.1036",
+		"type": "kelurahan",
+		"name": "IKUA KOTO DIBALAI"
 	},
 	{
 		"code": "13.02.03",
@@ -1607,7 +1612,7 @@
 	{
 		"code": "13.03.06.2006",
 		"type": "desa",
-		"name": "KUNANGAN PARIT RANTANG"
+		"name": "KUNANGAN PARIK RANTANG"
 	},
 	{
 		"code": "13.03.06.2007",
@@ -1687,7 +1692,7 @@
 	{
 		"code": "13.03.08.2003",
 		"type": "desa",
-		"name": "GUGUK"
+		"name": "GUGUAK"
 	},
 	{
 		"code": "13.03.08.2004",
@@ -1757,7 +1762,7 @@
 	{
 		"code": "13.03.09.2010",
 		"type": "desa",
-		"name": "TANJUANG LABUAH"
+		"name": "TANJUNG LABUAH"
 	},
 	{
 		"code": "13.03.09.2011",
@@ -2275,6 +2280,26 @@
 		"name": "SIKABU LUBUK ALUNG"
 	},
 	{
+		"code": "13.05.01.2006",
+		"type": "desa",
+		"name": "SUNGAI ABANG LUBUK ALUNG"
+	},
+	{
+		"code": "13.05.01.2007",
+		"type": "desa",
+		"name": "SINGGULIANG LUBUK ALUNG"
+	},
+	{
+		"code": "13.05.01.2008",
+		"type": "desa",
+		"name": "SALIBUTAN LUBUK ALUNG"
+	},
+	{
+		"code": "13.05.01.2009",
+		"type": "desa",
+		"name": "NAGARI BALAH HILIA LUBUK ALUNG"
+	},
+	{
 		"code": "13.05.02",
 		"type": "kecamatan",
 		"name": "BATANG ANAI"
@@ -2298,6 +2323,26 @@
 		"code": "13.05.02.2004",
 		"type": "desa",
 		"name": "BUAYAN LUBUK ALUNG"
+	},
+	{
+		"code": "13.05.02.2005",
+		"type": "desa",
+		"name": "SUNGAI BULUAH TIMUR"
+	},
+	{
+		"code": "13.05.02.2006",
+		"type": "desa",
+		"name": "SUNGAI BULUAH BARAT"
+	},
+	{
+		"code": "13.05.02.2007",
+		"type": "desa",
+		"name": "SUNGAI BULUAH UTARA"
+	},
+	{
+		"code": "13.05.02.2008",
+		"type": "desa",
+		"name": "SUNGAI BULUAH SELATAN"
 	},
 	{
 		"code": "13.05.03",
@@ -2330,6 +2375,26 @@
 		"name": "SUNUA"
 	},
 	{
+		"code": "13.05.03.2006",
+		"type": "desa",
+		"name": "PADANG KANDANG PULAU AIR PADANG"
+	},
+	{
+		"code": "13.05.03.2007",
+		"type": "desa",
+		"name": "SUNUA TENGAH"
+	},
+	{
+		"code": "13.05.03.2008",
+		"type": "desa",
+		"name": "SUNUA BARAT"
+	},
+	{
+		"code": "13.05.03.2009",
+		"type": "desa",
+		"name": "KURAI TAJI TIMUR"
+	},
+	{
 		"code": "13.05.04",
 		"type": "kecamatan",
 		"name": "2X"
@@ -2357,7 +2422,7 @@
 	{
 		"code": "13.05.05.2001",
 		"type": "desa",
-		"name": "BALAH AIA"
+		"name": "BALAH AIE"
 	},
 	{
 		"code": "13.05.05.2002",
@@ -2375,6 +2440,46 @@
 		"name": "LAREH NAN PANJANG"
 	},
 	{
+		"code": "13.05.05.2005",
+		"type": "desa",
+		"name": "LAREH NAN PANJANG SELATAN"
+	},
+	{
+		"code": "13.05.05.2006",
+		"type": "desa",
+		"name": "LAREH NAN PANJANG BARAT"
+	},
+	{
+		"code": "13.05.05.2007",
+		"type": "desa",
+		"name": "BISATI SUNGAI SARIAK"
+	},
+	{
+		"code": "13.05.05.2008",
+		"type": "desa",
+		"name": "AMBUANG KAPUA SUNGAI SARIAK"
+	},
+	{
+		"code": "13.05.05.2009",
+		"type": "desa",
+		"name": "LAREH NAN PANJANG SUNGAI SARIAK"
+	},
+	{
+		"code": "13.05.05.2010",
+		"type": "desa",
+		"name": "LIMPATO SUNGAI SARIAK"
+	},
+	{
+		"code": "13.05.05.2011",
+		"type": "desa",
+		"name": "BALAH AIE UTARA"
+	},
+	{
+		"code": "13.05.05.2012",
+		"type": "desa",
+		"name": "BALAH AIE TIMUR"
+	},
+	{
 		"code": "13.05.06",
 		"type": "kecamatan",
 		"name": "V KOTO KAMPUNG DALAM"
@@ -2387,7 +2492,37 @@
 	{
 		"code": "13.05.06.2002",
 		"type": "desa",
-		"name": "SIKUCUR"
+		"name": "SIKUCUA"
+	},
+	{
+		"code": "13.05.06.2003",
+		"type": "desa",
+		"name": "CAMPAGO BARAT"
+	},
+	{
+		"code": "13.05.06.2004",
+		"type": "desa",
+		"name": "CAMPAGO SELATAN"
+	},
+	{
+		"code": "13.05.06.2005",
+		"type": "desa",
+		"name": "SIKUCUA UTARA"
+	},
+	{
+		"code": "13.05.06.2006",
+		"type": "desa",
+		"name": "SIKUCUA TIMUR"
+	},
+	{
+		"code": "13.05.06.2007",
+		"type": "desa",
+		"name": "SIKUCUA TENGAH"
+	},
+	{
+		"code": "13.05.06.2008",
+		"type": "desa",
+		"name": "SIKUCUA BARAT"
 	},
 	{
 		"code": "13.05.07",
@@ -2485,6 +2620,36 @@
 		"name": "ULAKAN"
 	},
 	{
+		"code": "13.05.10.2003",
+		"type": "desa",
+		"name": "PADANG TOBOH ULAKAN"
+	},
+	{
+		"code": "13.05.10.2004",
+		"type": "desa",
+		"name": "SUNGAI GIMBA ULAKAN"
+	},
+	{
+		"code": "13.05.10.2005",
+		"type": "desa",
+		"name": "SEULAYAT ULAKAN"
+	},
+	{
+		"code": "13.05.10.2006",
+		"type": "desa",
+		"name": "MANGGOPOH PALAK GADANG ULAKAN"
+	},
+	{
+		"code": "13.05.10.2007",
+		"type": "desa",
+		"name": "SANDI ULAKAN"
+	},
+	{
+		"code": "13.05.10.2008",
+		"type": "desa",
+		"name": "KAMPUANG GELAPUANG ULAKAN"
+	},
+	{
 		"code": "13.05.11",
 		"type": "kecamatan",
 		"name": "SINTUAK TOBOH GADANG"
@@ -2498,6 +2663,21 @@
 		"code": "13.05.11.2002",
 		"type": "desa",
 		"name": "TOBOH GADANG"
+	},
+	{
+		"code": "13.05.11.2003",
+		"type": "desa",
+		"name": "TOBOH GADANG SELATAN"
+	},
+	{
+		"code": "13.05.11.2004",
+		"type": "desa",
+		"name": "TOBOH GADANG BARAT"
+	},
+	{
+		"code": "13.05.11.2005",
+		"type": "desa",
+		"name": "TOBOH GADANG TIMUR"
 	},
 	{
 		"code": "13.05.12",
@@ -2520,6 +2700,21 @@
 		"name": "BATU KALANG"
 	},
 	{
+		"code": "13.05.12.2004",
+		"type": "desa",
+		"name": "KOTO DALAM BARAT"
+	},
+	{
+		"code": "13.05.12.2005",
+		"type": "desa",
+		"name": "KOTO DALAM SELATAN"
+	},
+	{
+		"code": "13.05.12.2006",
+		"type": "desa",
+		"name": "BATU KALANG UTARA"
+	},
+	{
 		"code": "13.05.13",
 		"type": "kecamatan",
 		"name": "BATANG GASAN"
@@ -2535,6 +2730,11 @@
 		"name": "GASAN GADANG"
 	},
 	{
+		"code": "13.05.13.2003",
+		"type": "desa",
+		"name": "MALAI V SUKU TIMUR"
+	},
+	{
 		"code": "13.05.14",
 		"type": "kecamatan",
 		"name": "V KOTO TIMUR"
@@ -2542,7 +2742,7 @@
 	{
 		"code": "13.05.14.2001",
 		"type": "desa",
-		"name": "KUDU GANTING"
+		"name": "KUDU GANTIANG"
 	},
 	{
 		"code": "13.05.14.2002",
@@ -2553,6 +2753,11 @@
 		"code": "13.05.14.2003",
 		"type": "desa",
 		"name": "GUNUNG PADANG ALAI"
+	},
+	{
+		"code": "13.05.14.2004",
+		"type": "desa",
+		"name": "KUDU GANTIANG BARAT"
 	},
 	{
 		"code": "13.05.15",
@@ -2598,6 +2803,21 @@
 		"code": "13.05.16.2003",
 		"type": "desa",
 		"name": "TANDIKEK UTARA"
+	},
+	{
+		"code": "13.05.16.2004",
+		"type": "desa",
+		"name": "TANDIKEK SELATAN"
+	},
+	{
+		"code": "13.05.16.2005",
+		"type": "desa",
+		"name": "TANDIKEK BARAT"
+	},
+	{
+		"code": "13.05.16.2006",
+		"type": "desa",
+		"name": "KAMPUANG TANJUANG KOTO MAMBANG SUNGAI"
 	},
 	{
 		"code": "13.05.17",
@@ -3665,6 +3885,16 @@
 		"name": "PANTI"
 	},
 	{
+		"code": "13.08.07.2003",
+		"type": "desa",
+		"name": "PANTI TIMUR"
+	},
+	{
+		"code": "13.08.07.2004",
+		"type": "desa",
+		"name": "PANTI SELATAN"
+	},
+	{
 		"code": "13.08.08",
 		"type": "kecamatan",
 		"name": "MAPAT TUNGGUL"
@@ -3775,6 +4005,21 @@
 		"name": "PADANG GELUGUR"
 	},
 	{
+		"code": "13.08.17.2002",
+		"type": "desa",
+		"name": "SONTANG CUBADAK"
+	},
+	{
+		"code": "13.08.17.2003",
+		"type": "desa",
+		"name": "SITOMBOL PADANG GELUGUA"
+	},
+	{
+		"code": "13.08.17.2004",
+		"type": "desa",
+		"name": "BAHAGIA PADANG GELUGUA"
+	},
+	{
 		"code": "13.08.18",
 		"type": "kecamatan",
 		"name": "RAO UTARA"
@@ -3837,7 +4082,7 @@
 	{
 		"code": "13.09.01.2009",
 		"type": "desa",
-		"name": "SAUMANGANYAK"
+		"name": "SAUMANGANYA"
 	},
 	{
 		"code": "13.09.02",
@@ -3857,7 +4102,7 @@
 	{
 		"code": "13.09.02.2003",
 		"type": "desa",
-		"name": "NEMNEM LELEU"
+		"name": "NEMNEMLELEU"
 	},
 	{
 		"code": "13.09.02.2004",
@@ -3927,7 +4172,7 @@
 	{
 		"code": "13.09.04.2005",
 		"type": "desa",
-		"name": "MANGANPOULA"
+		"name": "MONGAN POULA"
 	},
 	{
 		"code": "13.09.04.2006",
@@ -3977,7 +4222,7 @@
 	{
 		"code": "13.09.06.2002",
 		"type": "desa",
-		"name": "SAGALUBBEG"
+		"name": "SAGULUBBEG"
 	},
 	{
 		"code": "13.09.06.2003",
@@ -5910,11 +6155,6 @@
 		"name": "PAYAKUMBUH BARAT"
 	},
 	{
-		"code": "13.76.01.1001",
-		"type": "kelurahan",
-		"name": "BALAI NAN DUO"
-	},
-	{
 		"code": "13.76.01.1002",
 		"type": "kelurahan",
 		"name": "PAKAN SINAYAN"
@@ -5935,19 +6175,9 @@
 		"name": "PAYOLANSEK"
 	},
 	{
-		"code": "13.76.01.1006",
-		"type": "kelurahan",
-		"name": "TANJUANG GADANG"
-	},
-	{
 		"code": "13.76.01.1007",
 		"type": "kelurahan",
 		"name": "TALANG"
-	},
-	{
-		"code": "13.76.01.1008",
-		"type": "kelurahan",
-		"name": "SUNGAI PINAGO"
 	},
 	{
 		"code": "13.76.01.1009",
@@ -5955,29 +6185,14 @@
 		"name": "PADANG TINGGI PILIANG"
 	},
 	{
-		"code": "13.76.01.1010",
-		"type": "kelurahan",
-		"name": "PADANG TANGAH"
-	},
-	{
 		"code": "13.76.01.1011",
 		"type": "kelurahan",
 		"name": "KOTO TANGAH"
 	},
 	{
-		"code": "13.76.01.1012",
-		"type": "kelurahan",
-		"name": "PADANG DATAR"
-	},
-	{
 		"code": "13.76.01.1013",
 		"type": "kelurahan",
 		"name": "SUBARANG BATUANG"
-	},
-	{
-		"code": "13.76.01.1014",
-		"type": "kelurahan",
-		"name": "TANAH MATI"
 	},
 	{
 		"code": "13.76.01.1016",
@@ -6010,94 +6225,29 @@
 		"name": "TANJUNG PAUH"
 	},
 	{
+		"code": "13.76.01.1032",
+		"type": "kelurahan",
+		"name": "SUNGAIPINAGO"
+	},
+	{
+		"code": "13.76.01.1033",
+		"type": "kelurahan",
+		"name": "PADANGTONGAH BALAINANDUO"
+	},
+	{
+		"code": "13.76.01.1034",
+		"type": "kelurahan",
+		"name": "PADANGDATA TANAHMATI"
+	},
+	{
 		"code": "13.76.02",
 		"type": "kecamatan",
 		"name": "PAYAKUMBUH UTARA"
 	},
 	{
-		"code": "13.76.02.1001",
-		"type": "kelurahan",
-		"name": "BUNIAN"
-	},
-	{
 		"code": "13.76.02.1002",
 		"type": "kelurahan",
 		"name": "NAPAR"
-	},
-	{
-		"code": "13.76.02.1003",
-		"type": "kelurahan",
-		"name": "PADANG KADUDUAK"
-	},
-	{
-		"code": "13.76.02.1004",
-		"type": "kelurahan",
-		"name": "TAROK"
-	},
-	{
-		"code": "13.76.02.1005",
-		"type": "kelurahan",
-		"name": "CUBADAK AIA"
-	},
-	{
-		"code": "13.76.02.1014",
-		"type": "kelurahan",
-		"name": "MUARO"
-	},
-	{
-		"code": "13.76.02.1015",
-		"type": "kelurahan",
-		"name": "PASIR"
-	},
-	{
-		"code": "13.76.02.1016",
-		"type": "kelurahan",
-		"name": "TARUKO"
-	},
-	{
-		"code": "13.76.02.1017",
-		"type": "kelurahan",
-		"name": "BALAI CACANG"
-	},
-	{
-		"code": "13.76.02.1018",
-		"type": "kelurahan",
-		"name": "BALAI GADANG"
-	},
-	{
-		"code": "13.76.02.1019",
-		"type": "kelurahan",
-		"name": "BALAI JARING"
-	},
-	{
-		"code": "13.76.02.1020",
-		"type": "kelurahan",
-		"name": "BALAI GURUN"
-	},
-	{
-		"code": "13.76.02.1021",
-		"type": "kelurahan",
-		"name": "BALAI BARU"
-	},
-	{
-		"code": "13.76.02.1022",
-		"type": "kelurahan",
-		"name": "BALAI KALIKI"
-	},
-	{
-		"code": "13.76.02.1023",
-		"type": "kelurahan",
-		"name": "KOTO BARU"
-	},
-	{
-		"code": "13.76.02.1024",
-		"type": "kelurahan",
-		"name": "LABUAH BARU"
-	},
-	{
-		"code": "13.76.02.1025",
-		"type": "kelurahan",
-		"name": "KUBU GADANG"
 	},
 	{
 		"code": "13.76.02.1032",
@@ -6113,6 +6263,31 @@
 		"code": "13.76.02.1034",
 		"type": "kelurahan",
 		"name": "TIGO KOTO DIBARUAH"
+	},
+	{
+		"code": "13.76.02.1035",
+		"type": "kelurahan",
+		"name": "TIGO KOTO DIATE"
+	},
+	{
+		"code": "13.76.02.1036",
+		"type": "kelurahan",
+		"name": "IKUA KOTO DIBALAI"
+	},
+	{
+		"code": "13.76.02.1037",
+		"type": "kelurahan",
+		"name": "BALAI TONGAH KOTO"
+	},
+	{
+		"code": "13.76.02.1038",
+		"type": "kelurahan",
+		"name": "KAPALO KOTO DIBALAI"
+	},
+	{
+		"code": "13.76.02.1039",
+		"type": "kelurahan",
+		"name": "KOTOKOCIAK KUBU TAPAKRAJO"
 	},
 	{
 		"code": "13.76.03",
@@ -6230,14 +6405,9 @@
 		"name": "KAPALO KOTO AMPANGAN"
 	},
 	{
-		"code": "13.76.05.1008",
+		"code": "13.76.05.1010",
 		"type": "kelurahan",
-		"name": "AUR KUNIANG"
-	},
-	{
-		"code": "13.76.05.1009",
-		"type": "kelurahan",
-		"name": "SAWAH PADANG"
+		"name": "KUNIANG"
 	},
 	{
 		"code": "13.77",

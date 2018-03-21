@@ -5,33 +5,32 @@ const path = require('path');
 class AdministratifIndonesia {
 	constructor() {
 		this.path = path.resolve(__dirname, 'storages');
-		this.store = Object.create(null);
 
-		fs.readdirSync(this.path).forEach(filename => {
-			this.store[path.parse(filename).name] = path.join(this.path, filename);
-		});
+		Object.defineProperty(this, '_store', {
+			value: (obj => {
+				fs.readdirSync(this.path).forEach(filename => {
+					obj[path.parse(filename).name] = path.join(this.path, filename);
+				});
 
-		Object.defineProperty(this, 'store', {
-			enumerable: false,
-			configurable: false,
-			writable: false
+				return obj;
+			})({})
 		});
 	}
 
 	all() {
-		return this.store;
+		return this._store;
 	}
 
 	size() {
-		return Object.keys(this.store).length;
+		return Object.keys(this._store).length;
 	}
 
 	has(key) {
-		return key in this.store;
+		return key in this._store;
 	}
 
 	get(key) {
-		return this.has(key) ? this.store[key] : null;
+		return this.has(key) ? this._store[key] : null;
 	}
 }
 

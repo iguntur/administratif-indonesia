@@ -1355,11 +1355,6 @@
 		"name": "KRAYAN"
 	},
 	{
-		"code": "65.03.05.2001",
-		"type": "desa",
-		"name": "PA' MULAK"
-	},
-	{
 		"code": "65.03.05.2002",
 		"type": "desa",
 		"name": "PA' PADI"
@@ -1370,129 +1365,9 @@
 		"name": "CINGLAT"
 	},
 	{
-		"code": "65.03.05.2004",
-		"type": "desa",
-		"name": "LONG PUAK"
-	},
-	{
-		"code": "65.03.05.2005",
-		"type": "desa",
-		"name": "LONG MANGAN"
-	},
-	{
-		"code": "65.03.05.2006",
-		"type": "desa",
-		"name": "BUDUK KUBUL"
-	},
-	{
-		"code": "65.03.05.2007",
-		"type": "desa",
-		"name": "LONG KABID"
-	},
-	{
-		"code": "65.03.05.2008",
-		"type": "desa",
-		"name": "PA' INAN"
-	},
-	{
-		"code": "65.03.05.2009",
-		"type": "desa",
-		"name": "LEMBUDUD"
-	},
-	{
-		"code": "65.03.05.2010",
-		"type": "desa",
-		"name": "LONG TUGUL"
-	},
-	{
-		"code": "65.03.05.2011",
-		"type": "desa",
-		"name": "PA' BUTAL"
-	},
-	{
-		"code": "65.03.05.2012",
-		"type": "desa",
-		"name": "PA' DELUNG"
-	},
-	{
-		"code": "65.03.05.2013",
-		"type": "desa",
-		"name": "PA' URUD"
-	},
-	{
-		"code": "65.03.05.2014",
-		"type": "desa",
-		"name": "PA' KEMUT"
-	},
-	{
-		"code": "65.03.05.2015",
-		"type": "desa",
-		"name": "PA' KIDANG"
-	},
-	{
-		"code": "65.03.05.2016",
-		"type": "desa",
-		"name": "LEMBADA"
-	},
-	{
-		"code": "65.03.05.2017",
-		"type": "desa",
-		"name": "PA' PAYAK"
-	},
-	{
-		"code": "65.03.05.2018",
-		"type": "desa",
-		"name": "PA' PIRIT"
-	},
-	{
-		"code": "65.03.05.2019",
-		"type": "desa",
-		"name": "LIANG ALIQ"
-	},
-	{
-		"code": "65.03.05.2020",
-		"type": "desa",
-		"name": "SEMBUDUD"
-	},
-	{
-		"code": "65.03.05.2021",
-		"type": "desa",
-		"name": "LIANG TURAN"
-	},
-	{
 		"code": "65.03.05.2022",
 		"type": "desa",
 		"name": "LIANG BUTAN"
-	},
-	{
-		"code": "65.03.05.2023",
-		"type": "desa",
-		"name": "LIANG BUA"
-	},
-	{
-		"code": "65.03.05.2024",
-		"type": "desa",
-		"name": "LEPATAR"
-	},
-	{
-		"code": "65.03.05.2025",
-		"type": "desa",
-		"name": "PA' MERING"
-	},
-	{
-		"code": "65.03.05.2026",
-		"type": "desa",
-		"name": "PA' PANI"
-	},
-	{
-		"code": "65.03.05.2027",
-		"type": "desa",
-		"name": "PA' LUTUT"
-	},
-	{
-		"code": "65.03.05.2028",
-		"type": "desa",
-		"name": "MA' LIBU"
 	},
 	{
 		"code": "65.03.05.2029",
@@ -1560,16 +1435,6 @@
 		"name": "LONG BAWAN"
 	},
 	{
-		"code": "65.03.05.2042",
-		"type": "desa",
-		"name": "KAMPUNG BARU"
-	},
-	{
-		"code": "65.03.05.2043",
-		"type": "desa",
-		"name": "PA' BETUNG"
-	},
-	{
 		"code": "65.03.05.2044",
 		"type": "desa",
 		"name": "LONG MATUNG"
@@ -1598,81 +1463,6 @@
 		"code": "65.03.05.2049",
 		"type": "desa",
 		"name": "PA' TERUTUN"
-	},
-	{
-		"code": "65.03.05.2050",
-		"type": "desa",
-		"name": "PA' RANGEB"
-	},
-	{
-		"code": "65.03.05.2051",
-		"type": "desa",
-		"name": "PA' KEBUAN"
-	},
-	{
-		"code": "65.03.05.2052",
-		"type": "desa",
-		"name": "PA' PAWAN"
-	},
-	{
-		"code": "65.03.05.2053",
-		"type": "desa",
-		"name": "LONG UMUNG"
-	},
-	{
-		"code": "65.03.05.2054",
-		"type": "desa",
-		"name": "LONG TENEM"
-	},
-	{
-		"code": "65.03.05.2055",
-		"type": "desa",
-		"name": "PA' UMUNG"
-	},
-	{
-		"code": "65.03.05.2056",
-		"type": "desa",
-		"name": "PA' RAYE"
-	},
-	{
-		"code": "65.03.05.2057",
-		"type": "desa",
-		"name": "PA' MELADE"
-	},
-	{
-		"code": "65.03.05.2058",
-		"type": "desa",
-		"name": "BUNGAYAN"
-	},
-	{
-		"code": "65.03.05.2059",
-		"type": "desa",
-		"name": "PA' LIDUNG"
-	},
-	{
-		"code": "65.03.05.2060",
-		"type": "desa",
-		"name": "WA' YAGUNG"
-	},
-	{
-		"code": "65.03.05.2061",
-		"type": "desa",
-		"name": "PA' PALA"
-	},
-	{
-		"code": "65.03.05.2062",
-		"type": "desa",
-		"name": "SINAR BARU"
-	},
-	{
-		"code": "65.03.05.2063",
-		"type": "desa",
-		"name": "LONG NUAT"
-	},
-	{
-		"code": "65.03.05.2064",
-		"type": "desa",
-		"name": "LONG SEPAYANG"
 	},
 	{
 		"code": "65.03.05.2065",
@@ -1775,11 +1565,6 @@
 		"name": "PA' SING"
 	},
 	{
-		"code": "65.03.07.2008",
-		"type": "desa",
-		"name": "LONG PADI"
-	},
-	{
 		"code": "65.03.07.2009",
 		"type": "desa",
 		"name": "PA' DALAN"
@@ -1795,34 +1580,9 @@
 		"name": "PA' UPAN"
 	},
 	{
-		"code": "65.03.07.2012",
-		"type": "desa",
-		"name": "TANG PAYE"
-	},
-	{
-		"code": "65.03.07.2013",
-		"type": "desa",
-		"name": "LONG KLUPAN"
-	},
-	{
-		"code": "65.03.07.2014",
-		"type": "desa",
-		"name": "LONG RUNGAN"
-	},
-	{
-		"code": "65.03.07.2015",
-		"type": "desa",
-		"name": "LONG MUTAN"
-	},
-	{
 		"code": "65.03.07.2016",
 		"type": "desa",
 		"name": "LONG BUDUNG"
-	},
-	{
-		"code": "65.03.07.2017",
-		"type": "desa",
-		"name": "LONG RIAN"
 	},
 	{
 		"code": "65.03.07.2018",
@@ -1830,34 +1590,9 @@
 		"name": "LONG PUPUNG"
 	},
 	{
-		"code": "65.03.07.2019",
-		"type": "desa",
-		"name": "BA' LIKU"
-	},
-	{
 		"code": "65.03.07.2020",
 		"type": "desa",
 		"name": "PA' URANG"
-	},
-	{
-		"code": "65.03.07.2021",
-		"type": "desa",
-		"name": "PA' YALAU"
-	},
-	{
-		"code": "65.03.07.2022",
-		"type": "desa",
-		"name": "BINUANG"
-	},
-	{
-		"code": "65.03.07.2023",
-		"type": "desa",
-		"name": "PA' MILAU"
-	},
-	{
-		"code": "65.03.07.2024",
-		"type": "desa",
-		"name": "TANG BADUI"
 	},
 	{
 		"code": "65.03.08",
@@ -2032,7 +1767,7 @@
 	{
 		"code": "65.03.14.2005",
 		"type": "desa",
-		"name": "KELUN SAYAN"
+		"name": "KALUNSAYAN"
 	},
 	{
 		"code": "65.03.14.2006",
@@ -2373,6 +2108,286 @@
 		"code": "65.03.16.2010",
 		"type": "desa",
 		"name": "BINANUN"
+	},
+	{
+		"code": "65.03.17",
+		"type": "kecamatan",
+		"name": "KRAYAN TENGAH"
+	},
+	{
+		"code": "65.03.17.2001",
+		"type": "desa",
+		"name": "TANG PAYE"
+	},
+	{
+		"code": "65.03.17.2002",
+		"type": "desa",
+		"name": "LONG RUNGAN"
+	},
+	{
+		"code": "65.03.17.2003",
+		"type": "desa",
+		"name": "LONG KELUPAN"
+	},
+	{
+		"code": "65.03.17.2004",
+		"type": "desa",
+		"name": "LONG PADI"
+	},
+	{
+		"code": "65.03.17.2005",
+		"type": "desa",
+		"name": "TANG BADUI"
+	},
+	{
+		"code": "65.03.17.2006",
+		"type": "desa",
+		"name": "BINUANG"
+	},
+	{
+		"code": "65.03.17.2007",
+		"type": "desa",
+		"name": "LONG MUTAN"
+	},
+	{
+		"code": "65.03.17.2008",
+		"type": "desa",
+		"name": "PA' MILAU"
+	},
+	{
+		"code": "65.03.17.2009",
+		"type": "desa",
+		"name": "BA' LIKU"
+	},
+	{
+		"code": "65.03.17.2010",
+		"type": "desa",
+		"name": "LONG RIAN"
+	},
+	{
+		"code": "65.03.17.2011",
+		"type": "desa",
+		"name": "PA' YALAU"
+	},
+	{
+		"code": "65.03.18",
+		"type": "kecamatan",
+		"name": "KRAYAN TIMUR"
+	},
+	{
+		"code": "65.03.18.2001",
+		"type": "desa",
+		"name": "PA' BETUNG"
+	},
+	{
+		"code": "65.03.18.2002",
+		"type": "desa",
+		"name": "LONG SEPAYANG"
+	},
+	{
+		"code": "65.03.18.2003",
+		"type": "desa",
+		"name": "PA' PAWAN"
+	},
+	{
+		"code": "65.03.18.2004",
+		"type": "desa",
+		"name": "PA' MELADE"
+	},
+	{
+		"code": "65.03.18.2005",
+		"type": "desa",
+		"name": "PA' KEBUAN"
+	},
+	{
+		"code": "65.03.18.2006",
+		"type": "desa",
+		"name": "PA' UMUNG"
+	},
+	{
+		"code": "65.03.18.2007",
+		"type": "desa",
+		"name": "PA' RANGEB"
+	},
+	{
+		"code": "65.03.18.2008",
+		"type": "desa",
+		"name": "LONG UMUNG"
+	},
+	{
+		"code": "65.03.18.2009",
+		"type": "desa",
+		"name": "LONG TENEM"
+	},
+	{
+		"code": "65.03.18.2010",
+		"type": "desa",
+		"name": "LONG NUAT"
+	},
+	{
+		"code": "65.03.18.2011",
+		"type": "desa",
+		"name": "PA' PALA"
+	},
+	{
+		"code": "65.03.18.2012",
+		"type": "desa",
+		"name": "SINAR BARU"
+	},
+	{
+		"code": "65.03.18.2013",
+		"type": "desa",
+		"name": "PA' LIDUNG"
+	},
+	{
+		"code": "65.03.18.2014",
+		"type": "desa",
+		"name": "PA' RAYE"
+	},
+	{
+		"code": "65.03.18.2015",
+		"type": "desa",
+		"name": "BUNGAYAN"
+	},
+	{
+		"code": "65.03.18.2016",
+		"type": "desa",
+		"name": "WA' YAGUNG"
+	},
+	{
+		"code": "65.03.18.2017",
+		"type": "desa",
+		"name": "KAMPUNG BARU"
+	},
+	{
+		"code": "65.03.19",
+		"type": "kecamatan",
+		"name": "KRAYAN BARAT"
+	},
+	{
+		"code": "65.03.19.2001",
+		"type": "desa",
+		"name": "PA' MULAK"
+	},
+	{
+		"code": "65.03.19.2002",
+		"type": "desa",
+		"name": "LONG PUAK"
+	},
+	{
+		"code": "65.03.19.2003",
+		"type": "desa",
+		"name": "LONG MANGAN"
+	},
+	{
+		"code": "65.03.19.2004",
+		"type": "desa",
+		"name": "BUDUK KUBUL"
+	},
+	{
+		"code": "65.03.19.2005",
+		"type": "desa",
+		"name": "LONG KABID"
+	},
+	{
+		"code": "65.03.19.2006",
+		"type": "desa",
+		"name": "PA' INAN"
+	},
+	{
+		"code": "65.03.19.2007",
+		"type": "desa",
+		"name": "LEMBUDUD"
+	},
+	{
+		"code": "65.03.19.2008",
+		"type": "desa",
+		"name": "LONG TUGUL"
+	},
+	{
+		"code": "65.03.19.2009",
+		"type": "desa",
+		"name": "PA' BUTAL"
+	},
+	{
+		"code": "65.03.19.2010",
+		"type": "desa",
+		"name": "PA' DELUNG"
+	},
+	{
+		"code": "65.03.19.2011",
+		"type": "desa",
+		"name": "PA' URUD"
+	},
+	{
+		"code": "65.03.19.2012",
+		"type": "desa",
+		"name": "PA' KEMUT"
+	},
+	{
+		"code": "65.03.19.2013",
+		"type": "desa",
+		"name": "PA' KIDANG"
+	},
+	{
+		"code": "65.03.19.2014",
+		"type": "desa",
+		"name": "LEMBADA"
+	},
+	{
+		"code": "65.03.19.2015",
+		"type": "desa",
+		"name": "PA' PAYAK"
+	},
+	{
+		"code": "65.03.19.2016",
+		"type": "desa",
+		"name": "PA' PIRIT"
+	},
+	{
+		"code": "65.03.19.2017",
+		"type": "desa",
+		"name": "LIANG ALIQ"
+	},
+	{
+		"code": "65.03.19.2018",
+		"type": "desa",
+		"name": "SEMBUDUD"
+	},
+	{
+		"code": "65.03.19.2019",
+		"type": "desa",
+		"name": "LIANG TURAN"
+	},
+	{
+		"code": "65.03.19.2020",
+		"type": "desa",
+		"name": "LIANG BUA"
+	},
+	{
+		"code": "65.03.19.2021",
+		"type": "desa",
+		"name": "LEPATAR"
+	},
+	{
+		"code": "65.03.19.2022",
+		"type": "desa",
+		"name": "PA' MERING"
+	},
+	{
+		"code": "65.03.19.2023",
+		"type": "desa",
+		"name": "PA' PANI"
+	},
+	{
+		"code": "65.03.19.2024",
+		"type": "desa",
+		"name": "PA' LUTUT"
+	},
+	{
+		"code": "65.03.19.2025",
+		"type": "desa",
+		"name": "MA' LIBU"
 	},
 	{
 		"code": "65.04",

@@ -450,6 +450,11 @@
 		"name": "KASAMBANG"
 	},
 	{
+		"code": "76.02.02.1014",
+		"type": "kelurahan",
+		"name": "DAYANGINNA"
+	},
+	{
 		"code": "76.02.02.2003",
 		"type": "desa",
 		"name": "OROBATU"
@@ -503,6 +508,11 @@
 		"code": "76.02.03.1003",
 		"type": "kelurahan",
 		"name": "KALUKKU"
+	},
+	{
+		"code": "76.02.03.1014",
+		"type": "kelurahan",
+		"name": "SINYONYOI SELATAN"
 	},
 	{
 		"code": "76.02.03.2004",
@@ -908,11 +918,6 @@
 		"code": "76.02.15.2006",
 		"type": "desa",
 		"name": "MAPPU"
-	},
-	{
-		"code": "76.02.15.2008",
-		"type": "desa",
-		"name": "LUMIKA I"
 	},
 	{
 		"code": "76.02.15.2009",
