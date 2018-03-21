@@ -82,7 +82,7 @@
 	{
 		"code": "63.01.02.2001",
 		"type": "desa",
-		"name": "SABUBUR"
+		"name": "SABUHUR"
 	},
 	{
 		"code": "63.01.02.2002",
@@ -132,7 +132,7 @@
 	{
 		"code": "63.01.02.2011",
 		"type": "desa",
-		"name": "SIMPANG EMPAT SUNGAIBARU"
+		"name": "SIMPANG EMPAT SUNGAI BARU"
 	},
 	{
 		"code": "63.01.03",
@@ -547,7 +547,7 @@
 	{
 		"code": "63.01.08.2008",
 		"type": "desa",
-		"name": "KAYU HABANG"
+		"name": "KAYU ABANG"
 	},
 	{
 		"code": "63.01.08.2009",
@@ -757,7 +757,7 @@
 	{
 		"code": "63.02.01.2002",
 		"type": "desa",
-		"name": "TELUKSUNGAI"
+		"name": "TELUK SUNGAI"
 	},
 	{
 		"code": "63.02.01.2003",
@@ -842,22 +842,22 @@
 	{
 		"code": "63.02.03.2006",
 		"type": "desa",
-		"name": "TELUKSIRIH"
+		"name": "TELUK SIRIH"
 	},
 	{
 		"code": "63.02.03.2007",
 		"type": "desa",
-		"name": "SUNGAIBAHIM"
+		"name": "SUNGAI BAHIM"
 	},
 	{
 		"code": "63.02.03.2008",
 		"type": "desa",
-		"name": "TANJUNGSELOKA"
+		"name": "TANJUNG SELOKA"
 	},
 	{
 		"code": "63.02.03.2009",
 		"type": "desa",
-		"name": "TANJUNGSERUDUNG"
+		"name": "TANJUNG SERUDUNG"
 	},
 	{
 		"code": "63.02.03.2011",
@@ -867,7 +867,7 @@
 	{
 		"code": "63.02.03.2013",
 		"type": "desa",
-		"name": "SUNGAIBULAN"
+		"name": "SUNGAI BULAN"
 	},
 	{
 		"code": "63.02.03.2015",
@@ -877,7 +877,7 @@
 	{
 		"code": "63.02.03.2016",
 		"type": "desa",
-		"name": "TANJUNGSELOKA UTARA"
+		"name": "TANJUNG SELOKA UTARA"
 	},
 	{
 		"code": "63.02.04",
@@ -912,7 +912,7 @@
 	{
 		"code": "63.02.04.2006",
 		"type": "desa",
-		"name": "SUNGAILIMAU"
+		"name": "SUNGAI LIMAU"
 	},
 	{
 		"code": "63.02.04.2007",
@@ -922,7 +922,7 @@
 	{
 		"code": "63.02.04.2008",
 		"type": "desa",
-		"name": "TANJUNGPENGHARAPAN"
+		"name": "TANJUNG PENGHARAPAN"
 	},
 	{
 		"code": "63.02.04.2009",
@@ -932,12 +932,12 @@
 	{
 		"code": "63.02.04.2010",
 		"type": "desa",
-		"name": "TELUKMESJID"
+		"name": "TELUK MESJID"
 	},
 	{
 		"code": "63.02.04.2011",
 		"type": "desa",
-		"name": "TELUKGOSONG"
+		"name": "TELUK GOSONG"
 	},
 	{
 		"code": "63.02.04.2012",
@@ -982,7 +982,7 @@
 	{
 		"code": "63.02.05.2005",
 		"type": "desa",
-		"name": "SUNGAIBALI"
+		"name": "SUNGAI BALI"
 	},
 	{
 		"code": "63.02.05.2006",
@@ -1047,7 +1047,7 @@
 	{
 		"code": "63.02.06.2013",
 		"type": "desa",
-		"name": "SUNGAITAIB"
+		"name": "SUNGAI TAIB"
 	},
 	{
 		"code": "63.02.06.2014",
@@ -1092,7 +1092,7 @@
 	{
 		"code": "63.02.06.2022",
 		"type": "desa",
-		"name": "GUNUNGIULIN"
+		"name": "GUNUNG ULIN"
 	},
 	{
 		"code": "63.02.06.2024",
@@ -1102,7 +1102,7 @@
 	{
 		"code": "63.02.06.2025",
 		"type": "desa",
-		"name": "GUNUNGSARI"
+		"name": "GUNUNG SARI"
 	},
 	{
 		"code": "63.02.06.2026",
@@ -1117,17 +1117,17 @@
 	{
 		"code": "63.02.07.2004",
 		"type": "desa",
-		"name": "TANJUNGPANGGA"
+		"name": "TANJUNG PANGGA"
 	},
 	{
 		"code": "63.02.07.2005",
 		"type": "desa",
-		"name": "PEMBALACANAN"
+		"name": "PEMBELACANAN"
 	},
 	{
 		"code": "63.02.07.2006",
 		"type": "desa",
-		"name": "SUNGAINIPAH"
+		"name": "SUNGAI NIPAH"
 	},
 	{
 		"code": "63.02.07.2007",
@@ -1147,7 +1147,7 @@
 	{
 		"code": "63.02.07.2015",
 		"type": "desa",
-		"name": "SUNGAIKUPANG JAYA"
+		"name": "SUNGAI KUPANG JAYA"
 	},
 	{
 		"code": "63.02.07.2016",
@@ -1182,7 +1182,7 @@
 	{
 		"code": "63.02.08.2004",
 		"type": "desa",
-		"name": "SUNGAIKUPANG"
+		"name": "SUNGAI KUPANG"
 	},
 	{
 		"code": "63.02.08.2005",
@@ -1222,12 +1222,12 @@
 	{
 		"code": "63.02.09.2001",
 		"type": "desa",
-		"name": "TANJUNGBATU"
+		"name": "TANJUNG BATU"
 	},
 	{
 		"code": "63.02.09.2002",
 		"type": "desa",
-		"name": "SUNGAIPUNGGAWA"
+		"name": "SUNGAI PUNGGAWA"
 	},
 	{
 		"code": "63.02.09.2003",
@@ -1257,12 +1257,12 @@
 	{
 		"code": "63.02.09.2011",
 		"type": "desa",
-		"name": "SUNGAIPINANG"
+		"name": "SUNGAI PINANG"
 	},
 	{
 		"code": "63.02.09.2012",
 		"type": "desa",
-		"name": "TANJUNGSELAYAR"
+		"name": "TANJUNG SELAYAR"
 	},
 	{
 		"code": "63.02.09.2013",
@@ -1292,12 +1292,12 @@
 	{
 		"code": "63.02.10.2001",
 		"type": "desa",
-		"name": "SUNGAIHANYAR"
+		"name": "SUNGAI HANYAR"
 	},
 	{
 		"code": "63.02.10.2002",
 		"type": "desa",
-		"name": "SUNGAISELUANG"
+		"name": "SUNGAI SELUANG"
 	},
 	{
 		"code": "63.02.10.2003",
@@ -1337,7 +1337,7 @@
 	{
 		"code": "63.02.11.2002",
 		"type": "desa",
-		"name": "GUNUNCALANG"
+		"name": "GUNUNG CALANG"
 	},
 	{
 		"code": "63.02.11.2003",
@@ -1352,7 +1352,7 @@
 	{
 		"code": "63.02.11.2005",
 		"type": "desa",
-		"name": "TANJUNGSAMALANTAKAN"
+		"name": "TANJUNG SAMALANTAKAN"
 	},
 	{
 		"code": "63.02.11.2006",
@@ -1397,7 +1397,7 @@
 	{
 		"code": "63.02.12.2002",
 		"type": "desa",
-		"name": "SUNGAIBETUNG"
+		"name": "SUNGAI BETUNG"
 	},
 	{
 		"code": "63.02.12.2003",
@@ -1407,12 +1407,12 @@
 	{
 		"code": "63.02.12.2004",
 		"type": "desa",
-		"name": "GUNUNGBATU BESAR"
+		"name": "GUNUNG BATU BESAR"
 	},
 	{
 		"code": "63.02.12.2005",
 		"type": "desa",
-		"name": "SAMPANAHAN HULU"
+		"name": "SAMPANAHAN"
 	},
 	{
 		"code": "63.02.12.2006",
@@ -1542,7 +1542,7 @@
 	{
 		"code": "63.02.14.2006",
 		"type": "desa",
-		"name": "2X9"
+		"name": "PERAMASAN DUA KALI SANGA"
 	},
 	{
 		"code": "63.02.14.2007",
@@ -1587,7 +1587,7 @@
 	{
 		"code": "63.02.15.2007",
 		"type": "desa",
-		"name": "MANUNGGAL BARU"
+		"name": "MANUNGGUL BARU"
 	},
 	{
 		"code": "63.02.15.2008",
@@ -1662,7 +1662,7 @@
 	{
 		"code": "63.02.17.2004",
 		"type": "desa",
-		"name": "PULAUPANCI"
+		"name": "PULAU PANCI"
 	},
 	{
 		"code": "63.02.17.2005",
@@ -1762,17 +1762,17 @@
 	{
 		"code": "63.02.20.2001",
 		"type": "desa",
-		"name": "TANJUNGLALAK UTARA"
+		"name": "TANJUNG LALAK UTARA"
 	},
 	{
 		"code": "63.02.20.2002",
 		"type": "desa",
-		"name": "TANJUNGLALAK SELATAN"
+		"name": "TANJUNG LALAK SELATAN"
 	},
 	{
 		"code": "63.02.20.2003",
 		"type": "desa",
-		"name": "PULAUKERAYAAN"
+		"name": "PULAU KERAYAAN"
 	},
 	{
 		"code": "63.02.20.2004",
@@ -1782,22 +1782,22 @@
 	{
 		"code": "63.02.20.2005",
 		"type": "desa",
-		"name": "PULAUKERASIAN"
+		"name": "PULAU KERASIAN"
 	},
 	{
 		"code": "63.02.20.2006",
 		"type": "desa",
-		"name": "PULAUKERUMPUTAN"
+		"name": "PULAU KERUMPUTAN"
 	},
 	{
 		"code": "63.02.20.2007",
 		"type": "desa",
-		"name": "TELUKARU"
+		"name": "TELUK ARU"
 	},
 	{
 		"code": "63.02.20.2008",
 		"type": "desa",
-		"name": "TELUKKEMUNING"
+		"name": "TELUK KEMUNING"
 	},
 	{
 		"code": "63.02.20.2009",
@@ -1812,32 +1812,32 @@
 	{
 		"code": "63.02.21.2001",
 		"type": "desa",
-		"name": "TANJUNGPELAYAR"
+		"name": "TANJUNG PELAYAR"
 	},
 	{
 		"code": "63.02.21.2002",
 		"type": "desa",
-		"name": "TANJUNGSUNGKAI"
+		"name": "TANJUNG SUNGKAI"
 	},
 	{
 		"code": "63.02.21.2003",
 		"type": "desa",
-		"name": "TANJUNGTENGAH"
+		"name": "TANJUNG TENGAH"
 	},
 	{
 		"code": "63.02.21.2004",
 		"type": "desa",
-		"name": "TANJUNGKUNYIT"
+		"name": "TANJUNG KUNYIT"
 	},
 	{
 		"code": "63.02.21.2005",
 		"type": "desa",
-		"name": "TELUKTAMIYANG"
+		"name": "TELUK TAMIYANG"
 	},
 	{
 		"code": "63.02.21.2006",
 		"type": "desa",
-		"name": "GOSONGPANJANG"
+		"name": "GOSONG PANJANG"
 	},
 	{
 		"code": "63.02.21.2007",
@@ -1937,7 +1937,7 @@
 	{
 		"code": "63.03.01.2024",
 		"type": "desa",
-		"name": "MUARA"
+		"name": "ALUH ALUH KECIL MUARA"
 	},
 	{
 		"code": "63.03.01.2026",
@@ -2610,26 +2610,6 @@
 		"name": "SIMPANG EMPAT"
 	},
 	{
-		"code": "63.03.08.2001",
-		"type": "desa",
-		"name": "MAKMUR KARYA"
-	},
-	{
-		"code": "63.03.08.2002",
-		"type": "desa",
-		"name": "ALALAK PADANG"
-	},
-	{
-		"code": "63.03.08.2003",
-		"type": "desa",
-		"name": "BENUA ANYAR"
-	},
-	{
-		"code": "63.03.08.2004",
-		"type": "desa",
-		"name": "CINTAPURI"
-	},
-	{
 		"code": "63.03.08.2005",
 		"type": "desa",
 		"name": "PAKU"
@@ -2670,16 +2650,6 @@
 		"name": "LAWIRAN"
 	},
 	{
-		"code": "63.03.08.2015",
-		"type": "desa",
-		"name": "SURIAN HANYAR"
-	},
-	{
-		"code": "63.03.08.2016",
-		"type": "desa",
-		"name": "KERAMAT MINA"
-	},
-	{
 		"code": "63.03.08.2017",
 		"type": "desa",
 		"name": "BATU BALIAN"
@@ -2705,11 +2675,6 @@
 		"name": "PARING TALI"
 	},
 	{
-		"code": "63.03.08.2024",
-		"type": "desa",
-		"name": "GARIS HANYAR"
-	},
-	{
 		"code": "63.03.08.2025",
 		"type": "desa",
 		"name": "PASAR LAMA"
@@ -2718,26 +2683,6 @@
 		"code": "63.03.08.2026",
 		"type": "desa",
 		"name": "SUNGAI TABUK"
-	},
-	{
-		"code": "63.03.08.2027",
-		"type": "desa",
-		"name": "SIMPANG LIMA"
-	},
-	{
-		"code": "63.03.08.2028",
-		"type": "desa",
-		"name": "KARYA MAKMUR II"
-	},
-	{
-		"code": "63.03.08.2029",
-		"type": "desa",
-		"name": "SINDANG JAYA"
-	},
-	{
-		"code": "63.03.08.2030",
-		"type": "desa",
-		"name": "SUMBER SARI"
 	},
 	{
 		"code": "63.03.09",
@@ -3408,6 +3353,66 @@
 		"code": "63.03.19.2013",
 		"type": "desa",
 		"name": "TAIBAH RAYA"
+	},
+	{
+		"code": "63.03.20",
+		"type": "kecamatan",
+		"name": "CINTAPURI DARUSSALAM"
+	},
+	{
+		"code": "63.03.20.2001",
+		"type": "desa",
+		"name": "KERAMAT MINA"
+	},
+	{
+		"code": "63.03.20.2002",
+		"type": "desa",
+		"name": "GARIS HANYAR"
+	},
+	{
+		"code": "63.03.20.2003",
+		"type": "desa",
+		"name": "CINTAPURI"
+	},
+	{
+		"code": "63.03.20.2004",
+		"type": "desa",
+		"name": "SURIAN HANYAR"
+	},
+	{
+		"code": "63.03.20.2005",
+		"type": "desa",
+		"name": "BENUA ANYAR"
+	},
+	{
+		"code": "63.03.20.2006",
+		"type": "desa",
+		"name": "ALALAK PADANG"
+	},
+	{
+		"code": "63.03.20.2007",
+		"type": "desa",
+		"name": "MAKMUR KARYA"
+	},
+	{
+		"code": "63.03.20.2008",
+		"type": "desa",
+		"name": "SIMPANG LIMA"
+	},
+	{
+		"code": "63.03.20.2009",
+		"type": "desa",
+		"name": "KARYA MAKMUR"
+	},
+	{
+		"code": "63.03.20.2010",
+		"type": "desa",
+		"name": "SINDANG JAYA"
+	},
+	{
+		"code": "63.03.20.2011",
+		"type": "desa",
+		"name": "SUMBER SARI"
 	},
 	{
 		"code": "63.04",
@@ -7057,7 +7062,7 @@
 	{
 		"code": "63.08.02.2003",
 		"type": "desa",
-		"name": "S. DURAIT HILIR"
+		"name": "SUNGAI DURAIT HILIR"
 	},
 	{
 		"code": "63.08.02.2004",
@@ -7127,7 +7132,7 @@
 	{
 		"code": "63.08.02.2017",
 		"type": "desa",
-		"name": "SUNGAI JANJAM"
+		"name": "SUNGAI JAMJAM"
 	},
 	{
 		"code": "63.08.02.2018",
@@ -7242,7 +7247,7 @@
 	{
 		"code": "63.08.03.2025",
 		"type": "desa",
-		"name": "TAMBALANGAN KECIL"
+		"name": "TAMBALANG KECIL"
 	},
 	{
 		"code": "63.08.03.2026",
@@ -7257,7 +7262,7 @@
 	{
 		"code": "63.08.03.2031",
 		"type": "desa",
-		"name": "TENGAH"
+		"name": "SUNGAI PANDAN TENGAH"
 	},
 	{
 		"code": "63.08.03.2032",
@@ -7282,7 +7287,7 @@
 	{
 		"code": "63.08.03.2037",
 		"type": "desa",
-		"name": "TAMBALONGAN TENGAH"
+		"name": "TAMBALANG TENGAH"
 	},
 	{
 		"code": "63.08.03.2038",
@@ -7727,7 +7732,7 @@
 	{
 		"code": "63.08.06.2029",
 		"type": "desa",
-		"name": "PENYAUANGAN"
+		"name": "PANYAUNGAN"
 	},
 	{
 		"code": "63.08.06.2030",
@@ -7837,7 +7842,7 @@
 	{
 		"code": "63.08.07.2013",
 		"type": "desa",
-		"name": "LOKBANGKAI"
+		"name": "LOK BANGKAI"
 	},
 	{
 		"code": "63.08.07.2014",
@@ -7892,7 +7897,7 @@
 	{
 		"code": "63.08.08.2003",
 		"type": "desa",
-		"name": "PALIMBANGAN SARI"
+		"name": "PALIMBANG SARI"
 	},
 	{
 		"code": "63.08.08.2004",
@@ -8027,12 +8032,12 @@
 	{
 		"code": "63.08.10.2003",
 		"type": "desa",
-		"name": "GELAGAH HULU"
+		"name": "GALAGAH HULU"
 	},
 	{
 		"code": "63.08.10.2004",
 		"type": "desa",
-		"name": "GELAGAH"
+		"name": "GALAGAH"
 	},
 	{
 		"code": "63.08.10.2005",
@@ -8072,7 +8077,7 @@
 	{
 		"code": "63.08.10.2012",
 		"type": "desa",
-		"name": "BENUA HANYAR"
+		"name": "BANUA HANYAR"
 	},
 	{
 		"code": "63.08.10.2013",
@@ -8162,7 +8167,7 @@
 	{
 		"code": "63.09.01.2011",
 		"type": "desa",
-		"name": "HABAU HILIR"
+		"name": "HABAU HULU"
 	},
 	{
 		"code": "63.09.01.2012",
@@ -8172,7 +8177,7 @@
 	{
 		"code": "63.09.01.2013",
 		"type": "desa",
-		"name": "BANGKILING RAYA"
+		"name": "BAKILING RAYA"
 	},
 	{
 		"code": "63.09.01.2014",
@@ -8262,7 +8267,7 @@
 	{
 		"code": "63.09.03.2002",
 		"type": "desa",
-		"name": "LUK BAYUR"
+		"name": "LUKBAYUR"
 	},
 	{
 		"code": "63.09.03.2003",
@@ -8447,7 +8452,7 @@
 	{
 		"code": "63.09.05.2012",
 		"type": "desa",
-		"name": "SARADANG"
+		"name": "SERADANG"
 	},
 	{
 		"code": "63.09.05.2013",
@@ -8490,6 +8495,11 @@
 		"name": "BELIMBING"
 	},
 	{
+		"code": "63.09.06.1003",
+		"type": "kelurahan",
+		"name": "SULINGAN"
+	},
+	{
 		"code": "63.09.06.1006",
 		"type": "kelurahan",
 		"name": "MABU'UN"
@@ -8498,11 +8508,6 @@
 		"code": "63.09.06.1009",
 		"type": "kelurahan",
 		"name": "PEMBATAAN"
-	},
-	{
-		"code": "63.09.06.2003",
-		"type": "desa",
-		"name": "SULINGAN"
 	},
 	{
 		"code": "63.09.06.2004",
@@ -8567,7 +8572,7 @@
 	{
 		"code": "63.09.07.2007",
 		"type": "desa",
-		"name": "SANTU\"UN"
+		"name": "SANTUUN"
 	},
 	{
 		"code": "63.09.07.2008",
@@ -8582,7 +8587,7 @@
 	{
 		"code": "63.09.07.2010",
 		"type": "desa",
-		"name": "PELAPI"
+		"name": "PALAPI"
 	},
 	{
 		"code": "63.09.07.2011",
@@ -8617,7 +8622,7 @@
 	{
 		"code": "63.09.08.2002",
 		"type": "desa",
-		"name": "TANTARINGIN"
+		"name": "TANTA RINGIN"
 	},
 	{
 		"code": "63.09.08.2003",
@@ -8627,7 +8632,7 @@
 	{
 		"code": "63.09.08.2004",
 		"type": "desa",
-		"name": "PANDANGIN"
+		"name": "PADANGIN"
 	},
 	{
 		"code": "63.09.08.2005",
@@ -8662,12 +8667,12 @@
 	{
 		"code": "63.09.09.2003",
 		"type": "desa",
-		"name": "SEI RUKAM II"
+		"name": "SUNGAI RUKAM II"
 	},
 	{
 		"code": "63.09.09.2004",
 		"type": "desa",
-		"name": "SEI RUKAM I"
+		"name": "SUNGAI RUKAM I"
 	},
 	{
 		"code": "63.09.09.2005",
@@ -8802,7 +8807,7 @@
 	{
 		"code": "63.09.12.2006",
 		"type": "desa",
-		"name": "DAMBUNG"
+		"name": "DAMBUNG RAYA"
 	},
 	{
 		"code": "63.09.12.2007",
@@ -8817,7 +8822,7 @@
 	{
 		"code": "63.09.12.2009",
 		"type": "desa",
-		"name": "HEGAR MANAH"
+		"name": "HEGARMANAH"
 	},
 	{
 		"code": "63.10",
@@ -9523,11 +9528,6 @@
 		"code": "63.10.08.2012",
 		"type": "desa",
 		"name": "MAJU MULYO"
-	},
-	{
-		"code": "63.10.08.2013",
-		"type": "desa",
-		"name": "GUNUNGHATALAU MERATUS RAYA"
 	},
 	{
 		"code": "63.10.08.2014",

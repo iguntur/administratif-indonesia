@@ -157,7 +157,7 @@
 	{
 		"code": "35.01.03.2002",
 		"type": "desa",
-		"name": "SOOKO"
+		"name": "SOOKA"
 	},
 	{
 		"code": "35.01.03.2003",
@@ -237,7 +237,7 @@
 	{
 		"code": "35.01.04.1012",
 		"type": "kelurahan",
-		"name": "PUCUNGSEWU"
+		"name": "PUCANGSEWU"
 	},
 	{
 		"code": "35.01.04.1013",
@@ -317,7 +317,7 @@
 	{
 		"code": "35.01.04.2020",
 		"type": "desa",
-		"name": "SEMANTREN"
+		"name": "SEMANTEN"
 	},
 	{
 		"code": "35.01.04.2021",
@@ -852,7 +852,7 @@
 	{
 		"code": "35.01.11.2015",
 		"type": "desa",
-		"name": "WONODADI WETAN"
+		"name": "WONODADI KULON"
 	},
 	{
 		"code": "35.01.11.2016",
@@ -887,7 +887,7 @@
 	{
 		"code": "35.01.12.2003",
 		"type": "desa",
-		"name": "SUKOHARJO"
+		"name": "SUKOREJO"
 	},
 	{
 		"code": "35.01.12.2004",
@@ -2767,7 +2767,7 @@
 	{
 		"code": "35.03.03.2008",
 		"type": "desa",
-		"name": "KARANG ANYAR"
+		"name": "KARANGANYAR"
 	},
 	{
 		"code": "35.03.03.2009",
@@ -2812,7 +2812,7 @@
 	{
 		"code": "35.03.04.2006",
 		"type": "desa",
-		"name": "SALAM WATES"
+		"name": "SALAMWATES"
 	},
 	{
 		"code": "35.03.04.2007",
@@ -2822,7 +2822,7 @@
 	{
 		"code": "35.03.04.2008",
 		"type": "desa",
-		"name": "SUMBER BENING"
+		"name": "SUMBERBENING"
 	},
 	{
 		"code": "35.03.04.2009",
@@ -3102,7 +3102,7 @@
 	{
 		"code": "35.03.09.2003",
 		"type": "desa",
-		"name": "SUREN LOR"
+		"name": "SURENLOR"
 	},
 	{
 		"code": "35.03.09.2004",
@@ -3287,7 +3287,7 @@
 	{
 		"code": "35.03.12.2005",
 		"type": "desa",
-		"name": "NGULUNGKULON"
+		"name": "NGULANGKULON"
 	},
 	{
 		"code": "35.03.12.2006",
@@ -3307,7 +3307,7 @@
 	{
 		"code": "35.03.12.2009",
 		"type": "desa",
-		"name": "GULUNG WETAN"
+		"name": "NGULANWETAN"
 	},
 	{
 		"code": "35.03.12.2010",
@@ -3332,7 +3332,7 @@
 	{
 		"code": "35.03.13.2003",
 		"type": "desa",
-		"name": "KENDAL REJO"
+		"name": "KENDALREJO"
 	},
 	{
 		"code": "35.03.13.2004",
@@ -3527,7 +3527,7 @@
 	{
 		"code": "35.04.02.2003",
 		"type": "desa",
-		"name": "PUCUNGKIDUL"
+		"name": "PUCUNG KIDUL"
 	},
 	{
 		"code": "35.04.02.2004",
@@ -3712,7 +3712,7 @@
 	{
 		"code": "35.04.04.2002",
 		"type": "desa",
-		"name": "PUCUNGLOR"
+		"name": "PUCUNG LOR"
 	},
 	{
 		"code": "35.04.04.2003",
@@ -4487,7 +4487,7 @@
 	{
 		"code": "35.04.14.2006",
 		"type": "desa",
-		"name": "BANYU URIP"
+		"name": "BANYUURIP"
 	},
 	{
 		"code": "35.04.14.2007",
@@ -4582,12 +4582,12 @@
 	{
 		"code": "35.04.15.2007",
 		"type": "desa",
-		"name": "TANGULKUNDUNG"
+		"name": "TANGGULKUNDUNG"
 	},
 	{
 		"code": "35.04.15.2008",
 		"type": "desa",
-		"name": "WATES KROYO"
+		"name": "WATESKROYO"
 	},
 	{
 		"code": "35.04.15.2009",
@@ -4857,7 +4857,7 @@
 	{
 		"code": "35.04.19.2002",
 		"type": "desa",
-		"name": "JENGLUNGHARJO"
+		"name": "JENGGLUNGHARJO"
 	},
 	{
 		"code": "35.04.19.2003",
@@ -4867,7 +4867,7 @@
 	{
 		"code": "35.04.19.2004",
 		"type": "desa",
-		"name": "TANGGUNG GUNUNG"
+		"name": "TANGGUNGGUNUNG"
 	},
 	{
 		"code": "35.04.19.2005",
@@ -8107,7 +8107,7 @@
 	{
 		"code": "35.07.01.2001",
 		"type": "desa",
-		"name": "TULUNG REJO"
+		"name": "TULUNGREJO"
 	},
 	{
 		"code": "35.07.01.2002",
@@ -8132,7 +8132,7 @@
 	{
 		"code": "35.07.01.2006",
 		"type": "desa",
-		"name": "DONO MULYO"
+		"name": "DONOMULYO"
 	},
 	{
 		"code": "35.07.01.2007",
@@ -8162,7 +8162,7 @@
 	{
 		"code": "35.07.02.2001",
 		"type": "desa",
-		"name": "SBR. MANJING KULON"
+		"name": "SUMBERMANJING KULON"
 	},
 	{
 		"code": "35.07.02.2002",
@@ -8197,7 +8197,7 @@
 	{
 		"code": "35.07.02.2008",
 		"type": "desa",
-		"name": "SUMBER REJO"
+		"name": "SUMBEREJO"
 	},
 	{
 		"code": "35.07.03",
@@ -8262,7 +8262,7 @@
 	{
 		"code": "35.07.04.2001",
 		"type": "desa",
-		"name": "TAMBAK SARI"
+		"name": "TAMBAKSARI"
 	},
 	{
 		"code": "35.07.04.2002",
@@ -8282,7 +8282,7 @@
 	{
 		"code": "35.07.04.2005",
 		"type": "desa",
-		"name": "RINGIN KEMBANG"
+		"name": "RINGINKEMBAR"
 	},
 	{
 		"code": "35.07.04.2006",
@@ -8312,7 +8312,7 @@
 	{
 		"code": "35.07.04.2011",
 		"type": "desa",
-		"name": "SBR. MANJING WETAN"
+		"name": "SUMBERMANJING WETAN"
 	},
 	{
 		"code": "35.07.04.2012",
@@ -8492,7 +8492,7 @@
 	{
 		"code": "35.07.07.2004",
 		"type": "desa",
-		"name": "NGADIREJO"
+		"name": "NGADIRESO"
 	},
 	{
 		"code": "35.07.07.2005",
@@ -8517,7 +8517,7 @@
 	{
 		"code": "35.07.07.2009",
 		"type": "desa",
-		"name": "NGEBRUG"
+		"name": "NGEBRUK"
 	},
 	{
 		"code": "35.07.07.2010",
@@ -8667,12 +8667,12 @@
 	{
 		"code": "35.07.09.2005",
 		"type": "desa",
-		"name": "GEDOG KULON"
+		"name": "GEDOK KULON"
 	},
 	{
 		"code": "35.07.09.2006",
 		"type": "desa",
-		"name": "GEDOG WETAN"
+		"name": "GEDOK WETAN"
 	},
 	{
 		"code": "35.07.09.2007",
@@ -8772,7 +8772,7 @@
 	{
 		"code": "35.07.10.2010",
 		"type": "desa",
-		"name": "UREK UREK"
+		"name": "UREK - UREK"
 	},
 	{
 		"code": "35.07.10.2011",
@@ -8802,7 +8802,7 @@
 	{
 		"code": "35.07.11.2001",
 		"type": "desa",
-		"name": "PATUK REJO"
+		"name": "PUTUKREJO"
 	},
 	{
 		"code": "35.07.11.2002",
@@ -8897,7 +8897,7 @@
 	{
 		"code": "35.07.13.1009",
 		"type": "kelurahan",
-		"name": "CEMPOKOMULYO"
+		"name": "CEPOKOMULYO"
 	},
 	{
 		"code": "35.07.13.1010",
@@ -8967,7 +8967,7 @@
 	{
 		"code": "35.07.13.2016",
 		"type": "desa",
-		"name": "JATIREJOSO"
+		"name": "JATIREJOYOSO"
 	},
 	{
 		"code": "35.07.13.2017",
@@ -9037,7 +9037,7 @@
 	{
 		"code": "35.07.14.2011",
 		"type": "desa",
-		"name": "KREBET SENGGRENONG"
+		"name": "KREBET SENGGRONG"
 	},
 	{
 		"code": "35.07.14.2012",
@@ -9067,7 +9067,7 @@
 	{
 		"code": "35.07.15.2002",
 		"type": "desa",
-		"name": "GUNUNG RENGGO"
+		"name": "GUNUNGRONGGO"
 	},
 	{
 		"code": "35.07.15.2003",
@@ -9242,7 +9242,7 @@
 	{
 		"code": "35.07.17.2008",
 		"type": "desa",
-		"name": "GADING KEMBAR"
+		"name": "GADINGKEMBAR"
 	},
 	{
 		"code": "35.07.17.2009",
@@ -9272,7 +9272,7 @@
 	{
 		"code": "35.07.17.2014",
 		"type": "desa",
-		"name": "SAMPAREJO"
+		"name": "SLAMPAREJO"
 	},
 	{
 		"code": "35.07.17.2015",
@@ -9297,7 +9297,7 @@
 	{
 		"code": "35.07.18.2003",
 		"type": "desa",
-		"name": "PUCANGSONO"
+		"name": "PUCANGSONGO"
 	},
 	{
 		"code": "35.07.18.2004",
@@ -9312,12 +9312,12 @@
 	{
 		"code": "35.07.18.2006",
 		"type": "desa",
-		"name": "PAKIS KEMBAR"
+		"name": "PAKISKEMBAR"
 	},
 	{
 		"code": "35.07.18.2007",
 		"type": "desa",
-		"name": "SUMBER KRADENAN"
+		"name": "SUMBERKRADENAN"
 	},
 	{
 		"code": "35.07.18.2008",
@@ -9352,12 +9352,12 @@
 	{
 		"code": "35.07.18.2014",
 		"type": "desa",
-		"name": "BUNUT WETAN"
+		"name": "BUNUTWETAN"
 	},
 	{
 		"code": "35.07.18.2015",
 		"type": "desa",
-		"name": "PAKIS AJAR"
+		"name": "PAKISJAJAR"
 	},
 	{
 		"code": "35.07.19",
@@ -9382,7 +9382,7 @@
 	{
 		"code": "35.07.19.2004",
 		"type": "desa",
-		"name": "WONOKERTO"
+		"name": "WONOKERSO"
 	},
 	{
 		"code": "35.07.19.2005",
@@ -9412,12 +9412,12 @@
 	{
 		"code": "35.07.19.2010",
 		"type": "desa",
-		"name": "GENANGAN"
+		"name": "GENENGAN"
 	},
 	{
 		"code": "35.07.19.2011",
 		"type": "desa",
-		"name": "KENDAL PAYAK"
+		"name": "KENDALPAYAK"
 	},
 	{
 		"code": "35.07.19.2012",
@@ -9427,7 +9427,7 @@
 	{
 		"code": "35.07.20",
 		"type": "kecamatan",
-		"name": "NGAJUNG"
+		"name": "NGAJUM"
 	},
 	{
 		"code": "35.07.20.2001",
@@ -9587,7 +9587,7 @@
 	{
 		"code": "35.07.22.2009",
 		"type": "desa",
-		"name": "GADING KULON"
+		"name": "GADINGKULON"
 	},
 	{
 		"code": "35.07.22.2010",
@@ -9637,7 +9637,7 @@
 	{
 		"code": "35.07.23.2008",
 		"type": "desa",
-		"name": "BONOWARIH"
+		"name": "DONOWARIH"
 	},
 	{
 		"code": "35.07.23.2009",
@@ -9650,19 +9650,19 @@
 		"name": "SINGOSARI"
 	},
 	{
-		"code": "35.07.24.1012",
+		"code": "35.07.24.1011",
 		"type": "kelurahan",
-		"name": "TAMANHARJO"
+		"name": "PAGENTAN"
+	},
+	{
+		"code": "35.07.24.1014",
+		"type": "kelurahan",
+		"name": "LOSARI"
 	},
 	{
 		"code": "35.07.24.1015",
 		"type": "kelurahan",
 		"name": "CANDIRENGGO"
-	},
-	{
-		"code": "35.07.24.1016",
-		"type": "kelurahan",
-		"name": "TOYOMARTO"
 	},
 	{
 		"code": "35.07.24.2001",
@@ -9692,12 +9692,12 @@
 	{
 		"code": "35.07.24.2006",
 		"type": "desa",
-		"name": "TANJUNGTIRTO"
+		"name": "TUNJUNGTIRTO"
 	},
 	{
 		"code": "35.07.24.2007",
 		"type": "desa",
-		"name": "LANGLANG"
+		"name": "LANG - LANG"
 	},
 	{
 		"code": "35.07.24.2008",
@@ -9715,9 +9715,9 @@
 		"name": "GUNUNGREJO"
 	},
 	{
-		"code": "35.07.24.2011",
+		"code": "35.07.24.2012",
 		"type": "desa",
-		"name": "PAGENTAN"
+		"name": "TAMANHARJO"
 	},
 	{
 		"code": "35.07.24.2013",
@@ -9725,14 +9725,14 @@
 		"name": "ARDIMULYO"
 	},
 	{
-		"code": "35.07.24.2014",
+		"code": "35.07.24.2016",
 		"type": "desa",
-		"name": "LOSARI"
+		"name": "TOYOMARTO"
 	},
 	{
 		"code": "35.07.24.2017",
 		"type": "desa",
-		"name": "RANDUANGUNG"
+		"name": "RANDUAGUNG"
 	},
 	{
 		"code": "35.07.25",
@@ -9777,7 +9777,7 @@
 	{
 		"code": "35.07.25.2007",
 		"type": "desa",
-		"name": "SUMBERNNGEPOH"
+		"name": "SUMBERNGEPOH"
 	},
 	{
 		"code": "35.07.25.2008",
@@ -9787,7 +9787,7 @@
 	{
 		"code": "35.07.25.2009",
 		"type": "desa",
-		"name": "TURI REJO"
+		"name": "TURIREJO"
 	},
 	{
 		"code": "35.07.25.2011",
@@ -9822,7 +9822,7 @@
 	{
 		"code": "35.07.26.2004",
 		"type": "desa",
-		"name": "PANDENSARI"
+		"name": "PANDESARI"
 	},
 	{
 		"code": "35.07.26.2005",
@@ -9837,7 +9837,7 @@
 	{
 		"code": "35.07.26.2007",
 		"type": "desa",
-		"name": "NGADAB"
+		"name": "NGABAB"
 	},
 	{
 		"code": "35.07.26.2008",
@@ -9847,7 +9847,7 @@
 	{
 		"code": "35.07.26.2009",
 		"type": "desa",
-		"name": "MADIREJO"
+		"name": "MADIREDO"
 	},
 	{
 		"code": "35.07.26.2010",
@@ -9892,7 +9892,7 @@
 	{
 		"code": "35.07.27.2007",
 		"type": "desa",
-		"name": "PANDASARI"
+		"name": "PANDANSARI"
 	},
 	{
 		"code": "35.07.27.2008",
@@ -9932,7 +9932,7 @@
 	{
 		"code": "35.07.28.2001",
 		"type": "desa",
-		"name": "PONDOK AGUNG"
+		"name": "PONDOKAGUNG"
 	},
 	{
 		"code": "35.07.28.2002",
@@ -9977,7 +9977,7 @@
 	{
 		"code": "35.07.29.2003",
 		"type": "desa",
-		"name": "SIDUREJO"
+		"name": "SINDUREJO"
 	},
 	{
 		"code": "35.07.29.2004",
@@ -10027,7 +10027,7 @@
 	{
 		"code": "35.07.30.2004",
 		"type": "desa",
-		"name": "JOGOMULYO"
+		"name": "JOGOMULYAN"
 	},
 	{
 		"code": "35.07.30.2005",
@@ -10042,7 +10042,7 @@
 	{
 		"code": "35.07.30.2007",
 		"type": "desa",
-		"name": "SUKOSARI"
+		"name": "SUKOREJO"
 	},
 	{
 		"code": "35.07.30.2008",
@@ -10057,7 +10057,7 @@
 	{
 		"code": "35.07.30.2010",
 		"type": "desa",
-		"name": "GEDUNGSARI"
+		"name": "GADUNGSARI"
 	},
 	{
 		"code": "35.07.30.2011",
@@ -10067,7 +10067,7 @@
 	{
 		"code": "35.07.30.2012",
 		"type": "desa",
-		"name": "TAMAN SATRIYAN"
+		"name": "TAMANSATRIYAN"
 	},
 	{
 		"code": "35.07.30.2013",
@@ -10242,7 +10242,7 @@
 	{
 		"code": "35.08.01.2004",
 		"type": "desa",
-		"name": "TEMPURREJO"
+		"name": "TEMPUREJO"
 	},
 	{
 		"code": "35.08.01.2005",
@@ -10292,7 +10292,7 @@
 	{
 		"code": "35.08.02.2006",
 		"type": "desa",
-		"name": "SUPIT URANG"
+		"name": "SUPITURANG"
 	},
 	{
 		"code": "35.08.03",
@@ -10337,7 +10337,7 @@
 	{
 		"code": "35.08.03.2008",
 		"type": "desa",
-		"name": "TAMBAH REJO"
+		"name": "TAMBAHREJO"
 	},
 	{
 		"code": "35.08.03.2009",
@@ -10377,7 +10377,7 @@
 	{
 		"code": "35.08.04.2005",
 		"type": "desa",
-		"name": "SELOK AWAR AWAR"
+		"name": "SELOK AWAR - AWAR"
 	},
 	{
 		"code": "35.08.04.2006",
@@ -10407,7 +10407,7 @@
 	{
 		"code": "35.08.04.2011",
 		"type": "desa",
-		"name": "SELOK ANYAR"
+		"name": "SELOKANYAR"
 	},
 	{
 		"code": "35.08.05",
@@ -10472,12 +10472,12 @@
 	{
 		"code": "35.08.05.2012",
 		"type": "desa",
-		"name": "JUKARTO"
+		"name": "JOKARTO"
 	},
 	{
 		"code": "35.08.05.2013",
 		"type": "desa",
-		"name": "PANDAN ARUM"
+		"name": "PANDANARUM"
 	},
 	{
 		"code": "35.08.06",
@@ -10637,7 +10637,7 @@
 	{
 		"code": "35.08.08.2006",
 		"type": "desa",
-		"name": "DAWUAN WETAN"
+		"name": "DAWUHAN WETAN"
 	},
 	{
 		"code": "35.08.08.2007",
@@ -10722,7 +10722,7 @@
 	{
 		"code": "35.08.10.1011",
 		"type": "kelurahan",
-		"name": "TOMPOKERASAN"
+		"name": "TOMPOKERSAN"
 	},
 	{
 		"code": "35.08.10.1012",
@@ -10737,7 +10737,7 @@
 	{
 		"code": "35.08.10.2002",
 		"type": "desa",
-		"name": "LUBRUK LOR"
+		"name": "LABRUK LOR"
 	},
 	{
 		"code": "35.08.10.2006",
@@ -10792,7 +10792,7 @@
 	{
 		"code": "35.08.11.2007",
 		"type": "desa",
-		"name": "KARANGARUM"
+		"name": "KARANGANOM"
 	},
 	{
 		"code": "35.08.12",
@@ -11252,7 +11252,7 @@
 	{
 		"code": "35.08.20.2001",
 		"type": "desa",
-		"name": "JENGGRONO"
+		"name": "JENGGRONG"
 	},
 	{
 		"code": "35.08.20.2002",
@@ -12837,7 +12837,7 @@
 	{
 		"code": "35.10.03.2002",
 		"type": "desa",
-		"name": "SUMBERASRI"
+		"name": "SUMBERSARI"
 	},
 	{
 		"code": "35.10.03.2003",
@@ -12927,7 +12927,7 @@
 	{
 		"code": "35.10.05.2001",
 		"type": "desa",
-		"name": "SUMBER BERAS"
+		"name": "SUMBERBERAS"
 	},
 	{
 		"code": "35.10.05.2002",
@@ -13207,7 +13207,7 @@
 	{
 		"code": "35.10.11.2004",
 		"type": "desa",
-		"name": "KAJAR HARJO"
+		"name": "KAJARHARJO"
 	},
 	{
 		"code": "35.10.11.2005",
@@ -13295,21 +13295,6 @@
 		"name": "MANGIR"
 	},
 	{
-		"code": "35.10.13.2003",
-		"type": "desa",
-		"name": "KALIGUNG"
-	},
-	{
-		"code": "35.10.13.2004",
-		"type": "desa",
-		"name": "BOMO"
-	},
-	{
-		"code": "35.10.13.2005",
-		"type": "desa",
-		"name": "GINTANGAN"
-	},
-	{
 		"code": "35.10.13.2006",
 		"type": "desa",
 		"name": "GLADAG"
@@ -13325,19 +13310,9 @@
 		"name": "LEMAHBANGDEWO"
 	},
 	{
-		"code": "35.10.13.2009",
-		"type": "desa",
-		"name": "KAOTAN"
-	},
-	{
 		"code": "35.10.13.2010",
 		"type": "desa",
 		"name": "GITIK"
-	},
-	{
-		"code": "35.10.13.2011",
-		"type": "desa",
-		"name": "BLIMBINGSARI"
 	},
 	{
 		"code": "35.10.13.2012",
@@ -13353,21 +13328,6 @@
 		"code": "35.10.13.2014",
 		"type": "desa",
 		"name": "PENGATIGAN"
-	},
-	{
-		"code": "35.10.13.2015",
-		"type": "desa",
-		"name": "WATUKEBO"
-	},
-	{
-		"code": "35.10.13.2016",
-		"type": "desa",
-		"name": "KARANGREJO"
-	},
-	{
-		"code": "35.10.13.2017",
-		"type": "desa",
-		"name": "PATOMAN"
 	},
 	{
 		"code": "35.10.13.2018",
@@ -13410,16 +13370,6 @@
 		"name": "PAKISTAJI"
 	},
 	{
-		"code": "35.10.14.2007",
-		"type": "desa",
-		"name": "BADEAN"
-	},
-	{
-		"code": "35.10.14.2008",
-		"type": "desa",
-		"name": "SUKOJATI"
-	},
-	{
 		"code": "35.10.14.2009",
 		"type": "desa",
 		"name": "PONDOKNONGKO"
@@ -13442,7 +13392,7 @@
 	{
 		"code": "35.10.14.2013",
 		"type": "desa",
-		"name": "MACANPUTIH"
+		"name": "MACAN PUTIH"
 	},
 	{
 		"code": "35.10.14.2014",
@@ -13502,7 +13452,7 @@
 	{
 		"code": "35.10.15.2010",
 		"type": "desa",
-		"name": "TAMAN SURUH"
+		"name": "TAMANSURUH"
 	},
 	{
 		"code": "35.10.15.2011",
@@ -13512,7 +13462,7 @@
 	{
 		"code": "35.10.15.2012",
 		"type": "desa",
-		"name": "KAMPUNG ANYAR"
+		"name": "KAMPUNGANYAR"
 	},
 	{
 		"code": "35.10.16",
@@ -13662,7 +13612,7 @@
 	{
 		"code": "35.10.18.2003",
 		"type": "desa",
-		"name": "ALAS BULU"
+		"name": "ALASBULUH"
 	},
 	{
 		"code": "35.10.18.2004",
@@ -13960,6 +13910,61 @@
 		"name": "TAMANSARI"
 	},
 	{
+		"code": "35.10.25",
+		"type": "kecamatan",
+		"name": "BLIMBINGSARI"
+	},
+	{
+		"code": "35.10.25.2001",
+		"type": "desa",
+		"name": "BLIMBINGSARI"
+	},
+	{
+		"code": "35.10.25.2002",
+		"type": "desa",
+		"name": "KAOTAN"
+	},
+	{
+		"code": "35.10.25.2003",
+		"type": "desa",
+		"name": "WATUKEBO"
+	},
+	{
+		"code": "35.10.25.2004",
+		"type": "desa",
+		"name": "GINTANGAN"
+	},
+	{
+		"code": "35.10.25.2005",
+		"type": "desa",
+		"name": "BOMO"
+	},
+	{
+		"code": "35.10.25.2006",
+		"type": "desa",
+		"name": "PATOMAN"
+	},
+	{
+		"code": "35.10.25.2007",
+		"type": "desa",
+		"name": "KALIGUNG"
+	},
+	{
+		"code": "35.10.25.2008",
+		"type": "desa",
+		"name": "KARANGREJO"
+	},
+	{
+		"code": "35.10.25.2009",
+		"type": "desa",
+		"name": "BADEAN"
+	},
+	{
+		"code": "35.10.25.2010",
+		"type": "desa",
+		"name": "SUKOJATI"
+	},
+	{
 		"code": "35.11",
 		"type": "kabupaten",
 		"name": "KAB. BONDOWOSO"
@@ -13972,7 +13977,7 @@
 	{
 		"code": "35.11.01.2001",
 		"type": "desa",
-		"name": "SECOLOR"
+		"name": "SUCOLOR"
 	},
 	{
 		"code": "35.11.01.2002",
@@ -14942,7 +14947,7 @@
 	{
 		"code": "35.11.18.2003",
 		"type": "desa",
-		"name": "SUKOREJO KIDUL"
+		"name": "SUKOSARI KIDUL"
 	},
 	{
 		"code": "35.11.18.2004",
@@ -15332,7 +15337,7 @@
 	{
 		"code": "35.12.04.2001",
 		"type": "desa",
-		"name": "ALASBAYUR"
+		"name": "ALAS BAYUR"
 	},
 	{
 		"code": "35.12.04.2002",
@@ -15347,7 +15352,7 @@
 	{
 		"code": "35.12.04.2004",
 		"type": "desa",
-		"name": "TRIBUNGAN"
+		"name": "TREBUNGAN"
 	},
 	{
 		"code": "35.12.04.2005",
@@ -15472,7 +15477,7 @@
 	{
 		"code": "35.12.07.2004",
 		"type": "desa",
-		"name": "KATOKAN"
+		"name": "KOTAKAN"
 	},
 	{
 		"code": "35.12.07.2005",
@@ -15577,7 +15582,7 @@
 	{
 		"code": "35.12.09.2005",
 		"type": "desa",
-		"name": "TANJUNG PECITAN"
+		"name": "TANJUNG PECINAN"
 	},
 	{
 		"code": "35.12.09.2006",
@@ -15597,7 +15602,7 @@
 	{
 		"code": "35.12.10.2002",
 		"type": "desa",
-		"name": "CURAHCOTTOK"
+		"name": "CURAH COTOK"
 	},
 	{
 		"code": "35.12.10.2003",
@@ -15612,7 +15617,7 @@
 	{
 		"code": "35.12.10.2005",
 		"type": "desa",
-		"name": "SLETRENG"
+		"name": "SELETRENG"
 	},
 	{
 		"code": "35.12.10.2006",
@@ -15672,7 +15677,7 @@
 	{
 		"code": "35.12.11.2006",
 		"type": "desa",
-		"name": "CURAHTATAL"
+		"name": "CURAH TATAL"
 	},
 	{
 		"code": "35.12.11.2007",
@@ -15697,7 +15702,7 @@
 	{
 		"code": "35.12.12.2002",
 		"type": "desa",
-		"name": "CORAH KALAK"
+		"name": "CURAH KALAK"
 	},
 	{
 		"code": "35.12.12.2003",
@@ -15782,7 +15787,7 @@
 	{
 		"code": "35.12.13.2010",
 		"type": "desa",
-		"name": "WRINGINANOM"
+		"name": "WRINGIN ANOM"
 	},
 	{
 		"code": "35.12.14",
@@ -15917,7 +15922,7 @@
 	{
 		"code": "35.12.17.2002",
 		"type": "desa",
-		"name": "SUMBER TENGAH"
+		"name": "SUMBERTENGAH"
 	},
 	{
 		"code": "35.12.17.2003",
@@ -15937,7 +15942,7 @@
 	{
 		"code": "35.12.17.2006",
 		"type": "desa",
-		"name": "BLITOK"
+		"name": "BLETOK"
 	},
 	{
 		"code": "35.12.17.2007",
@@ -15987,7 +15992,7 @@
 	{
 		"code": "35.13.01.2007",
 		"type": "desa",
-		"name": "WONOKERO"
+		"name": "WONOKERTO"
 	},
 	{
 		"code": "35.13.01.2008",
@@ -16692,7 +16697,7 @@
 	{
 		"code": "35.13.11.2010",
 		"type": "desa",
-		"name": "TRIWINGAN"
+		"name": "TRIWUNGAN"
 	},
 	{
 		"code": "35.13.11.2011",
@@ -16962,7 +16967,7 @@
 	{
 		"code": "35.13.14.2010",
 		"type": "desa",
-		"name": "ALASSUMURLOR"
+		"name": "ALASSUMUR KULON"
 	},
 	{
 		"code": "35.13.14.2011",
@@ -17267,7 +17272,7 @@
 	{
 		"code": "35.13.18.2003",
 		"type": "desa",
-		"name": "KLASEMEN"
+		"name": "KLASEMAN"
 	},
 	{
 		"code": "35.13.18.2004",
@@ -17737,7 +17742,7 @@
 	{
 		"code": "35.14.01.2002",
 		"type": "desa",
-		"name": "DAWUHAN SENGON"
+		"name": "DAWUHANSENGON"
 	},
 	{
 		"code": "35.14.01.2003",
@@ -17772,7 +17777,7 @@
 	{
 		"code": "35.14.01.2009",
 		"type": "desa",
-		"name": "JATI SARI"
+		"name": "JATIREJO"
 	},
 	{
 		"code": "35.14.01.2010",
@@ -18072,7 +18077,7 @@
 	{
 		"code": "35.14.06.2002",
 		"type": "desa",
-		"name": "KEDUNG PENGARON"
+		"name": "KEDUNGPENGARON"
 	},
 	{
 		"code": "35.14.06.2003",
@@ -18197,7 +18202,7 @@
 	{
 		"code": "35.14.07.2002",
 		"type": "desa",
-		"name": "KARANG JATIANYAR"
+		"name": "KARANGJATIANYAR"
 	},
 	{
 		"code": "35.14.07.2003",
@@ -18467,7 +18472,7 @@
 	{
 		"code": "35.14.10.2001",
 		"type": "desa",
-		"name": "JATIARJO"
+		"name": "JATIREJO"
 	},
 	{
 		"code": "35.14.10.2002",
@@ -18612,7 +18617,7 @@
 	{
 		"code": "35.14.11.2018",
 		"type": "desa",
-		"name": "SUMBEREJO"
+		"name": "SUMBERREJO"
 	},
 	{
 		"code": "35.14.12",
@@ -18732,7 +18737,7 @@
 	{
 		"code": "35.14.13.2005",
 		"type": "desa",
-		"name": "GAJAHBENDO"
+		"name": "GAJAHREJO"
 	},
 	{
 		"code": "35.14.13.2006",
@@ -19022,7 +19027,7 @@
 	{
 		"code": "35.14.16.2016",
 		"type": "desa",
-		"name": "CURAHDUKUH"
+		"name": "CURAHREJO"
 	},
 	{
 		"code": "35.14.16.2017",
@@ -19107,12 +19112,12 @@
 	{
 		"code": "35.14.17.2007",
 		"type": "desa",
-		"name": "SUNGI WETAN"
+		"name": "SUNGIWETAN"
 	},
 	{
 		"code": "35.14.17.2008",
 		"type": "desa",
-		"name": "SUNGI KULON"
+		"name": "SUNGIKULON"
 	},
 	{
 		"code": "35.14.17.2009",
@@ -19372,12 +19377,12 @@
 	{
 		"code": "35.14.20.2010",
 		"type": "desa",
-		"name": "KEDAWUNG KULON"
+		"name": "KEDAWUNGKULON"
 	},
 	{
 		"code": "35.14.20.2011",
 		"type": "desa",
-		"name": "KEDAWUNG WETAN"
+		"name": "KEDAWUNGWETAN"
 	},
 	{
 		"code": "35.14.20.2012",
@@ -19397,7 +19402,7 @@
 	{
 		"code": "35.14.20.2015",
 		"type": "desa",
-		"name": "CUKURGONDANG"
+		"name": "CUKURGULING"
 	},
 	{
 		"code": "35.14.21",
@@ -19587,7 +19592,7 @@
 	{
 		"code": "35.14.23.2009",
 		"type": "desa",
-		"name": "KARANG PANDAN"
+		"name": "KARANGPANDAN"
 	},
 	{
 		"code": "35.14.23.2010",
@@ -19607,7 +19612,7 @@
 	{
 		"code": "35.14.23.2013",
 		"type": "desa",
-		"name": "PATUGURAN"
+		"name": "PATUGUHAN"
 	},
 	{
 		"code": "35.14.23.2014",
@@ -20122,7 +20127,7 @@
 	{
 		"code": "35.15.05.2007",
 		"type": "desa",
-		"name": "TAMBAKKALISONGO"
+		"name": "TAMBAKKALISOGO"
 	},
 	{
 		"code": "35.15.05.2008",
@@ -20147,7 +20152,7 @@
 	{
 		"code": "35.15.05.2012",
 		"type": "desa",
-		"name": "PEJARAKAN"
+		"name": "PAJARAKAN"
 	},
 	{
 		"code": "35.15.05.2013",
@@ -20207,7 +20212,7 @@
 	{
 		"code": "35.15.06.2008",
 		"type": "desa",
-		"name": "BANJARSARI"
+		"name": "BANJARASRI"
 	},
 	{
 		"code": "35.15.06.2009",
@@ -20502,7 +20507,7 @@
 	{
 		"code": "35.15.08.2021",
 		"type": "desa",
-		"name": "CEMENGBANGKALAN"
+		"name": "CEMENGBAKALAN"
 	},
 	{
 		"code": "35.15.08.2023",
@@ -20777,7 +20782,7 @@
 	{
 		"code": "35.15.11.2002",
 		"type": "desa",
-		"name": "SADENGANMIJEN"
+		"name": "SEDENGANMIJEN"
 	},
 	{
 		"code": "35.15.11.2003",
@@ -20887,7 +20892,7 @@
 	{
 		"code": "35.15.12.2004",
 		"type": "desa",
-		"name": "BAKUNGPRINGGONDANI"
+		"name": "BAKUNGPRINGGODANI"
 	},
 	{
 		"code": "35.15.12.2005",
@@ -21577,7 +21582,7 @@
 	{
 		"code": "35.16.01.2008",
 		"type": "desa",
-		"name": "SEMBERAGUNG"
+		"name": "SUMBERAGUNG"
 	},
 	{
 		"code": "35.16.01.2009",
@@ -21877,7 +21882,7 @@
 	{
 		"code": "35.16.04.2008",
 		"type": "desa",
-		"name": "PENANGUNGAN"
+		"name": "PENANGGUNGAN"
 	},
 	{
 		"code": "35.16.04.2009",
@@ -21932,7 +21937,7 @@
 	{
 		"code": "35.16.05.2005",
 		"type": "desa",
-		"name": "WOTAMASJEDONG"
+		"name": "WOTANMASJEDONG"
 	},
 	{
 		"code": "35.16.05.2006",
@@ -21947,7 +21952,7 @@
 	{
 		"code": "35.16.05.2008",
 		"type": "desa",
-		"name": "MANDURO MG"
+		"name": "MANDURO MANGGUNGGAJAH"
 	},
 	{
 		"code": "35.16.05.2009",
@@ -22087,7 +22092,7 @@
 	{
 		"code": "35.16.06.2016",
 		"type": "desa",
-		"name": "GEDUNGMUNGAL"
+		"name": "KEDUNGMUNGAL"
 	},
 	{
 		"code": "35.16.06.2017",
@@ -22132,7 +22137,7 @@
 	{
 		"code": "35.16.07.2005",
 		"type": "desa",
-		"name": "PESANGGARAHAN"
+		"name": "PESANGGRAHAN"
 	},
 	{
 		"code": "35.16.07.2006",
@@ -22397,7 +22402,7 @@
 	{
 		"code": "35.16.10.2003",
 		"type": "desa",
-		"name": "KEDUNGGUNENG"
+		"name": "KEDUNGUNENG"
 	},
 	{
 		"code": "35.16.10.2004",
@@ -23157,7 +23162,7 @@
 	{
 		"code": "35.17.01.2001",
 		"type": "desa",
-		"name": "JATIGANGGONG"
+		"name": "JANTIGANGGONG"
 	},
 	{
 		"code": "35.17.01.2002",
@@ -23192,7 +23197,7 @@
 	{
 		"code": "35.17.01.2008",
 		"type": "desa",
-		"name": "KALANG SEMANDING"
+		"name": "KALANGSEMANDING"
 	},
 	{
 		"code": "35.17.01.2009",
@@ -23262,7 +23267,7 @@
 	{
 		"code": "35.17.02.2008",
 		"type": "desa",
-		"name": "BUGASURKEDALEMAN"
+		"name": "BUGASUR KEDALEMAN"
 	},
 	{
 		"code": "35.17.02.2009",
@@ -23302,7 +23307,7 @@
 	{
 		"code": "35.17.02.2016",
 		"type": "desa",
-		"name": "PLUMBONGAMBANG"
+		"name": "PLUMBON GAMBANG"
 	},
 	{
 		"code": "35.17.02.2017",
@@ -24062,7 +24067,7 @@
 	{
 		"code": "35.17.11.2015",
 		"type": "desa",
-		"name": "BUDUG SIDOREJO"
+		"name": "BUDUGSIDOREJO"
 	},
 	{
 		"code": "35.17.11.2016",
@@ -24092,7 +24097,7 @@
 	{
 		"code": "35.17.11.2021",
 		"type": "desa",
-		"name": "MENTURO"
+		"name": "MENTORO"
 	},
 	{
 		"code": "35.17.12",
@@ -24287,7 +24292,7 @@
 	{
 		"code": "35.17.14.2007",
 		"type": "desa",
-		"name": "KEDUNGOMBO"
+		"name": "GEDUNGOMBO"
 	},
 	{
 		"code": "35.17.14.2008",
@@ -24612,7 +24617,7 @@
 	{
 		"code": "35.17.19.2003",
 		"type": "desa",
-		"name": "ALANG-ALANGCARUBAN"
+		"name": "ALANG-ALANG CARUBAN"
 	},
 	{
 		"code": "35.17.19.2004",
@@ -26382,7 +26387,7 @@
 	{
 		"code": "35.19.01.2013",
 		"type": "desa",
-		"name": "KEDONDONG"
+		"name": "KENDONDONG"
 	},
 	{
 		"code": "35.19.01.2014",
@@ -26992,7 +26997,7 @@
 	{
 		"code": "35.19.10.2008",
 		"type": "desa",
-		"name": "BABADAN"
+		"name": "BABADAN LOR"
 	},
 	{
 		"code": "35.19.10.2009",
@@ -28212,7 +28217,7 @@
 	{
 		"code": "35.20.11.2006",
 		"type": "desa",
-		"name": "KLAGENGAMBIRAN"
+		"name": "KLAGEN GAMBIRAN"
 	},
 	{
 		"code": "35.20.11.2007",
@@ -28352,7 +28357,7 @@
 	{
 		"code": "35.20.13.2004",
 		"type": "desa",
-		"name": "SAMBEREMBE"
+		"name": "SAMBIREMBE"
 	},
 	{
 		"code": "35.20.13.2005",
@@ -28507,12 +28512,12 @@
 	{
 		"code": "35.20.15.2010",
 		"type": "desa",
-		"name": "BAYEM WETAN"
+		"name": "BAYEMWETAN"
 	},
 	{
 		"code": "35.20.15.2011",
 		"type": "desa",
-		"name": "BAYEM TAMAN"
+		"name": "BAYEMTAMAN"
 	},
 	{
 		"code": "35.20.15.2012",
@@ -28977,7 +28982,7 @@
 	{
 		"code": "35.21.05.2005",
 		"type": "desa",
-		"name": "KERASWETON"
+		"name": "KERASWETAN"
 	},
 	{
 		"code": "35.21.05.2006",
@@ -29122,7 +29127,7 @@
 	{
 		"code": "35.21.07.2001",
 		"type": "desa",
-		"name": "CAMPUR ASRI"
+		"name": "CAMPURASRI"
 	},
 	{
 		"code": "35.21.07.2002",
@@ -29202,7 +29207,7 @@
 	{
 		"code": "35.21.07.2017",
 		"type": "desa",
-		"name": "PLOSO LOR"
+		"name": "PLOSOLOR"
 	},
 	{
 		"code": "35.21.08",
@@ -29212,7 +29217,7 @@
 	{
 		"code": "35.21.08.2001",
 		"type": "desa",
-		"name": "BANJARSARI"
+		"name": "BANJARANSARI"
 	},
 	{
 		"code": "35.21.08.2002",
@@ -29347,7 +29352,7 @@
 	{
 		"code": "35.21.09.2011",
 		"type": "desa",
-		"name": "KARANGTENGAHPRANDON"
+		"name": "KARANGTENGAH PANDON"
 	},
 	{
 		"code": "35.21.09.2012",
@@ -29452,7 +29457,7 @@
 	{
 		"code": "35.21.11.2004",
 		"type": "desa",
-		"name": "PELANG KIDUL"
+		"name": "PALANG KIDUL"
 	},
 	{
 		"code": "35.21.11.2005",
@@ -29467,7 +29472,7 @@
 	{
 		"code": "35.21.11.2007",
 		"type": "desa",
-		"name": "PELANG LOR"
+		"name": "PELANGLOR"
 	},
 	{
 		"code": "35.21.11.2008",
@@ -29632,7 +29637,7 @@
 	{
 		"code": "35.21.14.2006",
 		"type": "desa",
-		"name": "WARU TENGAH"
+		"name": "WARUTENGAH"
 	},
 	{
 		"code": "35.21.14.2007",
@@ -29682,7 +29687,7 @@
 	{
 		"code": "35.21.15.2006",
 		"type": "desa",
-		"name": "LEGO WETAN"
+		"name": "LEGOWETAN"
 	},
 	{
 		"code": "35.21.15.2007",
@@ -29862,7 +29867,7 @@
 	{
 		"code": "35.21.19.2006",
 		"type": "desa",
-		"name": "LEGO KULON"
+		"name": "LEGOKULON"
 	},
 	{
 		"code": "35.21.19.2007",
@@ -29872,7 +29877,7 @@
 	{
 		"code": "35.21.19.2008",
 		"type": "desa",
-		"name": "KIYONTEN"
+		"name": "KYONTEN"
 	},
 	{
 		"code": "35.22",
@@ -29907,7 +29912,7 @@
 	{
 		"code": "35.22.01.2005",
 		"type": "desa",
-		"name": "SUMBER AGUNG"
+		"name": "SUMBERAGUNG"
 	},
 	{
 		"code": "35.22.01.2006",
@@ -30012,7 +30017,7 @@
 	{
 		"code": "35.22.02.2009",
 		"type": "desa",
-		"name": "SUKEREJO"
+		"name": "SUKOREJO"
 	},
 	{
 		"code": "35.22.02.2010",
@@ -30102,7 +30107,7 @@
 	{
 		"code": "35.22.04.2002",
 		"type": "desa",
-		"name": "TRENGGULUNGAN"
+		"name": "TRENGGULUNAN"
 	},
 	{
 		"code": "35.22.04.2003",
@@ -30157,7 +30162,7 @@
 	{
 		"code": "35.22.04.2013",
 		"type": "desa",
-		"name": "DUKUHKIDUL"
+		"name": "DUKOHKIDUL"
 	},
 	{
 		"code": "35.22.04.2014",
@@ -30227,7 +30232,7 @@
 	{
 		"code": "35.22.06.2003",
 		"type": "desa",
-		"name": "GROWAK"
+		"name": "GROWOK"
 	},
 	{
 		"code": "35.22.06.2004",
@@ -30402,7 +30407,7 @@
 	{
 		"code": "35.22.08.2003",
 		"type": "desa",
-		"name": "DAYUKKIDUL"
+		"name": "DAYUKIDUL"
 	},
 	{
 		"code": "35.22.08.2004",
@@ -30432,12 +30437,12 @@
 	{
 		"code": "35.22.08.2009",
 		"type": "desa",
-		"name": "TRUMBRASANOM"
+		"name": "TUMBRASANOM"
 	},
 	{
 		"code": "35.22.08.2010",
 		"type": "desa",
-		"name": "KEDUNGDALEM"
+		"name": "KEDUNGADEM"
 	},
 	{
 		"code": "35.22.08.2011",
@@ -30457,7 +30462,7 @@
 	{
 		"code": "35.22.08.2014",
 		"type": "desa",
-		"name": "KEDUNGEJO"
+		"name": "KEDUNGREJO"
 	},
 	{
 		"code": "35.22.08.2015",
@@ -30507,7 +30512,7 @@
 	{
 		"code": "35.22.09",
 		"type": "kecamatan",
-		"name": "KEPOH BARU"
+		"name": "KEPOHBARU"
 	},
 	{
 		"code": "35.22.09.2001",
@@ -30562,7 +30567,7 @@
 	{
 		"code": "35.22.09.2011",
 		"type": "desa",
-		"name": "SUBERROTO"
+		"name": "SUBEROTO"
 	},
 	{
 		"code": "35.22.09.2012",
@@ -30612,7 +30617,7 @@
 	{
 		"code": "35.22.09.2021",
 		"type": "desa",
-		"name": "NGRANGGONANYA"
+		"name": "NGRANGGONANYAR"
 	},
 	{
 		"code": "35.22.09.2022",
@@ -30622,12 +30627,12 @@
 	{
 		"code": "35.22.09.2023",
 		"type": "desa",
-		"name": "KARANGGANG"
+		"name": "KARANGAN"
 	},
 	{
 		"code": "35.22.09.2024",
 		"type": "desa",
-		"name": "SUGIH WARAS"
+		"name": "SUGIHWARAS"
 	},
 	{
 		"code": "35.22.09.2025",
@@ -30747,7 +30752,7 @@
 	{
 		"code": "35.22.10.2022",
 		"type": "desa",
-		"name": "PAMOHAN"
+		"name": "POMAHAN"
 	},
 	{
 		"code": "35.22.10.2023",
@@ -30797,7 +30802,7 @@
 	{
 		"code": "35.22.11.2006",
 		"type": "desa",
-		"name": "CANGAKAN"
+		"name": "CANGAAN"
 	},
 	{
 		"code": "35.22.11.2007",
@@ -30887,7 +30892,7 @@
 	{
 		"code": "35.22.11.2024",
 		"type": "desa",
-		"name": "NGLARANGA"
+		"name": "NGLARANGAN"
 	},
 	{
 		"code": "35.22.11.2025",
@@ -30922,7 +30927,7 @@
 	{
 		"code": "35.22.12.2005",
 		"type": "desa",
-		"name": "BANJARREJO"
+		"name": "BANJAREJO"
 	},
 	{
 		"code": "35.22.12.2006",
@@ -30942,7 +30947,7 @@
 	{
 		"code": "35.22.12.2009",
 		"type": "desa",
-		"name": "WATON"
+		"name": "WOTAN"
 	},
 	{
 		"code": "35.22.12.2010",
@@ -31087,7 +31092,7 @@
 	{
 		"code": "35.22.13.2011",
 		"type": "desa",
-		"name": "SUBONTORO"
+		"name": "SOBONTORO"
 	},
 	{
 		"code": "35.22.13.2012",
@@ -31167,7 +31172,7 @@
 	{
 		"code": "35.22.14.2003",
 		"type": "desa",
-		"name": "PADANG MENTOYO"
+		"name": "PADANGMENTOYO"
 	},
 	{
 		"code": "35.22.14.2004",
@@ -31187,7 +31192,7 @@
 	{
 		"code": "35.22.14.2007",
 		"type": "desa",
-		"name": "TANJUNG HARJO"
+		"name": "TANJUNGHARJO"
 	},
 	{
 		"code": "35.22.14.2008",
@@ -31457,7 +31462,7 @@
 	{
 		"code": "35.22.17.2001",
 		"type": "desa",
-		"name": "DUKUHLOR"
+		"name": "DUKOHLOR"
 	},
 	{
 		"code": "35.22.17.2002",
@@ -31542,7 +31547,7 @@
 	{
 		"code": "35.22.17.2018",
 		"type": "desa",
-		"name": "SEMIARAN"
+		"name": "SEMLARAN"
 	},
 	{
 		"code": "35.22.17.2019",
@@ -31592,7 +31597,7 @@
 	{
 		"code": "35.22.18.2007",
 		"type": "desa",
-		"name": "SEDAH KIDUL"
+		"name": "SEDAHKIDUL"
 	},
 	{
 		"code": "35.22.18.2008",
@@ -31847,7 +31852,7 @@
 	{
 		"code": "35.22.22.2004",
 		"type": "desa",
-		"name": "SUMBERREJO"
+		"name": "SUMBEREJO"
 	},
 	{
 		"code": "35.22.22.2005",
@@ -31892,7 +31897,7 @@
 	{
 		"code": "35.22.23.2006",
 		"type": "desa",
-		"name": "SUMBERREJO"
+		"name": "SUMBEREJO"
 	},
 	{
 		"code": "35.22.23.2007",
@@ -32067,7 +32072,7 @@
 	{
 		"code": "35.22.26.2007",
 		"type": "desa",
-		"name": "PARAGELAN"
+		"name": "PRAGELAN"
 	},
 	{
 		"code": "35.22.27",
@@ -32207,7 +32212,7 @@
 	{
 		"code": "35.23.01.2006",
 		"type": "desa",
-		"name": "BENDOLATENG"
+		"name": "BENDONGLATENG"
 	},
 	{
 		"code": "35.23.01.2007",
@@ -32342,7 +32347,7 @@
 	{
 		"code": "35.23.03.2004",
 		"type": "desa",
-		"name": "KEDUNG JAMBANGAN"
+		"name": "KEDUNGJAMBANGAN"
 	},
 	{
 		"code": "35.23.03.2005",
@@ -32422,7 +32427,7 @@
 	{
 		"code": "35.23.04.2005",
 		"type": "desa",
-		"name": "TENGGER KULON"
+		"name": "TENGGERKULON"
 	},
 	{
 		"code": "35.23.04.2006",
@@ -32562,12 +32567,12 @@
 	{
 		"code": "35.23.05.2008",
 		"type": "desa",
-		"name": "WANGLU KULON"
+		"name": "WANGLUKULON"
 	},
 	{
 		"code": "35.23.05.2009",
 		"type": "desa",
-		"name": "WANGLU WETAN"
+		"name": "WANGLUWETAN"
 	},
 	{
 		"code": "35.23.05.2010",
@@ -32687,12 +32692,12 @@
 	{
 		"code": "35.23.07.2001",
 		"type": "desa",
-		"name": "LAJU KIDUL"
+		"name": "LAJO KIDUL"
 	},
 	{
 		"code": "35.23.07.2002",
 		"type": "desa",
-		"name": "LAJU LOR"
+		"name": "LAJO LOR"
 	},
 	{
 		"code": "35.23.07.2003",
@@ -32772,7 +32777,7 @@
 	{
 		"code": "35.23.08.2005",
 		"type": "desa",
-		"name": "TENGGER WETAN"
+		"name": "TENGGERWETAN"
 	},
 	{
 		"code": "35.23.08.2006",
@@ -33307,7 +33312,7 @@
 	{
 		"code": "35.23.13.2019",
 		"type": "desa",
-		"name": "SUMBEREJO"
+		"name": "SUMBERJO"
 	},
 	{
 		"code": "35.23.14",
@@ -33442,7 +33447,7 @@
 	{
 		"code": "35.23.15.2011",
 		"type": "desa",
-		"name": "PRUNGGAHANWETAN"
+		"name": "PRUNGGAHAN WETAN"
 	},
 	{
 		"code": "35.23.15.2012",
@@ -33597,7 +33602,7 @@
 	{
 		"code": "35.23.17.2004",
 		"type": "desa",
-		"name": "KEDUNGREJO"
+		"name": "KEDUNGROJO"
 	},
 	{
 		"code": "35.23.17.2005",
@@ -33742,7 +33747,7 @@
 	{
 		"code": "35.23.18.2014",
 		"type": "desa",
-		"name": "LERANWETAN"
+		"name": "LERAN WETAN"
 	},
 	{
 		"code": "35.23.18.2015",
@@ -33762,7 +33767,7 @@
 	{
 		"code": "35.23.18.2018",
 		"type": "desa",
-		"name": "CEPOKREJO"
+		"name": "CEPOKOREJO"
 	},
 	{
 		"code": "35.23.18.2019",
@@ -34197,7 +34202,7 @@
 	{
 		"code": "35.24.04.2017",
 		"type": "desa",
-		"name": "DURIKEDUNGREJO"
+		"name": "DURIKEDUNGJERO"
 	},
 	{
 		"code": "35.24.04.2018",
@@ -34437,7 +34442,7 @@
 	{
 		"code": "35.24.06.2021",
 		"type": "desa",
-		"name": "SIDOMLAGEAN"
+		"name": "SIDOMLANGEAN"
 	},
 	{
 		"code": "35.24.06.2022",
@@ -35102,7 +35107,7 @@
 	{
 		"code": "35.24.13.2013",
 		"type": "desa",
-		"name": "BOGOHARJO"
+		"name": "BUGOHARJO"
 	},
 	{
 		"code": "35.24.13.2014",
@@ -35137,7 +35142,7 @@
 	{
 		"code": "35.24.14.2002",
 		"type": "desa",
-		"name": "KADANGSEMANGKON"
+		"name": "KANDANGSEMANGKON"
 	},
 	{
 		"code": "35.24.14.2003",
@@ -35642,7 +35647,7 @@
 	{
 		"code": "35.24.19.2018",
 		"type": "desa",
-		"name": "KALEMAS"
+		"name": "KATEMAS"
 	},
 	{
 		"code": "35.24.20",
@@ -36442,12 +36447,12 @@
 	{
 		"code": "35.25.01.2002",
 		"type": "desa",
-		"name": "KARANG CANGKRING"
+		"name": "KARANGCANGKRING"
 	},
 	{
 		"code": "35.25.01.2003",
 		"type": "desa",
-		"name": "KEDONG KEDO\"AN"
+		"name": "GEDONGKEDO'AN"
 	},
 	{
 		"code": "35.25.01.2004",
@@ -36472,12 +36477,12 @@
 	{
 		"code": "35.25.01.2008",
 		"type": "desa",
-		"name": "PETIYINTUNGGAL"
+		"name": "PETIYIN TUNGGAL"
 	},
 	{
 		"code": "35.25.01.2009",
 		"type": "desa",
-		"name": "TIREMENGGAL"
+		"name": "TIREM ENGGAL"
 	},
 	{
 		"code": "35.25.01.2010",
@@ -36492,7 +36497,7 @@
 	{
 		"code": "35.25.01.2012",
 		"type": "desa",
-		"name": "MADU MULYOREJO"
+		"name": "MADUMULYOREJO"
 	},
 	{
 		"code": "35.25.01.2013",
@@ -36527,7 +36532,7 @@
 	{
 		"code": "35.25.01.2019",
 		"type": "desa",
-		"name": "BABAK BAWO"
+		"name": "BABAKBAWO"
 	},
 	{
 		"code": "35.25.01.2020",
@@ -36537,7 +36542,7 @@
 	{
 		"code": "35.25.01.2021",
 		"type": "desa",
-		"name": "SAMBO GUNUNG"
+		"name": "SAMBOGUNUNG"
 	},
 	{
 		"code": "35.25.01.2022",
@@ -36547,7 +36552,7 @@
 	{
 		"code": "35.25.01.2023",
 		"type": "desa",
-		"name": "SEMBUNG ANYAR"
+		"name": "SEMBUNGANYAR"
 	},
 	{
 		"code": "35.25.01.2024",
@@ -36562,7 +36567,7 @@
 	{
 		"code": "35.25.01.2026",
 		"type": "desa",
-		"name": "DUKUN ANYAR"
+		"name": "DUKUNANYAR"
 	},
 	{
 		"code": "35.25.02",
@@ -36587,7 +36592,7 @@
 	{
 		"code": "35.25.02.2004",
 		"type": "desa",
-		"name": "BANDUNG SEKARAN"
+		"name": "BANDUNGSEKARAN"
 	},
 	{
 		"code": "35.25.02.2005",
@@ -36597,12 +36602,12 @@
 	{
 		"code": "35.25.02.2006",
 		"type": "desa",
-		"name": "TANAH LANDEAN"
+		"name": "TANAHLANDEAN"
 	},
 	{
 		"code": "35.25.02.2007",
 		"type": "desa",
-		"name": "KEDUNG SUMBER"
+		"name": "KEDUNGSUMBER"
 	},
 	{
 		"code": "35.25.02.2008",
@@ -36622,7 +36627,7 @@
 	{
 		"code": "35.25.02.2011",
 		"type": "desa",
-		"name": "MOJO GEDE"
+		"name": "MOJOGEDE"
 	},
 	{
 		"code": "35.25.02.2012",
@@ -36642,7 +36647,7 @@
 	{
 		"code": "35.25.02.2015",
 		"type": "desa",
-		"name": "SEKAR PUTIH"
+		"name": "SEKARPUTIH"
 	},
 	{
 		"code": "35.25.02.2016",
@@ -36652,7 +36657,7 @@
 	{
 		"code": "35.25.02.2017",
 		"type": "desa",
-		"name": "KARANG SEMANDING"
+		"name": "KARANGSEMANDING"
 	},
 	{
 		"code": "35.25.02.2018",
@@ -36662,12 +36667,12 @@
 	{
 		"code": "35.25.02.2019",
 		"type": "desa",
-		"name": "BALONG PANGGANG"
+		"name": "BALONGPANGGANG"
 	},
 	{
 		"code": "35.25.02.2020",
 		"type": "desa",
-		"name": "WOTAN SARI"
+		"name": "WOTANSARI"
 	},
 	{
 		"code": "35.25.02.2021",
@@ -36687,7 +36692,7 @@
 	{
 		"code": "35.25.02.2024",
 		"type": "desa",
-		"name": "BANJAR AGUNG"
+		"name": "BANJARAGUNG"
 	},
 	{
 		"code": "35.25.02.2025",
@@ -36722,7 +36727,7 @@
 	{
 		"code": "35.25.03.2005",
 		"type": "desa",
-		"name": "BANYU TENGAH"
+		"name": "BANYUTENGAH"
 	},
 	{
 		"code": "35.25.03.2006",
@@ -36732,7 +36737,7 @@
 	{
 		"code": "35.25.03.2007",
 		"type": "desa",
-		"name": "SUKOWATI"
+		"name": "SUROWITI"
 	},
 	{
 		"code": "35.25.03.2008",
@@ -36777,7 +36782,7 @@
 	{
 		"code": "35.25.04.2001",
 		"type": "desa",
-		"name": "KARANGAN KIDUL"
+		"name": "KARANGANKIDUL"
 	},
 	{
 		"code": "35.25.04.2002",
@@ -36787,7 +36792,7 @@
 	{
 		"code": "35.25.04.2003",
 		"type": "desa",
-		"name": "DELIK SUMBER"
+		"name": "DELIKSUMBER"
 	},
 	{
 		"code": "35.25.04.2004",
@@ -36797,17 +36802,17 @@
 	{
 		"code": "35.25.04.2005",
 		"type": "desa",
-		"name": "KALI PADANG"
+		"name": "KALIPADANG"
 	},
 	{
 		"code": "35.25.04.2006",
 		"type": "desa",
-		"name": "KEDUNG RUKEM"
+		"name": "KEDUNGRUKEM"
 	},
 	{
 		"code": "35.25.04.2007",
 		"type": "desa",
-		"name": "BALONG TUNJUNG"
+		"name": "BALUNGTUNJUNG"
 	},
 	{
 		"code": "35.25.04.2008",
@@ -36822,7 +36827,7 @@
 	{
 		"code": "35.25.04.2010",
 		"type": "desa",
-		"name": "BULANG KULON"
+		"name": "BULANGKULON"
 	},
 	{
 		"code": "35.25.04.2011",
@@ -36857,12 +36862,12 @@
 	{
 		"code": "35.25.04.2017",
 		"type": "desa",
-		"name": "GURANG PLOSO"
+		"name": "GURANGPLOSO"
 	},
 	{
 		"code": "35.25.04.2018",
 		"type": "desa",
-		"name": "KEDUNG SEKAR"
+		"name": "KEDUNGSEKAR"
 	},
 	{
 		"code": "35.25.04.2019",
@@ -36887,7 +36892,7 @@
 	{
 		"code": "35.25.04.2023",
 		"type": "desa",
-		"name": "PUNDUT TRATE"
+		"name": "PUNDUTTRATE"
 	},
 	{
 		"code": "35.25.05",
@@ -36917,7 +36922,7 @@
 	{
 		"code": "35.25.05.2005",
 		"type": "desa",
-		"name": "TAMBAK REJO"
+		"name": "TAMBAKREJO"
 	},
 	{
 		"code": "35.25.05.2006",
@@ -36962,7 +36967,7 @@
 	{
 		"code": "35.25.05.2014",
 		"type": "desa",
-		"name": "DUDUK SAMPEYAN"
+		"name": "DUDUKSAMPEYAN"
 	},
 	{
 		"code": "35.25.05.2015",
@@ -37007,7 +37012,7 @@
 	{
 		"code": "35.25.05.2023",
 		"type": "desa",
-		"name": "AMBENG AMBENGWATANGREJO"
+		"name": "AMBENG - AMBENG WATANGREJO"
 	},
 	{
 		"code": "35.25.06",
@@ -37017,12 +37022,12 @@
 	{
 		"code": "35.25.06.2001",
 		"type": "desa",
-		"name": "SEDAPUR KLAGEN"
+		"name": "KEPUHKLAGEN"
 	},
 	{
 		"code": "35.25.06.2002",
 		"type": "desa",
-		"name": "SUMBER GEDE"
+		"name": "SUMBERGEDE"
 	},
 	{
 		"code": "35.25.06.2003",
@@ -37032,7 +37037,7 @@
 	{
 		"code": "35.25.06.2004",
 		"type": "desa",
-		"name": "GURANGANYAR"
+		"name": "KEDUNGANYAR"
 	},
 	{
 		"code": "35.25.06.2005",
@@ -37047,7 +37052,7 @@
 	{
 		"code": "35.25.06.2007",
 		"type": "desa",
-		"name": "SUMBERRAME"
+		"name": "SUMBERAME"
 	},
 	{
 		"code": "35.25.06.2008",
@@ -37092,7 +37097,7 @@
 	{
 		"code": "35.25.06.2016",
 		"type": "desa",
-		"name": "PASINAN LEMAH PT."
+		"name": "PASINANLEMAHPUTIH"
 	},
 	{
 		"code": "35.25.07",
@@ -37107,12 +37112,12 @@
 	{
 		"code": "35.25.07.2002",
 		"type": "desa",
-		"name": "CANGA\"AN"
+		"name": "CANGAAN"
 	},
 	{
 		"code": "35.25.07.2003",
 		"type": "desa",
-		"name": "NGIMBOH"
+		"name": "NGEMBOH"
 	},
 	{
 		"code": "35.25.07.2004",
@@ -37132,17 +37137,17 @@
 	{
 		"code": "35.25.07.2007",
 		"type": "desa",
-		"name": "KEBON AGUNG"
+		"name": "KEBONAGUNG"
 	},
 	{
 		"code": "35.25.07.2008",
 		"type": "desa",
-		"name": "PANGKAH WETAN"
+		"name": "PANGKAHWETAN"
 	},
 	{
 		"code": "35.25.07.2009",
 		"type": "desa",
-		"name": "BOOLO"
+		"name": "BOLO"
 	},
 	{
 		"code": "35.25.07.2010",
@@ -37157,7 +37162,7 @@
 	{
 		"code": "35.25.07.2012",
 		"type": "desa",
-		"name": "KETAPANGREJO"
+		"name": "KETAPANGLOR"
 	},
 	{
 		"code": "35.25.07.2013",
@@ -37192,7 +37197,7 @@
 	{
 		"code": "35.25.08.2005",
 		"type": "desa",
-		"name": "CERMENLEREK"
+		"name": "CERMEN"
 	},
 	{
 		"code": "35.25.08.2006",
@@ -37212,7 +37217,7 @@
 	{
 		"code": "35.25.08.2009",
 		"type": "desa",
-		"name": "BELAHAN REJO"
+		"name": "BELAHANREJO"
 	},
 	{
 		"code": "35.25.08.2010",
@@ -37277,7 +37282,7 @@
 	{
 		"code": "35.25.09.2006",
 		"type": "desa",
-		"name": "SAMBI PONDOK"
+		"name": "SAMBIPONDOK"
 	},
 	{
 		"code": "35.25.09.2007",
@@ -37362,7 +37367,7 @@
 	{
 		"code": "35.25.10.2001",
 		"type": "desa",
-		"name": "TANGGUL REJO"
+		"name": "TANGGULREJO"
 	},
 	{
 		"code": "35.25.10.2002",
@@ -37382,7 +37387,7 @@
 	{
 		"code": "35.25.10.2005",
 		"type": "desa",
-		"name": "SUMBER REJO"
+		"name": "SUMBEREJO"
 	},
 	{
 		"code": "35.25.10.2006",
@@ -37392,7 +37397,7 @@
 	{
 		"code": "35.25.10.2007",
 		"type": "desa",
-		"name": "BETOYO KAUMAN"
+		"name": "BETOYOKAUMAN"
 	},
 	{
 		"code": "35.25.10.2008",
@@ -37402,7 +37407,7 @@
 	{
 		"code": "35.25.10.2009",
 		"type": "desa",
-		"name": "BETOYO GUCI"
+		"name": "BETOYOGUCI"
 	},
 	{
 		"code": "35.25.10.2010",
@@ -37417,7 +37422,7 @@
 	{
 		"code": "35.25.10.2012",
 		"type": "desa",
-		"name": "KARANG REJO"
+		"name": "KARANGREJO"
 	},
 	{
 		"code": "35.25.10.2013",
@@ -37427,22 +37432,22 @@
 	{
 		"code": "35.25.10.2014",
 		"type": "desa",
-		"name": "MANYAR REJO"
+		"name": "MANYAREJO"
 	},
 	{
 		"code": "35.25.10.2015",
 		"type": "desa",
-		"name": "MANYAR SIDO MUKTI"
+		"name": "MANYAR SIDOMUKTI"
 	},
 	{
 		"code": "35.25.10.2016",
 		"type": "desa",
-		"name": "MANYAR SIDO RUKUN"
+		"name": "MANYAR SIDORUKUN"
 	},
 	{
 		"code": "35.25.10.2017",
 		"type": "desa",
-		"name": "BANJAR SARI"
+		"name": "BANJARSARI"
 	},
 	{
 		"code": "35.25.10.2018",
@@ -37467,7 +37472,7 @@
 	{
 		"code": "35.25.10.2022",
 		"type": "desa",
-		"name": "YOSO WILANGUN"
+		"name": "YOSOWILANGUN"
 	},
 	{
 		"code": "35.25.10.2023",
@@ -37482,7 +37487,7 @@
 	{
 		"code": "35.25.11.2001",
 		"type": "desa",
-		"name": "DADAP KUNING"
+		"name": "DADAPKUNING"
 	},
 	{
 		"code": "35.25.11.2002",
@@ -37512,12 +37517,12 @@
 	{
 		"code": "35.25.11.2007",
 		"type": "desa",
-		"name": "SUKO ANYAR"
+		"name": "SUKOANYAR"
 	},
 	{
 		"code": "35.25.11.2008",
 		"type": "desa",
-		"name": "GEDANG KULUD"
+		"name": "GEDANGKULUD"
 	},
 	{
 		"code": "35.25.11.2009",
@@ -37562,7 +37567,7 @@
 	{
 		"code": "35.25.11.2017",
 		"type": "desa",
-		"name": "IKER IKER GEGER"
+		"name": "IKER - IKER GEGER"
 	},
 	{
 		"code": "35.25.11.2018",
@@ -37572,7 +37577,7 @@
 	{
 		"code": "35.25.11.2019",
 		"type": "desa",
-		"name": "CAGAK AGUNG"
+		"name": "CAGAKAGUNG"
 	},
 	{
 		"code": "35.25.11.2020",
@@ -37597,7 +37602,7 @@
 	{
 		"code": "35.25.11.2024",
 		"type": "desa",
-		"name": "TAMBAK BERAS"
+		"name": "TAMBAKBERAS"
 	},
 	{
 		"code": "35.25.11.2025",
@@ -37617,12 +37622,12 @@
 	{
 		"code": "35.25.12.2002",
 		"type": "desa",
-		"name": "MOJOPURO GEDE"
+		"name": "MOJOPUROGEDE"
 	},
 	{
 		"code": "35.25.12.2003",
 		"type": "desa",
-		"name": "MOJOPURO WETAN"
+		"name": "MOJOPUROWETAN"
 	},
 	{
 		"code": "35.25.12.2004",
@@ -37637,7 +37642,7 @@
 	{
 		"code": "35.25.12.2006",
 		"type": "desa",
-		"name": "RACI WETAN"
+		"name": "RACIWETAN"
 	},
 	{
 		"code": "35.25.12.2007",
@@ -37647,7 +37652,7 @@
 	{
 		"code": "35.25.12.2008",
 		"type": "desa",
-		"name": "SIDO KUMPUL"
+		"name": "SIDOKUMPUL"
 	},
 	{
 		"code": "35.25.12.2009",
@@ -37662,7 +37667,7 @@
 	{
 		"code": "35.25.12.2011",
 		"type": "desa",
-		"name": "ABAR ABIR"
+		"name": "ABAR- ABIR"
 	},
 	{
 		"code": "35.25.12.2012",
@@ -37702,7 +37707,7 @@
 	{
 		"code": "35.25.12.2019",
 		"type": "desa",
-		"name": "SUNGON LEGOWO"
+		"name": "SUNGONLEGOWO"
 	},
 	{
 		"code": "35.25.12.2020",
@@ -37712,7 +37717,7 @@
 	{
 		"code": "35.25.12.2021",
 		"type": "desa",
-		"name": "WATU AGUNG"
+		"name": "WATUAGUNG"
 	},
 	{
 		"code": "35.25.12.2022",
@@ -37732,12 +37737,12 @@
 	{
 		"code": "35.25.13.2002",
 		"type": "desa",
-		"name": "MRANTI"
+		"name": "PRANTI"
 	},
 	{
 		"code": "35.25.13.2003",
 		"type": "desa",
-		"name": "GADING WATU"
+		"name": "GADINGWATU"
 	},
 	{
 		"code": "35.25.13.2004",
@@ -37752,7 +37757,7 @@
 	{
 		"code": "35.25.13.2006",
 		"type": "desa",
-		"name": "PUTAT LOR"
+		"name": "PUTATLOR"
 	},
 	{
 		"code": "35.25.13.2007",
@@ -37762,7 +37767,7 @@
 	{
 		"code": "35.25.13.2008",
 		"type": "desa",
-		"name": "MOJO TENGAH"
+		"name": "MOJOTENGAH"
 	},
 	{
 		"code": "35.25.13.2009",
@@ -37772,17 +37777,17 @@
 	{
 		"code": "35.25.13.2010",
 		"type": "desa",
-		"name": "SIDO JANGKUNG"
+		"name": "SIDOJANGKUNG"
 	},
 	{
 		"code": "35.25.13.2011",
 		"type": "desa",
-		"name": "HENDRO SARI"
+		"name": "HENDROSARI"
 	},
 	{
 		"code": "35.25.13.2012",
 		"type": "desa",
-		"name": "PELEM WATU"
+		"name": "PELEMWATU"
 	},
 	{
 		"code": "35.25.13.2013",
@@ -37792,7 +37797,7 @@
 	{
 		"code": "35.25.13.2014",
 		"type": "desa",
-		"name": "HULA\"AN"
+		"name": "HULAAN"
 	},
 	{
 		"code": "35.25.13.2015",
@@ -37802,7 +37807,7 @@
 	{
 		"code": "35.25.13.2016",
 		"type": "desa",
-		"name": "GEMPOL KURUNG"
+		"name": "GEMPOLKURUNG"
 	},
 	{
 		"code": "35.25.13.2017",
@@ -37812,12 +37817,12 @@
 	{
 		"code": "35.25.13.2018",
 		"type": "desa",
-		"name": "SIDO WUNGU"
+		"name": "SIDOWUNGU"
 	},
 	{
 		"code": "35.25.13.2019",
 		"type": "desa",
-		"name": "RANDU PADANGAN"
+		"name": "RANDUPADANGAN"
 	},
 	{
 		"code": "35.25.13.2020",
@@ -37892,7 +37897,7 @@
 	{
 		"code": "35.25.14.2001",
 		"type": "desa",
-		"name": "DAHAN REJO"
+		"name": "DAHANREJO"
 	},
 	{
 		"code": "35.25.14.2002",
@@ -37907,7 +37912,7 @@
 	{
 		"code": "35.25.14.2004",
 		"type": "desa",
-		"name": "RANDU AGUNG"
+		"name": "RANDUAGUNG"
 	},
 	{
 		"code": "35.25.14.2005",
@@ -37927,12 +37932,12 @@
 	{
 		"code": "35.25.14.2013",
 		"type": "desa",
-		"name": "SEGORO MADU"
+		"name": "SEGOROMADU"
 	},
 	{
 		"code": "35.25.14.2018",
 		"type": "desa",
-		"name": "KARANG KIRING"
+		"name": "KARANGKIRING"
 	},
 	{
 		"code": "35.25.14.2020",
@@ -37952,7 +37957,7 @@
 	{
 		"code": "35.25.15.2001",
 		"type": "desa",
-		"name": "KARANG ANDONG"
+		"name": "KARANGANDONG"
 	},
 	{
 		"code": "35.25.15.2002",
@@ -37992,7 +37997,7 @@
 	{
 		"code": "35.25.15.2009",
 		"type": "desa",
-		"name": "RANDEGAN SARI"
+		"name": "RANDEGANSARI"
 	},
 	{
 		"code": "35.25.15.2010",
@@ -38117,7 +38122,7 @@
 	{
 		"code": "35.25.16.2009",
 		"type": "desa",
-		"name": "TLOGO BENDUNG"
+		"name": "TLOGOBENDUNG"
 	},
 	{
 		"code": "35.25.16.2018",
@@ -38127,17 +38132,17 @@
 	{
 		"code": "35.25.16.2019",
 		"type": "desa",
-		"name": "PULO PANCIKAN"
+		"name": "PULOPANCIKAN"
 	},
 	{
 		"code": "35.25.16.2020",
 		"type": "desa",
-		"name": "KRAMAT TINGGIL"
+		"name": "KRAMATINGGIL"
 	},
 	{
 		"code": "35.25.16.2021",
 		"type": "desa",
-		"name": "SIDO RUKUN"
+		"name": "SIDORUKUN"
 	},
 	{
 		"code": "35.25.17",
@@ -38147,7 +38152,7 @@
 	{
 		"code": "35.25.17.2001",
 		"type": "desa",
-		"name": "DEKAT AGUNG"
+		"name": "DEKATAGUNG"
 	},
 	{
 		"code": "35.25.17.2002",
@@ -38162,12 +38167,12 @@
 	{
 		"code": "35.25.17.2004",
 		"type": "desa",
-		"name": "PUDAKIT BARAT"
+		"name": "PUDAKITBARAT"
 	},
 	{
 		"code": "35.25.17.2005",
 		"type": "desa",
-		"name": "PUDAKIT TIMUR"
+		"name": "PUDAKITTIMUR"
 	},
 	{
 		"code": "35.25.17.2006",
@@ -38177,37 +38182,37 @@
 	{
 		"code": "35.25.17.2007",
 		"type": "desa",
-		"name": "BULU LANJANG"
+		"name": "BULULANJANG"
 	},
 	{
 		"code": "35.25.17.2008",
 		"type": "desa",
-		"name": "PATAR SELAMAT"
+		"name": "PATARSELAMAT"
 	},
 	{
 		"code": "35.25.17.2009",
 		"type": "desa",
-		"name": "KOTA KUSUMA"
+		"name": "KOTAKUSUMA"
 	},
 	{
 		"code": "35.25.17.2010",
 		"type": "desa",
-		"name": "SUNGAI TELUK"
+		"name": "SUNGAITELUK"
 	},
 	{
 		"code": "35.25.17.2011",
 		"type": "desa",
-		"name": "GUNUNG TEGUH"
+		"name": "GUNUNGTEGUH"
 	},
 	{
 		"code": "35.25.17.2012",
 		"type": "desa",
-		"name": "SAWAH MULYA"
+		"name": "SAWAHMULYA"
 	},
 	{
 		"code": "35.25.17.2013",
 		"type": "desa",
-		"name": "SUNGAI RUJING"
+		"name": "SUNGAIRUJING"
 	},
 	{
 		"code": "35.25.17.2014",
@@ -38217,12 +38222,12 @@
 	{
 		"code": "35.25.17.2015",
 		"type": "desa",
-		"name": "KEBON TELUK DALAM"
+		"name": "KEBONTELUKDALAM"
 	},
 	{
 		"code": "35.25.17.2016",
 		"type": "desa",
-		"name": "SIDO GEDUNG BATU"
+		"name": "SIDOGEDUNGBATU"
 	},
 	{
 		"code": "35.25.17.2017",
@@ -38262,12 +38267,12 @@
 	{
 		"code": "35.25.18.2006",
 		"type": "desa",
-		"name": "TELUK JATI DAWANG"
+		"name": "TELUKJATIDAWANG"
 	},
 	{
 		"code": "35.25.18.2007",
 		"type": "desa",
-		"name": "KLUMPANG GUBUG"
+		"name": "KLUMPANGGUBUG"
 	},
 	{
 		"code": "35.25.18.2008",
@@ -38292,12 +38297,12 @@
 	{
 		"code": "35.25.18.2012",
 		"type": "desa",
-		"name": "KEPUH TELUK"
+		"name": "KEPUHTELUK"
 	},
 	{
 		"code": "35.25.18.2013",
 		"type": "desa",
-		"name": "KEPUH LEGUNDI"
+		"name": "KEPUHLEGUNDI"
 	},
 	{
 		"code": "35.26",
@@ -38462,7 +38467,7 @@
 	{
 		"code": "35.26.03.2004",
 		"type": "desa",
-		"name": "ALAS KEMBANG"
+		"name": "ALASKEMBANG"
 	},
 	{
 		"code": "35.26.03.2006",
@@ -38552,7 +38557,7 @@
 	{
 		"code": "35.26.04.2010",
 		"type": "desa",
-		"name": "TANGJUNG JATI"
+		"name": "TANGJUNGJATI"
 	},
 	{
 		"code": "35.26.05",
@@ -38662,7 +38667,7 @@
 	{
 		"code": "35.26.06.2002",
 		"type": "desa",
-		"name": "BAYONENG LAOK"
+		"name": "BANYONENG LAOK"
 	},
 	{
 		"code": "35.26.06.2003",
@@ -38717,7 +38722,7 @@
 	{
 		"code": "35.26.06.2013",
 		"type": "desa",
-		"name": "BAYONENG DAJAH"
+		"name": "BANYONENG DAJAH"
 	},
 	{
 		"code": "35.26.07",
@@ -38962,7 +38967,7 @@
 	{
 		"code": "35.26.09.2009",
 		"type": "desa",
-		"name": "AENG TABAR"
+		"name": "AENG TABER"
 	},
 	{
 		"code": "35.26.09.2010",
@@ -39377,7 +39382,7 @@
 	{
 		"code": "35.26.14.2008",
 		"type": "desa",
-		"name": "DUKOTAMBIN"
+		"name": "DUKO TAMBIN"
 	},
 	{
 		"code": "35.26.14.2009",
@@ -40827,7 +40832,7 @@
 	{
 		"code": "35.28.01.2003",
 		"type": "desa",
-		"name": "MANGNGAR"
+		"name": "MANGAR"
 	},
 	{
 		"code": "35.28.01.2004",
@@ -40897,7 +40902,7 @@
 	{
 		"code": "35.28.01.2017",
 		"type": "desa",
-		"name": "TARO\"AN"
+		"name": "TARO'AN"
 	},
 	{
 		"code": "35.28.02",
@@ -40952,7 +40957,7 @@
 	{
 		"code": "35.28.02.2008",
 		"type": "desa",
-		"name": "SOPA\"AH"
+		"name": "SOPA'AH"
 	},
 	{
 		"code": "35.28.02.2009",
@@ -41157,7 +41162,7 @@
 	{
 		"code": "35.28.04.2010",
 		"type": "desa",
-		"name": "NYALBU DAJA"
+		"name": "NYALABU DAJA"
 	},
 	{
 		"code": "35.28.04.2018",
@@ -41187,12 +41192,12 @@
 	{
 		"code": "35.28.05.2004",
 		"type": "desa",
-		"name": "BATOKALANGAN"
+		"name": "BATO KALANGAN"
 	},
 	{
 		"code": "35.28.05.2005",
 		"type": "desa",
-		"name": "GRO\"OM"
+		"name": "GRO'OM"
 	},
 	{
 		"code": "35.28.05.2006",
@@ -41312,7 +41317,7 @@
 	{
 		"code": "35.28.06.2001",
 		"type": "desa",
-		"name": "BANYUPELE"
+		"name": "BANYUPELLE"
 	},
 	{
 		"code": "35.28.06.2002",
@@ -41337,17 +41342,17 @@
 	{
 		"code": "35.28.06.2006",
 		"type": "desa",
-		"name": "PANA'AN"
+		"name": "PANAAN"
 	},
 	{
 		"code": "35.28.06.2007",
 		"type": "desa",
-		"name": "PATO'AN LAOK"
+		"name": "PATOAN LAOK"
 	},
 	{
 		"code": "35.28.06.2008",
 		"type": "desa",
-		"name": "PATO'AN DAJAH"
+		"name": "PATOAN DAJAH"
 	},
 	{
 		"code": "35.28.06.2009",
@@ -41537,7 +41542,7 @@
 	{
 		"code": "35.28.09.2004",
 		"type": "desa",
-		"name": "CEN LECEN"
+		"name": "CENLECEN"
 	},
 	{
 		"code": "35.28.09.2005",
@@ -41672,12 +41677,12 @@
 	{
 		"code": "35.28.11.2005",
 		"type": "desa",
-		"name": "PONJANGAN BARAT"
+		"name": "PONJANAN BARAT"
 	},
 	{
 		"code": "35.28.11.2006",
 		"type": "desa",
-		"name": "PONJANGAN TIMUR"
+		"name": "PONJANAN TIMUR"
 	},
 	{
 		"code": "35.28.11.2007",
@@ -41732,7 +41737,7 @@
 	{
 		"code": "35.28.12.2003",
 		"type": "desa",
-		"name": "SUKOLELAH"
+		"name": "SOKOLELAH"
 	},
 	{
 		"code": "35.28.12.2004",
@@ -41742,12 +41747,12 @@
 	{
 		"code": "35.28.12.2005",
 		"type": "desa",
-		"name": "KERTAGENAH LAOK"
+		"name": "KERTAGENA LAOK"
 	},
 	{
 		"code": "35.28.12.2006",
 		"type": "desa",
-		"name": "KERTAGENAH TENGAH"
+		"name": "KERTAGENA TENGAH"
 	},
 	{
 		"code": "35.28.12.2007",
@@ -41767,7 +41772,7 @@
 	{
 		"code": "35.28.12.2010",
 		"type": "desa",
-		"name": "KERTAGENAH DAJAH"
+		"name": "KERTAGENA DAJAH"
 	},
 	{
 		"code": "35.28.13",
@@ -41787,7 +41792,7 @@
 	{
 		"code": "35.28.13.2003",
 		"type": "desa",
-		"name": "TAGENGSER DAJAH"
+		"name": "TAGANGSER DAJAH"
 	},
 	{
 		"code": "35.28.13.2004",
@@ -41797,7 +41802,7 @@
 	{
 		"code": "35.28.13.2005",
 		"type": "desa",
-		"name": "TLONTO RAJAH"
+		"name": "TLONTO RAJA"
 	},
 	{
 		"code": "35.28.13.2006",
@@ -41847,7 +41852,7 @@
 	{
 		"code": "35.29.01.1018",
 		"type": "kelurahan",
-		"name": "KARANG DUAK"
+		"name": "KARANGDUAK"
 	},
 	{
 		"code": "35.29.01.2005",
@@ -41907,7 +41912,7 @@
 	{
 		"code": "35.29.01.2020",
 		"type": "desa",
-		"name": "KEBONAGONG"
+		"name": "KEBUNAGUNG"
 	},
 	{
 		"code": "35.29.02",
@@ -41917,7 +41922,7 @@
 	{
 		"code": "35.29.02.2001",
 		"type": "desa",
-		"name": "PINGGIR PAPAS"
+		"name": "PINGGIRPAPAS"
 	},
 	{
 		"code": "35.29.02.2002",
@@ -41927,17 +41932,17 @@
 	{
 		"code": "35.29.02.2003",
 		"type": "desa",
-		"name": "MARENGAN LAO"
+		"name": "MARENGAN LAOK"
 	},
 	{
 		"code": "35.29.02.2004",
 		"type": "desa",
-		"name": "KARTASADA"
+		"name": "KERTASADA"
 	},
 	{
 		"code": "35.29.02.2005",
 		"type": "desa",
-		"name": "KALIMO\"OK"
+		"name": "KALIMOOK"
 	},
 	{
 		"code": "35.29.02.2006",
@@ -41967,17 +41972,17 @@
 	{
 		"code": "35.29.03.2003",
 		"type": "desa",
-		"name": "TENUNAN"
+		"name": "TENONAN"
 	},
 	{
 		"code": "35.29.03.2004",
 		"type": "desa",
-		"name": "LANJU\""
+		"name": "LANJUK"
 	},
 	{
 		"code": "35.29.03.2005",
 		"type": "desa",
-		"name": "GADING"
+		"name": "GADDING"
 	},
 	{
 		"code": "35.29.03.2006",
@@ -41992,12 +41997,12 @@
 	{
 		"code": "35.29.03.2008",
 		"type": "desa",
-		"name": "JABA\"AN"
+		"name": "JABA'AN"
 	},
 	{
 		"code": "35.29.03.2009",
 		"type": "desa",
-		"name": "MANDING LAO\""
+		"name": "MANDING LAOK"
 	},
 	{
 		"code": "35.29.03.2010",
@@ -42047,12 +42052,12 @@
 	{
 		"code": "35.29.04.2007",
 		"type": "desa",
-		"name": "MARENGAN PALASA"
+		"name": "PALASA"
 	},
 	{
 		"code": "35.29.04.2008",
 		"type": "desa",
-		"name": "JABA\"AN"
+		"name": "GAPURANA"
 	},
 	{
 		"code": "35.29.05",
@@ -42062,7 +42067,7 @@
 	{
 		"code": "35.29.05.2001",
 		"type": "desa",
-		"name": "GULUK MAJUNG"
+		"name": "GULUK MANJUNG"
 	},
 	{
 		"code": "35.29.05.2002",
@@ -42087,12 +42092,12 @@
 	{
 		"code": "35.29.05.2006",
 		"type": "desa",
-		"name": "AENGDAKE"
+		"name": "AENG DAKE"
 	},
 	{
 		"code": "35.29.05.2007",
 		"type": "desa",
-		"name": "AENGBAJA KENEK"
+		"name": "AENG BAJA KENEK"
 	},
 	{
 		"code": "35.29.05.2008",
@@ -42107,7 +42112,7 @@
 	{
 		"code": "35.29.05.2010",
 		"type": "desa",
-		"name": "BUNGBUNGAN"
+		"name": "BUMBUNGAN"
 	},
 	{
 		"code": "35.29.05.2011",
@@ -42122,12 +42127,12 @@
 	{
 		"code": "35.29.05.2013",
 		"type": "desa",
-		"name": "AENGBAJA RAJA"
+		"name": "AENG BAJA RAJA"
 	},
 	{
 		"code": "35.29.05.2014",
 		"type": "desa",
-		"name": "KARANG CEMPAKA"
+		"name": "KARANG CAMPAKA"
 	},
 	{
 		"code": "35.29.05.2015",
@@ -42147,7 +42152,7 @@
 	{
 		"code": "35.29.05.2018",
 		"type": "desa",
-		"name": "GING-GING"
+		"name": "GINGGING"
 	},
 	{
 		"code": "35.29.05.2019",
@@ -42167,7 +42172,7 @@
 	{
 		"code": "35.29.06.2001",
 		"type": "desa",
-		"name": "PAGARBATU"
+		"name": "PAGAR BATU"
 	},
 	{
 		"code": "35.29.06.2002",
@@ -42197,7 +42202,7 @@
 	{
 		"code": "35.29.06.2007",
 		"type": "desa",
-		"name": "TANAH MERAH"
+		"name": "TANAMERAH"
 	},
 	{
 		"code": "35.29.06.2008",
@@ -42212,7 +42217,7 @@
 	{
 		"code": "35.29.06.2010",
 		"type": "desa",
-		"name": "MUANGAN"
+		"name": "MOANGAN"
 	},
 	{
 		"code": "35.29.06.2011",
@@ -42222,7 +42227,7 @@
 	{
 		"code": "35.29.06.2012",
 		"type": "desa",
-		"name": "AENG TONG-TONG"
+		"name": "AENGTONGTONG"
 	},
 	{
 		"code": "35.29.06.2013",
@@ -42262,7 +42267,7 @@
 	{
 		"code": "35.29.07.2005",
 		"type": "desa",
-		"name": "TARONGAN"
+		"name": "TAROGAN"
 	},
 	{
 		"code": "35.29.07.2006",
@@ -42292,12 +42297,12 @@
 	{
 		"code": "35.29.07.2011",
 		"type": "desa",
-		"name": "BANARESEB BARAT"
+		"name": "BANARESEP BARAT"
 	},
 	{
 		"code": "35.29.07.2012",
 		"type": "desa",
-		"name": "BILAPORA REBA"
+		"name": "BILLAPORA REBBA"
 	},
 	{
 		"code": "35.29.07.2013",
@@ -42307,7 +42312,7 @@
 	{
 		"code": "35.29.07.2014",
 		"type": "desa",
-		"name": "ELLAK LAO"
+		"name": "ELLAK LAOK"
 	},
 	{
 		"code": "35.29.07.2015",
@@ -42317,7 +42322,7 @@
 	{
 		"code": "35.29.07.2016",
 		"type": "desa",
-		"name": "DARAMESTA"
+		"name": "DARAMISTA"
 	},
 	{
 		"code": "35.29.07.2017",
@@ -42337,12 +42342,12 @@
 	{
 		"code": "35.29.07.2020",
 		"type": "desa",
-		"name": "SENDER"
+		"name": "SENDIR"
 	},
 	{
 		"code": "35.29.08",
 		"type": "kecamatan",
-		"name": "GILI GINTING"
+		"name": "GILIGINTING"
 	},
 	{
 		"code": "35.29.08.2001",
@@ -42352,7 +42357,7 @@
 	{
 		"code": "35.29.08.2002",
 		"type": "desa",
-		"name": "GEDUNGAN"
+		"name": "GEDUGAN"
 	},
 	{
 		"code": "35.29.08.2003",
@@ -42362,7 +42367,7 @@
 	{
 		"code": "35.29.08.2004",
 		"type": "desa",
-		"name": "AENG ANYAR"
+		"name": "AENGANYAR"
 	},
 	{
 		"code": "35.29.08.2005",
@@ -42392,12 +42397,12 @@
 	{
 		"code": "35.29.09.2001",
 		"type": "desa",
-		"name": "BAKEYONG"
+		"name": "BAKEONG"
 	},
 	{
 		"code": "35.29.09.2002",
 		"type": "desa",
-		"name": "PAJUDDAN DUNDANG"
+		"name": "PAYUDAN DUNDANG"
 	},
 	{
 		"code": "35.29.09.2003",
@@ -42412,7 +42417,7 @@
 	{
 		"code": "35.29.09.2005",
 		"type": "desa",
-		"name": "KETAWANG LAO\""
+		"name": "KETAWANG LAOK"
 	},
 	{
 		"code": "35.29.09.2006",
@@ -42422,7 +42427,7 @@
 	{
 		"code": "35.29.09.2007",
 		"type": "desa",
-		"name": "BARAGUNG"
+		"name": "BRAGUNG"
 	},
 	{
 		"code": "35.29.09.2008",
@@ -42432,22 +42437,22 @@
 	{
 		"code": "35.29.09.2009",
 		"type": "desa",
-		"name": "PAJUDDAN NANGGER"
+		"name": "PAYUDAN NANGGER"
 	},
 	{
 		"code": "35.29.09.2010",
 		"type": "desa",
-		"name": "PAJUDDAN DALEMAN"
+		"name": "PAYUDAN DALEMAN"
 	},
 	{
 		"code": "35.29.09.2011",
 		"type": "desa",
-		"name": "PAJUDDAN KRG. SOKON"
+		"name": "PAYUDAN KARANGSOKON"
 	},
 	{
 		"code": "35.29.09.2012",
 		"type": "desa",
-		"name": "BATU AMPAR"
+		"name": "BATUAMPAR"
 	},
 	{
 		"code": "35.29.10",
@@ -42512,7 +42517,7 @@
 	{
 		"code": "35.29.10.2012",
 		"type": "desa",
-		"name": "KETAWANG PAREBAN"
+		"name": "KETAWANG PAREBAAN"
 	},
 	{
 		"code": "35.29.10.2013",
@@ -42547,7 +42552,7 @@
 	{
 		"code": "35.29.11.2004",
 		"type": "desa",
-		"name": "SENTOL LAO\""
+		"name": "SENTOL LAOK"
 	},
 	{
 		"code": "35.29.11.2005",
@@ -42567,7 +42572,7 @@
 	{
 		"code": "35.29.11.2008",
 		"type": "desa",
-		"name": "PAKAMBAN LAO\""
+		"name": "PAKAMBAN LAOK"
 	},
 	{
 		"code": "35.29.11.2009",
@@ -42577,7 +42582,7 @@
 	{
 		"code": "35.29.11.2010",
 		"type": "desa",
-		"name": "PRAGAAN LAO\""
+		"name": "PRAGAAN LAOK"
 	},
 	{
 		"code": "35.29.11.2011",
@@ -42622,17 +42627,17 @@
 	{
 		"code": "35.29.12.2004",
 		"type": "desa",
-		"name": "TAMBAK AGUNG BARAT"
+		"name": "TAMBAAGUNG BARAT"
 	},
 	{
 		"code": "35.29.12.2005",
 		"type": "desa",
-		"name": "TB. AGUNG TENGAH"
+		"name": "TAMBAAGUNG TENGAH"
 	},
 	{
 		"code": "35.29.12.2006",
 		"type": "desa",
-		"name": "TAMBAK AGUNG ARES"
+		"name": "TAMBAAGUNG ARES"
 	},
 	{
 		"code": "35.29.12.2007",
@@ -42642,7 +42647,7 @@
 	{
 		"code": "35.29.12.2008",
 		"type": "desa",
-		"name": "TAMBAK AGUNG TIMUR"
+		"name": "TAMBAAGUNG TIMUR"
 	},
 	{
 		"code": "35.29.12.2009",
@@ -42667,17 +42672,17 @@
 	{
 		"code": "35.29.12.2013",
 		"type": "desa",
-		"name": "BELLU\" ARES"
+		"name": "BELLUK ARES"
 	},
 	{
 		"code": "35.29.12.2014",
 		"type": "desa",
-		"name": "BELLU\" KENE\""
+		"name": "BELLUK KENEK"
 	},
 	{
 		"code": "35.29.12.2015",
 		"type": "desa",
-		"name": "BELLU\" RAJA"
+		"name": "BELLUK RAJA"
 	},
 	{
 		"code": "35.29.13",
@@ -42717,7 +42722,7 @@
 	{
 		"code": "35.29.13.2007",
 		"type": "desa",
-		"name": "SODARA"
+		"name": "SODDARA"
 	},
 	{
 		"code": "35.29.13.2008",
@@ -42747,17 +42752,17 @@
 	{
 		"code": "35.29.14.2002",
 		"type": "desa",
-		"name": "SEMA\"AN"
+		"name": "SEMAAN"
 	},
 	{
 		"code": "35.29.14.2003",
 		"type": "desa",
-		"name": "BATUBELLA BARAT"
+		"name": "BATUBELLAH BARAT"
 	},
 	{
 		"code": "35.29.14.2004",
 		"type": "desa",
-		"name": "BATUBELLA TIMUR"
+		"name": "BATUBELLAH TIMUR"
 	},
 	{
 		"code": "35.29.14.2005",
@@ -42772,7 +42777,7 @@
 	{
 		"code": "35.29.14.2007",
 		"type": "desa",
-		"name": "BRENGEN"
+		"name": "BRINGIN"
 	},
 	{
 		"code": "35.29.14.2008",
@@ -42807,12 +42812,12 @@
 	{
 		"code": "35.29.14.2014",
 		"type": "desa",
-		"name": "DASUK LAO\""
+		"name": "DASUK LAOK"
 	},
 	{
 		"code": "35.29.14.2015",
 		"type": "desa",
-		"name": "ELLAK LAO\""
+		"name": "MANTAJUN"
 	},
 	{
 		"code": "35.29.15",
@@ -42837,17 +42842,17 @@
 	{
 		"code": "35.29.15.2004",
 		"type": "desa",
-		"name": "TAMBAK SARI"
+		"name": "TAMBAKSARI"
 	},
 	{
 		"code": "35.29.15.2005",
 		"type": "desa",
-		"name": "BANASAREH"
+		"name": "BANASARE"
 	},
 	{
 		"code": "35.29.15.2006",
 		"type": "desa",
-		"name": "BUN BARAT"
+		"name": "BUNBARAT"
 	},
 	{
 		"code": "35.29.15.2007",
@@ -42897,7 +42902,7 @@
 	{
 		"code": "35.29.16.2004",
 		"type": "desa",
-		"name": "BATANG-BATANG DAJA"
+		"name": "BATANG-BATANG DAYA"
 	},
 	{
 		"code": "35.29.16.2005",
@@ -42917,7 +42922,7 @@
 	{
 		"code": "35.29.16.2008",
 		"type": "desa",
-		"name": "JANAGGER"
+		"name": "JENANGGER"
 	},
 	{
 		"code": "35.29.16.2009",
@@ -42962,12 +42967,12 @@
 	{
 		"code": "35.29.17",
 		"type": "kecamatan",
-		"name": "BATU PUTIH"
+		"name": "BATUPUTIH"
 	},
 	{
 		"code": "35.29.17.2001",
 		"type": "desa",
-		"name": "AENG MERAH"
+		"name": "AENGMERAH"
 	},
 	{
 		"code": "35.29.17.2002",
@@ -42977,12 +42982,12 @@
 	{
 		"code": "35.29.17.2003",
 		"type": "desa",
-		"name": "JURUWAN LAO\""
+		"name": "JURUAN LAOK"
 	},
 	{
 		"code": "35.29.17.2004",
 		"type": "desa",
-		"name": "JURUWAN DAJA"
+		"name": "JURUAN DAYA"
 	},
 	{
 		"code": "35.29.17.2005",
@@ -42992,17 +42997,17 @@
 	{
 		"code": "35.29.17.2006",
 		"type": "desa",
-		"name": "DANG-GEDANG"
+		"name": "GEDANG-GEDANG"
 	},
 	{
 		"code": "35.29.17.2007",
 		"type": "desa",
-		"name": "BATUPUTIH KENE\""
+		"name": "BATUPUTIH KENEK"
 	},
 	{
 		"code": "35.29.17.2008",
 		"type": "desa",
-		"name": "BATUPUTIH LAO\""
+		"name": "BATUPUTIH LAOK"
 	},
 	{
 		"code": "35.29.17.2009",
@@ -43022,12 +43027,12 @@
 	{
 		"code": "35.29.17.2012",
 		"type": "desa",
-		"name": "KERTA"
+		"name": "LARANGAN KERTA"
 	},
 	{
 		"code": "35.29.17.2013",
 		"type": "desa",
-		"name": "BULLA\"AN"
+		"name": "BULLA'AN"
 	},
 	{
 		"code": "35.29.17.2014",
@@ -43052,22 +43057,22 @@
 	{
 		"code": "35.29.18.2003",
 		"type": "desa",
-		"name": "ROMBER BARAT"
+		"name": "ROMBEN BARAT"
 	},
 	{
 		"code": "35.29.18.2004",
 		"type": "desa",
-		"name": "ROMBER RANA"
+		"name": "ROMBEN RANA"
 	},
 	{
 		"code": "35.29.18.2005",
 		"type": "desa",
-		"name": "ROMBER GUNA"
+		"name": "ROMBEN GUNA"
 	},
 	{
 		"code": "35.29.18.2006",
 		"type": "desa",
-		"name": "TAMAN SAREH"
+		"name": "TAMAN SARE"
 	},
 	{
 		"code": "35.29.18.2007",
@@ -43097,12 +43102,12 @@
 	{
 		"code": "35.29.18.2012",
 		"type": "desa",
-		"name": "LAPA LAO\""
+		"name": "LAPA LAOK"
 	},
 	{
 		"code": "35.29.18.2013",
 		"type": "desa",
-		"name": "LAPA DAJA"
+		"name": "LAPA DAYA"
 	},
 	{
 		"code": "35.29.18.2014",
@@ -43122,7 +43127,7 @@
 	{
 		"code": "35.29.19.2001",
 		"type": "desa",
-		"name": "GRUJUKAN"
+		"name": "GRUJUGAN"
 	},
 	{
 		"code": "35.29.19.2002",
@@ -43162,12 +43167,12 @@
 	{
 		"code": "35.29.19.2009",
 		"type": "desa",
-		"name": "PANANGAN"
+		"name": "PANAGAN"
 	},
 	{
 		"code": "35.29.19.2010",
 		"type": "desa",
-		"name": "PALO\"LO\"AN"
+		"name": "PALO'LO'AN"
 	},
 	{
 		"code": "35.29.19.2011",
@@ -43182,7 +43187,7 @@
 	{
 		"code": "35.29.19.2013",
 		"type": "desa",
-		"name": "BATU DINDING"
+		"name": "BATUDINDING"
 	},
 	{
 		"code": "35.29.19.2014",
@@ -43192,7 +43197,7 @@
 	{
 		"code": "35.29.19.2015",
 		"type": "desa",
-		"name": "KARANG BUDDI"
+		"name": "KARANGBUDI"
 	},
 	{
 		"code": "35.29.19.2016",
@@ -43227,7 +43232,7 @@
 	{
 		"code": "35.29.20.2004",
 		"type": "desa",
-		"name": "GENDANG TENGAH"
+		"name": "KARANG TENGAH"
 	},
 	{
 		"code": "35.29.20.2005",
@@ -43242,7 +43247,7 @@
 	{
 		"code": "35.29.20.2007",
 		"type": "desa",
-		"name": "KALOANG"
+		"name": "KALOWANG"
 	},
 	{
 		"code": "35.29.20.2008",
@@ -43252,7 +43257,7 @@
 	{
 		"code": "35.29.20.2009",
 		"type": "desa",
-		"name": "GEDDANG BARAT"
+		"name": "GENDANG BARAT"
 	},
 	{
 		"code": "35.29.20.2010",
@@ -43272,17 +43277,17 @@
 	{
 		"code": "35.29.21.2002",
 		"type": "desa",
-		"name": "SUMBER"
+		"name": "SOMBER"
 	},
 	{
 		"code": "35.29.21.2003",
 		"type": "desa",
-		"name": "TANA MERAH"
+		"name": "TANAH MERAH"
 	},
 	{
 		"code": "35.29.21.2004",
 		"type": "desa",
-		"name": "SOKARAMI TIMUR"
+		"name": "SOKARAMME TIMUR"
 	},
 	{
 		"code": "35.29.21.2005",
@@ -43302,7 +43307,7 @@
 	{
 		"code": "35.29.21.2008",
 		"type": "desa",
-		"name": "SONO\""
+		"name": "SONOK"
 	},
 	{
 		"code": "35.29.22",
@@ -43322,7 +43327,7 @@
 	{
 		"code": "35.29.22.2003",
 		"type": "desa",
-		"name": "KROPAK"
+		"name": "KROPOH"
 	},
 	{
 		"code": "35.29.22.2004",
@@ -43332,12 +43337,12 @@
 	{
 		"code": "35.29.22.2005",
 		"type": "desa",
-		"name": "ALASMALANG"
+		"name": "ALAS MALANG"
 	},
 	{
 		"code": "35.29.22.2006",
 		"type": "desa",
-		"name": "POTRRAN"
+		"name": "POTERAN"
 	},
 	{
 		"code": "35.29.22.2007",
@@ -43352,7 +43357,7 @@
 	{
 		"code": "35.29.22.2009",
 		"type": "desa",
-		"name": "GUA-GUA"
+		"name": "GUWA-GUWA"
 	},
 	{
 		"code": "35.29.23",
@@ -43362,7 +43367,7 @@
 	{
 		"code": "35.29.23.2001",
 		"type": "desa",
-		"name": "SUKA JERUK"
+		"name": "SUKAJERUK"
 	},
 	{
 		"code": "35.29.23.2002",
@@ -43372,7 +43377,7 @@
 	{
 		"code": "35.29.23.2003",
 		"type": "desa",
-		"name": "MASA KAMBING"
+		"name": "MASAKAMBING"
 	},
 	{
 		"code": "35.29.23.2004",
@@ -43392,7 +43397,7 @@
 	{
 		"code": "35.29.24.2008",
 		"type": "desa",
-		"name": "SAWAH TIMUR"
+		"name": "SAWAH SUMUR"
 	},
 	{
 		"code": "35.29.24.2009",
@@ -43402,7 +43407,7 @@
 	{
 		"code": "35.29.24.2010",
 		"type": "desa",
-		"name": "GELLAMAN"
+		"name": "GELAMAN"
 	},
 	{
 		"code": "35.29.24.2011",
@@ -43432,12 +43437,12 @@
 	{
 		"code": "35.29.24.2016",
 		"type": "desa",
-		"name": "LAO\" JANGJANG"
+		"name": "LAOK JANG-JANG"
 	},
 	{
 		"code": "35.29.24.2017",
 		"type": "desa",
-		"name": "SUMBER NANGKA"
+		"name": "SUMBERNANGKA"
 	},
 	{
 		"code": "35.29.24.2018",
@@ -43457,7 +43462,7 @@
 	{
 		"code": "35.29.24.2021",
 		"type": "desa",
-		"name": "KALIANYAR"
+		"name": "KALINGANYAR"
 	},
 	{
 		"code": "35.29.24.2022",
@@ -43477,7 +43482,7 @@
 	{
 		"code": "35.29.24.2025",
 		"type": "desa",
-		"name": "PABIYAN"
+		"name": "PABEAN"
 	},
 	{
 		"code": "35.29.25",
@@ -43502,32 +43507,32 @@
 	{
 		"code": "35.29.25.2004",
 		"type": "desa",
-		"name": "PAGERRUNGAN BESAR"
+		"name": "PAGERUNGAN BESAR"
 	},
 	{
 		"code": "35.29.25.2005",
 		"type": "desa",
-		"name": "PAGERRUNGAN KECIL"
+		"name": "PAGERUNGAN KECIL"
 	},
 	{
 		"code": "35.29.25.2006",
 		"type": "desa",
-		"name": "SASE\"EL"
+		"name": "SASEEL"
 	},
 	{
 		"code": "35.29.25.2007",
 		"type": "desa",
-		"name": "SEPEKEN"
+		"name": "SAPEKEN"
 	},
 	{
 		"code": "35.29.25.2008",
 		"type": "desa",
-		"name": "SAUNTEN"
+		"name": "SABUNTEN"
 	},
 	{
 		"code": "35.29.25.2009",
 		"type": "desa",
-		"name": "PALEYAT"
+		"name": "PALIAT"
 	},
 	{
 		"code": "35.29.25.2010",
@@ -43577,7 +43582,7 @@
 	{
 		"code": "35.29.26.2007",
 		"type": "desa",
-		"name": "GALUGUR"
+		"name": "GELUGUR"
 	},
 	{
 		"code": "35.29.27",
@@ -43587,7 +43592,7 @@
 	{
 		"code": "35.29.27.2001",
 		"type": "desa",
-		"name": "SAUBI"
+		"name": "SAOBI"
 	},
 	{
 		"code": "35.29.27.2002",
@@ -43602,12 +43607,12 @@
 	{
 		"code": "35.29.27.2004",
 		"type": "desa",
-		"name": "CANGKRAMAN"
+		"name": "CANGKRAMAAN"
 	},
 	{
 		"code": "35.29.27.2005",
 		"type": "desa",
-		"name": "TEMBAYANG"
+		"name": "TEMBAYANGAN"
 	},
 	{
 		"code": "35.29.27.2006",
@@ -43617,12 +43622,12 @@
 	{
 		"code": "35.29.27.2007",
 		"type": "desa",
-		"name": "DANDUNG"
+		"name": "DAANDUNG"
 	},
 	{
 		"code": "35.29.27.2008",
 		"type": "desa",
-		"name": "TIMUR JANGJANG"
+		"name": "TIMUR JANG-JANG"
 	},
 	{
 		"code": "35.29.27.2009",
@@ -44462,7 +44467,7 @@
 	{
 		"code": "35.74.05",
 		"type": "kecamatan",
-		"name": "KEDOPAK"
+		"name": "KEDOPOK"
 	},
 	{
 		"code": "35.74.05.1001",
@@ -44697,17 +44702,7 @@
 	{
 		"code": "35.76.01",
 		"type": "kecamatan",
-		"name": "PRAJURIT KULON"
-	},
-	{
-		"code": "35.76.01.1001",
-		"type": "kelurahan",
-		"name": "KRANGGAN"
-	},
-	{
-		"code": "35.76.01.1002",
-		"type": "kelurahan",
-		"name": "MIJI"
+		"name": "PRAJURITKULON"
 	},
 	{
 		"code": "35.76.01.1003",
@@ -44727,7 +44722,7 @@
 	{
 		"code": "35.76.01.1006",
 		"type": "kelurahan",
-		"name": "PRAJURIT KULON"
+		"name": "PRAJURITKULON"
 	},
 	{
 		"code": "35.76.01.1007",
@@ -44747,12 +44742,7 @@
 	{
 		"code": "35.76.02.1001",
 		"type": "kelurahan",
-		"name": "GUNUNG GEDANGAN"
-	},
-	{
-		"code": "35.76.02.1002",
-		"type": "kelurahan",
-		"name": "MERI"
+		"name": "GUNUNGGEDANGAN"
 	},
 	{
 		"code": "35.76.02.1003",
@@ -44763,21 +44753,6 @@
 		"code": "35.76.02.1004",
 		"type": "kelurahan",
 		"name": "GEDONGAN"
-	},
-	{
-		"code": "35.76.02.1005",
-		"type": "kelurahan",
-		"name": "PURWOTENGAH"
-	},
-	{
-		"code": "35.76.02.1006",
-		"type": "kelurahan",
-		"name": "SENTANAN"
-	},
-	{
-		"code": "35.76.02.1007",
-		"type": "kelurahan",
-		"name": "JAGALAN"
 	},
 	{
 		"code": "35.76.02.1008",
@@ -44793,6 +44768,41 @@
 		"code": "35.76.02.1010",
 		"type": "kelurahan",
 		"name": "WATES"
+	},
+	{
+		"code": "35.76.03",
+		"type": "kecamatan",
+		"name": "KRANGGAN"
+	},
+	{
+		"code": "35.76.03.1001",
+		"type": "kelurahan",
+		"name": "KRANGGAN"
+	},
+	{
+		"code": "35.76.03.1002",
+		"type": "kelurahan",
+		"name": "MIJI"
+	},
+	{
+		"code": "35.76.03.1003",
+		"type": "kelurahan",
+		"name": "MERI"
+	},
+	{
+		"code": "35.76.03.1004",
+		"type": "kelurahan",
+		"name": "JAGALAN"
+	},
+	{
+		"code": "35.76.03.1005",
+		"type": "kelurahan",
+		"name": "SENTANAN"
+	},
+	{
+		"code": "35.76.03.1006",
+		"type": "kelurahan",
+		"name": "PURWOTENGAH"
 	},
 	{
 		"code": "35.77",
@@ -45007,7 +45017,7 @@
 	{
 		"code": "35.78.02.1005",
 		"type": "kelurahan",
-		"name": "SIWALAN KERTO"
+		"name": "SIWALANKERTO"
 	},
 	{
 		"code": "35.78.03",
@@ -45032,7 +45042,7 @@
 	{
 		"code": "35.78.03.1004",
 		"type": "kelurahan",
-		"name": "PENJARINGAN SARI"
+		"name": "PENJARINGANSARI"
 	},
 	{
 		"code": "35.78.03.1005",
@@ -45127,12 +45137,12 @@
 	{
 		"code": "35.78.06.1003",
 		"type": "kelurahan",
-		"name": "BANYUURIP"
+		"name": "BANYU URIP"
 	},
 	{
 		"code": "35.78.06.1004",
 		"type": "kelurahan",
-		"name": "PUTATJAYA"
+		"name": "PUTAT JAYA"
 	},
 	{
 		"code": "35.78.06.1005",
@@ -45207,7 +45217,7 @@
 	{
 		"code": "35.78.08.1006",
 		"type": "kelurahan",
-		"name": "PUCANGSEWU"
+		"name": "PUCANG SEWU"
 	},
 	{
 		"code": "35.78.09",
@@ -45237,7 +45247,7 @@
 	{
 		"code": "35.78.09.1005",
 		"type": "kelurahan",
-		"name": "NGENDEN JANGKUNGAN"
+		"name": "NGINDEN JANGKUNGAN"
 	},
 	{
 		"code": "35.78.09.1006",
@@ -45282,12 +45292,12 @@
 	{
 		"code": "35.78.10.1006",
 		"type": "kelurahan",
-		"name": "PACAR KELING"
+		"name": "PACARKELING"
 	},
 	{
 		"code": "35.78.10.1007",
 		"type": "kelurahan",
-		"name": "KAPASMADYA BARU"
+		"name": "KAPAS MADYA BARU"
 	},
 	{
 		"code": "35.78.10.1008",
@@ -45327,7 +45337,7 @@
 	{
 		"code": "35.78.12",
 		"type": "kecamatan",
-		"name": "PABEAN CANTIKAN"
+		"name": "PABEAN CANTIAN"
 	},
 	{
 		"code": "35.78.12.1001",
@@ -45487,7 +45497,7 @@
 	{
 		"code": "35.78.17.1001",
 		"type": "kelurahan",
-		"name": "TANAH KALIKEDINDING"
+		"name": "TANAH KALI KEDINDING"
 	},
 	{
 		"code": "35.78.17.1002",
@@ -45592,7 +45602,7 @@
 	{
 		"code": "35.78.21",
 		"type": "kecamatan",
-		"name": "DUKUHPAKIS"
+		"name": "DUKUH PAKIS"
 	},
 	{
 		"code": "35.78.21.1001",
@@ -45612,7 +45622,7 @@
 	{
 		"code": "35.78.21.1004",
 		"type": "kelurahan",
-		"name": "PRADAKALIKENDAL"
+		"name": "PRADAH KALI KENDAL"
 	},
 	{
 		"code": "35.78.22",
@@ -45622,7 +45632,7 @@
 	{
 		"code": "35.78.22.1001",
 		"type": "kelurahan",
-		"name": "GAYUNGAN KETINTANG"
+		"name": "GAYUNGAN"
 	},
 	{
 		"code": "35.78.22.1002",
@@ -45637,7 +45647,7 @@
 	{
 		"code": "35.78.22.1004",
 		"type": "kelurahan",
-		"name": "PAGESANGAN"
+		"name": "KETINTANG"
 	},
 	{
 		"code": "35.78.23",
@@ -45732,7 +45742,7 @@
 	{
 		"code": "35.78.26.1003",
 		"type": "kelurahan",
-		"name": "KEJAWAAN PUTIH TAMBA"
+		"name": "KEJAWAAN PUTIH TAMBAK"
 	},
 	{
 		"code": "35.78.26.1004",
@@ -45850,6 +45860,11 @@
 		"name": "SUMBER REJO"
 	},
 	{
+		"code": "35.78.30.1005",
+		"type": "kelurahan",
+		"name": "BENOWO"
+	},
+	{
 		"code": "35.78.31",
 		"type": "kecamatan",
 		"name": "SAMBIKEREP"
@@ -45873,11 +45888,6 @@
 		"code": "35.78.31.1004",
 		"type": "kelurahan",
 		"name": "LONTAR"
-	},
-	{
-		"code": "35.78.31.1005",
-		"type": "kelurahan",
-		"name": "BENOWO"
 	},
 	{
 		"code": "35.79",

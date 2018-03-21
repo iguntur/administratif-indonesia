@@ -1522,7 +1522,7 @@
 	{
 		"code": "51.04.03.2009",
 		"type": "desa",
-		"name": "BABAKAN"
+		"name": "BAKBAKAN"
 	},
 	{
 		"code": "51.04.03.2010",
@@ -1632,7 +1632,7 @@
 	{
 		"code": "51.04.05.2003",
 		"type": "desa",
-		"name": "SINGAKERTA"
+		"name": "SINGEKERTA"
 	},
 	{
 		"code": "51.04.05.2004",
@@ -1657,7 +1657,7 @@
 	{
 		"code": "51.04.06",
 		"type": "kecamatan",
-		"name": "TEGALALLANG"
+		"name": "TEGALLALANG"
 	},
 	{
 		"code": "51.04.06.2001",
@@ -2897,7 +2897,7 @@
 	{
 		"code": "51.08.01.2001",
 		"type": "desa",
-		"name": "SUMBER KELAMPOK"
+		"name": "SUMBERKLAMPOK"
 	},
 	{
 		"code": "51.08.01.2002",
@@ -2957,12 +2957,12 @@
 	{
 		"code": "51.08.01.2013",
 		"type": "desa",
-		"name": "CELUKAN BAWANG"
+		"name": "CELUKANBAWANG"
 	},
 	{
 		"code": "51.08.01.2014",
 		"type": "desa",
-		"name": "TUKAD SUMAGA"
+		"name": "TUKADSUMAGA"
 	},
 	{
 		"code": "51.08.02",
@@ -3002,7 +3002,7 @@
 	{
 		"code": "51.08.02.2006",
 		"type": "desa",
-		"name": "GUNUNG SARI"
+		"name": "GUNUNGSARI"
 	},
 	{
 		"code": "51.08.02.2007",
@@ -3027,7 +3027,7 @@
 	{
 		"code": "51.08.02.2011",
 		"type": "desa",
-		"name": "TANGGUSIA"
+		"name": "TANGGUWISIA"
 	},
 	{
 		"code": "51.08.02.2012",
@@ -3052,12 +3052,12 @@
 	{
 		"code": "51.08.02.2017",
 		"type": "desa",
-		"name": "KALO PAKSA"
+		"name": "LOKAPAKSA"
 	},
 	{
 		"code": "51.08.02.2018",
 		"type": "desa",
-		"name": "PANGKUNG PARUK"
+		"name": "PANGKUNGPARUK"
 	},
 	{
 		"code": "51.08.02.2019",
@@ -3117,7 +3117,7 @@
 	{
 		"code": "51.08.03.2008",
 		"type": "desa",
-		"name": "TINGGASARI"
+		"name": "TINGGARSARI"
 	},
 	{
 		"code": "51.08.03.2009",
@@ -3177,7 +3177,7 @@
 	{
 		"code": "51.08.04.2004",
 		"type": "desa",
-		"name": "BANYATIS"
+		"name": "BANYUATIS"
 	},
 	{
 		"code": "51.08.04.2005",
@@ -3427,7 +3427,7 @@
 	{
 		"code": "51.08.06.2003",
 		"type": "desa",
-		"name": "TUKAD MUNGGA"
+		"name": "TUKADMUNGGA"
 	},
 	{
 		"code": "51.08.06.2004",
@@ -3437,7 +3437,7 @@
 	{
 		"code": "51.08.06.2005",
 		"type": "desa",
-		"name": "BAKTI SERAGA"
+		"name": "BAKTISERAGA"
 	},
 	{
 		"code": "51.08.06.2013",
@@ -3467,12 +3467,12 @@
 	{
 		"code": "51.08.06.2018",
 		"type": "desa",
-		"name": "JINENG DALEM"
+		"name": "JINENGDALEM"
 	},
 	{
 		"code": "51.08.06.2028",
 		"type": "desa",
-		"name": "PENGELATAN"
+		"name": "PENGLATAN"
 	},
 	{
 		"code": "51.08.07",
@@ -3582,7 +3582,7 @@
 	{
 		"code": "51.08.08.2006",
 		"type": "desa",
-		"name": "DEPEHE"
+		"name": "DEPEHA"
 	},
 	{
 		"code": "51.08.08.2007",

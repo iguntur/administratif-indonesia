@@ -2,7 +2,7 @@
 	{
 		"code": "34",
 		"type": "provinsi",
-		"name": "YOGYAKARTA"
+		"name": "DAERAH ISTIMEWA YOGYAKARTA"
 	},
 	{
 		"code": "34.01",
@@ -932,7 +932,7 @@
 	{
 		"code": "34.02.16.2001",
 		"type": "desa",
-		"name": "BANGUJIWO"
+		"name": "BANGUNJIWO"
 	},
 	{
 		"code": "34.02.16.2002",
@@ -1937,12 +1937,12 @@
 	{
 		"code": "34.04.05.2003",
 		"type": "desa",
-		"name": "MARGOMULYO"
+		"name": "MARGOKATON"
 	},
 	{
 		"code": "34.04.05.2004",
 		"type": "desa",
-		"name": "MARGOKATON"
+		"name": "MARGOMULYO"
 	},
 	{
 		"code": "34.04.05.2005",

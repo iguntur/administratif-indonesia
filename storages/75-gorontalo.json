@@ -17,12 +17,12 @@
 	{
 		"code": "75.01.01.1001",
 		"type": "kelurahan",
-		"name": "KAYU BULAN"
+		"name": "KAYUBULAN"
 	},
 	{
 		"code": "75.01.01.1002",
 		"type": "kelurahan",
-		"name": "KAYU MERAH"
+		"name": "KAYUMERAH"
 	},
 	{
 		"code": "75.01.01.1003",
@@ -492,7 +492,7 @@
 	{
 		"code": "75.01.11.2011",
 		"type": "desa",
-		"name": "MOLOPATUDO"
+		"name": "MOLOPATODU"
 	},
 	{
 		"code": "75.01.11.2012",
@@ -522,7 +522,7 @@
 	{
 		"code": "75.01.11.2018",
 		"type": "desa",
-		"name": "HUNTU LO HULAWA"
+		"name": "HUNTULO HULAWA"
 	},
 	{
 		"code": "75.01.11.2022",
@@ -577,7 +577,7 @@
 	{
 		"code": "75.01.13.2008",
 		"type": "desa",
-		"name": "BINAJAYA"
+		"name": "BINA JAYA"
 	},
 	{
 		"code": "75.01.13.2009",
@@ -587,17 +587,17 @@
 	{
 		"code": "75.01.13.2010",
 		"type": "desa",
-		"name": "SIDOHARJO"
+		"name": "SIDOARJO"
 	},
 	{
 		"code": "75.01.13.2013",
 		"type": "desa",
-		"name": "SUKA MAKMUR UTARA"
+		"name": "SUKAMAKMUR UTARA"
 	},
 	{
 		"code": "75.01.13.2014",
 		"type": "desa",
-		"name": "MARGOMULYO"
+		"name": "MARGOMULYA"
 	},
 	{
 		"code": "75.01.13.2015",
@@ -782,7 +782,7 @@
 	{
 		"code": "75.01.17.2008",
 		"type": "desa",
-		"name": "PODENGO"
+		"name": "PADENGO"
 	},
 	{
 		"code": "75.01.17.2009",
@@ -922,12 +922,12 @@
 	{
 		"code": "75.01.20.2006",
 		"type": "desa",
-		"name": "LABUTO TIMUR"
+		"name": "LOBUTO TIMUR"
 	},
 	{
 		"code": "75.01.20.2007",
 		"type": "desa",
-		"name": "BOTUBOLU'O"
+		"name": "BOTU BOLUO"
 	},
 	{
 		"code": "75.01.20.2008",
@@ -982,7 +982,7 @@
 	{
 		"code": "75.01.21.2009",
 		"type": "desa",
-		"name": "BONTULO"
+		"name": "BONTULA"
 	},
 	{
 		"code": "75.01.21.2010",
@@ -1182,7 +1182,7 @@
 	{
 		"code": "75.02.01.2012",
 		"type": "desa",
-		"name": "KUALALUMPUR"
+		"name": "KUALA LUMPUR"
 	},
 	{
 		"code": "75.02.01.2013",
@@ -1262,12 +1262,12 @@
 	{
 		"code": "75.02.02.2002",
 		"type": "desa",
-		"name": "BONGO DUA"
+		"name": "BONGO II"
 	},
 	{
 		"code": "75.02.02.2003",
 		"type": "desa",
-		"name": "BONGO TIGA"
+		"name": "BONGO III"
 	},
 	{
 		"code": "75.02.02.2004",
@@ -1292,7 +1292,7 @@
 	{
 		"code": "75.02.02.2008",
 		"type": "desa",
-		"name": "SUKAMULYA"
+		"name": "SUKA MULYA"
 	},
 	{
 		"code": "75.02.02.2009",
@@ -1317,7 +1317,7 @@
 	{
 		"code": "75.02.02.2013",
 		"type": "desa",
-		"name": "TRI RUKUN"
+		"name": "TRIRUKUN"
 	},
 	{
 		"code": "75.02.02.2014",
@@ -1562,7 +1562,7 @@
 	{
 		"code": "75.02.07.2005",
 		"type": "desa",
-		"name": "APITALAWO"
+		"name": "APITALAWU"
 	},
 	{
 		"code": "75.02.07.2006",
@@ -1637,7 +1637,7 @@
 	{
 		"code": "75.03.02.1009",
 		"type": "kelurahan",
-		"name": "OLUHUTA"
+		"name": "OLOHUTA"
 	},
 	{
 		"code": "75.03.02.1010",
@@ -1652,7 +1652,7 @@
 	{
 		"code": "75.03.02.1028",
 		"type": "kelurahan",
-		"name": "OLUHUTA UTARA"
+		"name": "OLOHUTA UTARA"
 	},
 	{
 		"code": "75.03.02.2006",
@@ -1712,7 +1712,7 @@
 	{
 		"code": "75.03.03.2014",
 		"type": "desa",
-		"name": "HULUDUOTAMA"
+		"name": "HULUDUOTAMO"
 	},
 	{
 		"code": "75.03.03.2020",
@@ -1912,7 +1912,7 @@
 	{
 		"code": "75.03.06.2009",
 		"type": "desa",
-		"name": "MOOTILANGO"
+		"name": "MOTILANGO"
 	},
 	{
 		"code": "75.03.06.2010",
@@ -1927,12 +1927,12 @@
 	{
 		"code": "75.03.06.2012",
 		"type": "desa",
-		"name": "TUNGOLO SELATAN"
+		"name": "TUNGGULO SELATAN"
 	},
 	{
 		"code": "75.03.06.2013",
 		"type": "desa",
-		"name": "BONGOHULOWA"
+		"name": "BONGOHULAWA"
 	},
 	{
 		"code": "75.03.06.2014",
@@ -1947,7 +1947,7 @@
 	{
 		"code": "75.03.07.2001",
 		"type": "desa",
-		"name": "TIMBUOLU"
+		"name": "TIMBUOLO"
 	},
 	{
 		"code": "75.03.07.2002",
@@ -1977,12 +1977,12 @@
 	{
 		"code": "75.03.07.2007",
 		"type": "desa",
-		"name": "PANGGULO BARAT"
+		"name": "PANGGULA BARAT"
 	},
 	{
 		"code": "75.03.07.2008",
 		"type": "desa",
-		"name": "TIMBULO TENGAH"
+		"name": "TIMBUOLO TENGAH"
 	},
 	{
 		"code": "75.03.07.2009",
@@ -2002,7 +2002,7 @@
 	{
 		"code": "75.03.08.2002",
 		"type": "desa",
-		"name": "MOLOTABU"
+		"name": "MOLUTABU"
 	},
 	{
 		"code": "75.03.08.2003",
@@ -2017,7 +2017,7 @@
 	{
 		"code": "75.03.08.2005",
 		"type": "desa",
-		"name": "BOTUTONUA"
+		"name": "BOTUTONUO"
 	},
 	{
 		"code": "75.03.08.2006",
@@ -2062,7 +2062,7 @@
 	{
 		"code": "75.03.09.2004",
 		"type": "desa",
-		"name": "BILOLANTUNGA"
+		"name": "BILONLANTUNGA"
 	},
 	{
 		"code": "75.03.09.2005",
@@ -2092,7 +2092,7 @@
 	{
 		"code": "75.03.09.2010",
 		"type": "desa",
-		"name": "ILOHUUUWA"
+		"name": "ILOHUUWA"
 	},
 	{
 		"code": "75.03.09.2011",
@@ -2127,7 +2127,7 @@
 	{
 		"code": "75.03.10.2003",
 		"type": "desa",
-		"name": "TOMBULILATO"
+		"name": "TUMBULILATO"
 	},
 	{
 		"code": "75.03.10.2004",
@@ -2147,7 +2147,7 @@
 	{
 		"code": "75.03.10.2010",
 		"type": "desa",
-		"name": "MOOPIYA"
+		"name": "MOOPUYA"
 	},
 	{
 		"code": "75.03.10.2011",
@@ -2462,7 +2462,7 @@
 	{
 		"code": "75.03.17.2008",
 		"type": "desa",
-		"name": "PINOMOTINGA"
+		"name": "PINOMOTIGA"
 	},
 	{
 		"code": "75.03.17.2009",
@@ -2627,12 +2627,12 @@
 	{
 		"code": "75.04.03.2004",
 		"type": "desa",
-		"name": "SIDO RUKUN"
+		"name": "SIDORUKUN"
 	},
 	{
 		"code": "75.04.03.2008",
 		"type": "desa",
-		"name": "SARI MURNI"
+		"name": "SARIMURNI"
 	},
 	{
 		"code": "75.04.03.2009",
@@ -2672,7 +2672,7 @@
 	{
 		"code": "75.04.03.2018",
 		"type": "desa",
-		"name": "SIDUWONGE"
+		"name": "SIDOWONGE"
 	},
 	{
 		"code": "75.04.04",
@@ -2777,7 +2777,7 @@
 	{
 		"code": "75.04.05.2015",
 		"type": "desa",
-		"name": "KAMIRI"
+		"name": "KEMIRI"
 	},
 	{
 		"code": "75.04.06",
@@ -2822,17 +2822,17 @@
 	{
 		"code": "75.04.07.2001",
 		"type": "desa",
-		"name": "PANCA KARSA I"
+		"name": "PANCAKARSA I"
 	},
 	{
 		"code": "75.04.07.2002",
 		"type": "desa",
-		"name": "PANCA KARSA II"
+		"name": "PANCAKARSA II"
 	},
 	{
 		"code": "75.04.07.2003",
 		"type": "desa",
-		"name": "MEKARTI JAYA"
+		"name": "MAKARTI JAYA"
 	},
 	{
 		"code": "75.04.07.2004",
@@ -2882,7 +2882,7 @@
 	{
 		"code": "75.04.08.2005",
 		"type": "desa",
-		"name": "HUTA MOPUTI"
+		"name": "HUTAMOPUTI"
 	},
 	{
 		"code": "75.04.09",
@@ -2977,7 +2977,7 @@
 	{
 		"code": "75.04.11.2001",
 		"type": "desa",
-		"name": "WONGGARASI TIMUR"
+		"name": "WANGGARASI TIMUR"
 	},
 	{
 		"code": "75.04.11.2002",
@@ -3072,7 +3072,7 @@
 	{
 		"code": "75.04.13.2004",
 		"type": "desa",
-		"name": "MOLOSIPAT"
+		"name": "MOLOSIFAT"
 	},
 	{
 		"code": "75.04.13.2005",
@@ -3087,7 +3087,7 @@
 	{
 		"code": "75.04.13.2007",
 		"type": "desa",
-		"name": "MOLOSIPAT UTARA"
+		"name": "MOLOSIFAT UTARA"
 	},
 	{
 		"code": "75.05",
@@ -3182,7 +3182,7 @@
 	{
 		"code": "75.05.02.2002",
 		"type": "desa",
-		"name": "MOLINGGAPOTO"
+		"name": "MOLINGKAPOTO"
 	},
 	{
 		"code": "75.05.02.2003",
@@ -3337,7 +3337,7 @@
 	{
 		"code": "75.05.03.2024",
 		"type": "desa",
-		"name": "HELUMO"
+		"name": "HELUMA"
 	},
 	{
 		"code": "75.05.03.2025",
@@ -3352,12 +3352,12 @@
 	{
 		"code": "75.05.04.2001",
 		"type": "desa",
-		"name": "BULONTIO TIMUR"
+		"name": "BULONTIYO TIMUR"
 	},
 	{
 		"code": "75.05.04.2002",
 		"type": "desa",
-		"name": "BULONTIO BARAT"
+		"name": "BULONTIYO BARAT"
 	},
 	{
 		"code": "75.05.04.2007",
@@ -3662,7 +3662,7 @@
 	{
 		"code": "75.05.10.2001",
 		"type": "desa",
-		"name": "BIAWU"
+		"name": "BIAU"
 	},
 	{
 		"code": "75.05.10.2002",
@@ -3687,7 +3687,7 @@
 	{
 		"code": "75.05.10.2006",
 		"type": "desa",
-		"name": "SEMBIHINGAN"
+		"name": "SEMBIHINGA"
 	},
 	{
 		"code": "75.05.10.2007",
@@ -3702,7 +3702,7 @@
 	{
 		"code": "75.05.10.2009",
 		"type": "desa",
-		"name": "POTANGO"
+		"name": "POTANGA"
 	},
 	{
 		"code": "75.05.10.2010",
@@ -3757,7 +3757,7 @@
 	{
 		"code": "75.05.11.2009",
 		"type": "desa",
-		"name": "MOTIHELUMO"
+		"name": "MOTIHELUMA"
 	},
 	{
 		"code": "75.05.11.2010",
@@ -3852,12 +3852,12 @@
 	{
 		"code": "75.71.03.1004",
 		"type": "kelurahan",
-		"name": "WANGKADITI TIMUR"
+		"name": "WONGKADITI TIMUR"
 	},
 	{
 		"code": "75.71.03.1005",
 		"type": "kelurahan",
-		"name": "WANGKADITI BARAT"
+		"name": "WONGKADITI BARAT"
 	},
 	{
 		"code": "75.71.03.1010",
@@ -3897,7 +3897,7 @@
 	{
 		"code": "75.71.04.1004",
 		"type": "kelurahan",
-		"name": "TULADENGGI"
+		"name": "TULADENGI"
 	},
 	{
 		"code": "75.71.04.1005",
@@ -4002,7 +4002,7 @@
 	{
 		"code": "75.71.07.1005",
 		"type": "kelurahan",
-		"name": "MOLOSIPAT U"
+		"name": "MOLOSIFAT U"
 	},
 	{
 		"code": "75.71.08",
@@ -4042,7 +4042,7 @@
 	{
 		"code": "75.71.09.1001",
 		"type": "kelurahan",
-		"name": "TANJUNG KERAMAT"
+		"name": "TANJUNG KRAMAT"
 	},
 	{
 		"code": "75.71.09.1002",

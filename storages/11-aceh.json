@@ -22,17 +22,17 @@
 	{
 		"code": "11.01.01.2002",
 		"type": "desa",
-		"name": "UJUNG MANGKI"
+		"name": "UJONG MANGKI"
 	},
 	{
 		"code": "11.01.01.2003",
 		"type": "desa",
-		"name": "UJUNG PADANG"
+		"name": "UJONG PADANG"
 	},
 	{
 		"code": "11.01.01.2004",
 		"type": "desa",
-		"name": "KAMPONG DRIEN"
+		"name": "GAMPONG DRIEN"
 	},
 	{
 		"code": "11.01.01.2015",
@@ -42,7 +42,7 @@
 	{
 		"code": "11.01.01.2016",
 		"type": "desa",
-		"name": "PADANG BERAHAN"
+		"name": "PADANG BEURAHAN"
 	},
 	{
 		"code": "11.01.01.2017",
@@ -122,12 +122,12 @@
 	{
 		"code": "11.01.02.2014",
 		"type": "desa",
-		"name": "SIMPANG DUA"
+		"name": "KAMPUNG TINGGI"
 	},
 	{
 		"code": "11.01.02.2015",
 		"type": "desa",
-		"name": "SIMPANG TIGA"
+		"name": "RUAK"
 	},
 	{
 		"code": "11.01.02.2016",
@@ -137,12 +137,12 @@
 	{
 		"code": "11.01.02.2017",
 		"type": "desa",
-		"name": "SUAG GEURINGGENG"
+		"name": "SUAQ GEURINGGENG"
 	},
 	{
 		"code": "11.01.02.2018",
 		"type": "desa",
-		"name": "PASI KUALA BAKU"
+		"name": "PASI KUALA BA'U"
 	},
 	{
 		"code": "11.01.02.2019",
@@ -167,12 +167,12 @@
 	{
 		"code": "11.01.03.2001",
 		"type": "desa",
-		"name": "SUAQ BAKONG"
+		"name": "SUAQ BAKUNG"
 	},
 	{
 		"code": "11.01.03.2002",
 		"type": "desa",
-		"name": "RANTAU BENUANG"
+		"name": "RANTAU BINUANG"
 	},
 	{
 		"code": "11.01.03.2003",
@@ -207,12 +207,12 @@
 	{
 		"code": "11.01.03.2009",
 		"type": "desa",
-		"name": "LUAR"
+		"name": "GAMPONG LUAR"
 	},
 	{
 		"code": "11.01.03.2010",
 		"type": "desa",
-		"name": "UJONG"
+		"name": "UJUNG"
 	},
 	{
 		"code": "11.01.03.2011",
@@ -237,7 +237,7 @@
 	{
 		"code": "11.01.03.2015",
 		"type": "desa",
-		"name": "PASIE LAMBANG"
+		"name": "PASIE LEMBANG"
 	},
 	{
 		"code": "11.01.03.2016",
@@ -262,7 +262,7 @@
 	{
 		"code": "11.01.04.2002",
 		"type": "desa",
-		"name": "PADANG BAKU"
+		"name": "PADANG BAKAU"
 	},
 	{
 		"code": "11.01.04.2003",
@@ -307,7 +307,7 @@
 	{
 		"code": "11.01.04.2011",
 		"type": "desa",
-		"name": "TENGOH PISANG"
+		"name": "TENGAH PISANG"
 	},
 	{
 		"code": "11.01.04.2012",
@@ -352,7 +352,7 @@
 	{
 		"code": "11.01.05.2003",
 		"type": "desa",
-		"name": "IE DINGIN"
+		"name": "IE DINGEN"
 	},
 	{
 		"code": "11.01.05.2004",
@@ -367,7 +367,7 @@
 	{
 		"code": "11.01.05.2006",
 		"type": "desa",
-		"name": "BUKET MAS"
+		"name": "BUKET MEUH"
 	},
 	{
 		"code": "11.01.05.2007",
@@ -397,7 +397,7 @@
 	{
 		"code": "11.01.05.2012",
 		"type": "desa",
-		"name": "ARON TUNGGAI"
+		"name": "ARUN TUNGGAI"
 	},
 	{
 		"code": "11.01.05.2013",
@@ -417,12 +417,12 @@
 	{
 		"code": "11.01.05.2016",
 		"type": "desa",
-		"name": "KEUDAI MEUKEK"
+		"name": "KEUDE MEUKEK"
 	},
 	{
 		"code": "11.01.05.2017",
 		"type": "desa",
-		"name": "KOTA BARO"
+		"name": "KUTA BARO"
 	},
 	{
 		"code": "11.01.05.2018",
@@ -442,7 +442,7 @@
 	{
 		"code": "11.01.05.2021",
 		"type": "desa",
-		"name": "ALUE MEUTUWAH"
+		"name": "ALUE MEUTUAH"
 	},
 	{
 		"code": "11.01.05.2022",
@@ -472,7 +472,7 @@
 	{
 		"code": "11.01.06.2003",
 		"type": "desa",
-		"name": "KUTA BARO"
+		"name": "KUTA BARU"
 	},
 	{
 		"code": "11.01.06.2004",
@@ -492,7 +492,7 @@
 	{
 		"code": "11.01.06.2007",
 		"type": "desa",
-		"name": "ALU SEUMIRAH"
+		"name": "ALUR SEUMERAH"
 	},
 	{
 		"code": "11.01.06.2008",
@@ -517,12 +517,12 @@
 	{
 		"code": "11.01.06.2012",
 		"type": "desa",
-		"name": "BATEE TUNGGAL"
+		"name": "BATEE TUNGGAI"
 	},
 	{
 		"code": "11.01.06.2013",
 		"type": "desa",
-		"name": "UJUNG TANOH"
+		"name": "UJUNG TANAH"
 	},
 	{
 		"code": "11.01.06.2014",
@@ -542,7 +542,7 @@
 	{
 		"code": "11.01.06.2017",
 		"type": "desa",
-		"name": "LUBUK KAYU"
+		"name": "LUBUK LAYU"
 	},
 	{
 		"code": "11.01.06.2018",
@@ -557,7 +557,7 @@
 	{
 		"code": "11.01.06.2020",
 		"type": "desa",
-		"name": "PAYO NANGGADANG"
+		"name": "PAYONAN GADANG"
 	},
 	{
 		"code": "11.01.06.2021",
@@ -637,12 +637,12 @@
 	{
 		"code": "11.01.07.2007",
 		"type": "desa",
-		"name": "TRIENG MEUDEURO BAROH"
+		"name": "TRIENG MEUDURO BAROH"
 	},
 	{
 		"code": "11.01.07.2008",
 		"type": "desa",
-		"name": "TRIENG MEUDEURO TUNONG"
+		"name": "TRIENG MEUDURO TUNONG"
 	},
 	{
 		"code": "11.01.07.2009",
@@ -717,7 +717,7 @@
 	{
 		"code": "11.01.08.2007",
 		"type": "desa",
-		"name": "PASAR TAPAKTUAN"
+		"name": "PASAR"
 	},
 	{
 		"code": "11.01.08.2008",
@@ -747,7 +747,7 @@
 	{
 		"code": "11.01.08.2013",
 		"type": "desa",
-		"name": "PANJU PLAN"
+		"name": "PANJUPIAN"
 	},
 	{
 		"code": "11.01.08.2014",
@@ -772,12 +772,12 @@
 	{
 		"code": "11.01.09.2001",
 		"type": "desa",
-		"name": "KEDE TRUMON"
+		"name": "KEUDE TRUMON"
 	},
 	{
 		"code": "11.01.09.2002",
 		"type": "desa",
-		"name": "UJUNG TANOH"
+		"name": "UJONG TANOH"
 	},
 	{
 		"code": "11.01.09.2003",
@@ -792,7 +792,7 @@
 	{
 		"code": "11.01.09.2005",
 		"type": "desa",
-		"name": "TEPIN TINGGI"
+		"name": "TUEPIN TINGGI"
 	},
 	{
 		"code": "11.01.09.2006",
@@ -813,6 +813,11 @@
 		"code": "11.01.09.2013",
 		"type": "desa",
 		"name": "RAKET"
+	},
+	{
+		"code": "11.01.09.2014",
+		"type": "desa",
+		"name": "GAMPONG TEUNGOH"
 	},
 	{
 		"code": "11.01.09.2015",
@@ -847,7 +852,7 @@
 	{
 		"code": "11.01.10.2004",
 		"type": "desa",
-		"name": "KAMPONG BARU"
+		"name": "KAMPUNG BARU"
 	},
 	{
 		"code": "11.01.10.2005",
@@ -857,7 +862,7 @@
 	{
 		"code": "11.01.10.2006",
 		"type": "desa",
-		"name": "PAYA TEUK"
+		"name": "PAYA ATEUK"
 	},
 	{
 		"code": "11.01.10.2007",
@@ -882,7 +887,7 @@
 	{
 		"code": "11.01.10.2011",
 		"type": "desa",
-		"name": "SEUNEBOK"
+		"name": "SEUNEUBOK"
 	},
 	{
 		"code": "11.01.10.2012",
@@ -912,7 +917,7 @@
 	{
 		"code": "11.01.10.2017",
 		"type": "desa",
-		"name": "PD. MACAN BRS"
+		"name": "GAMPONG BARO"
 	},
 	{
 		"code": "11.01.10.2018",
@@ -942,7 +947,7 @@
 	{
 		"code": "11.01.11.2001",
 		"type": "desa",
-		"name": "TENGOH PEULUMAT"
+		"name": "TENGAH PEULUMAT"
 	},
 	{
 		"code": "11.01.11.2002",
@@ -957,7 +962,7 @@
 	{
 		"code": "11.01.11.2004",
 		"type": "desa",
-		"name": "ALUR PEULUMAT"
+		"name": "AUR PEULUMAT"
 	},
 	{
 		"code": "11.01.11.2005",
@@ -1012,7 +1017,7 @@
 	{
 		"code": "11.01.12.2002",
 		"type": "desa",
-		"name": "TENGAH IBOH"
+		"name": "TEUNGOH IBOH"
 	},
 	{
 		"code": "11.01.12.2003",
@@ -1047,12 +1052,12 @@
 	{
 		"code": "11.01.12.2009",
 		"type": "desa",
-		"name": "SUAQ LOKAN"
+		"name": "SUAK LOKAN"
 	},
 	{
 		"code": "11.01.12.2010",
 		"type": "desa",
-		"name": "IKU LHUNG"
+		"name": "IKU LHUENG"
 	},
 	{
 		"code": "11.01.12.2011",
@@ -1087,17 +1092,17 @@
 	{
 		"code": "11.01.13.2001",
 		"type": "desa",
-		"name": "KOTO MANGGAMAT"
+		"name": "KOTO"
 	},
 	{
 		"code": "11.01.13.2002",
 		"type": "desa",
-		"name": "ALUR KEJRUN"
+		"name": "ALUR KEUJRUN"
 	},
 	{
 		"code": "11.01.13.2003",
 		"type": "desa",
-		"name": "JAMBO PAPEUN"
+		"name": "JAMBO PAPAN"
 	},
 	{
 		"code": "11.01.13.2004",
@@ -1142,12 +1147,12 @@
 	{
 		"code": "11.01.13.2012",
 		"type": "desa",
-		"name": "KAMPUNG TINGGI"
+		"name": "SIMPANG DUA"
 	},
 	{
 		"code": "11.01.13.2013",
 		"type": "desa",
-		"name": "RUAK"
+		"name": "SIMPANG TIGA"
 	},
 	{
 		"code": "11.01.14",
@@ -1207,7 +1212,7 @@
 	{
 		"code": "11.01.15.2001",
 		"type": "desa",
-		"name": "SEUBADEH"
+		"name": "PASIE SEUBADEH"
 	},
 	{
 		"code": "11.01.15.2002",
@@ -1233,11 +1238,6 @@
 		"code": "11.01.15.2006",
 		"type": "desa",
 		"name": "UJONG PULO CUT"
-	},
-	{
-		"code": "11.01.15.2007",
-		"type": "desa",
-		"name": "KAMPUNG BARU"
 	},
 	{
 		"code": "11.01.15.2008",
@@ -1267,7 +1267,7 @@
 	{
 		"code": "11.01.16.2008",
 		"type": "desa",
-		"name": "KAPAI SEUSAK"
+		"name": "KAPA SESAK"
 	},
 	{
 		"code": "11.01.16.2009",
@@ -1277,7 +1277,7 @@
 	{
 		"code": "11.01.16.2010",
 		"type": "desa",
-		"name": "SEUNEUBOK PSK."
+		"name": "SEUNEUBOK PUSAKA"
 	},
 	{
 		"code": "11.01.16.2011",
@@ -1287,7 +1287,7 @@
 	{
 		"code": "11.01.16.2012",
 		"type": "desa",
-		"name": "TITI POLEM"
+		"name": "TITI POBEN"
 	},
 	{
 		"code": "11.01.17",
@@ -1297,7 +1297,7 @@
 	{
 		"code": "11.01.17.2001",
 		"type": "desa",
-		"name": "BUKIT GADENG"
+		"name": "BUKET GADENG"
 	},
 	{
 		"code": "11.01.17.2002",
@@ -1322,12 +1322,12 @@
 	{
 		"code": "11.01.17.2006",
 		"type": "desa",
-		"name": "GUNONG CUT"
+		"name": "UJONG GUNONG CUT"
 	},
 	{
 		"code": "11.01.17.2007",
 		"type": "desa",
-		"name": "GUNONG RAYEUK"
+		"name": "UJONG GUNUNG RAYEUK"
 	},
 	{
 		"code": "11.01.17.2008",
@@ -1357,7 +1357,7 @@
 	{
 		"code": "11.01.18.2002",
 		"type": "desa",
-		"name": "GUNONG KAPO"
+		"name": "GUNONG KAPHO"
 	},
 	{
 		"code": "11.01.18.2003",
@@ -1412,7 +1412,7 @@
 	{
 		"code": "11.02.01.2001",
 		"type": "desa",
-		"name": "NGKEREN"
+		"name": "ENGKERAN"
 	},
 	{
 		"code": "11.02.01.2002",
@@ -1492,7 +1492,7 @@
 	{
 		"code": "11.02.01.2020",
 		"type": "desa",
-		"name": "LAWE LUMBANG INDAH"
+		"name": "LAWE LUBANG INDAH"
 	},
 	{
 		"code": "11.02.01.2021",
@@ -1507,7 +1507,7 @@
 	{
 		"code": "11.02.01.2023",
 		"type": "desa",
-		"name": "PULO NDADAP"
+		"name": "PULO NDAPDAP"
 	},
 	{
 		"code": "11.02.01.2024",
@@ -1532,12 +1532,12 @@
 	{
 		"code": "11.02.01.2028",
 		"type": "desa",
-		"name": "POLU GADUNG"
+		"name": "PULO GADUNG"
 	},
 	{
 		"code": "11.02.01.2029",
 		"type": "desa",
-		"name": "PASIKH PEKHEMATE"
+		"name": "PASIKH PEHKMATE"
 	},
 	{
 		"code": "11.02.01.2030",
@@ -1637,12 +1637,12 @@
 	{
 		"code": "11.02.02.2017",
 		"type": "desa",
-		"name": "LAWE TUA PUSAT"
+		"name": "LAWE TUA PERSATUAN"
 	},
 	{
 		"code": "11.02.02.2018",
 		"type": "desa",
-		"name": "KUTE SERKE"
+		"name": "LAWE SERKE"
 	},
 	{
 		"code": "11.02.02.2019",
@@ -1657,7 +1657,7 @@
 	{
 		"code": "11.02.02.2021",
 		"type": "desa",
-		"name": "EMIYA BATU DUA RATUS"
+		"name": "ENMIYA BATU DUA RATUS"
 	},
 	{
 		"code": "11.02.02.2022",
@@ -1687,12 +1687,12 @@
 	{
 		"code": "11.02.02.2027",
 		"type": "desa",
-		"name": "GAJAH MUSARA"
+		"name": "GELAH MUSARA"
 	},
 	{
 		"code": "11.02.02.2028",
 		"type": "desa",
-		"name": "MULIE DAMAI"
+		"name": "MULIE DAME"
 	},
 	{
 		"code": "11.02.02.2029",
@@ -1727,7 +1727,7 @@
 	{
 		"code": "11.02.02.2035",
 		"type": "desa",
-		"name": "KUTE DAUH NITENGGAU"
+		"name": "NDAUH NITENGGO"
 	},
 	{
 		"code": "11.02.03",
@@ -1777,12 +1777,12 @@
 	{
 		"code": "11.02.03.2014",
 		"type": "desa",
-		"name": "TERUTUNG PEYUNG HULU"
+		"name": "TERUTUNG PAYUNG HULU"
 	},
 	{
 		"code": "11.02.03.2015",
 		"type": "desa",
-		"name": "TERUTUNG PEYUNG HILIR"
+		"name": "TERUTUNG PAYUNG HILIR"
 	},
 	{
 		"code": "11.02.03.2016",
@@ -1832,12 +1832,12 @@
 	{
 		"code": "11.02.03.2027",
 		"type": "desa",
-		"name": "KUTE SARI"
+		"name": "KUTE SERI"
 	},
 	{
 		"code": "11.02.03.2028",
 		"type": "desa",
-		"name": "KUTE ANTARA"
+		"name": "KUTA ANTARA"
 	},
 	{
 		"code": "11.02.03.2029",
@@ -1857,7 +1857,7 @@
 	{
 		"code": "11.02.03.2034",
 		"type": "desa",
-		"name": "BIAK MULI BUKHU"
+		"name": "BIAK MULI BARU"
 	},
 	{
 		"code": "11.02.03.2035",
@@ -1987,7 +1987,7 @@
 	{
 		"code": "11.02.04.2017",
 		"type": "desa",
-		"name": "BATUM BLN BARU"
+		"name": "BATU MBULAN MBARU"
 	},
 	{
 		"code": "11.02.04.2018",
@@ -2007,17 +2007,17 @@
 	{
 		"code": "11.02.04.2021",
 		"type": "desa",
-		"name": "PERAPAT TITI PANJANG"
+		"name": "PEKHAPAT TITI PANJANG"
 	},
 	{
 		"code": "11.02.04.2022",
 		"type": "desa",
-		"name": "PERAPAT SEPAKAT"
+		"name": "PEKHAPAT SEPAKAT"
 	},
 	{
 		"code": "11.02.04.2023",
 		"type": "desa",
-		"name": "ALAS MEMANCAR"
+		"name": "ALAS MARANTCAR"
 	},
 	{
 		"code": "11.02.04.2024",
@@ -2037,7 +2037,7 @@
 	{
 		"code": "11.02.04.2027",
 		"type": "desa",
-		"name": "MBURUNG DATUK SEKHUDANE"
+		"name": "MBARUNG DATUK SAUDANE"
 	},
 	{
 		"code": "11.02.05",
@@ -2052,7 +2052,7 @@
 	{
 		"code": "11.02.05.2009",
 		"type": "desa",
-		"name": "KUTE PASIR"
+		"name": "KUTA PASIR"
 	},
 	{
 		"code": "11.02.05.2011",
@@ -2062,7 +2062,7 @@
 	{
 		"code": "11.02.05.2012",
 		"type": "desa",
-		"name": "KUTE TINGGI"
+		"name": "KUTA TINGGI"
 	},
 	{
 		"code": "11.02.05.2013",
@@ -2097,7 +2097,7 @@
 	{
 		"code": "11.02.05.2029",
 		"type": "desa",
-		"name": "DELEM MEGAKHAE"
+		"name": "DELENG MEGAKHE"
 	},
 	{
 		"code": "11.02.05.2030",
@@ -2117,7 +2117,7 @@
 	{
 		"code": "11.02.05.2033",
 		"type": "desa",
-		"name": "BATU MBERONG"
+		"name": "BATU MBEKHONG"
 	},
 	{
 		"code": "11.02.05.2034",
@@ -2132,7 +2132,7 @@
 	{
 		"code": "11.02.05.2036",
 		"type": "desa",
-		"name": "LAWE SEKEKHAH"
+		"name": "LAWE SEKERAH"
 	},
 	{
 		"code": "11.02.06",
@@ -2172,7 +2172,7 @@
 	{
 		"code": "11.02.06.2007",
 		"type": "desa",
-		"name": "LAWE DESKY TENGAH"
+		"name": "LAWE DESKY TONGAH"
 	},
 	{
 		"code": "11.02.06.2008",
@@ -2197,7 +2197,7 @@
 	{
 		"code": "11.02.06.2013",
 		"type": "desa",
-		"name": "PERDAMAIAN"
+		"name": "PARDAMEAN"
 	},
 	{
 		"code": "11.02.06.2014",
@@ -2237,7 +2237,7 @@
 	{
 		"code": "11.02.06.2026",
 		"type": "desa",
-		"name": "DESKY JAYA"
+		"name": "LAWE DESKY JAYA"
 	},
 	{
 		"code": "11.02.06.2027",
@@ -2267,12 +2267,12 @@
 	{
 		"code": "11.02.07.2004",
 		"type": "desa",
-		"name": "KUTA UJUNG"
+		"name": "KUTE UJUNG"
 	},
 	{
 		"code": "11.02.07.2005",
 		"type": "desa",
-		"name": "LAWE SETUL"
+		"name": "LAWE STUL"
 	},
 	{
 		"code": "11.02.07.2006",
@@ -2307,7 +2307,7 @@
 	{
 		"code": "11.02.07.2012",
 		"type": "desa",
-		"name": "SERI MUDA"
+		"name": "SRI MUDA"
 	},
 	{
 		"code": "11.02.07.2013",
@@ -2342,22 +2342,22 @@
 	{
 		"code": "11.02.07.2019",
 		"type": "desa",
-		"name": "TANJUNG MBAKHU"
+		"name": "TANJUNG BAKHU"
 	},
 	{
 		"code": "11.02.07.2020",
 		"type": "desa",
-		"name": "PULO GADUNG"
+		"name": "PULO GABUNG"
 	},
 	{
 		"code": "11.02.07.2021",
 		"type": "desa",
-		"name": "KOKTHAN JAYA"
+		"name": "KOKHTAN JAYA"
 	},
 	{
 		"code": "11.02.07.2022",
 		"type": "desa",
-		"name": "ISTIKAMAH"
+		"name": "ISTIQAMAH"
 	},
 	{
 		"code": "11.02.07.2023",
@@ -2372,7 +2372,7 @@
 	{
 		"code": "11.02.07.2025",
 		"type": "desa",
-		"name": "SIMPANG EMPAT TANJUNG"
+		"name": "SIMPANG IV TANJUNG"
 	},
 	{
 		"code": "11.02.07.2026",
@@ -2407,7 +2407,7 @@
 	{
 		"code": "11.02.08.2003",
 		"type": "desa",
-		"name": "KUTEM BARU"
+		"name": "KUTAMBARU"
 	},
 	{
 		"code": "11.02.08.2004",
@@ -2457,7 +2457,7 @@
 	{
 		"code": "11.02.08.2017",
 		"type": "desa",
-		"name": "KATEMBARU BENCAWAN"
+		"name": "KATAMBARU BECAWAN"
 	},
 	{
 		"code": "11.02.08.2018",
@@ -2467,7 +2467,7 @@
 	{
 		"code": "11.02.08.2019",
 		"type": "desa",
-		"name": "KD. MBELANG MANDIRI"
+		"name": "KANDANG MBELANG MANDIRI"
 	},
 	{
 		"code": "11.02.08.2020",
@@ -2502,7 +2502,7 @@
 	{
 		"code": "11.02.08.2028",
 		"type": "desa",
-		"name": "PEKHAPAT TIMUR"
+		"name": "PEKHAPET TIMUR"
 	},
 	{
 		"code": "11.02.08.2029",
@@ -2512,7 +2512,7 @@
 	{
 		"code": "11.02.08.2030",
 		"type": "desa",
-		"name": "KUTA GALUH ASLI"
+		"name": "KUTE GALUH ASLI"
 	},
 	{
 		"code": "11.02.09",
@@ -2627,7 +2627,7 @@
 	{
 		"code": "11.02.09.2023",
 		"type": "desa",
-		"name": "BUKIT BUR-II"
+		"name": "RIKIT BUR II"
 	},
 	{
 		"code": "11.02.09.2024",
@@ -2672,7 +2672,7 @@
 	{
 		"code": "11.02.10.2007",
 		"type": "desa",
-		"name": "LAAWE BERIGIN HORAS"
+		"name": "LAWE BERINGIN HORAS"
 	},
 	{
 		"code": "11.02.10.2008",
@@ -2697,7 +2697,7 @@
 	{
 		"code": "11.02.10.2012",
 		"type": "desa",
-		"name": "LAWE PETANDUK"
+		"name": "LAWE PETANDUK I"
 	},
 	{
 		"code": "11.02.10.2013",
@@ -2722,12 +2722,12 @@
 	{
 		"code": "11.02.10.2017",
 		"type": "desa",
-		"name": "LAWE KINGE"
+		"name": "LAWE KINGE LAPTER"
 	},
 	{
 		"code": "11.02.10.2018",
 		"type": "desa",
-		"name": "LAWE MEJILAI"
+		"name": "LAWE MEJILE"
 	},
 	{
 		"code": "11.02.10.2019",
@@ -2762,7 +2762,7 @@
 	{
 		"code": "11.02.11.2008",
 		"type": "desa",
-		"name": "PERDAMAIAN"
+		"name": "PARDAMAIAN"
 	},
 	{
 		"code": "11.02.11.2009",
@@ -2802,7 +2802,7 @@
 	{
 		"code": "11.02.11.2016",
 		"type": "desa",
-		"name": "LUMBAN SITIO"
+		"name": "LUMBAN SITIO-TIO"
 	},
 	{
 		"code": "11.02.11.2017",
@@ -2817,7 +2817,7 @@
 	{
 		"code": "11.02.11.2019",
 		"type": "desa",
-		"name": "LINGGE ALAS"
+		"name": "LINGGA ALAS"
 	},
 	{
 		"code": "11.02.11.2020",
@@ -2842,7 +2842,7 @@
 	{
 		"code": "11.02.11.2024",
 		"type": "desa",
-		"name": "SEPEKHIDING"
+		"name": "SEPEKHINDING"
 	},
 	{
 		"code": "11.02.11.2025",
@@ -2922,7 +2922,7 @@
 	{
 		"code": "11.02.12.2009",
 		"type": "desa",
-		"name": "PENYEB. CINGKAM"
+		"name": "PENYEBERANGAN CINGKAM"
 	},
 	{
 		"code": "11.02.12.2010",
@@ -2937,12 +2937,12 @@
 	{
 		"code": "11.02.12.2012",
 		"type": "desa",
-		"name": "SUKARIMBUN"
+		"name": "SUKA RIMBUN"
 	},
 	{
 		"code": "11.02.12.2013",
 		"type": "desa",
-		"name": "LAWE AUNEN"
+		"name": "LAWE AUNAN"
 	},
 	{
 		"code": "11.02.12.2014",
@@ -2952,7 +2952,7 @@
 	{
 		"code": "11.02.12.2015",
 		"type": "desa",
-		"name": "PENUNGKENEN"
+		"name": "PENUNGKUNEN"
 	},
 	{
 		"code": "11.02.12.2016",
@@ -2977,12 +2977,12 @@
 	{
 		"code": "11.02.12.2020",
 		"type": "desa",
-		"name": "BUKET MBAKHU"
+		"name": "BUKIT MBAKHU"
 	},
 	{
 		"code": "11.02.12.2021",
 		"type": "desa",
-		"name": "KAYU MENTANGUR"
+		"name": "KAYU METANGUR"
 	},
 	{
 		"code": "11.02.12.2022",
@@ -2992,7 +2992,7 @@
 	{
 		"code": "11.02.12.2023",
 		"type": "desa",
-		"name": "LAWE BEKHINGIN"
+		"name": "LAWE BERINGIN"
 	},
 	{
 		"code": "11.02.12.2024",
@@ -3017,7 +3017,7 @@
 	{
 		"code": "11.02.13.2002",
 		"type": "desa",
-		"name": "RANTA DIOR"
+		"name": "RANTO DIOR"
 	},
 	{
 		"code": "11.02.13.2003",
@@ -3047,7 +3047,7 @@
 	{
 		"code": "11.02.13.2008",
 		"type": "desa",
-		"name": "KAYU PANGOR"
+		"name": "KAYA PANGUR"
 	},
 	{
 		"code": "11.02.13.2009",
@@ -3092,7 +3092,7 @@
 	{
 		"code": "11.02.13.2017",
 		"type": "desa",
-		"name": "TADING NIULIHI"
+		"name": "TADING NI ULIHI"
 	},
 	{
 		"code": "11.02.13.2018",
@@ -3152,7 +3152,7 @@
 	{
 		"code": "11.02.14.2006",
 		"type": "desa",
-		"name": "KUTA LESUNG"
+		"name": "KUTE LESUNG"
 	},
 	{
 		"code": "11.02.14.2007",
@@ -3172,17 +3172,17 @@
 	{
 		"code": "11.02.14.2010",
 		"type": "desa",
-		"name": "PENOSAN"
+		"name": "PANOSAN"
 	},
 	{
 		"code": "11.02.14.2011",
 		"type": "desa",
-		"name": "TENGKU MBELIM"
+		"name": "LAWE PASARAN TENGKU MBELIN"
 	},
 	{
 		"code": "11.02.14.2012",
 		"type": "desa",
-		"name": "MEGAKHE BAKHU"
+		"name": "TERUTUNG MEGAHKE MBAKHU"
 	},
 	{
 		"code": "11.02.14.2013",
@@ -3192,7 +3192,7 @@
 	{
 		"code": "11.02.14.2014",
 		"type": "desa",
-		"name": "KISAM KUE KHAMBE"
+		"name": "KISAM KUTE RAMBE"
 	},
 	{
 		"code": "11.02.14.2015",
@@ -3202,7 +3202,7 @@
 	{
 		"code": "11.02.14.2016",
 		"type": "desa",
-		"name": "LAWE SEMUKH SEPAKAT"
+		"name": "LAWES SUMUR SEPAKAT"
 	},
 	{
 		"code": "11.02.14.2017",
@@ -3222,7 +3222,7 @@
 	{
 		"code": "11.02.15.2001",
 		"type": "desa",
-		"name": "SALIM PINIM"
+		"name": "SALIM PINIM I"
 	},
 	{
 		"code": "11.02.15.2002",
@@ -3272,7 +3272,7 @@
 	{
 		"code": "11.02.15.2012",
 		"type": "desa",
-		"name": "TIMANG KHASE"
+		"name": "TIMANG RASA"
 	},
 	{
 		"code": "11.02.15.2013",
@@ -3282,12 +3282,12 @@
 	{
 		"code": "11.02.15.2014",
 		"type": "desa",
-		"name": "ALUKH NANGKE"
+		"name": "ALUR NANGKE"
 	},
 	{
 		"code": "11.02.15.2015",
 		"type": "desa",
-		"name": "MEJILE"
+		"name": "KUTE MEJILE"
 	},
 	{
 		"code": "11.02.16",
@@ -3302,7 +3302,7 @@
 	{
 		"code": "11.02.16.2002",
 		"type": "desa",
-		"name": "BUKIT BINTANG INDAH"
+		"name": "BINTANG BUKIT INDAH"
 	},
 	{
 		"code": "11.02.16.2003",
@@ -3312,7 +3312,7 @@
 	{
 		"code": "11.02.16.2004",
 		"type": "desa",
-		"name": "BUNBUN ALAS"
+		"name": "BUN-BUN ALAS"
 	},
 	{
 		"code": "11.02.16.2005",
@@ -3327,7 +3327,7 @@
 	{
 		"code": "11.02.16.2007",
 		"type": "desa",
-		"name": "BUKIT MEKHIAH"
+		"name": "BUKIT MERIAH"
 	},
 	{
 		"code": "11.02.16.2008",
@@ -3352,7 +3352,7 @@
 	{
 		"code": "11.02.16.2012",
 		"type": "desa",
-		"name": "BUNBUN INDAH WAR"
+		"name": "BUNBUN INDAH"
 	},
 	{
 		"code": "11.02.16.2013",
@@ -3362,7 +3362,7 @@
 	{
 		"code": "11.02.16.2014",
 		"type": "desa",
-		"name": "TANAH KHEKHINE"
+		"name": "TUAH KEKHINE"
 	},
 	{
 		"code": "11.02.16.2015",
@@ -3397,7 +3397,7 @@
 	{
 		"code": "11.02.16.2021",
 		"type": "desa",
-		"name": "HAKHAPEN"
+		"name": "KUTE HAKHAPEN"
 	},
 	{
 		"code": "11.02.16.2022",
@@ -3537,7 +3537,7 @@
 	{
 		"code": "11.03.01.2024",
 		"type": "desa",
-		"name": "MATANG GEUTOU"
+		"name": "MATANG GEUTO"
 	},
 	{
 		"code": "11.03.01.2025",
@@ -3767,7 +3767,7 @@
 	{
 		"code": "11.03.02.2024",
 		"type": "desa",
-		"name": "BUKET SEURAJA"
+		"name": "BUKIT SEROJA"
 	},
 	{
 		"code": "11.03.02.2025",
@@ -4007,12 +4007,12 @@
 	{
 		"code": "11.03.03.2065",
 		"type": "desa",
-		"name": "SEUNEBOKTEUNGOH P PUNTONG"
+		"name": "SEUNEUBOKTEUNGOH P.PUNTONG"
 	},
 	{
 		"code": "11.03.03.2067",
 		"type": "desa",
-		"name": "MATANG RAYEUK KUTA LAWAH"
+		"name": "KUTA LAWAH"
 	},
 	{
 		"code": "11.03.04",
@@ -4047,7 +4047,7 @@
 	{
 		"code": "11.03.04.2006",
 		"type": "desa",
-		"name": "AFDELING II BUKIT"
+		"name": "AFELING II BUKIT"
 	},
 	{
 		"code": "11.03.04.2007",
@@ -4132,12 +4132,12 @@
 	{
 		"code": "11.03.04.2023",
 		"type": "desa",
-		"name": "ALUE GADENG GP"
+		"name": "ALUE GADENG"
 	},
 	{
 		"code": "11.03.04.2024",
 		"type": "desa",
-		"name": "ALUE GADENG II"
+		"name": "ALUE GADENG DUA"
 	},
 	{
 		"code": "11.03.04.2025",
@@ -4152,7 +4152,7 @@
 	{
 		"code": "11.03.04.2027",
 		"type": "desa",
-		"name": "ALUE NYAMUK"
+		"name": "ALUE NYAMOEK"
 	},
 	{
 		"code": "11.03.05",
@@ -4202,7 +4202,7 @@
 	{
 		"code": "11.03.05.2009",
 		"type": "desa",
-		"name": "SEKUALAN"
+		"name": "SEKU ALAN"
 	},
 	{
 		"code": "11.03.05.2010",
@@ -4257,7 +4257,7 @@
 	{
 		"code": "11.03.06.2002",
 		"type": "desa",
-		"name": "GAMPONG KEUDE BAGOK DUA"
+		"name": "KEUDE BAGOK DUA"
 	},
 	{
 		"code": "11.03.06.2003",
@@ -4582,7 +4582,7 @@
 	{
 		"code": "11.03.07.2035",
 		"type": "desa",
-		"name": "MATANG PELAWI"
+		"name": "MATANG PEULAWI"
 	},
 	{
 		"code": "11.03.07.2036",
@@ -4667,7 +4667,7 @@
 	{
 		"code": "11.03.08.2013",
 		"type": "desa",
-		"name": "SARAH TAUBE"
+		"name": "SARAH TEUBE"
 	},
 	{
 		"code": "11.03.08.2014",
@@ -4737,7 +4737,7 @@
 	{
 		"code": "11.03.09.2013",
 		"type": "desa",
-		"name": "PUCOK ALUE II"
+		"name": "PUCOK ALUE DUA"
 	},
 	{
 		"code": "11.03.09.2014",
@@ -4767,7 +4767,7 @@
 	{
 		"code": "11.03.09.2019",
 		"type": "desa",
-		"name": "TITI BAREUH"
+		"name": "TITI BAROH"
 	},
 	{
 		"code": "11.03.09.2020",
@@ -5057,12 +5057,12 @@
 	{
 		"code": "11.03.12.2002",
 		"type": "desa",
-		"name": "MATANG KUPULA SA"
+		"name": "MATANG KEUPULA SA"
 	},
 	{
 		"code": "11.03.12.2003",
 		"type": "desa",
-		"name": "MATANG KUPULA DUA"
+		"name": "MATANG KEUPULA DUA"
 	},
 	{
 		"code": "11.03.12.2004",
@@ -5142,7 +5142,7 @@
 	{
 		"code": "11.03.12.2019",
 		"type": "desa",
-		"name": "TANJONG MINJEY"
+		"name": "TANJONG MINJEI"
 	},
 	{
 		"code": "11.03.12.2020",
@@ -5277,7 +5277,7 @@
 	{
 		"code": "11.03.14.2005",
 		"type": "desa",
-		"name": "GAMPONG TEUPIN PANAH"
+		"name": "TEUPIN PANAH"
 	},
 	{
 		"code": "11.03.14.2006",
@@ -5572,7 +5572,7 @@
 	{
 		"code": "11.03.17.2003",
 		"type": "desa",
-		"name": "JEUNGKI"
+		"name": "JENGKI"
 	},
 	{
 		"code": "11.03.17.2004",
@@ -5647,7 +5647,7 @@
 	{
 		"code": "11.03.17.2018",
 		"type": "desa",
-		"name": "GEULANGGANG MEURAK"
+		"name": "GELANGGANG MEURAK"
 	},
 	{
 		"code": "11.03.17.2019",
@@ -6012,7 +6012,7 @@
 	{
 		"code": "11.03.23.2002",
 		"type": "desa",
-		"name": "MATANG REYEUK PP"
+		"name": "MATANG RAYEUK PP"
 	},
 	{
 		"code": "11.03.23.2003",
@@ -6052,7 +6052,7 @@
 	{
 		"code": "11.03.23.2010",
 		"type": "desa",
-		"name": "SEUNEUBOK TIMUR"
+		"name": "SEUNEUBOK TIMU"
 	},
 	{
 		"code": "11.03.23.2011",
@@ -6062,7 +6062,7 @@
 	{
 		"code": "11.03.23.2012",
 		"type": "desa",
-		"name": "MATANG RAYEUK"
+		"name": "MATANG RAYEUK SMK"
 	},
 	{
 		"code": "11.03.23.2013",
@@ -6287,7 +6287,7 @@
 	{
 		"code": "11.04.02.2010",
 		"type": "desa",
-		"name": "MUTIARA"
+		"name": "SEMELIT MUTIARA"
 	},
 	{
 		"code": "11.04.02.2012",
@@ -6297,7 +6297,7 @@
 	{
 		"code": "11.04.02.2013",
 		"type": "desa",
-		"name": "WIHNI NIBAKONG"
+		"name": "WIH BAKONG"
 	},
 	{
 		"code": "11.04.02.2014",
@@ -6387,7 +6387,7 @@
 	{
 		"code": "11.04.02.2037",
 		"type": "desa",
-		"name": "WIHBERSIH"
+		"name": "WIH BERSIH"
 	},
 	{
 		"code": "11.04.02.2038",
@@ -6437,7 +6437,7 @@
 	{
 		"code": "11.04.03.2005",
 		"type": "desa",
-		"name": "TENSAREN"
+		"name": "TENSARAN"
 	},
 	{
 		"code": "11.04.03.2006",
@@ -6482,7 +6482,7 @@
 	{
 		"code": "11.04.03.2014",
 		"type": "desa",
-		"name": "KERAMAT MUFAKAT"
+		"name": "KERAMAT MUPAKAT"
 	},
 	{
 		"code": "11.04.03.2015",
@@ -6577,7 +6577,7 @@
 	{
 		"code": "11.04.07.2009",
 		"type": "desa",
-		"name": "IE RELOP"
+		"name": "IE REULOP"
 	},
 	{
 		"code": "11.04.07.2010",
@@ -6662,7 +6662,7 @@
 	{
 		"code": "11.04.07.2032",
 		"type": "desa",
-		"name": "JEJEN"
+		"name": "JEJEM"
 	},
 	{
 		"code": "11.04.07.2033",
@@ -6677,7 +6677,7 @@
 	{
 		"code": "11.04.07.2035",
 		"type": "desa",
-		"name": "LINU AYU"
+		"name": "LINUNG AYU"
 	},
 	{
 		"code": "11.04.07.2036",
@@ -6692,12 +6692,12 @@
 	{
 		"code": "11.04.07.2038",
 		"type": "desa",
-		"name": "WIHTERJUN"
+		"name": "WIH TERJUN"
 	},
 	{
 		"code": "11.04.07.2039",
 		"type": "desa",
-		"name": "BLANG BEBANGKA"
+		"name": "BELANG BEBANGKA"
 	},
 	{
 		"code": "11.04.07.2040",
@@ -6852,7 +6852,7 @@
 	{
 		"code": "11.04.10.2002",
 		"type": "desa",
-		"name": "BELANG MANCUNG"
+		"name": "BLANG MANCUNG"
 	},
 	{
 		"code": "11.04.10.2003",
@@ -7027,7 +7027,7 @@
 	{
 		"code": "11.04.11.2011",
 		"type": "desa",
-		"name": "BUKIT IWIH TAMI DELEM"
+		"name": "BUKIT EWIH TAMI DELEM"
 	},
 	{
 		"code": "11.04.11.2012",
@@ -7117,7 +7117,7 @@
 	{
 		"code": "11.04.12.2008",
 		"type": "desa",
-		"name": "RATA WALI"
+		"name": "RATAWALI"
 	},
 	{
 		"code": "11.04.12.2009",
@@ -7172,7 +7172,7 @@
 	{
 		"code": "11.04.12.2019",
 		"type": "desa",
-		"name": "WIH NONGKAL TUA"
+		"name": "WIH NONGKAL TOA"
 	},
 	{
 		"code": "11.04.12.2020",
@@ -7477,7 +7477,7 @@
 	{
 		"code": "11.04.19.2006",
 		"type": "desa",
-		"name": "PAYA TUGEL"
+		"name": "PAYA TUNGEL"
 	},
 	{
 		"code": "11.04.19.2007",
@@ -7507,7 +7507,7 @@
 	{
 		"code": "11.04.20.2001",
 		"type": "desa",
-		"name": "BIES PENANTANAN"
+		"name": "BIES PENENTANAN"
 	},
 	{
 		"code": "11.04.20.2002",
@@ -7522,7 +7522,7 @@
 	{
 		"code": "11.04.20.2004",
 		"type": "desa",
-		"name": "ARUL LATONG"
+		"name": "ARU LATONG"
 	},
 	{
 		"code": "11.04.20.2005",
@@ -7632,7 +7632,7 @@
 	{
 		"code": "11.04.21.2013",
 		"type": "desa",
-		"name": "MARANDIH PAYA"
+		"name": "MERANDEH PAYA"
 	},
 	{
 		"code": "11.04.21.2014",
@@ -7697,7 +7697,7 @@
 	{
 		"code": "11.05.01.2008",
 		"type": "desa",
-		"name": "KAMPUNG PASIR"
+		"name": "PASIR"
 	},
 	{
 		"code": "11.05.01.2009",
@@ -7727,7 +7727,7 @@
 	{
 		"code": "11.05.01.2014",
 		"type": "desa",
-		"name": "GAMPONG GAMPA"
+		"name": "GAMPA"
 	},
 	{
 		"code": "11.05.01.2015",
@@ -8182,7 +8182,7 @@
 	{
 		"code": "11.05.04.2019",
 		"type": "desa",
-		"name": "BLANG ME"
+		"name": "BLANG MEE"
 	},
 	{
 		"code": "11.05.04.2020",
@@ -8352,7 +8352,7 @@
 	{
 		"code": "11.05.05.2009",
 		"type": "desa",
-		"name": "DEAH"
+		"name": "DEUAH"
 	},
 	{
 		"code": "11.05.05.2010",
@@ -8557,7 +8557,7 @@
 	{
 		"code": "11.05.06.2017",
 		"type": "desa",
-		"name": "ULAI BLANG"
+		"name": "ULEE BLANG"
 	},
 	{
 		"code": "11.05.07",
@@ -8647,12 +8647,12 @@
 	{
 		"code": "11.05.07.2017",
 		"type": "desa",
-		"name": "SUAK KEUMUDAI"
+		"name": "SUAK KEUMUDEE"
 	},
 	{
 		"code": "11.05.07.2018",
 		"type": "desa",
-		"name": "SEUNE. LHONG"
+		"name": "SEUNEUBOK LHONG"
 	},
 	{
 		"code": "11.05.07.2019",
@@ -8672,7 +8672,7 @@
 	{
 		"code": "11.05.07.2022",
 		"type": "desa",
-		"name": "SEUN. TEUNGOH"
+		"name": "SEUNEUBOK TEUNGOH"
 	},
 	{
 		"code": "11.05.07.2023",
@@ -8737,7 +8737,7 @@
 	{
 		"code": "11.05.08.2007",
 		"type": "desa",
-		"name": "LANGSO"
+		"name": "LANGO"
 	},
 	{
 		"code": "11.05.08.2008",
@@ -8752,7 +8752,7 @@
 	{
 		"code": "11.05.08.2010",
 		"type": "desa",
-		"name": "CANGGEI"
+		"name": "CANGGAI"
 	},
 	{
 		"code": "11.05.08.2011",
@@ -8772,7 +8772,7 @@
 	{
 		"code": "11.05.08.2014",
 		"type": "desa",
-		"name": "PULO TEUNGOH MANYANG"
+		"name": "PULO TEUNGOH MANJENG"
 	},
 	{
 		"code": "11.05.08.2015",
@@ -9077,7 +9077,7 @@
 	{
 		"code": "11.05.10.2022",
 		"type": "desa",
-		"name": "PASI PANAH"
+		"name": "PASI PANYANG"
 	},
 	{
 		"code": "11.05.10.2023",
@@ -9137,7 +9137,7 @@
 	{
 		"code": "11.05.11.2009",
 		"type": "desa",
-		"name": "ALUE EMPEK"
+		"name": "ALUE EUMPEUK"
 	},
 	{
 		"code": "11.05.11.2010",
@@ -9177,7 +9177,7 @@
 	{
 		"code": "11.05.11.2017",
 		"type": "desa",
-		"name": "BLANG MAKMU"
+		"name": "BLANG MAKMUE"
 	},
 	{
 		"code": "11.05.11.2018",
@@ -9202,7 +9202,7 @@
 	{
 		"code": "11.05.11.2022",
 		"type": "desa",
-		"name": "TUWI EMPEK"
+		"name": "TUWI EUMPEUK"
 	},
 	{
 		"code": "11.05.11.2023",
@@ -9217,7 +9217,7 @@
 	{
 		"code": "11.05.11.2025",
 		"type": "desa",
-		"name": "GAYO MEUGENDERANG"
+		"name": "PAYA MEUGENDERANG"
 	},
 	{
 		"code": "11.05.11.2026",
@@ -9267,7 +9267,7 @@
 	{
 		"code": "11.05.12.2008",
 		"type": "desa",
-		"name": "UJONG RAYA"
+		"name": "UJONG RAJA"
 	},
 	{
 		"code": "11.05.12.2009",
@@ -9292,7 +9292,7 @@
 	{
 		"code": "11.05.12.2013",
 		"type": "desa",
-		"name": "KP. BARO"
+		"name": "GAMPONG BARO"
 	},
 	{
 		"code": "11.05.12.2014",
@@ -9357,7 +9357,7 @@
 	{
 		"code": "11.06.01.2005",
 		"type": "desa",
-		"name": "SENGKO MEULAT"
+		"name": "SUNGKO MULAT"
 	},
 	{
 		"code": "11.06.01.2006",
@@ -9382,7 +9382,7 @@
 	{
 		"code": "11.06.01.2010",
 		"type": "desa",
-		"name": "LAM KUTA BLANG MEE"
+		"name": "LAMKUTA BLANG MEE"
 	},
 	{
 		"code": "11.06.01.2011",
@@ -9392,7 +9392,7 @@
 	{
 		"code": "11.06.01.2012",
 		"type": "desa",
-		"name": "UMONG SEUREBEE"
+		"name": "UMONG SEURIBEE"
 	},
 	{
 		"code": "11.06.01.2013",
@@ -9402,7 +9402,7 @@
 	{
 		"code": "11.06.01.2014",
 		"type": "desa",
-		"name": "BAROH GENTEUT"
+		"name": "BAROH GEUNTEUT"
 	},
 	{
 		"code": "11.06.01.2015",
@@ -9422,7 +9422,7 @@
 	{
 		"code": "11.06.01.2018",
 		"type": "desa",
-		"name": "LAM SUJEN"
+		"name": "LAMSUJEN"
 	},
 	{
 		"code": "11.06.01.2019",
@@ -9432,7 +9432,7 @@
 	{
 		"code": "11.06.01.2020",
 		"type": "desa",
-		"name": "LAM GRIHEU"
+		"name": "LAMGEURIHEU"
 	},
 	{
 		"code": "11.06.01.2021",
@@ -9447,7 +9447,7 @@
 	{
 		"code": "11.06.01.2023",
 		"type": "desa",
-		"name": "CUNDIN"
+		"name": "CUNDIEN"
 	},
 	{
 		"code": "11.06.01.2024",
@@ -9457,7 +9457,7 @@
 	{
 		"code": "11.06.01.2025",
 		"type": "desa",
-		"name": "PASIE"
+		"name": "PASI"
 	},
 	{
 		"code": "11.06.01.2026",
@@ -9467,7 +9467,7 @@
 	{
 		"code": "11.06.01.2027",
 		"type": "desa",
-		"name": "COT"
+		"name": "MEUNASAH COT"
 	},
 	{
 		"code": "11.06.01.2028",
@@ -9497,12 +9497,12 @@
 	{
 		"code": "11.06.02.2004",
 		"type": "desa",
-		"name": "LAM KRUET"
+		"name": "LAMKRUT"
 	},
 	{
 		"code": "11.06.02.2005",
 		"type": "desa",
-		"name": "LAM GABOH"
+		"name": "LAMGABOH"
 	},
 	{
 		"code": "11.06.02.2006",
@@ -9527,7 +9527,7 @@
 	{
 		"code": "11.06.02.2010",
 		"type": "desa",
-		"name": "ATEUK PAYA"
+		"name": "ANEUK PAYA"
 	},
 	{
 		"code": "11.06.02.2011",
@@ -9577,7 +9577,7 @@
 	{
 		"code": "11.06.02.2020",
 		"type": "desa",
-		"name": "MEUNASAH BARO LAM PUUK"
+		"name": "MEUNASAH LAMBARO"
 	},
 	{
 		"code": "11.06.02.2021",
@@ -9592,12 +9592,12 @@
 	{
 		"code": "11.06.02.2023",
 		"type": "desa",
-		"name": "MNSH MESJID LAM PUUK"
+		"name": "MNS. MESJID LAMPUUK"
 	},
 	{
 		"code": "11.06.02.2024",
 		"type": "desa",
-		"name": "MEUNASAH BALEE LAMLHOM"
+		"name": "MEUNASAH BELEE"
 	},
 	{
 		"code": "11.06.02.2025",
@@ -9607,7 +9607,7 @@
 	{
 		"code": "11.06.02.2026",
 		"type": "desa",
-		"name": "LAM COK"
+		"name": "LAMCOK"
 	},
 	{
 		"code": "11.06.02.2027",
@@ -9642,7 +9642,7 @@
 	{
 		"code": "11.06.03.2004",
 		"type": "desa",
-		"name": "AMPEE ARA"
+		"name": "EMPEE ARA"
 	},
 	{
 		"code": "11.06.03.2005",
@@ -9657,17 +9657,17 @@
 	{
 		"code": "11.06.03.2007",
 		"type": "desa",
-		"name": "LIMO LAM LEUWEUNG"
+		"name": "LIMO LAMLEUWEUNG"
 	},
 	{
 		"code": "11.06.03.2008",
 		"type": "desa",
-		"name": "LHEU"
+		"name": "LHEUE"
 	},
 	{
 		"code": "11.06.03.2009",
 		"type": "desa",
-		"name": "MEUSALE LHOK"
+		"name": "MEUSALE"
 	},
 	{
 		"code": "11.06.03.2010",
@@ -9682,17 +9682,17 @@
 	{
 		"code": "11.06.03.2012",
 		"type": "desa",
-		"name": "LAM LUENG"
+		"name": "LAMLUNG"
 	},
 	{
 		"code": "11.06.03.2013",
 		"type": "desa",
-		"name": "MUREU ULEE TITI"
+		"name": "MEUREU ULEE TITIE"
 	},
 	{
 		"code": "11.06.03.2014",
 		"type": "desa",
-		"name": "MUREU BUNG UE"
+		"name": "MEUREU BUENG-U"
 	},
 	{
 		"code": "11.06.03.2015",
@@ -9702,7 +9702,7 @@
 	{
 		"code": "11.06.03.2016",
 		"type": "desa",
-		"name": "MUREU L. GLUMPANG"
+		"name": "MEUREU LAMGLUMPANG"
 	},
 	{
 		"code": "11.06.03.2017",
@@ -9717,7 +9717,7 @@
 	{
 		"code": "11.06.03.2019",
 		"type": "desa",
-		"name": "REUKIH KEUPULA"
+		"name": "REUKIH KUPULA"
 	},
 	{
 		"code": "11.06.03.2020",
@@ -9727,7 +9727,7 @@
 	{
 		"code": "11.06.03.2021",
 		"type": "desa",
-		"name": "LAM ILIE TEUNGOH"
+		"name": "LAM ILIE TENGOH"
 	},
 	{
 		"code": "11.06.03.2022",
@@ -9747,7 +9747,7 @@
 	{
 		"code": "11.06.03.2025",
 		"type": "desa",
-		"name": "KRUENG LAM KAREUNG"
+		"name": "KRUENG LAMKAREUNG"
 	},
 	{
 		"code": "11.06.03.2026",
@@ -9767,7 +9767,7 @@
 	{
 		"code": "11.06.03.2029",
 		"type": "desa",
-		"name": "LAM BEUTONG"
+		"name": "LAMBEUTONG"
 	},
 	{
 		"code": "11.06.03.2030",
@@ -9777,7 +9777,7 @@
 	{
 		"code": "11.06.03.2031",
 		"type": "desa",
-		"name": "LAMPUPOK RAYA"
+		"name": "LAMPUPUK RAYA"
 	},
 	{
 		"code": "11.06.03.2032",
@@ -9787,7 +9787,7 @@
 	{
 		"code": "11.06.03.2033",
 		"type": "desa",
-		"name": "RITIENG"
+		"name": "RITING"
 	},
 	{
 		"code": "11.06.03.2034",
@@ -9827,7 +9827,7 @@
 	{
 		"code": "11.06.03.2041",
 		"type": "desa",
-		"name": "LAMPANAH BAROH"
+		"name": "LAMPANAH BARO"
 	},
 	{
 		"code": "11.06.03.2042",
@@ -9842,7 +9842,7 @@
 	{
 		"code": "11.06.03.2044",
 		"type": "desa",
-		"name": "GROET MAYANG"
+		"name": "GROET MANYANG"
 	},
 	{
 		"code": "11.06.03.2045",
@@ -9857,7 +9857,7 @@
 	{
 		"code": "11.06.03.2047",
 		"type": "desa",
-		"name": "JRUK BALEE"
+		"name": "JRUEK BALEE"
 	},
 	{
 		"code": "11.06.03.2049",
@@ -9867,17 +9867,17 @@
 	{
 		"code": "11.06.03.2050",
 		"type": "desa",
-		"name": "LAMBUNOT"
+		"name": "LAMBEUNOT"
 	},
 	{
 		"code": "11.06.03.2051",
 		"type": "desa",
-		"name": "ULEE OE"
+		"name": "ULEE UE"
 	},
 	{
 		"code": "11.06.03.2052",
 		"type": "desa",
-		"name": "LAMSEOT"
+		"name": "LAMSIOT"
 	},
 	{
 		"code": "11.06.03.2053",
@@ -9892,7 +9892,7 @@
 	{
 		"code": "11.06.04.2001",
 		"type": "desa",
-		"name": "PEUKAN SEULIMUM"
+		"name": "PEUKAN SEULIMEUM"
 	},
 	{
 		"code": "11.06.04.2002",
@@ -9912,7 +9912,7 @@
 	{
 		"code": "11.06.04.2005",
 		"type": "desa",
-		"name": "KAMPONG SEULIMUM"
+		"name": "GAMPONG SEULIMEUM"
 	},
 	{
 		"code": "11.06.04.2006",
@@ -9927,12 +9927,12 @@
 	{
 		"code": "11.06.04.2008",
 		"type": "desa",
-		"name": "KAMPONG RAYA"
+		"name": "GAMPONG RAYA"
 	},
 	{
 		"code": "11.06.04.2009",
 		"type": "desa",
-		"name": "LAM JRUEN"
+		"name": "LAMJRUEN"
 	},
 	{
 		"code": "11.06.04.2010",
@@ -10012,7 +10012,7 @@
 	{
 		"code": "11.06.04.2025",
 		"type": "desa",
-		"name": "LAM BADA"
+		"name": "LAMBADA"
 	},
 	{
 		"code": "11.06.04.2026",
@@ -10062,7 +10062,7 @@
 	{
 		"code": "11.06.04.2035",
 		"type": "desa",
-		"name": "JEUMPA"
+		"name": "MEUNASAH JEUMPA"
 	},
 	{
 		"code": "11.06.04.2036",
@@ -10072,7 +10072,7 @@
 	{
 		"code": "11.06.04.2037",
 		"type": "desa",
-		"name": "BAK SETUI"
+		"name": "BAK SEUTUI"
 	},
 	{
 		"code": "11.06.04.2038",
@@ -10097,17 +10097,17 @@
 	{
 		"code": "11.06.04.2042",
 		"type": "desa",
-		"name": "LAM CARAK"
+		"name": "LAMCARAK"
 	},
 	{
 		"code": "11.06.04.2043",
 		"type": "desa",
-		"name": "CAPENG DAYAH"
+		"name": "CAPEUNG DAYAH"
 	},
 	{
 		"code": "11.06.04.2044",
 		"type": "desa",
-		"name": "CAPENG BAROH"
+		"name": "CAPEUNG BAROH"
 	},
 	{
 		"code": "11.06.04.2045",
@@ -10152,7 +10152,7 @@
 	{
 		"code": "11.06.05.2005",
 		"type": "desa",
-		"name": "LAM NGA"
+		"name": "LAMNGA"
 	},
 	{
 		"code": "11.06.05.2006",
@@ -10162,12 +10162,12 @@
 	{
 		"code": "11.06.05.2007",
 		"type": "desa",
-		"name": "WUE LHOK"
+		"name": "WEULHOK"
 	},
 	{
 		"code": "11.06.05.2008",
 		"type": "desa",
-		"name": "ALUE"
+		"name": "KP. ALUE"
 	},
 	{
 		"code": "11.06.05.2009",
@@ -10192,7 +10192,7 @@
 	{
 		"code": "11.06.05.2015",
 		"type": "desa",
-		"name": "LAM RAYA"
+		"name": "LAMRAYA"
 	},
 	{
 		"code": "11.06.05.2016",
@@ -10212,7 +10212,7 @@
 	{
 		"code": "11.06.05.2019",
 		"type": "desa",
-		"name": "EMPEE TUNONG"
+		"name": "EMPEE TANONG"
 	},
 	{
 		"code": "11.06.05.2020",
@@ -10247,7 +10247,7 @@
 	{
 		"code": "11.06.05.2026",
 		"type": "desa",
-		"name": "BUNG TUJUH"
+		"name": "BUNG TUJOH"
 	},
 	{
 		"code": "11.06.05.2027",
@@ -10267,12 +10267,12 @@
 	{
 		"code": "11.06.05.2042",
 		"type": "desa",
-		"name": "SEUBAN LHOK"
+		"name": "SEUBAM LHOK"
 	},
 	{
 		"code": "11.06.05.2043",
 		"type": "desa",
-		"name": "SEUMEUT"
+		"name": "SEUMET"
 	},
 	{
 		"code": "11.06.05.2044",
@@ -10297,7 +10297,7 @@
 	{
 		"code": "11.06.05.2048",
 		"type": "desa",
-		"name": "BUNG RAYA"
+		"name": "BUENG RAYA"
 	},
 	{
 		"code": "11.06.05.2049",
@@ -10312,17 +10312,17 @@
 	{
 		"code": "11.06.05.2051",
 		"type": "desa",
-		"name": "BUNG DAROH"
+		"name": "BUENG DAROH"
 	},
 	{
 		"code": "11.06.05.2052",
 		"type": "desa",
-		"name": "PIYENG KUWEU"
+		"name": "KUWEU"
 	},
 	{
 		"code": "11.06.05.2053",
 		"type": "desa",
-		"name": "PEYEUNG DATU"
+		"name": "PIYEUNG DATU"
 	},
 	{
 		"code": "11.06.06",
@@ -10337,12 +10337,12 @@
 	{
 		"code": "11.06.06.2002",
 		"type": "desa",
-		"name": "WEU SITEH"
+		"name": "WEUSITEH"
 	},
 	{
 		"code": "11.06.06.2003",
 		"type": "desa",
-		"name": "DILIB LAM TEUNGOH"
+		"name": "DILIB LAMTEUNGOH"
 	},
 	{
 		"code": "11.06.06.2004",
@@ -10367,17 +10367,17 @@
 	{
 		"code": "11.06.06.2008",
 		"type": "desa",
-		"name": "BAEIT MESAGO"
+		"name": "BAET MESAGO"
 	},
 	{
 		"code": "11.06.06.2009",
 		"type": "desa",
-		"name": "BAEIT MESJID"
+		"name": "BAET MESJID"
 	},
 	{
 		"code": "11.06.06.2010",
 		"type": "desa",
-		"name": "LAM BARO SIBREH"
+		"name": "LAMBARO SIBREH"
 	},
 	{
 		"code": "11.06.06.2011",
@@ -10397,7 +10397,7 @@
 	{
 		"code": "11.06.06.2014",
 		"type": "desa",
-		"name": "TAMPAK JIRAT RAYA"
+		"name": "TAMPOK JEURAT RAYA"
 	},
 	{
 		"code": "11.06.06.2015",
@@ -10422,7 +10422,7 @@
 	{
 		"code": "11.06.06.2019",
 		"type": "desa",
-		"name": "BUKHLOH"
+		"name": "BUKLOH"
 	},
 	{
 		"code": "11.06.06.2020",
@@ -10447,7 +10447,7 @@
 	{
 		"code": "11.06.06.2024",
 		"type": "desa",
-		"name": "KLIENG MANYANG"
+		"name": "KLIENG MAYANG"
 	},
 	{
 		"code": "11.06.06.2025",
@@ -10467,12 +10467,12 @@
 	{
 		"code": "11.06.06.2028",
 		"type": "desa",
-		"name": "MEUNASAH BAKTHUE"
+		"name": "MEUNASAH BAKTHU"
 	},
 	{
 		"code": "11.06.06.2029",
 		"type": "desa",
-		"name": "LAMBARIH MNS. BAK MEE"
+		"name": "LAMBIRAH BAK MEE"
 	},
 	{
 		"code": "11.06.06.2030",
@@ -10487,7 +10487,7 @@
 	{
 		"code": "11.06.06.2032",
 		"type": "desa",
-		"name": "PANTEE RAWA"
+		"name": "PANTERAWA"
 	},
 	{
 		"code": "11.06.06.2033",
@@ -10502,7 +10502,7 @@
 	{
 		"code": "11.06.06.2035",
 		"type": "desa",
-		"name": "LAMTANJONG"
+		"name": "LAM TANJONG"
 	},
 	{
 		"code": "11.06.07",
@@ -10522,12 +10522,12 @@
 	{
 		"code": "11.06.07.2003",
 		"type": "desa",
-		"name": "LAM REUNG"
+		"name": "LAMREUNG"
 	},
 	{
 		"code": "11.06.07.2004",
 		"type": "desa",
-		"name": "LAM COT"
+		"name": "LAMCOT"
 	},
 	{
 		"code": "11.06.07.2005",
@@ -10537,7 +10537,7 @@
 	{
 		"code": "11.06.07.2006",
 		"type": "desa",
-		"name": "LAM BLANG MANYANG"
+		"name": "LAM BLANG MAYANG"
 	},
 	{
 		"code": "11.06.07.2007",
@@ -10552,12 +10552,12 @@
 	{
 		"code": "11.06.07.2009",
 		"type": "desa",
-		"name": "LAM SITEH"
+		"name": "LAMSITEH"
 	},
 	{
 		"code": "11.06.07.2010",
 		"type": "desa",
-		"name": "LAM KAWEE"
+		"name": "LAMKAWE"
 	},
 	{
 		"code": "11.06.07.2011",
@@ -10567,12 +10567,12 @@
 	{
 		"code": "11.06.07.2012",
 		"type": "desa",
-		"name": "PAYA ROH"
+		"name": "PAYAROH"
 	},
 	{
 		"code": "11.06.07.2013",
 		"type": "desa",
-		"name": "LAM SIDAYA"
+		"name": "LAMSIDAYA"
 	},
 	{
 		"code": "11.06.07.2014",
@@ -10587,12 +10587,12 @@
 	{
 		"code": "11.06.07.2016",
 		"type": "desa",
-		"name": "LAM PEU NEU UEN"
+		"name": "LAMPEUNEUN"
 	},
 	{
 		"code": "11.06.07.2017",
 		"type": "desa",
-		"name": "LAM THEUN"
+		"name": "LAMTHEUN"
 	},
 	{
 		"code": "11.06.07.2018",
@@ -10617,12 +10617,12 @@
 	{
 		"code": "11.06.07.2022",
 		"type": "desa",
-		"name": "DAROY KAMEE"
+		"name": "DAROY KAMEU"
 	},
 	{
 		"code": "11.06.07.2023",
 		"type": "desa",
-		"name": "GEUNDRING"
+		"name": "GEUNDRIENG"
 	},
 	{
 		"code": "11.06.07.2024",
@@ -10632,12 +10632,12 @@
 	{
 		"code": "11.06.07.2025",
 		"type": "desa",
-		"name": "PASIE BEUTONG"
+		"name": "PASHEU BEUTONG"
 	},
 	{
 		"code": "11.06.07.2026",
 		"type": "desa",
-		"name": "PASIE ENGKING"
+		"name": "LAMPASI ENGKING"
 	},
 	{
 		"code": "11.06.07.2027",
@@ -10652,7 +10652,7 @@
 	{
 		"code": "11.06.07.2029",
 		"type": "desa",
-		"name": "LEU UE/ MATA IE"
+		"name": "LEU UE"
 	},
 	{
 		"code": "11.06.07.2030",
@@ -10677,22 +10677,22 @@
 	{
 		"code": "11.06.08.2001",
 		"type": "desa",
-		"name": "LAM BADEUK"
+		"name": "LAMBADEUK"
 	},
 	{
 		"code": "11.06.08.2002",
 		"type": "desa",
-		"name": "LAM GURON"
+		"name": "LAMGURON"
 	},
 	{
 		"code": "11.06.08.2003",
 		"type": "desa",
-		"name": "LAM BARO"
+		"name": "LAMBARO NEJID"
 	},
 	{
 		"code": "11.06.08.2004",
 		"type": "desa",
-		"name": "LAM PAGEU"
+		"name": "LAMPAGEU"
 	},
 	{
 		"code": "11.06.08.2005",
@@ -10707,7 +10707,7 @@
 	{
 		"code": "11.06.08.2007",
 		"type": "desa",
-		"name": "LAM TEH"
+		"name": "LAMTEH"
 	},
 	{
 		"code": "11.06.08.2008",
@@ -10717,12 +10717,12 @@
 	{
 		"code": "11.06.08.2009",
 		"type": "desa",
-		"name": "LAM TEUNGOH"
+		"name": "LAMTEUNGOH"
 	},
 	{
 		"code": "11.06.08.2010",
 		"type": "desa",
-		"name": "LAM TUTUI"
+		"name": "LAMTUTUI"
 	},
 	{
 		"code": "11.06.08.2011",
@@ -10762,7 +10762,7 @@
 	{
 		"code": "11.06.08.2018",
 		"type": "desa",
-		"name": "LAM KEUMOK"
+		"name": "LAMKEUMOK"
 	},
 	{
 		"code": "11.06.08.2019",
@@ -10777,7 +10777,7 @@
 	{
 		"code": "11.06.08.2021",
 		"type": "desa",
-		"name": "RIMA JENEE"
+		"name": "RIMA JEUNEU"
 	},
 	{
 		"code": "11.06.08.2022",
@@ -10802,7 +10802,7 @@
 	{
 		"code": "11.06.08.2026",
 		"type": "desa",
-		"name": "RIMA KEUNEURON"
+		"name": "RIMA KEUNEUROM"
 	},
 	{
 		"code": "11.06.09",
@@ -10827,12 +10827,12 @@
 	{
 		"code": "11.06.09.2004",
 		"type": "desa",
-		"name": "MEUNASAH KEUDE"
+		"name": "MEUNASAH KEUDEE"
 	},
 	{
 		"code": "11.06.09.2005",
 		"type": "desa",
-		"name": "LAM REH"
+		"name": "LAMREH"
 	},
 	{
 		"code": "11.06.09.2006",
@@ -10872,7 +10872,7 @@
 	{
 		"code": "11.06.09.2013",
 		"type": "desa",
-		"name": "LAM NGA"
+		"name": "LAMNGA"
 	},
 	{
 		"code": "11.06.10",
@@ -10887,7 +10887,7 @@
 	{
 		"code": "11.06.10.2002",
 		"type": "desa",
-		"name": "MEUNASAH MANYANG LG"
+		"name": "MEUNASAH MANYANG LAM GAROT"
 	},
 	{
 		"code": "11.06.10.2003",
@@ -10902,12 +10902,12 @@
 	{
 		"code": "11.06.10.2005",
 		"type": "desa",
-		"name": "MEUNASAH DAYAH"
+		"name": "MEUNASAH DEYAH"
 	},
 	{
 		"code": "11.06.10.2006",
 		"type": "desa",
-		"name": "MEUNASAH TEUTONG"
+		"name": "MEUNASAH TUTONG"
 	},
 	{
 		"code": "11.06.10.2007",
@@ -10917,7 +10917,7 @@
 	{
 		"code": "11.06.10.2008",
 		"type": "desa",
-		"name": "PASIE LG"
+		"name": "PASIE LAMGAROT"
 	},
 	{
 		"code": "11.06.10.2009",
@@ -10932,7 +10932,7 @@
 	{
 		"code": "11.06.10.2011",
 		"type": "desa",
-		"name": "LHOK SUKON"
+		"name": "LEUBOK SUKON"
 	},
 	{
 		"code": "11.06.10.2012",
@@ -10942,17 +10942,17 @@
 	{
 		"code": "11.06.10.2013",
 		"type": "desa",
-		"name": "PASIE LUBOK"
+		"name": "PASIE LUBUK"
 	},
 	{
 		"code": "11.06.10.2014",
 		"type": "desa",
-		"name": "BUNG CEUKOK"
+		"name": "BUENG CEUKOK"
 	},
 	{
 		"code": "11.06.10.2015",
 		"type": "desa",
-		"name": "TEUBANG PHUI"
+		"name": "TEUBANG PHUY"
 	},
 	{
 		"code": "11.06.10.2016",
@@ -11007,17 +11007,17 @@
 	{
 		"code": "11.06.10.2026",
 		"type": "desa",
-		"name": "JURONG PEUJEURA"
+		"name": "JURONG PEUJERA"
 	},
 	{
 		"code": "11.06.10.2027",
 		"type": "desa",
-		"name": "LUBUK BATEE"
+		"name": "LUBOK BATEE"
 	},
 	{
 		"code": "11.06.10.2028",
 		"type": "desa",
-		"name": "BINEEH BLANG"
+		"name": "BINEH BLANG"
 	},
 	{
 		"code": "11.06.10.2029",
@@ -11062,12 +11062,12 @@
 	{
 		"code": "11.06.10.2042",
 		"type": "desa",
-		"name": "COT MONTIWAN"
+		"name": "COT MENTIWAN"
 	},
 	{
 		"code": "11.06.10.2043",
 		"type": "desa",
-		"name": "LAMPREH LAM JAMPROK"
+		"name": "LAMPREH LAM JAMPOK"
 	},
 	{
 		"code": "11.06.10.2044",
@@ -11077,12 +11077,12 @@
 	{
 		"code": "11.06.10.2045",
 		"type": "desa",
-		"name": "LAM COT"
+		"name": "LAMCOT"
 	},
 	{
 		"code": "11.06.10.2046",
 		"type": "desa",
-		"name": "LAM SINYEU"
+		"name": "LAMSINYEU"
 	},
 	{
 		"code": "11.06.10.2047",
@@ -11092,7 +11092,7 @@
 	{
 		"code": "11.06.10.2048",
 		"type": "desa",
-		"name": "COT GOT"
+		"name": "COT GUD"
 	},
 	{
 		"code": "11.06.10.2049",
@@ -11117,7 +11117,7 @@
 	{
 		"code": "11.06.10.2053",
 		"type": "desa",
-		"name": "LAM TEUNGOH"
+		"name": "LAMTEUNGOH"
 	},
 	{
 		"code": "11.06.10.2054",
@@ -11127,7 +11127,7 @@
 	{
 		"code": "11.06.10.2056",
 		"type": "desa",
-		"name": "LAMPREH L. TEUNGOH"
+		"name": "LAMPREH LAMTEUNGOH"
 	},
 	{
 		"code": "11.06.11",
@@ -11137,7 +11137,7 @@
 	{
 		"code": "11.06.11.2001",
 		"type": "desa",
-		"name": "KRUENG ANAAI"
+		"name": "KRUENG ANOI"
 	},
 	{
 		"code": "11.06.11.2002",
@@ -11147,12 +11147,12 @@
 	{
 		"code": "11.06.11.2003",
 		"type": "desa",
-		"name": "COT BUET"
+		"name": "COT BEUT"
 	},
 	{
 		"code": "11.06.11.2004",
 		"type": "desa",
-		"name": "BUENG BAK JOK"
+		"name": "BUENG BAKJOK"
 	},
 	{
 		"code": "11.06.11.2005",
@@ -11172,7 +11172,7 @@
 	{
 		"code": "11.06.11.2008",
 		"type": "desa",
-		"name": "LAM BAET"
+		"name": "LAM BAED"
 	},
 	{
 		"code": "11.06.11.2009",
@@ -11192,27 +11192,27 @@
 	{
 		"code": "11.06.11.2019",
 		"type": "desa",
-		"name": "LAM ULUE RAYA"
+		"name": "LAM ALUE RAYA"
 	},
 	{
 		"code": "11.06.11.2020",
 		"type": "desa",
-		"name": "LAM ULUE CUT"
+		"name": "LAM ALUE CUT"
 	},
 	{
 		"code": "11.06.11.2021",
 		"type": "desa",
-		"name": "LEUPUNG MASJID"
+		"name": "LEUPUNG MESJID"
 	},
 	{
 		"code": "11.06.11.2022",
 		"type": "desa",
-		"name": "COT LAM MEE"
+		"name": "COT LAMEE"
 	},
 	{
 		"code": "11.06.11.2023",
 		"type": "desa",
-		"name": "LEUPUNG ULEE ALUE"
+		"name": "LEUPUNG ULE ALUE"
 	},
 	{
 		"code": "11.06.11.2024",
@@ -11222,12 +11222,12 @@
 	{
 		"code": "11.06.11.2025",
 		"type": "desa",
-		"name": "L. TEUBEE GEUPULA"
+		"name": "LAMTEUBE GEUPULA"
 	},
 	{
 		"code": "11.06.11.2026",
 		"type": "desa",
-		"name": "L. TEUBEE MON ARA"
+		"name": "LAMTEUBE MON ARA"
 	},
 	{
 		"code": "11.06.11.2027",
@@ -11257,7 +11257,7 @@
 	{
 		"code": "11.06.11.2032",
 		"type": "desa",
-		"name": "LAM BUNOT TANOH"
+		"name": "LAMBUNOT TANOH"
 	},
 	{
 		"code": "11.06.11.2033",
@@ -11272,12 +11272,12 @@
 	{
 		"code": "11.06.11.2035",
 		"type": "desa",
-		"name": "LAM BUNOT PAYA"
+		"name": "LAMBUNOT PAYA"
 	},
 	{
 		"code": "11.06.11.2036",
 		"type": "desa",
-		"name": "LAM POK KAUDE"
+		"name": "LAMPOH KEUDE"
 	},
 	{
 		"code": "11.06.11.2037",
@@ -11287,12 +11287,12 @@
 	{
 		"code": "11.06.11.2038",
 		"type": "desa",
-		"name": "LAM BARO DAYAH"
+		"name": "LAMBRO DEYAH"
 	},
 	{
 		"code": "11.06.11.2039",
 		"type": "desa",
-		"name": "LAM BARO BILEU"
+		"name": "LAMBRO BILEU"
 	},
 	{
 		"code": "11.06.11.2040",
@@ -11307,7 +11307,7 @@
 	{
 		"code": "11.06.11.2042",
 		"type": "desa",
-		"name": "MEUNASAH BAK TRIENG"
+		"name": "MEUNASAH BAKTRIENG"
 	},
 	{
 		"code": "11.06.11.2043",
@@ -11367,7 +11367,7 @@
 	{
 		"code": "11.06.11.2054",
 		"type": "desa",
-		"name": "LAM CEU"
+		"name": "LAMCEU"
 	},
 	{
 		"code": "11.06.12",
@@ -11392,7 +11392,7 @@
 	{
 		"code": "11.06.12.2004",
 		"type": "desa",
-		"name": "LAM BIHEU"
+		"name": "LAMBIHEU LA"
 	},
 	{
 		"code": "11.06.12.2005",
@@ -11407,7 +11407,7 @@
 	{
 		"code": "11.06.12.2007",
 		"type": "desa",
-		"name": "SEULEU"
+		"name": "SULEUE"
 	},
 	{
 		"code": "11.06.12.2008",
@@ -11422,12 +11422,12 @@
 	{
 		"code": "11.06.12.2010",
 		"type": "desa",
-		"name": "LAM PUJA"
+		"name": "LAMPUJA"
 	},
 	{
 		"code": "11.06.12.2011",
 		"type": "desa",
-		"name": "TANJUNG DEYAH"
+		"name": "TANJUNG DEAH"
 	},
 	{
 		"code": "11.06.12.2012",
@@ -11437,7 +11437,7 @@
 	{
 		"code": "11.06.12.2013",
 		"type": "desa",
-		"name": "LAM PUUK"
+		"name": "LAMPUUK"
 	},
 	{
 		"code": "11.06.12.2014",
@@ -11447,17 +11447,17 @@
 	{
 		"code": "11.06.12.2015",
 		"type": "desa",
-		"name": "LAM GAWEE"
+		"name": "LAM GAWE"
 	},
 	{
 		"code": "11.06.12.2016",
 		"type": "desa",
-		"name": "BEURABUNG"
+		"name": "BERABUNG"
 	},
 	{
 		"code": "11.06.12.2017",
 		"type": "desa",
-		"name": "LAM TIMPEUNG"
+		"name": "LAMTIMPEUNG"
 	},
 	{
 		"code": "11.06.12.2018",
@@ -11472,7 +11472,7 @@
 	{
 		"code": "11.06.12.2020",
 		"type": "desa",
-		"name": "LAM KEUNUNG"
+		"name": "LAMKEUNUNG"
 	},
 	{
 		"code": "11.06.12.2021",
@@ -11492,7 +11492,7 @@
 	{
 		"code": "11.06.12.2024",
 		"type": "desa",
-		"name": "LAM BITRA"
+		"name": "LAMBITRA"
 	},
 	{
 		"code": "11.06.12.2025",
@@ -11537,7 +11537,7 @@
 	{
 		"code": "11.06.13.2003",
 		"type": "desa",
-		"name": "MEU LINGGE"
+		"name": "MELINGGE"
 	},
 	{
 		"code": "11.06.13.2004",
@@ -11572,7 +11572,7 @@
 	{
 		"code": "11.06.13.2010",
 		"type": "desa",
-		"name": "LAM PUYANG"
+		"name": "LAMPUYANG"
 	},
 	{
 		"code": "11.06.13.2011",
@@ -11587,7 +11587,7 @@
 	{
 		"code": "11.06.13.2013",
 		"type": "desa",
-		"name": "LAM TENG"
+		"name": "LAMTENG"
 	},
 	{
 		"code": "11.06.13.2014",
@@ -11602,7 +11602,7 @@
 	{
 		"code": "11.06.13.2016",
 		"type": "desa",
-		"name": "ALUE RUYUNG"
+		"name": "ALUE REUYEUENG"
 	},
 	{
 		"code": "11.06.13.2017",
@@ -11627,7 +11627,7 @@
 	{
 		"code": "11.06.14.2003",
 		"type": "desa",
-		"name": "LON BAROH"
+		"name": "LONBAROH"
 	},
 	{
 		"code": "11.06.14.2004",
@@ -11637,7 +11637,7 @@
 	{
 		"code": "11.06.14.2005",
 		"type": "desa",
-		"name": "PAYA KEURELEH"
+		"name": "PAYA KEUREULEH"
 	},
 	{
 		"code": "11.06.14.2006",
@@ -11647,7 +11647,7 @@
 	{
 		"code": "11.06.14.2007",
 		"type": "desa",
-		"name": "LAMKUBU"
+		"name": "LAM KUBU"
 	},
 	{
 		"code": "11.06.14.2008",
@@ -11662,7 +11662,7 @@
 	{
 		"code": "11.06.14.2010",
 		"type": "desa",
-		"name": "SUKA MULIA"
+		"name": "SUKA MULYA"
 	},
 	{
 		"code": "11.06.14.2011",
@@ -11672,7 +11672,7 @@
 	{
 		"code": "11.06.14.2012",
 		"type": "desa",
-		"name": "DESA TEULADAN"
+		"name": "TEULADAN"
 	},
 	{
 		"code": "11.06.15",
@@ -11697,7 +11697,7 @@
 	{
 		"code": "11.06.15.2004",
 		"type": "desa",
-		"name": "AWEE"
+		"name": "AWEK"
 	},
 	{
 		"code": "11.06.15.2005",
@@ -11707,7 +11707,7 @@
 	{
 		"code": "11.06.15.2006",
 		"type": "desa",
-		"name": "BEUNG"
+		"name": "BUENG"
 	},
 	{
 		"code": "11.06.15.2007",
@@ -11762,22 +11762,22 @@
 	{
 		"code": "11.06.16.2003",
 		"type": "desa",
-		"name": "LAM ALIENG"
+		"name": "LAM ALING"
 	},
 	{
 		"code": "11.06.16.2004",
 		"type": "desa",
-		"name": "LAM LEUPUNG"
+		"name": "LAMLEUPUNG"
 	},
 	{
 		"code": "11.06.16.2005",
 		"type": "desa",
-		"name": "LAM KLENG"
+		"name": "LAMKLENG"
 	},
 	{
 		"code": "11.06.16.2006",
 		"type": "desa",
-		"name": "IA ALANG LAM K."
+		"name": "IE ALANG LAMKREUMEUH"
 	},
 	{
 		"code": "11.06.16.2007",
@@ -11807,7 +11807,7 @@
 	{
 		"code": "11.06.16.2012",
 		"type": "desa",
-		"name": "BUNG SIMEK"
+		"name": "BUENG SIMEK"
 	},
 	{
 		"code": "11.06.16.2013",
@@ -11822,7 +11822,7 @@
 	{
 		"code": "11.06.16.2015",
 		"type": "desa",
-		"name": "LAM BEUGAK"
+		"name": "LAMBEUGAK"
 	},
 	{
 		"code": "11.06.16.2016",
@@ -11832,12 +11832,12 @@
 	{
 		"code": "11.06.16.2017",
 		"type": "desa",
-		"name": "LAM SIE"
+		"name": "LAMSIE"
 	},
 	{
 		"code": "11.06.16.2018",
 		"type": "desa",
-		"name": "SIEGAPANG"
+		"name": "SIGAPANG"
 	},
 	{
 		"code": "11.06.16.2019",
@@ -11847,7 +11847,7 @@
 	{
 		"code": "11.06.16.2020",
 		"type": "desa",
-		"name": "PASAR LAMPAKUK"
+		"name": "PASAR LAMPAKU"
 	},
 	{
 		"code": "11.06.16.2021",
@@ -11892,12 +11892,12 @@
 	{
 		"code": "11.06.16.2029",
 		"type": "desa",
-		"name": "KEUREWEUNG BLANG"
+		"name": "KEURUWEUNG BLANG"
 	},
 	{
 		"code": "11.06.16.2030",
 		"type": "desa",
-		"name": "KEUREWEUNG KRUENG"
+		"name": "KEURUWEUNG KRUENG"
 	},
 	{
 		"code": "11.06.16.2031",
@@ -11997,12 +11997,12 @@
 	{
 		"code": "11.06.18.2001",
 		"type": "desa",
-		"name": "ATEUK LAMPHANG"
+		"name": "ATEUK LAM PHANG"
 	},
 	{
 		"code": "11.06.18.2002",
 		"type": "desa",
-		"name": "ATEUK LAM PUOT"
+		"name": "ATEUK LAMPUOT"
 	},
 	{
 		"code": "11.06.18.2003",
@@ -12042,7 +12042,7 @@
 	{
 		"code": "11.06.18.2010",
 		"type": "desa",
-		"name": "BANTEE LINTEUNG"
+		"name": "BATEE LINTEUNG"
 	},
 	{
 		"code": "11.06.18.2011",
@@ -12107,7 +12107,7 @@
 	{
 		"code": "11.06.19.2004",
 		"type": "desa",
-		"name": "LAM KUNYET"
+		"name": "LAMKUNYET"
 	},
 	{
 		"code": "11.06.19.2005",
@@ -12127,7 +12127,7 @@
 	{
 		"code": "11.06.19.2008",
 		"type": "desa",
-		"name": "TEUBALUY"
+		"name": "TUBALUY"
 	},
 	{
 		"code": "11.06.19.2009",
@@ -12137,17 +12137,17 @@
 	{
 		"code": "11.06.19.2010",
 		"type": "desa",
-		"name": "MANE DAYAH"
+		"name": "MANEE DAYAH"
 	},
 	{
 		"code": "11.06.19.2011",
 		"type": "desa",
-		"name": "LAM SOT"
+		"name": "LAMSOD"
 	},
 	{
 		"code": "11.06.19.2012",
 		"type": "desa",
-		"name": "LAM BLEUT"
+		"name": "LAMBLEUT"
 	},
 	{
 		"code": "11.06.19.2013",
@@ -12192,7 +12192,7 @@
 	{
 		"code": "11.06.20.2006",
 		"type": "desa",
-		"name": "LAMBADA LHOK"
+		"name": "LAM BADA LHOK"
 	},
 	{
 		"code": "11.06.20.2007",
@@ -12227,7 +12227,7 @@
 	{
 		"code": "11.06.20.2013",
 		"type": "desa",
-		"name": "MIRUK LAMREUDEP"
+		"name": "MIRUK LAM REUDEP"
 	},
 	{
 		"code": "11.06.21",
@@ -12242,7 +12242,7 @@
 	{
 		"code": "11.06.21.2002",
 		"type": "desa",
-		"name": "MEUNASAH BRANG TRIENG"
+		"name": "MEUNASAH BAKTRIENG"
 	},
 	{
 		"code": "11.06.21.2003",
@@ -12252,17 +12252,17 @@
 	{
 		"code": "11.06.21.2004",
 		"type": "desa",
-		"name": "LAMPEUREUME"
+		"name": "LAMPERMAI"
 	},
 	{
 		"code": "11.06.21.2005",
 		"type": "desa",
-		"name": "GLA DAYAH"
+		"name": "GLE DEYAH"
 	},
 	{
 		"code": "11.06.21.2006",
 		"type": "desa",
-		"name": "MIRUEK"
+		"name": "MIRUK"
 	},
 	{
 		"code": "11.06.21.2007",
@@ -12317,12 +12317,12 @@
 	{
 		"code": "11.06.22.2004",
 		"type": "desa",
-		"name": "MEUNASAH MESJID"
+		"name": "MNS. MESJID"
 	},
 	{
 		"code": "11.06.22.2005",
 		"type": "desa",
-		"name": "MEUNASAH BAK UE"
+		"name": "MEUNASAH BAK U"
 	},
 	{
 		"code": "11.06.22.2006",
@@ -12342,7 +12342,7 @@
 	{
 		"code": "11.06.23.2002",
 		"type": "desa",
-		"name": "LAM MEE"
+		"name": "LAMME"
 	},
 	{
 		"code": "11.06.23.2003",
@@ -12357,7 +12357,7 @@
 	{
 		"code": "11.06.23.2005",
 		"type": "desa",
-		"name": "COT GEUNDRET"
+		"name": "COT GEUNDREUT"
 	},
 	{
 		"code": "11.06.23.2006",
@@ -12367,7 +12367,7 @@
 	{
 		"code": "11.06.23.2007",
 		"type": "desa",
-		"name": "COT MON RAYA"
+		"name": "COT MONRAYA"
 	},
 	{
 		"code": "11.06.23.2008",
@@ -12377,12 +12377,12 @@
 	{
 		"code": "11.06.23.2009",
 		"type": "desa",
-		"name": "COT MADI"
+		"name": "COT MADHI"
 	},
 	{
 		"code": "11.06.23.2010",
 		"type": "desa",
-		"name": "BUNG SIDOM"
+		"name": "BUENG SIDOM"
 	},
 	{
 		"code": "11.06.23.2011",
@@ -12422,7 +12422,7 @@
 	{
 		"code": "11.06.23.2018",
 		"type": "desa",
-		"name": "BUNG PAGEU"
+		"name": "BUENG PAGEU"
 	},
 	{
 		"code": "11.06.23.2019",
@@ -12477,7 +12477,7 @@
 	{
 		"code": "11.07.03.2001",
 		"type": "desa",
-		"name": "DAYAH TUA"
+		"name": "DAYAH TUHA"
 	},
 	{
 		"code": "11.07.03.2002",
@@ -12537,7 +12537,7 @@
 	{
 		"code": "11.07.03.2013",
 		"type": "desa",
-		"name": "MESJID CALONG"
+		"name": "MESJID"
 	},
 	{
 		"code": "11.07.03.2014",
@@ -12557,7 +12557,7 @@
 	{
 		"code": "11.07.03.2017",
 		"type": "desa",
-		"name": "MEUNASAH MEE"
+		"name": "MEE"
 	},
 	{
 		"code": "11.07.03.2018",
@@ -12597,7 +12597,7 @@
 	{
 		"code": "11.07.03.2025",
 		"type": "desa",
-		"name": "KULE"
+		"name": "KULEE"
 	},
 	{
 		"code": "11.07.03.2026",
@@ -12608,6 +12608,11 @@
 		"code": "11.07.03.2027",
 		"type": "desa",
 		"name": "AWEE"
+	},
+	{
+		"code": "11.07.03.2028",
+		"type": "desa",
+		"name": "PASI BEURANDEH"
 	},
 	{
 		"code": "11.07.04",
@@ -12687,7 +12692,7 @@
 	{
 		"code": "11.07.04.2015",
 		"type": "desa",
-		"name": "BUNGOE"
+		"name": "BUNGO"
 	},
 	{
 		"code": "11.07.04.2016",
@@ -12717,7 +12722,7 @@
 	{
 		"code": "11.07.04.2021",
 		"type": "desa",
-		"name": "ULEE TUTU RAYA"
+		"name": "ULEE TUTUE RAYA"
 	},
 	{
 		"code": "11.07.04.2022",
@@ -12732,7 +12737,7 @@
 	{
 		"code": "11.07.04.2024",
 		"type": "desa",
-		"name": "PANTE AREE"
+		"name": "PANTE"
 	},
 	{
 		"code": "11.07.04.2025",
@@ -12777,7 +12782,7 @@
 	{
 		"code": "11.07.04.2033",
 		"type": "desa",
-		"name": "SUKON"
+		"name": "SUKON LHONG"
 	},
 	{
 		"code": "11.07.04.2034",
@@ -12857,7 +12862,7 @@
 	{
 		"code": "11.07.05.2005",
 		"type": "desa",
-		"name": "PULAU LOIH"
+		"name": "PULO LOIH"
 	},
 	{
 		"code": "11.07.05.2006",
@@ -12907,7 +12912,7 @@
 	{
 		"code": "11.07.06.2008",
 		"type": "desa",
-		"name": "MESJID AMUD"
+		"name": "AMUD MESJID"
 	},
 	{
 		"code": "11.07.06.2009",
@@ -12977,7 +12982,7 @@
 	{
 		"code": "11.07.06.2022",
 		"type": "desa",
-		"name": "PULO DAYAH/PULO LON"
+		"name": "PULO LON / PULO DAYAH"
 	},
 	{
 		"code": "11.07.06.2023",
@@ -13017,7 +13022,7 @@
 	{
 		"code": "11.07.06.2030",
 		"type": "desa",
-		"name": "DAYAH KAMPUNG PISANG"
+		"name": "DAYAH KP. PISANG"
 	},
 	{
 		"code": "11.07.06.2031",
@@ -13047,12 +13052,12 @@
 	{
 		"code": "11.07.07.2001",
 		"type": "desa",
-		"name": "TAMPING TUNONG"
+		"name": "TAMPIENG TUNONG"
 	},
 	{
 		"code": "11.07.07.2002",
 		"type": "desa",
-		"name": "TAMPING BAROH"
+		"name": "TAMPIENG BAROH"
 	},
 	{
 		"code": "11.07.07.2003",
@@ -13107,12 +13112,12 @@
 	{
 		"code": "11.07.07.2014",
 		"type": "desa",
-		"name": "SUKON"
+		"name": "SUKON TUNGKOP"
 	},
 	{
 		"code": "11.07.07.2015",
 		"type": "desa",
-		"name": "RAWA"
+		"name": "RAWA TUNGKOP"
 	},
 	{
 		"code": "11.07.07.2016",
@@ -13167,7 +13172,7 @@
 	{
 		"code": "11.07.07.2026",
 		"type": "desa",
-		"name": "MESJID JIM JIM"
+		"name": "MESJID DIJIEM"
 	},
 	{
 		"code": "11.07.07.2027",
@@ -13237,7 +13242,7 @@
 	{
 		"code": "11.07.07.2040",
 		"type": "desa",
-		"name": "PUTOE"
+		"name": "PUTOE GAPUI"
 	},
 	{
 		"code": "11.07.07.2041",
@@ -13262,22 +13267,22 @@
 	{
 		"code": "11.07.07.2045",
 		"type": "desa",
-		"name": "MEUNASAH GLEE GAPUI"
+		"name": "GLEE GAPUI"
 	},
 	{
 		"code": "11.07.07.2046",
 		"type": "desa",
-		"name": "TEUNGOH SEUWIEK"
+		"name": "TEUNGOH SUWIEK"
 	},
 	{
 		"code": "11.07.07.2047",
 		"type": "desa",
-		"name": "MESJID SEUWIEK"
+		"name": "MESJID SUWIEK"
 	},
 	{
 		"code": "11.07.07.2048",
 		"type": "desa",
-		"name": "TUHA"
+		"name": "TUHA SUWIEK"
 	},
 	{
 		"code": "11.07.07.2049",
@@ -13337,7 +13342,7 @@
 	{
 		"code": "11.07.08.2009",
 		"type": "desa",
-		"name": "AROSAN"
+		"name": "ARUSAN"
 	},
 	{
 		"code": "11.07.08.2010",
@@ -13417,7 +13422,7 @@
 	{
 		"code": "11.07.08.2025",
 		"type": "desa",
-		"name": "ARE"
+		"name": "ARA"
 	},
 	{
 		"code": "11.07.08.2026",
@@ -13477,7 +13482,7 @@
 	{
 		"code": "11.07.08.2037",
 		"type": "desa",
-		"name": "MAYANG"
+		"name": "MANYANG"
 	},
 	{
 		"code": "11.07.08.2038",
@@ -13492,7 +13497,7 @@
 	{
 		"code": "11.07.08.2040",
 		"type": "desa",
-		"name": "TUMPEUN"
+		"name": "TEUMPEUN"
 	},
 	{
 		"code": "11.07.08.2041",
@@ -13642,22 +13647,22 @@
 	{
 		"code": "11.07.11.2008",
 		"type": "desa",
-		"name": "MESJID"
+		"name": "MESJID ILOT"
 	},
 	{
 		"code": "11.07.11.2009",
 		"type": "desa",
-		"name": "BAROH"
+		"name": "BAROH ILOT"
 	},
 	{
 		"code": "11.07.11.2010",
 		"type": "desa",
-		"name": "TUNONG"
+		"name": "TUNONG ILOT"
 	},
 	{
 		"code": "11.07.11.2011",
 		"type": "desa",
-		"name": "TEUNGOH"
+		"name": "TEUNGOH ILOT"
 	},
 	{
 		"code": "11.07.11.2012",
@@ -13682,7 +13687,7 @@
 	{
 		"code": "11.07.11.2016",
 		"type": "desa",
-		"name": "MEUYUB"
+		"name": "MEUYUB LALA"
 	},
 	{
 		"code": "11.07.11.2017",
@@ -13795,6 +13800,11 @@
 		"name": "TUHA BIHEUE"
 	},
 	{
+		"code": "11.07.12.2018",
+		"type": "desa",
+		"name": "SIMPANG BEUTONG"
+	},
+	{
 		"code": "11.07.13",
 		"type": "kecamatan",
 		"name": "MUTIARA"
@@ -13827,7 +13837,7 @@
 	{
 		"code": "11.07.13.2006",
 		"type": "desa",
-		"name": "TUHA G. GAJAH"
+		"name": "TUHA GAMPONG GAJAH"
 	},
 	{
 		"code": "11.07.13.2007",
@@ -13872,17 +13882,17 @@
 	{
 		"code": "11.07.13.2015",
 		"type": "desa",
-		"name": "BLANG"
+		"name": "BLANG BEUREUEH"
 	},
 	{
 		"code": "11.07.13.2016",
 		"type": "desa",
-		"name": "DAYAH"
+		"name": "DAYAH BEUREUEH"
 	},
 	{
 		"code": "11.07.13.2017",
 		"type": "desa",
-		"name": "PANTE"
+		"name": "PANTE BEUREUEH"
 	},
 	{
 		"code": "11.07.13.2018",
@@ -13912,12 +13922,12 @@
 	{
 		"code": "11.07.13.2023",
 		"type": "desa",
-		"name": "REULUE"
+		"name": "REULUI"
 	},
 	{
 		"code": "11.07.13.2024",
 		"type": "desa",
-		"name": "DAYAH SYARIF"
+		"name": "DAYAH SYARIEF"
 	},
 	{
 		"code": "11.07.13.2025",
@@ -13927,7 +13937,7 @@
 	{
 		"code": "11.07.13.2026",
 		"type": "desa",
-		"name": "RIUBUEN"
+		"name": "RIBEUN"
 	},
 	{
 		"code": "11.07.13.2027",
@@ -13962,7 +13972,7 @@
 	{
 		"code": "11.07.14.2003",
 		"type": "desa",
-		"name": "HAGU"
+		"name": "HAGU KUNYET"
 	},
 	{
 		"code": "11.07.14.2004",
@@ -13972,27 +13982,27 @@
 	{
 		"code": "11.07.14.2005",
 		"type": "desa",
-		"name": "DAYAH TANOH"
+		"name": "DAYAH TANOH KUNYET"
 	},
 	{
 		"code": "11.07.14.2006",
 		"type": "desa",
-		"name": "KAMBUK NICAH"
+		"name": "KAMBUK NICAH KUNYET"
 	},
 	{
 		"code": "11.07.14.2007",
 		"type": "desa",
-		"name": "KAMBUK PAYAPI"
+		"name": "KAMBUK PAYAPI KUNYET"
 	},
 	{
 		"code": "11.07.14.2008",
 		"type": "desa",
-		"name": "SEUNADEU"
+		"name": "SEUNADEU KUNYET"
 	},
 	{
 		"code": "11.07.14.2009",
 		"type": "desa",
-		"name": "BLANG GUCI"
+		"name": "BLANG GUCI KUNYET"
 	},
 	{
 		"code": "11.07.14.2010",
@@ -14007,7 +14017,7 @@
 	{
 		"code": "11.07.14.2012",
 		"type": "desa",
-		"name": "GEULUMPANG"
+		"name": "GEULUMPANG GEULEUDIENG"
 	},
 	{
 		"code": "11.07.14.2013",
@@ -14017,7 +14027,7 @@
 	{
 		"code": "11.07.14.2014",
 		"type": "desa",
-		"name": "SUKON"
+		"name": "SUKON PEUDAYA"
 	},
 	{
 		"code": "11.07.14.2015",
@@ -14027,17 +14037,17 @@
 	{
 		"code": "11.07.14.2016",
 		"type": "desa",
-		"name": "CUT"
+		"name": "CUT PEUDAYA"
 	},
 	{
 		"code": "11.07.14.2017",
 		"type": "desa",
-		"name": "BULOH BUNI"
+		"name": "BULOH PEUDAYA"
 	},
 	{
 		"code": "11.07.14.2018",
 		"type": "desa",
-		"name": "PERLAK"
+		"name": "PERLAK PEUDAYA"
 	},
 	{
 		"code": "11.07.14.2019",
@@ -14047,12 +14057,12 @@
 	{
 		"code": "11.07.14.2020",
 		"type": "desa",
-		"name": "TEUNGOH"
+		"name": "TEUNGOH PEUDAYA"
 	},
 	{
 		"code": "11.07.14.2021",
 		"type": "desa",
-		"name": "TUHA"
+		"name": "TUHA PEUDAYA"
 	},
 	{
 		"code": "11.07.14.2022",
@@ -14062,67 +14072,67 @@
 	{
 		"code": "11.07.14.2023",
 		"type": "desa",
-		"name": "BUNI REULEUNG"
+		"name": "BUNI REULIENG PEUDAYA"
 	},
 	{
 		"code": "11.07.14.2024",
 		"type": "desa",
-		"name": "TRIENG"
+		"name": "TRIENG PALOH"
 	},
 	{
 		"code": "11.07.14.2025",
 		"type": "desa",
-		"name": "LEUHOB"
+		"name": "LEUHOB PALOH"
 	},
 	{
 		"code": "11.07.14.2026",
 		"type": "desa",
-		"name": "GURONG COT"
+		"name": "CUT PALOH"
 	},
 	{
 		"code": "11.07.14.2027",
 		"type": "desa",
-		"name": "SUYO"
+		"name": "SUYO PALOH"
 	},
 	{
 		"code": "11.07.14.2028",
 		"type": "desa",
-		"name": "KRET"
+		"name": "KREB PALOH"
 	},
 	{
 		"code": "11.07.14.2029",
 		"type": "desa",
-		"name": "CAPA"
+		"name": "CAPA PALOH"
 	},
 	{
 		"code": "11.07.14.2030",
 		"type": "desa",
-		"name": "JURONG ANOE"
+		"name": "JURONG ANOE PALOH"
 	},
 	{
 		"code": "11.07.14.2031",
 		"type": "desa",
-		"name": "BALEE"
+		"name": "BALEE PALOH"
 	},
 	{
 		"code": "11.07.14.2032",
 		"type": "desa",
-		"name": "SIRON"
+		"name": "SIRON PALOH"
 	},
 	{
 		"code": "11.07.14.2033",
 		"type": "desa",
-		"name": "GAMPONG CUT"
+		"name": "JURONG GAMPONG CUT PALOH"
 	},
 	{
 		"code": "11.07.14.2034",
 		"type": "desa",
-		"name": "PANTE CERMEN"
+		"name": "PANTE CERMEN PALOH"
 	},
 	{
 		"code": "11.07.14.2035",
 		"type": "desa",
-		"name": "PASAR"
+		"name": "PASAR PALOH"
 	},
 	{
 		"code": "11.07.14.2036",
@@ -14132,7 +14142,7 @@
 	{
 		"code": "11.07.14.2037",
 		"type": "desa",
-		"name": "MUKEE"
+		"name": "MUKEE BEURABO"
 	},
 	{
 		"code": "11.07.14.2038",
@@ -14142,7 +14152,7 @@
 	{
 		"code": "11.07.14.2039",
 		"type": "desa",
-		"name": "SEKEUMBROK"
+		"name": "SEUKEMBROK BEURABO"
 	},
 	{
 		"code": "11.07.14.2040",
@@ -14152,27 +14162,27 @@
 	{
 		"code": "11.07.14.2041",
 		"type": "desa",
-		"name": "ADANG"
+		"name": "ADANG BEURABO"
 	},
 	{
 		"code": "11.07.14.2042",
 		"type": "desa",
-		"name": "PALOH JEURAT"
+		"name": "PALOH JEURAT BEURABO"
 	},
 	{
 		"code": "11.07.14.2043",
 		"type": "desa",
-		"name": "SEULEUNGGIENG"
+		"name": "SEULEUNGGIENG BEURABO"
 	},
 	{
 		"code": "11.07.14.2044",
 		"type": "desa",
-		"name": "TEUNGOH DRIEN"
+		"name": "TEUNGOH DRIEN GOGO"
 	},
 	{
 		"code": "11.07.14.2045",
 		"type": "desa",
-		"name": "KUMBANG"
+		"name": "KUMBANG GOGO"
 	},
 	{
 		"code": "11.07.14.2046",
@@ -14187,32 +14197,32 @@
 	{
 		"code": "11.07.14.2048",
 		"type": "desa",
-		"name": "GLE"
+		"name": "GLE GOGO"
 	},
 	{
 		"code": "11.07.14.2049",
 		"type": "desa",
-		"name": "MUKO"
+		"name": "MUKEE GOGO"
 	},
 	{
 		"code": "11.07.14.2050",
 		"type": "desa",
-		"name": "RAYA"
+		"name": "RAYA GOGO"
 	},
 	{
 		"code": "11.07.14.2051",
 		"type": "desa",
-		"name": "GRONG GRONG"
+		"name": "GRONG-GRONG GOGO"
 	},
 	{
 		"code": "11.07.14.2052",
 		"type": "desa",
-		"name": "ARON BEUNOT"
+		"name": "ARON BUNOT GOGO"
 	},
 	{
 		"code": "11.07.14.2053",
 		"type": "desa",
-		"name": "BULOH"
+		"name": "BULOH GOGO"
 	},
 	{
 		"code": "11.07.14.2054",
@@ -14222,27 +14232,27 @@
 	{
 		"code": "11.07.14.2055",
 		"type": "desa",
-		"name": "KEUPULA"
+		"name": "KUPULA TANJONG"
 	},
 	{
 		"code": "11.07.14.2056",
 		"type": "desa",
-		"name": "JOK"
+		"name": "JOK TANJONG"
 	},
 	{
 		"code": "11.07.14.2057",
 		"type": "desa",
-		"name": "LEUEN"
+		"name": "LEUN TANJONG"
 	},
 	{
 		"code": "11.07.14.2058",
 		"type": "desa",
-		"name": "CRUENG"
+		"name": "PANTE CRUNG TANJONG"
 	},
 	{
 		"code": "11.07.14.2059",
 		"type": "desa",
-		"name": "COT KEUTAPANG"
+		"name": "COT KEUTAPANG TANJONG"
 	},
 	{
 		"code": "11.07.14.2060",
@@ -14262,12 +14272,12 @@
 	{
 		"code": "11.07.14.2063",
 		"type": "desa",
-		"name": "MEURINYA"
+		"name": "MEURIYA TANJONG"
 	},
 	{
 		"code": "11.07.14.2064",
 		"type": "desa",
-		"name": "PULO HAGU"
+		"name": "PULO HAGU TANJONG"
 	},
 	{
 		"code": "11.07.15",
@@ -14347,7 +14357,7 @@
 	{
 		"code": "11.07.15.2015",
 		"type": "desa",
-		"name": "MEUNASAH LUENG"
+		"name": "LUENG GUCI RUMPONG"
 	},
 	{
 		"code": "11.07.15.2016",
@@ -14357,7 +14367,7 @@
 	{
 		"code": "11.07.15.2017",
 		"type": "desa",
-		"name": "MESJID RUMPONG"
+		"name": "MESJID GUCI RUMPONG"
 	},
 	{
 		"code": "11.07.15.2018",
@@ -14407,7 +14417,7 @@
 	{
 		"code": "11.07.15.2027",
 		"type": "desa",
-		"name": "BALEE"
+		"name": "BALEE PINEUNG"
 	},
 	{
 		"code": "11.07.15.2028",
@@ -14427,7 +14437,7 @@
 	{
 		"code": "11.07.15.2031",
 		"type": "desa",
-		"name": "BLUK ARAB"
+		"name": "BLUEK ARAB"
 	},
 	{
 		"code": "11.07.15.2032",
@@ -14472,12 +14482,12 @@
 	{
 		"code": "11.07.15.2040",
 		"type": "desa",
-		"name": "MEUNASAH RAYA"
+		"name": "RAYA KRUENG SEUMIDEUN"
 	},
 	{
 		"code": "11.07.15.2041",
 		"type": "desa",
-		"name": "MEUNASAH SUKON"
+		"name": "SUKON KRUENG SEUMIDEUN"
 	},
 	{
 		"code": "11.07.15.2042",
@@ -14487,12 +14497,12 @@
 	{
 		"code": "11.07.15.2043",
 		"type": "desa",
-		"name": "MEUNASAH BLANG"
+		"name": "BLANG KRUENG SEUMIDEUN"
 	},
 	{
 		"code": "11.07.15.2044",
 		"type": "desa",
-		"name": "MEUNASAH KRUMBOK"
+		"name": "KEURUMBOK"
 	},
 	{
 		"code": "11.07.15.2045",
@@ -14502,17 +14512,17 @@
 	{
 		"code": "11.07.15.2046",
 		"type": "desa",
-		"name": "MEUNASAH KABAT"
+		"name": "KABAT"
 	},
 	{
 		"code": "11.07.15.2049",
 		"type": "desa",
-		"name": "SEUPENG"
+		"name": "BLANG SEUPENG"
 	},
 	{
 		"code": "11.07.15.2050",
 		"type": "desa",
-		"name": "KABAT"
+		"name": "GAMPONG"
 	},
 	{
 		"code": "11.07.16",
@@ -14577,7 +14587,7 @@
 	{
 		"code": "11.07.16.2012",
 		"type": "desa",
-		"name": "ULEE CEUE KLIBEUT"
+		"name": "ULEE CEUE"
 	},
 	{
 		"code": "11.07.16.2013",
@@ -14602,12 +14612,12 @@
 	{
 		"code": "11.07.16.2017",
 		"type": "desa",
-		"name": "KEUNIRE"
+		"name": "KEUNIREE"
 	},
 	{
 		"code": "11.07.16.2018",
 		"type": "desa",
-		"name": "TUMPOK.40"
+		"name": "TUMPOK 40"
 	},
 	{
 		"code": "11.07.16.2019",
@@ -14622,12 +14632,12 @@
 	{
 		"code": "11.07.16.2021",
 		"type": "desa",
-		"name": "LABUE"
+		"name": "LABUI"
 	},
 	{
 		"code": "11.07.16.2022",
 		"type": "desa",
-		"name": "MNS GAMPONG"
+		"name": "MEUNASAH GAMPONG"
 	},
 	{
 		"code": "11.07.16.2023",
@@ -14657,7 +14667,7 @@
 	{
 		"code": "11.07.16.2028",
 		"type": "desa",
-		"name": "KAMPONG BARO"
+		"name": "GAMPONG BARO"
 	},
 	{
 		"code": "11.07.16.2029",
@@ -14847,12 +14857,12 @@
 	{
 		"code": "11.07.17.2001",
 		"type": "desa",
-		"name": "BALEE TANOH"
+		"name": "BALUE TANOH"
 	},
 	{
 		"code": "11.07.17.2002",
 		"type": "desa",
-		"name": "BALEE KULU"
+		"name": "BALUE KULU"
 	},
 	{
 		"code": "11.07.17.2003",
@@ -14902,7 +14912,7 @@
 	{
 		"code": "11.07.17.2012",
 		"type": "desa",
-		"name": "KAMPONG P. BUCUE"
+		"name": "KAMPONG PISANG BUCUE"
 	},
 	{
 		"code": "11.07.17.2013",
@@ -14927,7 +14937,7 @@
 	{
 		"code": "11.07.17.2017",
 		"type": "desa",
-		"name": "JAM UJONG"
+		"name": "LAM UJONG"
 	},
 	{
 		"code": "11.07.17.2018",
@@ -14977,7 +14987,7 @@
 	{
 		"code": "11.07.17.2027",
 		"type": "desa",
-		"name": "BEUTONG PEUREULAT"
+		"name": "BEUTONG PERLAK"
 	},
 	{
 		"code": "11.07.17.2028",
@@ -14997,17 +15007,17 @@
 	{
 		"code": "11.07.17.2032",
 		"type": "desa",
-		"name": "LAMKUTA"
+		"name": "MALI LAMKUTA"
 	},
 	{
 		"code": "11.07.17.2033",
 		"type": "desa",
-		"name": "MALI MNS UKE"
+		"name": "MALI UKE"
 	},
 	{
 		"code": "11.07.17.2034",
 		"type": "desa",
-		"name": "MNS MALI MESJID"
+		"name": "MALI MESJID"
 	},
 	{
 		"code": "11.07.17.2035",
@@ -15027,17 +15037,17 @@
 	{
 		"code": "11.07.17.2038",
 		"type": "desa",
-		"name": "MNS RAYA"
+		"name": "LAMEUE MNS. RAYA"
 	},
 	{
 		"code": "11.07.17.2039",
 		"type": "desa",
-		"name": "MNS BARO"
+		"name": "LAMEUE MNS. BARO"
 	},
 	{
 		"code": "11.07.17.2040",
 		"type": "desa",
-		"name": "MNS LUENG"
+		"name": "LAMEUE MNS. LUENG"
 	},
 	{
 		"code": "11.07.17.2041",
@@ -15082,7 +15092,7 @@
 	{
 		"code": "11.07.17.2049",
 		"type": "desa",
-		"name": "GAMPONG BAROH"
+		"name": "KAMPONG BARO"
 	},
 	{
 		"code": "11.07.17.2050",
@@ -15107,7 +15117,7 @@
 	{
 		"code": "11.07.18.2003",
 		"type": "desa",
-		"name": "MNS LILIET"
+		"name": "LILIEP"
 	},
 	{
 		"code": "11.07.18.2004",
@@ -15122,7 +15132,7 @@
 	{
 		"code": "11.07.18.2006",
 		"type": "desa",
-		"name": "MNS SUKON"
+		"name": "SUKON"
 	},
 	{
 		"code": "11.07.18.2007",
@@ -15162,12 +15172,12 @@
 	{
 		"code": "11.07.18.2014",
 		"type": "desa",
-		"name": "MEUNASAH EMPEH"
+		"name": "EMPEH"
 	},
 	{
 		"code": "11.07.18.2015",
 		"type": "desa",
-		"name": "MEUNASAH NIEN"
+		"name": "NIEN"
 	},
 	{
 		"code": "11.07.18.2016",
@@ -15197,7 +15207,7 @@
 	{
 		"code": "11.07.18.2021",
 		"type": "desa",
-		"name": "MEUNASAH GONG"
+		"name": "GONG"
 	},
 	{
 		"code": "11.07.18.2022",
@@ -15222,7 +15232,7 @@
 	{
 		"code": "11.07.18.2026",
 		"type": "desa",
-		"name": "MEUNASAH PANTE"
+		"name": "PANTE"
 	},
 	{
 		"code": "11.07.18.2027",
@@ -15362,7 +15372,7 @@
 	{
 		"code": "11.07.19.2001",
 		"type": "desa",
-		"name": "KEUDEE"
+		"name": "KEUDEE TANGSE"
 	},
 	{
 		"code": "11.07.19.2002",
@@ -15427,12 +15437,12 @@
 	{
 		"code": "11.07.19.2014",
 		"type": "desa",
-		"name": "KRUENG MEURIYAM"
+		"name": "KRUENG MEURIAM"
 	},
 	{
 		"code": "11.07.19.2015",
 		"type": "desa",
-		"name": "T. BLANG BEUNGOH"
+		"name": "TUHA BLANG BEUNGOH"
 	},
 	{
 		"code": "11.07.19.2016",
@@ -15472,7 +15482,7 @@
 	{
 		"code": "11.07.19.2023",
 		"type": "desa",
-		"name": "KRUENG SIKEUEK"
+		"name": "KRUENG SEUKEUEK"
 	},
 	{
 		"code": "11.07.19.2024",
@@ -15487,12 +15497,17 @@
 	{
 		"code": "11.07.19.2026",
 		"type": "desa",
-		"name": "PULO LHOK"
+		"name": "PULO IE"
 	},
 	{
 		"code": "11.07.19.2027",
 		"type": "desa",
 		"name": "LHOK KEUTAPANG"
+	},
+	{
+		"code": "11.07.19.2028",
+		"type": "desa",
+		"name": "BLANG PANDAK"
 	},
 	{
 		"code": "11.07.21",
@@ -15532,7 +15547,7 @@
 	{
 		"code": "11.07.21.2007",
 		"type": "desa",
-		"name": "PULO KEMIRI"
+		"name": "PULO KENARI"
 	},
 	{
 		"code": "11.07.21.2008",
@@ -15562,17 +15577,17 @@
 	{
 		"code": "11.07.21.2013",
 		"type": "desa",
-		"name": "MAMPRE"
+		"name": "MAMPREE"
 	},
 	{
 		"code": "11.07.21.2014",
 		"type": "desa",
-		"name": "DAYAH BAROH"
+		"name": "DAYA BAROH"
 	},
 	{
 		"code": "11.07.21.2015",
 		"type": "desa",
-		"name": "DAYAH TEUNGOH"
+		"name": "DAYA TEUNGOH"
 	},
 	{
 		"code": "11.07.21.2016",
@@ -15632,7 +15647,7 @@
 	{
 		"code": "11.07.22.2007",
 		"type": "desa",
-		"name": "COT NEURON"
+		"name": "COT NURAN"
 	},
 	{
 		"code": "11.07.22.2008",
@@ -15717,12 +15732,12 @@
 	{
 		"code": "11.07.24.2005",
 		"type": "desa",
-		"name": "PALOH LHOK"
+		"name": "PALOH LHOK USI"
 	},
 	{
 		"code": "11.07.24.2006",
 		"type": "desa",
-		"name": "CAMPLI"
+		"name": "CAMPLI USI"
 	},
 	{
 		"code": "11.07.24.2007",
@@ -15747,7 +15762,7 @@
 	{
 		"code": "11.07.24.2011",
 		"type": "desa",
-		"name": "BARO"
+		"name": "BARO UJONG RIMBA"
 	},
 	{
 		"code": "11.07.24.2012",
@@ -15777,7 +15792,7 @@
 	{
 		"code": "11.07.24.2017",
 		"type": "desa",
-		"name": "BALE UJ. RIMBA"
+		"name": "BALE UJONG RIMBA"
 	},
 	{
 		"code": "11.07.24.2018",
@@ -15832,7 +15847,7 @@
 	{
 		"code": "11.07.24.2028",
 		"type": "desa",
-		"name": "MESJ. JEURAT MANYANG"
+		"name": "MESJID JEURAT MANYANG"
 	},
 	{
 		"code": "11.07.24.2029",
@@ -15852,7 +15867,7 @@
 	{
 		"code": "11.07.24.2032",
 		"type": "desa",
-		"name": "TONG PEURIA"
+		"name": "TONG PERIA"
 	},
 	{
 		"code": "11.07.24.2033",
@@ -15882,17 +15897,17 @@
 	{
 		"code": "11.07.24.2038",
 		"type": "desa",
-		"name": "JUMPLOIH"
+		"name": "JUMPHOH ADAN"
 	},
 	{
 		"code": "11.07.24.2039",
 		"type": "desa",
-		"name": "MEUNASAH MEE"
+		"name": "MEE ADAN"
 	},
 	{
 		"code": "11.07.24.2040",
 		"type": "desa",
-		"name": "MEUNASAH DAYAH"
+		"name": "DAYAH ADAN"
 	},
 	{
 		"code": "11.07.24.2041",
@@ -15902,12 +15917,12 @@
 	{
 		"code": "11.07.24.2042",
 		"type": "desa",
-		"name": "MEUNASAH RAMBOT"
+		"name": "RAMBOT ADAN"
 	},
 	{
 		"code": "11.07.24.2043",
 		"type": "desa",
-		"name": "MEUNASAH MEUCAT"
+		"name": "MEUCAT ADAN"
 	},
 	{
 		"code": "11.07.24.2044",
@@ -15927,7 +15942,7 @@
 	{
 		"code": "11.07.24.2047",
 		"type": "desa",
-		"name": "BLANG SIMBE"
+		"name": "SIMBE"
 	},
 	{
 		"code": "11.07.24.2048",
@@ -15947,7 +15962,7 @@
 	{
 		"code": "11.07.25.2002",
 		"type": "desa",
-		"name": "MESJ. BEUREULEUNG"
+		"name": "MESJID BEUREULEUNG"
 	},
 	{
 		"code": "11.07.25.2003",
@@ -16022,7 +16037,7 @@
 	{
 		"code": "11.07.27.2001",
 		"type": "desa",
-		"name": "LEUUTEUNG"
+		"name": "LUTUENG"
 	},
 	{
 		"code": "11.07.27.2002",
@@ -16037,7 +16052,7 @@
 	{
 		"code": "11.07.27.2004",
 		"type": "desa",
-		"name": "TEU RUCUT"
+		"name": "TURUE CUT"
 	},
 	{
 		"code": "11.07.29",
@@ -16062,7 +16077,7 @@
 	{
 		"code": "11.07.29.2004",
 		"type": "desa",
-		"name": "MNS. SAGOE"
+		"name": "SAGOE"
 	},
 	{
 		"code": "11.07.29.2005",
@@ -16127,12 +16142,12 @@
 	{
 		"code": "11.07.29.2017",
 		"type": "desa",
-		"name": "MEUNASAH UKEE"
+		"name": "UKEE"
 	},
 	{
 		"code": "11.07.29.2018",
 		"type": "desa",
-		"name": "K. TRUNG CAMPLI"
+		"name": "KUMBANG TRUNG CAMPLI"
 	},
 	{
 		"code": "11.07.29.2019",
@@ -16147,7 +16162,7 @@
 	{
 		"code": "11.07.29.2021",
 		"type": "desa",
-		"name": "MNS. BUNGONG"
+		"name": "BUNGONG"
 	},
 	{
 		"code": "11.07.31",
@@ -16237,7 +16252,7 @@
 	{
 		"code": "11.08.01.2002",
 		"type": "desa",
-		"name": "MNSH ALUE I PUTEH"
+		"name": "MEUNASAH ALUE IE PUTEH"
 	},
 	{
 		"code": "11.08.01.2003",
@@ -16247,17 +16262,17 @@
 	{
 		"code": "11.08.01.2004",
 		"type": "desa",
-		"name": "ALUE ANOU TIMU"
+		"name": "ALUE ANOE TIMU"
 	},
 	{
 		"code": "11.08.01.2005",
 		"type": "desa",
-		"name": "ALUE ANOU BARAT"
+		"name": "ALUE ANOE BARAT"
 	},
 	{
 		"code": "11.08.01.2006",
 		"type": "desa",
-		"name": "PULO SEUKE"
+		"name": "PULO SEUKEE"
 	},
 	{
 		"code": "11.08.01.2007",
@@ -16327,7 +16342,7 @@
 	{
 		"code": "11.08.01.2020",
 		"type": "desa",
-		"name": "KEUDE PANTEU BRUEH"
+		"name": "KEUDE PANTEU BREUH"
 	},
 	{
 		"code": "11.08.01.2021",
@@ -16377,7 +16392,7 @@
 	{
 		"code": "11.08.01.2030",
 		"type": "desa",
-		"name": "ALUE JAMBOK"
+		"name": "ALUE JAMOK"
 	},
 	{
 		"code": "11.08.01.2031",
@@ -16397,12 +16412,12 @@
 	{
 		"code": "11.08.01.2034",
 		"type": "desa",
-		"name": "KEUDE MENYEE IV"
+		"name": "KEUDE MENJEE IV"
 	},
 	{
 		"code": "11.08.01.2035",
 		"type": "desa",
-		"name": "GEULUMPANG BUNGKOK"
+		"name": "GLUMPANG BUNGKOK"
 	},
 	{
 		"code": "11.08.01.2036",
@@ -16422,7 +16437,7 @@
 	{
 		"code": "11.08.01.2039",
 		"type": "desa",
-		"name": "MATANG REUDEP"
+		"name": "MATANG REUDEUP"
 	},
 	{
 		"code": "11.08.01.2040",
@@ -16437,7 +16452,7 @@
 	{
 		"code": "11.08.01.2042",
 		"type": "desa",
-		"name": "MATANG BERINGIN"
+		"name": "MATANG BEURINGEN"
 	},
 	{
 		"code": "11.08.01.2043",
@@ -16522,7 +16537,7 @@
 	{
 		"code": "11.08.02.2001",
 		"type": "desa",
-		"name": "KEUDE KR. GEUKUH"
+		"name": "KEUDE KRUENG GEUKUH"
 	},
 	{
 		"code": "11.08.02.2002",
@@ -16547,7 +16562,7 @@
 	{
 		"code": "11.08.02.2006",
 		"type": "desa",
-		"name": "UTEUN GELINGGANG"
+		"name": "UTEUN GEULINGGANG"
 	},
 	{
 		"code": "11.08.02.2007",
@@ -16577,12 +16592,12 @@
 	{
 		"code": "11.08.02.2012",
 		"type": "desa",
-		"name": "GLUMPANG SULU TMR."
+		"name": "GEULUMPANG SULU TIMU"
 	},
 	{
 		"code": "11.08.02.2013",
 		"type": "desa",
-		"name": "GLUMPANG SULU BRT."
+		"name": "GEULUMPANG SULU BARAT"
 	},
 	{
 		"code": "11.08.02.2014",
@@ -16637,7 +16652,7 @@
 	{
 		"code": "11.08.03.2008",
 		"type": "desa",
-		"name": "MNSH DAYAH MEUNARA"
+		"name": "DAYAH MEUNARA"
 	},
 	{
 		"code": "11.08.03.2009",
@@ -16647,7 +16662,7 @@
 	{
 		"code": "11.08.03.2010",
 		"type": "desa",
-		"name": "MEUNYECUT BAHAGIA"
+		"name": "MEUNYE CUT BAHAGIA"
 	},
 	{
 		"code": "11.08.03.2011",
@@ -16707,12 +16722,12 @@
 	{
 		"code": "11.08.03.2022",
 		"type": "desa",
-		"name": "GUHA ULEU"
+		"name": "GUHA ULUE"
 	},
 	{
 		"code": "11.08.03.2023",
 		"type": "desa",
-		"name": "CEUMEUCAT"
+		"name": "CEUMEUCET"
 	},
 	{
 		"code": "11.08.03.2024",
@@ -16742,7 +16757,7 @@
 	{
 		"code": "11.08.03.2029",
 		"type": "desa",
-		"name": "MEURIYA"
+		"name": "MEURIA"
 	},
 	{
 		"code": "11.08.03.2030",
@@ -16767,7 +16782,7 @@
 	{
 		"code": "11.08.03.2034",
 		"type": "desa",
-		"name": "MEULING MANYANG"
+		"name": "MULING MANYANG"
 	},
 	{
 		"code": "11.08.03.2035",
@@ -16787,7 +16802,7 @@
 	{
 		"code": "11.08.03.2038",
 		"type": "desa",
-		"name": "PANTON REYAEUK II"
+		"name": "PANTON RAYEUK II"
 	},
 	{
 		"code": "11.08.03.2039",
@@ -16802,7 +16817,7 @@
 	{
 		"code": "11.08.04.2001",
 		"type": "desa",
-		"name": "KOTA LHOKSUKON"
+		"name": "KUTA LHOKSUKON"
 	},
 	{
 		"code": "11.08.04.2002",
@@ -16837,7 +16852,7 @@
 	{
 		"code": "11.08.04.2008",
 		"type": "desa",
-		"name": "REUDEP"
+		"name": "MEUNASAH REUDEUP"
 	},
 	{
 		"code": "11.08.04.2009",
@@ -16847,7 +16862,7 @@
 	{
 		"code": "11.08.04.2010",
 		"type": "desa",
-		"name": "MEUNYEU MATANG UBI"
+		"name": "MEUNYE MATANG UBI"
 	},
 	{
 		"code": "11.08.04.2011",
@@ -16862,7 +16877,7 @@
 	{
 		"code": "11.08.04.2013",
 		"type": "desa",
-		"name": "BLANG"
+		"name": "MEUNASAH BLANG"
 	},
 	{
 		"code": "11.08.04.2014",
@@ -16872,7 +16887,7 @@
 	{
 		"code": "11.08.04.2015",
 		"type": "desa",
-		"name": "ARONGAN ARA BUNGKOK"
+		"name": "MEUNASAH ARONGAN AB"
 	},
 	{
 		"code": "11.08.04.2016",
@@ -16882,12 +16897,12 @@
 	{
 		"code": "11.08.04.2017",
 		"type": "desa",
-		"name": "LEUBOK"
+		"name": "MEUNASAH LEUBOK AB"
 	},
 	{
 		"code": "11.08.04.2018",
 		"type": "desa",
-		"name": "COT GLUMPANG"
+		"name": "COT GLUMPANG AB"
 	},
 	{
 		"code": "11.08.04.2019",
@@ -16897,7 +16912,7 @@
 	{
 		"code": "11.08.04.2020",
 		"type": "desa",
-		"name": "ARA"
+		"name": "ARA AB"
 	},
 	{
 		"code": "11.08.04.2021",
@@ -16907,12 +16922,12 @@
 	{
 		"code": "11.08.04.2022",
 		"type": "desa",
-		"name": "MATANG PUPANJI"
+		"name": "MATANG PUPANJI AB"
 	},
 	{
 		"code": "11.08.04.2023",
 		"type": "desa",
-		"name": "ASAN ARA BUNGKOK"
+		"name": "MEUNASAH ASAN AB"
 	},
 	{
 		"code": "11.08.04.2024",
@@ -16932,57 +16947,57 @@
 	{
 		"code": "11.08.04.2027",
 		"type": "desa",
-		"name": "ALUE DRIEN"
+		"name": "MEUNASAH ALUE DRIEN LB"
 	},
 	{
 		"code": "11.08.04.2028",
 		"type": "desa",
-		"name": "ALUE MEUDEM"
+		"name": "ALUE MUDEM"
 	},
 	{
 		"code": "11.08.04.2029",
 		"type": "desa",
-		"name": "GEULINGANG"
+		"name": "MEUNASAH GEULINGGANG"
 	},
 	{
 		"code": "11.08.04.2030",
 		"type": "desa",
-		"name": "ASAN LHOKSUKON BRT"
+		"name": "MEUNASAH ASAN LB"
 	},
 	{
 		"code": "11.08.04.2031",
 		"type": "desa",
-		"name": "BEURINGIN"
+		"name": "BERINGIN LB"
 	},
 	{
 		"code": "11.08.04.2032",
 		"type": "desa",
-		"name": "TEUNGOH LB"
+		"name": "MEUNASAH TEUNGOH LB"
 	},
 	{
 		"code": "11.08.04.2033",
 		"type": "desa",
-		"name": "RAYEUK"
+		"name": "MEUNASAH RAYEUK LB"
 	},
 	{
 		"code": "11.08.04.2034",
 		"type": "desa",
-		"name": "ULEE BARAT"
+		"name": "MEUNASAH ULEE BARAT"
 	},
 	{
 		"code": "11.08.04.2035",
 		"type": "desa",
-		"name": "RANTO"
+		"name": "MEUNASAH RANTO"
 	},
 	{
 		"code": "11.08.04.2036",
 		"type": "desa",
-		"name": "TUTONG"
+		"name": "MEUNASAH TUTONG"
 	},
 	{
 		"code": "11.08.04.2037",
 		"type": "desa",
-		"name": "NGA LHOKSUKON BRT"
+		"name": "MEUNASAH NGA LB"
 	},
 	{
 		"code": "11.08.04.2038",
@@ -17007,17 +17022,17 @@
 	{
 		"code": "11.08.04.2042",
 		"type": "desa",
-		"name": "GEUMATA"
+		"name": "MEUNASAH GEUMATA"
 	},
 	{
 		"code": "11.08.04.2043",
 		"type": "desa",
-		"name": "MEUREUBO"
+		"name": "MEUNASAH MEUREUBO"
 	},
 	{
 		"code": "11.08.04.2044",
 		"type": "desa",
-		"name": "DAYAH LHOKSUKON TEUNGOH"
+		"name": "MEUNASAH DAYAH LT"
 	},
 	{
 		"code": "11.08.04.2045",
@@ -17027,12 +17042,12 @@
 	{
 		"code": "11.08.04.2046",
 		"type": "desa",
-		"name": "TUHA"
+		"name": "MEUNASAH TUHA"
 	},
 	{
 		"code": "11.08.04.2047",
 		"type": "desa",
-		"name": "KRUENG"
+		"name": "MEUNASAH KRUENG LT"
 	},
 	{
 		"code": "11.08.04.2048",
@@ -17047,7 +17062,7 @@
 	{
 		"code": "11.08.04.2050",
 		"type": "desa",
-		"name": "ALUE ITAM REUDEP"
+		"name": "ALUE ITAM REUDEUP"
 	},
 	{
 		"code": "11.08.04.2051",
@@ -17057,17 +17072,17 @@
 	{
 		"code": "11.08.04.2052",
 		"type": "desa",
-		"name": "NGA LHOKSUKON TGH."
+		"name": "MEUNASAH NGA LT"
 	},
 	{
 		"code": "11.08.04.2053",
 		"type": "desa",
-		"name": "MEURIA"
+		"name": "MEUNASAH MEURIA"
 	},
 	{
 		"code": "11.08.04.2054",
 		"type": "desa",
-		"name": "KUMBANG"
+		"name": "KUMBANG LT"
 	},
 	{
 		"code": "11.08.04.2055",
@@ -17077,12 +17092,12 @@
 	{
 		"code": "11.08.04.2056",
 		"type": "desa",
-		"name": "ALEU EMPOK"
+		"name": "ALEU EUMPOK"
 	},
 	{
 		"code": "11.08.04.2057",
 		"type": "desa",
-		"name": "JOK"
+		"name": "MEUNASAH JOK"
 	},
 	{
 		"code": "11.08.04.2058",
@@ -17107,17 +17122,17 @@
 	{
 		"code": "11.08.04.2062",
 		"type": "desa",
-		"name": "BULOH"
+		"name": "BULOH LT"
 	},
 	{
 		"code": "11.08.04.2063",
 		"type": "desa",
-		"name": "GLUMPANG"
+		"name": "GEULUMPANG"
 	},
 	{
 		"code": "11.08.04.2064",
 		"type": "desa",
-		"name": "TEUNGOH LT"
+		"name": "MEUNASAH TEUNGOH LT"
 	},
 	{
 		"code": "11.08.04.2065",
@@ -17132,7 +17147,7 @@
 	{
 		"code": "11.08.04.2067",
 		"type": "desa",
-		"name": "BUKET ME"
+		"name": "BUKET MEE LT"
 	},
 	{
 		"code": "11.08.04.2068",
@@ -17217,17 +17232,17 @@
 	{
 		"code": "11.08.05.2008",
 		"type": "desa",
-		"name": "RAYEK GLANG GLONG"
+		"name": "RAYEUK GLANG GLONG"
 	},
 	{
 		"code": "11.08.05.2009",
 		"type": "desa",
-		"name": "PUNTI GLUMPANG VII"
+		"name": "PUNTI GEULUMPANG VII"
 	},
 	{
 		"code": "11.08.05.2010",
 		"type": "desa",
-		"name": "GLUMPANG VII"
+		"name": "GEULUMPANG VII"
 	},
 	{
 		"code": "11.08.05.2011",
@@ -17237,12 +17252,12 @@
 	{
 		"code": "11.08.05.2012",
 		"type": "desa",
-		"name": "ARON GLUMPANG VII"
+		"name": "ARON GEULUMPANG VII"
 	},
 	{
 		"code": "11.08.05.2013",
 		"type": "desa",
-		"name": "MATANG MENYE"
+		"name": "MATANG MUNYE"
 	},
 	{
 		"code": "11.08.05.2014",
@@ -17287,7 +17302,7 @@
 	{
 		"code": "11.08.05.2022",
 		"type": "desa",
-		"name": "JEUMPA GLUMPANG VII"
+		"name": "JEUMPA GEULUMPANG VII"
 	},
 	{
 		"code": "11.08.05.2034",
@@ -17342,7 +17357,7 @@
 	{
 		"code": "11.08.05.2045",
 		"type": "desa",
-		"name": "MUNYE PIRAK"
+		"name": "MEUNYE PIRAK"
 	},
 	{
 		"code": "11.08.05.2046",
@@ -17367,7 +17382,7 @@
 	{
 		"code": "11.08.05.2050",
 		"type": "desa",
-		"name": "PANTEE PIRAK"
+		"name": "PANTE PIRAK"
 	},
 	{
 		"code": "11.08.05.2052",
@@ -17397,7 +17412,7 @@
 	{
 		"code": "11.08.05.2067",
 		"type": "desa",
-		"name": "TANJUNG TENGKU KARI"
+		"name": "TANJONG TEUNGKU KARI"
 	},
 	{
 		"code": "11.08.05.2068",
@@ -17417,7 +17432,7 @@
 	{
 		"code": "11.08.05.2071",
 		"type": "desa",
-		"name": "KUNYET MULE"
+		"name": "KUNYET MULEE"
 	},
 	{
 		"code": "11.08.05.2072",
@@ -17462,7 +17477,7 @@
 	{
 		"code": "11.08.06.2007",
 		"type": "desa",
-		"name": "KUALA DEWA"
+		"name": "KUALA DUA"
 	},
 	{
 		"code": "11.08.06.2008",
@@ -17537,12 +17552,12 @@
 	{
 		"code": "11.08.06.2022",
 		"type": "desa",
-		"name": "RELEUT TIMU"
+		"name": "REULEUT TIMU"
 	},
 	{
 		"code": "11.08.06.2023",
 		"type": "desa",
-		"name": "RELEUT BARAT"
+		"name": "REULEUT BARAT"
 	},
 	{
 		"code": "11.08.06.2024",
@@ -17617,7 +17632,7 @@
 	{
 		"code": "11.08.07.2013",
 		"type": "desa",
-		"name": "TUMPOK TEUNGKU"
+		"name": "TEUMPOK TEUNGKU"
 	},
 	{
 		"code": "11.08.07.2014",
@@ -17647,12 +17662,12 @@
 	{
 		"code": "11.08.07.2019",
 		"type": "desa",
-		"name": "MEE"
+		"name": "MEUNASAH MEE"
 	},
 	{
 		"code": "11.08.07.2020",
 		"type": "desa",
-		"name": "NGA"
+		"name": "MEUNASAH NGA"
 	},
 	{
 		"code": "11.08.07.2021",
@@ -17672,7 +17687,7 @@
 	{
 		"code": "11.08.07.2024",
 		"type": "desa",
-		"name": "KEH"
+		"name": "KEEH"
 	},
 	{
 		"code": "11.08.07.2025",
@@ -17707,12 +17722,12 @@
 	{
 		"code": "11.08.07.2031",
 		"type": "desa",
-		"name": "PULO KITON"
+		"name": "PULO KITOU"
 	},
 	{
 		"code": "11.08.07.2032",
 		"type": "desa",
-		"name": "CIBREK"
+		"name": "CEUBREK"
 	},
 	{
 		"code": "11.08.07.2033",
@@ -17742,7 +17757,7 @@
 	{
 		"code": "11.08.07.2038",
 		"type": "desa",
-		"name": "TEUNGOH K. BATEE"
+		"name": "TEUNGOH KUTA BATEE"
 	},
 	{
 		"code": "11.08.07.2039",
@@ -17757,7 +17772,7 @@
 	{
 		"code": "11.08.07.2041",
 		"type": "desa",
-		"name": "LEUBEUK TUWE"
+		"name": "LEUBOK TUWE"
 	},
 	{
 		"code": "11.08.07.2042",
@@ -17792,7 +17807,7 @@
 	{
 		"code": "11.08.07.2048",
 		"type": "desa",
-		"name": "BARE BLANG"
+		"name": "BAREE BLANG"
 	},
 	{
 		"code": "11.08.07.2049",
@@ -17857,7 +17872,7 @@
 	{
 		"code": "11.08.08.2010",
 		"type": "desa",
-		"name": "KR. BARO LANGKAHAN"
+		"name": "KRUENG BARO LANGGAHAN"
 	},
 	{
 		"code": "11.08.08.2011",
@@ -17897,7 +17912,7 @@
 	{
 		"code": "11.08.08.2018",
 		"type": "desa",
-		"name": "KRUENG BARO BM"
+		"name": "KRUENG BARO BLANG MEE"
 	},
 	{
 		"code": "11.08.08.2019",
@@ -17917,7 +17932,7 @@
 	{
 		"code": "11.08.08.2022",
 		"type": "desa",
-		"name": "KEUDE BLANG MEE PK"
+		"name": "KEUDE BLANG MEE PULO KLAT"
 	},
 	{
 		"code": "11.08.08.2023",
@@ -17977,7 +17992,7 @@
 	{
 		"code": "11.08.08.2034",
 		"type": "desa",
-		"name": "TANJONG RENGKAM"
+		"name": "TANJONG REUNGKAM"
 	},
 	{
 		"code": "11.08.08.2035",
@@ -18022,7 +18037,7 @@
 	{
 		"code": "11.08.09.2002",
 		"type": "desa",
-		"name": "MERBO PUNTONG"
+		"name": "MEURUBO PUNTONG"
 	},
 	{
 		"code": "11.08.09.2003",
@@ -18032,12 +18047,12 @@
 	{
 		"code": "11.08.09.2004",
 		"type": "desa",
-		"name": "ALUE BAREUH"
+		"name": "ALUE BARUEH"
 	},
 	{
 		"code": "11.08.09.2005",
 		"type": "desa",
-		"name": "KEUDE SIMPANG JLN"
+		"name": "KEUDE SIMPANG JALAN"
 	},
 	{
 		"code": "11.08.09.2006",
@@ -18142,7 +18157,7 @@
 	{
 		"code": "11.08.09.2026",
 		"type": "desa",
-		"name": "TEUPIN KUYUN"
+		"name": "TEUPIN KUYUEN"
 	},
 	{
 		"code": "11.08.09.2027",
@@ -18152,7 +18167,7 @@
 	{
 		"code": "11.08.09.2028",
 		"type": "desa",
-		"name": "ULE MATANG"
+		"name": "ULEE MATANG"
 	},
 	{
 		"code": "11.08.09.2029",
@@ -18172,7 +18187,7 @@
 	{
 		"code": "11.08.09.2032",
 		"type": "desa",
-		"name": "LHOK GEULITUT"
+		"name": "LHOK GEULITUET"
 	},
 	{
 		"code": "11.08.09.2033",
@@ -18212,7 +18227,7 @@
 	{
 		"code": "11.08.10.2006",
 		"type": "desa",
-		"name": "ME ARON"
+		"name": "MEE ARON"
 	},
 	{
 		"code": "11.08.10.2007",
@@ -18277,7 +18292,7 @@
 	{
 		"code": "11.08.10.2019",
 		"type": "desa",
-		"name": "U BLANG ASAN"
+		"name": "GAMPONG U"
 	},
 	{
 		"code": "11.08.10.2020",
@@ -18292,17 +18307,17 @@
 	{
 		"code": "11.08.10.2022",
 		"type": "desa",
-		"name": "PEUREUPOK"
+		"name": "PEURUPOK"
 	},
 	{
 		"code": "11.08.10.2023",
 		"type": "desa",
-		"name": "ALUE GANTO"
+		"name": "ALUE GUNTO"
 	},
 	{
 		"code": "11.08.10.2024",
 		"type": "desa",
-		"name": "PULO BLANG ASAN"
+		"name": "PULO"
 	},
 	{
 		"code": "11.08.10.2025",
@@ -18322,7 +18337,7 @@
 	{
 		"code": "11.08.10.2028",
 		"type": "desa",
-		"name": "MAMPRE"
+		"name": "MAMPREE"
 	},
 	{
 		"code": "11.08.10.2029",
@@ -18347,7 +18362,7 @@
 	{
 		"code": "11.08.10.2033",
 		"type": "desa",
-		"name": "TANJONG MEULING"
+		"name": "TANJONG MULIENG"
 	},
 	{
 		"code": "11.08.10.2034",
@@ -18412,7 +18427,7 @@
 	{
 		"code": "11.08.11.2011",
 		"type": "desa",
-		"name": "DAYAH TUDA"
+		"name": "DAYAH TUHA"
 	},
 	{
 		"code": "11.08.11.2012",
@@ -18457,7 +18472,7 @@
 	{
 		"code": "11.08.11.2020",
 		"type": "desa",
-		"name": "TRIENG MEUDURO"
+		"name": "TRIENG MEUDUROU"
 	},
 	{
 		"code": "11.08.11.2021",
@@ -18467,7 +18482,7 @@
 	{
 		"code": "11.08.11.2022",
 		"type": "desa",
-		"name": "GAROT"
+		"name": "GARUT"
 	},
 	{
 		"code": "11.08.11.2023",
@@ -18482,7 +18497,7 @@
 	{
 		"code": "11.08.11.2025",
 		"type": "desa",
-		"name": "CEBREK"
+		"name": "CIBREK"
 	},
 	{
 		"code": "11.08.11.2026",
@@ -18497,7 +18512,7 @@
 	{
 		"code": "11.08.11.2028",
 		"type": "desa",
-		"name": "COT NEUHEUM"
+		"name": "COT NEUHEUN"
 	},
 	{
 		"code": "11.08.11.2029",
@@ -18512,7 +18527,7 @@
 	{
 		"code": "11.08.11.2031",
 		"type": "desa",
-		"name": "DAYAH B. SEREIKUY"
+		"name": "DAYAH BLANG SEUREUKUY"
 	},
 	{
 		"code": "11.08.11.2032",
@@ -18547,7 +18562,7 @@
 	{
 		"code": "11.08.11.2047",
 		"type": "desa",
-		"name": "BLANG SERIKUY"
+		"name": "BLANG SEUREUKUY"
 	},
 	{
 		"code": "11.08.12",
@@ -18612,7 +18627,7 @@
 	{
 		"code": "11.08.12.2012",
 		"type": "desa",
-		"name": "PAYA BERANDANG"
+		"name": "PAYA BEURANDANG"
 	},
 	{
 		"code": "11.08.12.2013",
@@ -18622,7 +18637,7 @@
 	{
 		"code": "11.08.12.2014",
 		"type": "desa",
-		"name": "TUTONG"
+		"name": "MEUNASAH TUTONG"
 	},
 	{
 		"code": "11.08.12.2015",
@@ -18652,12 +18667,12 @@
 	{
 		"code": "11.08.12.2020",
 		"type": "desa",
-		"name": "UJ. BAROH BERGHANG"
+		"name": "UJONG BAROH BERGHANG"
 	},
 	{
 		"code": "11.08.12.2021",
 		"type": "desa",
-		"name": "JEUMPA"
+		"name": "JEUMPA BERGHANG"
 	},
 	{
 		"code": "11.08.12.2022",
@@ -18667,7 +18682,7 @@
 	{
 		"code": "11.08.12.2023",
 		"type": "desa",
-		"name": "PANTE"
+		"name": "PANTE BERGHANG"
 	},
 	{
 		"code": "11.08.12.2024",
@@ -18717,7 +18732,7 @@
 	{
 		"code": "11.08.12.2033",
 		"type": "desa",
-		"name": "MANYANG"
+		"name": "MANYANG SB"
 	},
 	{
 		"code": "11.08.12.2034",
@@ -18782,12 +18797,12 @@
 	{
 		"code": "11.08.12.2046",
 		"type": "desa",
-		"name": "TEUPIN ME"
+		"name": "TEUPIN MEE"
 	},
 	{
 		"code": "11.08.12.2047",
 		"type": "desa",
-		"name": "PLU PUKAM"
+		"name": "PLU PAKAM"
 	},
 	{
 		"code": "11.08.12.2048",
@@ -18797,12 +18812,12 @@
 	{
 		"code": "11.08.12.2049",
 		"type": "desa",
-		"name": "PUNTI SEULEUMAK BRT."
+		"name": "PUNTI SEULEUMAK BARAT"
 	},
 	{
 		"code": "11.08.12.2050",
 		"type": "desa",
-		"name": "SERBA YAMAN TUNONG"
+		"name": "SERBA JAMAN TUNONG"
 	},
 	{
 		"code": "11.08.12.2051",
@@ -18822,7 +18837,7 @@
 	{
 		"code": "11.08.12.2054",
 		"type": "desa",
-		"name": "SERBA YAMAN BAROH"
+		"name": "SERBA JAMAN BAROH"
 	},
 	{
 		"code": "11.08.12.2055",
@@ -18832,7 +18847,7 @@
 	{
 		"code": "11.08.12.2056",
 		"type": "desa",
-		"name": "MATANG BALOI"
+		"name": "MATANG BALOY"
 	},
 	{
 		"code": "11.08.12.2057",
@@ -18852,7 +18867,7 @@
 	{
 		"code": "11.08.13.2002",
 		"type": "desa",
-		"name": "ME MATANG PANYANG"
+		"name": "MEE MATANG PANYANG"
 	},
 	{
 		"code": "11.08.13.2003",
@@ -18867,7 +18882,7 @@
 	{
 		"code": "11.08.13.2005",
 		"type": "desa",
-		"name": "KEUDE MATANG PYG"
+		"name": "KEUDE MATANG PAYANG"
 	},
 	{
 		"code": "11.08.13.2006",
@@ -18892,7 +18907,7 @@
 	{
 		"code": "11.08.13.2010",
 		"type": "desa",
-		"name": "PREY"
+		"name": "PRIE"
 	},
 	{
 		"code": "11.08.13.2011",
@@ -18917,7 +18932,7 @@
 	{
 		"code": "11.08.13.2015",
 		"type": "desa",
-		"name": "ME MEUREUBO"
+		"name": "ME MERBO"
 	},
 	{
 		"code": "11.08.13.2016",
@@ -18932,7 +18947,7 @@
 	{
 		"code": "11.08.13.2018",
 		"type": "desa",
-		"name": "KUALA KEUREUTEU BARAT"
+		"name": "KUALA KEUREUTOU BARAT"
 	},
 	{
 		"code": "11.08.14",
@@ -18947,7 +18962,7 @@
 	{
 		"code": "11.08.14.2002",
 		"type": "desa",
-		"name": "GLUMPANG UMPONG UNOU"
+		"name": "GEULUMPANG UMPUNG UNOU"
 	},
 	{
 		"code": "11.08.14.2003",
@@ -18957,7 +18972,7 @@
 	{
 		"code": "11.08.14.2004",
 		"type": "desa",
-		"name": "SEUNEUBOK D"
+		"name": "SEUNEUBOK DOE"
 	},
 	{
 		"code": "11.08.14.2005",
@@ -19072,7 +19087,7 @@
 	{
 		"code": "11.08.14.2027",
 		"type": "desa",
-		"name": "LHOK BEURINGIN"
+		"name": "LHOK BEURINGEN"
 	},
 	{
 		"code": "11.08.14.2028",
@@ -19087,7 +19102,7 @@
 	{
 		"code": "11.08.14.2030",
 		"type": "desa",
-		"name": "TANJONG CENGAI"
+		"name": "TANJONG CEUNGAI"
 	},
 	{
 		"code": "11.08.14.2031",
@@ -19112,7 +19127,7 @@
 	{
 		"code": "11.08.14.2035",
 		"type": "desa",
-		"name": "SAMA KUROK"
+		"name": "SAMAKUROK"
 	},
 	{
 		"code": "11.08.14.2036",
@@ -19227,7 +19242,7 @@
 	{
 		"code": "11.08.15.2010",
 		"type": "desa",
-		"name": "PUNTEUT"
+		"name": "PUNTEUET"
 	},
 	{
 		"code": "11.08.15.2011",
@@ -19252,7 +19267,7 @@
 	{
 		"code": "11.08.15.2015",
 		"type": "desa",
-		"name": "TEUPIN REUSEB"
+		"name": "TEUPIN RUSEP"
 	},
 	{
 		"code": "11.08.15.2016",
@@ -19267,7 +19282,7 @@
 	{
 		"code": "11.08.15.2018",
 		"type": "desa",
-		"name": "COT KEUMUNENG"
+		"name": "COT KUMUNENG"
 	},
 	{
 		"code": "11.08.15.2019",
@@ -19437,7 +19452,7 @@
 	{
 		"code": "11.08.16.2027",
 		"type": "desa",
-		"name": "PALOH MAMPRE"
+		"name": "PALOH MAMPREE"
 	},
 	{
 		"code": "11.08.16.2028",
@@ -19467,7 +19482,7 @@
 	{
 		"code": "11.08.16.2033",
 		"type": "desa",
-		"name": "ALUE BILIE"
+		"name": "ALUE BILI"
 	},
 	{
 		"code": "11.08.16.2034",
@@ -19477,17 +19492,17 @@
 	{
 		"code": "11.08.16.2035",
 		"type": "desa",
-		"name": "BLANG D. GEUNTENG"
+		"name": "BLANG DALAM GEUNTENG"
 	},
 	{
 		"code": "11.08.16.2036",
 		"type": "desa",
-		"name": "B. DALAM TUNONG"
+		"name": "BLANG DALAM TUNONG"
 	},
 	{
 		"code": "11.08.16.2037",
 		"type": "desa",
-		"name": "B. DALAM BAROH"
+		"name": "BLANG DALAM BAROH"
 	},
 	{
 		"code": "11.08.16.2038",
@@ -19497,7 +19512,7 @@
 	{
 		"code": "11.08.16.2039",
 		"type": "desa",
-		"name": "COT EUNTONG"
+		"name": "COT EUNTUNG"
 	},
 	{
 		"code": "11.08.16.2040",
@@ -19537,12 +19552,12 @@
 	{
 		"code": "11.08.17.2002",
 		"type": "desa",
-		"name": "MEUREBO"
+		"name": "LHOK MEURBO"
 	},
 	{
 		"code": "11.08.17.2003",
 		"type": "desa",
-		"name": "KAMPUNG BANTAN"
+		"name": "KP. BANTAN"
 	},
 	{
 		"code": "11.08.17.2004",
@@ -19562,7 +19577,7 @@
 	{
 		"code": "11.08.17.2007",
 		"type": "desa",
-		"name": "KAMPUNG TEMPEL"
+		"name": "KP. TEMPEL"
 	},
 	{
 		"code": "11.08.17.2008",
@@ -19577,17 +19592,17 @@
 	{
 		"code": "11.08.17.2010",
 		"type": "desa",
-		"name": "ALUE DRIEN LS"
+		"name": "ALUE DRIEN"
 	},
 	{
 		"code": "11.08.17.2011",
 		"type": "desa",
-		"name": "CEUMPEUDAK"
+		"name": "CEMPEUDAK"
 	},
 	{
 		"code": "11.08.17.2012",
 		"type": "desa",
-		"name": "MATANG TEUNGOH L"
+		"name": "MATANG TEUNGOH"
 	},
 	{
 		"code": "11.08.17.2013",
@@ -19602,7 +19617,7 @@
 	{
 		"code": "11.08.17.2015",
 		"type": "desa",
-		"name": "TRIENG LHOKSUKON SLT"
+		"name": "TRIENG"
 	},
 	{
 		"code": "11.08.17.2016",
@@ -19622,7 +19637,7 @@
 	{
 		"code": "11.08.17.2019",
 		"type": "desa",
-		"name": "ARA LKOKSUKON SLT"
+		"name": "GAMPONG ARA"
 	},
 	{
 		"code": "11.08.17.2020",
@@ -19647,7 +19662,7 @@
 	{
 		"code": "11.08.17.2024",
 		"type": "desa",
-		"name": "DRIEN DUA"
+		"name": "DRIEN II"
 	},
 	{
 		"code": "11.08.18",
@@ -19707,7 +19722,7 @@
 	{
 		"code": "11.08.18.2011",
 		"type": "desa",
-		"name": "MATANG TEUNGOH SLT"
+		"name": "MATANG TEUNGOH SELATAN"
 	},
 	{
 		"code": "11.08.18.2012",
@@ -19732,7 +19747,7 @@
 	{
 		"code": "11.08.18.2016",
 		"type": "desa",
-		"name": "TANJUNG DALAM SLT"
+		"name": "TANJONG DALAM SELATAN"
 	},
 	{
 		"code": "11.08.18.2017",
@@ -19792,7 +19807,7 @@
 	{
 		"code": "11.08.19.2004",
 		"type": "desa",
-		"name": "BLANG NIBONG"
+		"name": "LANG NIBONG"
 	},
 	{
 		"code": "11.08.19.2005",
@@ -19832,7 +19847,7 @@
 	{
 		"code": "11.08.19.2012",
 		"type": "desa",
-		"name": "MPG RAYA BLANG SIALET"
+		"name": "MATANG RAYA BLANG SIALET"
 	},
 	{
 		"code": "11.08.19.2013",
@@ -19867,7 +19882,7 @@
 	{
 		"code": "11.08.19.2019",
 		"type": "desa",
-		"name": "MEURANDEH RAYA"
+		"name": "MEURANDEH PAYA"
 	},
 	{
 		"code": "11.08.19.2020",
@@ -19897,7 +19912,7 @@
 	{
 		"code": "11.08.19.2025",
 		"type": "desa",
-		"name": "BLANG RHEU"
+		"name": "BLANG RHEUE"
 	},
 	{
 		"code": "11.08.19.2026",
@@ -19917,7 +19932,7 @@
 	{
 		"code": "11.08.20.2002",
 		"type": "desa",
-		"name": "T. DIBANDA PIRAK"
+		"name": "TGK.DIBANDA PIRAK"
 	},
 	{
 		"code": "11.08.20.2003",
@@ -19937,7 +19952,7 @@
 	{
 		"code": "11.08.20.2006",
 		"type": "desa",
-		"name": "GLUMPANG PIRAK"
+		"name": "GEULUMPANG PIRAK"
 	},
 	{
 		"code": "11.08.20.2007",
@@ -19947,7 +19962,7 @@
 	{
 		"code": "11.08.20.2008",
 		"type": "desa",
-		"name": "SEUNEUBOK A"
+		"name": "SEUNEUBOK ACEH"
 	},
 	{
 		"code": "11.08.20.2009",
@@ -20002,7 +20017,7 @@
 	{
 		"code": "11.08.20.2019",
 		"type": "desa",
-		"name": "MUNNYE SEULEUMAK"
+		"name": "MEUNYE SEULEUMAK"
 	},
 	{
 		"code": "11.08.20.2020",
@@ -20027,7 +20042,7 @@
 	{
 		"code": "11.08.20.2024",
 		"type": "desa",
-		"name": "TANJONG BEURENYONG"
+		"name": "TANJONG BURUNYONG"
 	},
 	{
 		"code": "11.08.20.2025",
@@ -20037,12 +20052,12 @@
 	{
 		"code": "11.08.20.2026",
 		"type": "desa",
-		"name": "BLANG GUCI"
+		"name": "BLANG GUNCI"
 	},
 	{
 		"code": "11.08.20.2027",
 		"type": "desa",
-		"name": "NGA"
+		"name": "GAMPONG NGA"
 	},
 	{
 		"code": "11.08.20.2028",
@@ -20067,7 +20082,7 @@
 	{
 		"code": "11.08.20.2032",
 		"type": "desa",
-		"name": "T. DIBANDA TEK-TEK"
+		"name": "TGK. DIBANDA TEK-TEK"
 	},
 	{
 		"code": "11.08.20.2033",
@@ -20077,7 +20092,7 @@
 	{
 		"code": "11.08.20.2034",
 		"type": "desa",
-		"name": "PUCOK ALUE SEULEMAK"
+		"name": "PUCOK ALUE SEULEUMAK"
 	},
 	{
 		"code": "11.08.20.2035",
@@ -20087,7 +20102,7 @@
 	{
 		"code": "11.08.20.2036",
 		"type": "desa",
-		"name": "CEUMPEUDAK"
+		"name": "CEMPEUDAK"
 	},
 	{
 		"code": "11.08.20.2037",
@@ -20162,7 +20177,7 @@
 	{
 		"code": "11.08.21.2011",
 		"type": "desa",
-		"name": "MUNYE LHEE"
+		"name": "MEUNYE LHEE"
 	},
 	{
 		"code": "11.08.21.2012",
@@ -20237,7 +20252,7 @@
 	{
 		"code": "11.08.22.2005",
 		"type": "desa",
-		"name": "KEBON BARO"
+		"name": "KEUBON BARO"
 	},
 	{
 		"code": "11.08.22.2006",
@@ -20247,7 +20262,7 @@
 	{
 		"code": "11.08.22.2007",
 		"type": "desa",
-		"name": "MEUNASAH BAROEH"
+		"name": "MEUNASAH BAROH"
 	},
 	{
 		"code": "11.08.22.2008",
@@ -20257,12 +20272,12 @@
 	{
 		"code": "11.08.22.2009",
 		"type": "desa",
-		"name": "ALUE BADEE"
+		"name": "ALUE BADE"
 	},
 	{
 		"code": "11.08.22.2010",
 		"type": "desa",
-		"name": "MNSH DAYAH SP.K"
+		"name": "MEUNASAH DAYAH SPK"
 	},
 	{
 		"code": "11.08.22.2011",
@@ -20287,12 +20302,12 @@
 	{
 		"code": "11.08.22.2015",
 		"type": "desa",
-		"name": "PASE SEUNTOSA"
+		"name": "PASE SENTOSA"
 	},
 	{
 		"code": "11.08.22.2016",
 		"type": "desa",
-		"name": "PLANG RALEU"
+		"name": "BLANG RALEUE"
 	},
 	{
 		"code": "11.08.23",
@@ -20347,12 +20362,12 @@
 	{
 		"code": "11.08.23.2010",
 		"type": "desa",
-		"name": "KUALA KEURUTOU"
+		"name": "KUALA KEREUTO"
 	},
 	{
 		"code": "11.08.23.2011",
 		"type": "desa",
-		"name": "KUALA CANGKOI"
+		"name": "KUALA CANGKOY"
 	},
 	{
 		"code": "11.08.24",
@@ -20372,7 +20387,7 @@
 	{
 		"code": "11.08.24.2003",
 		"type": "desa",
-		"name": "GEULUMPANG MATANGKULI"
+		"name": "GEULUMPANG"
 	},
 	{
 		"code": "11.08.24.2004",
@@ -20407,12 +20422,12 @@
 	{
 		"code": "11.08.24.2010",
 		"type": "desa",
-		"name": "PAYO LUENG JALO"
+		"name": "PAYA LUENG JALO"
 	},
 	{
 		"code": "11.08.24.2011",
 		"type": "desa",
-		"name": "ALUE RIMA"
+		"name": "ALUE RIMEE"
 	},
 	{
 		"code": "11.08.24.2012",
@@ -20422,12 +20437,12 @@
 	{
 		"code": "11.08.24.2013",
 		"type": "desa",
-		"name": "ARA TON-TON MONERANG"
+		"name": "ARA TON-TON MONCRANG"
 	},
 	{
 		"code": "11.08.24.2014",
 		"type": "desa",
-		"name": "TANJONG SEURUKUY"
+		"name": "TANJONG SEUREUKUY"
 	},
 	{
 		"code": "11.08.24.2015",
@@ -20437,7 +20452,7 @@
 	{
 		"code": "11.08.24.2016",
 		"type": "desa",
-		"name": "KRUENG"
+		"name": "KRUENG PIRAK"
 	},
 	{
 		"code": "11.08.24.2017",
@@ -20452,7 +20467,7 @@
 	{
 		"code": "11.08.24.2019",
 		"type": "desa",
-		"name": "CEUMECET"
+		"name": "CEUMEUCET"
 	},
 	{
 		"code": "11.08.24.2020",
@@ -20472,7 +20487,7 @@
 	{
 		"code": "11.08.24.2023",
 		"type": "desa",
-		"name": "MUNYE TUJOH"
+		"name": "MEUNYE TUJOH"
 	},
 	{
 		"code": "11.08.25",
@@ -20532,7 +20547,7 @@
 	{
 		"code": "11.08.25.2011",
 		"type": "desa",
-		"name": "SUKA DAMAI SP I"
+		"name": "SUKA DAMAI"
 	},
 	{
 		"code": "11.08.26",
@@ -20557,7 +20572,7 @@
 	{
 		"code": "11.08.26.2004",
 		"type": "desa",
-		"name": "PAYA ULUE"
+		"name": "PAYA ULEUE"
 	},
 	{
 		"code": "11.08.26.2005",
@@ -20567,12 +20582,12 @@
 	{
 		"code": "11.08.26.2006",
 		"type": "desa",
-		"name": "ALUE KEUREUNYAI"
+		"name": "ALUE KEURINYAI"
 	},
 	{
 		"code": "11.08.26.2007",
 		"type": "desa",
-		"name": "SANGKALAN"
+		"name": "SANGKELAN"
 	},
 	{
 		"code": "11.08.26.2008",
@@ -20617,7 +20632,7 @@
 	{
 		"code": "11.08.27.2006",
 		"type": "desa",
-		"name": "BLANG POROH"
+		"name": "BLANG POHROH"
 	},
 	{
 		"code": "11.09",
@@ -20642,12 +20657,12 @@
 	{
 		"code": "11.09.01.2009",
 		"type": "desa",
-		"name": "-E"
+		"name": "LAUREE"
 	},
 	{
 		"code": "11.09.01.2010",
 		"type": "desa",
-		"name": "LAMANYANG"
+		"name": "LAMAYANG"
 	},
 	{
 		"code": "11.09.01.2011",
@@ -20672,7 +20687,7 @@
 	{
 		"code": "11.09.01.2017",
 		"type": "desa",
-		"name": "WELANG KUM"
+		"name": "WEL LANGKOM"
 	},
 	{
 		"code": "11.09.01.2018",
@@ -20692,7 +20707,7 @@
 	{
 		"code": "11.09.01.2021",
 		"type": "desa",
-		"name": "LUAN SOREP"
+		"name": "LUAN SORIP"
 	},
 	{
 		"code": "11.09.01.2022",
@@ -20702,12 +20717,12 @@
 	{
 		"code": "11.09.01.2023",
 		"type": "desa",
-		"name": "LAUKE"
+		"name": "LEUKE"
 	},
 	{
 		"code": "11.09.01.2024",
 		"type": "desa",
-		"name": "SITUPA JAYA"
+		"name": "SITUFA JAYA"
 	},
 	{
 		"code": "11.09.02",
@@ -20722,7 +20737,7 @@
 	{
 		"code": "11.09.02.2002",
 		"type": "desa",
-		"name": "PADANG ANOI"
+		"name": "PADANG UNOI"
 	},
 	{
 		"code": "11.09.02.2003",
@@ -20737,7 +20752,7 @@
 	{
 		"code": "11.09.02.2005",
 		"type": "desa",
-		"name": "ALONG JAYA"
+		"name": "ALONG"
 	},
 	{
 		"code": "11.09.02.2006",
@@ -20787,7 +20802,7 @@
 	{
 		"code": "11.09.02.2015",
 		"type": "desa",
-		"name": "KENANG JAYA"
+		"name": "KENANGAN JAYA"
 	},
 	{
 		"code": "11.09.02.2016",
@@ -20877,7 +20892,7 @@
 	{
 		"code": "11.09.03.2016",
 		"type": "desa",
-		"name": "SITAI"
+		"name": "SITAL"
 	},
 	{
 		"code": "11.09.03.2017",
@@ -20907,7 +20922,7 @@
 	{
 		"code": "11.09.04.2013",
 		"type": "desa",
-		"name": "AMIRIA BAHAGIA"
+		"name": "AMERIA BAHAGIA"
 	},
 	{
 		"code": "11.09.04.2014",
@@ -20932,7 +20947,7 @@
 	{
 		"code": "11.09.04.2018",
 		"type": "desa",
-		"name": "SUKA MULIA"
+		"name": "AMAITENG MULIA"
 	},
 	{
 		"code": "11.09.04.2019",
@@ -20967,7 +20982,7 @@
 	{
 		"code": "11.09.04.2025",
 		"type": "desa",
-		"name": "PULAU SUMAT"
+		"name": "PULAU SIUMAT"
 	},
 	{
 		"code": "11.09.04.2026",
@@ -21002,7 +21017,7 @@
 	{
 		"code": "11.09.05.2004",
 		"type": "desa",
-		"name": "LUGU SEK BAHAK"
+		"name": "LUGU SEBAHAK"
 	},
 	{
 		"code": "11.09.05.2005",
@@ -21017,7 +21032,7 @@
 	{
 		"code": "11.09.05.2007",
 		"type": "desa",
-		"name": "SAMBAY"
+		"name": "SAMBAI"
 	},
 	{
 		"code": "11.09.05.2008",
@@ -21042,7 +21057,7 @@
 	{
 		"code": "11.09.06.2001",
 		"type": "desa",
-		"name": "LAYA BAUNG"
+		"name": "LAYABAUNG"
 	},
 	{
 		"code": "11.09.06.2002",
@@ -21092,7 +21107,7 @@
 	{
 		"code": "11.09.06.2011",
 		"type": "desa",
-		"name": "LHOK BIHAO"
+		"name": "LHOK BIKHAU"
 	},
 	{
 		"code": "11.09.06.2012",
@@ -21117,7 +21132,7 @@
 	{
 		"code": "11.09.07.2001",
 		"type": "desa",
-		"name": "SEUNEBUK"
+		"name": "SEUNEUBOK"
 	},
 	{
 		"code": "11.09.07.2002",
@@ -21127,7 +21142,7 @@
 	{
 		"code": "11.09.07.2003",
 		"type": "desa",
-		"name": "ALUS-ALUS"
+		"name": "ALUS ALUS"
 	},
 	{
 		"code": "11.09.07.2004",
@@ -21202,7 +21217,7 @@
 	{
 		"code": "11.09.07.2018",
 		"type": "desa",
-		"name": "TRANS MARANTI"
+		"name": "TRANS MERANTI"
 	},
 	{
 		"code": "11.09.07.2019",
@@ -21282,7 +21297,7 @@
 	{
 		"code": "11.09.09.2005",
 		"type": "desa",
-		"name": "KAHAT"
+		"name": "KAHAD"
 	},
 	{
 		"code": "11.09.09.2006",
@@ -21362,7 +21377,7 @@
 	{
 		"code": "11.09.10.2008",
 		"type": "desa",
-		"name": "UJUNG PANDANG"
+		"name": "UJUNG PADANG"
 	},
 	{
 		"code": "11.10",
@@ -21412,7 +21427,7 @@
 	{
 		"code": "11.10.02.2004",
 		"type": "desa",
-		"name": "SIANTAS"
+		"name": "SIATAS"
 	},
 	{
 		"code": "11.10.02.2005",
@@ -21467,7 +21482,7 @@
 	{
 		"code": "11.10.02.2015",
 		"type": "desa",
-		"name": "TUH TUHAN"
+		"name": "TUHTUHAN"
 	},
 	{
 		"code": "11.10.02.2016",
@@ -21492,7 +21507,7 @@
 	{
 		"code": "11.10.02.2020",
 		"type": "desa",
-		"name": "SERASA"
+		"name": "SERASAH"
 	},
 	{
 		"code": "11.10.02.2021",
@@ -21527,12 +21542,12 @@
 	{
 		"code": "11.10.04.2001",
 		"type": "desa",
-		"name": "PASAR SINGKIL"
+		"name": "PASAR"
 	},
 	{
 		"code": "11.10.04.2002",
 		"type": "desa",
-		"name": "KAMPUNG UJUNG"
+		"name": "UJUNG"
 	},
 	{
 		"code": "11.10.04.2003",
@@ -21552,7 +21567,7 @@
 	{
 		"code": "11.10.04.2007",
 		"type": "desa",
-		"name": "TELUK AMBON"
+		"name": "TELUK AMBUN"
 	},
 	{
 		"code": "11.10.04.2008",
@@ -21567,7 +21582,7 @@
 	{
 		"code": "11.10.04.2010",
 		"type": "desa",
-		"name": "PAYA BUMBUNG"
+		"name": "PEA BUMBUNG"
 	},
 	{
 		"code": "11.10.04.2011",
@@ -21617,7 +21632,7 @@
 	{
 		"code": "11.10.06.2002",
 		"type": "desa",
-		"name": "PANJAHITAN"
+		"name": "PENJAHITAN"
 	},
 	{
 		"code": "11.10.06.2003",
@@ -21647,7 +21662,7 @@
 	{
 		"code": "11.10.06.2008",
 		"type": "desa",
-		"name": "BLOK IV BARU"
+		"name": "BLOK VI BARU"
 	},
 	{
 		"code": "11.10.06.2009",
@@ -21682,7 +21697,7 @@
 	{
 		"code": "11.10.06.2015",
 		"type": "desa",
-		"name": "PARANGUSAN"
+		"name": "PERANGUSAN"
 	},
 	{
 		"code": "11.10.06.2016",
@@ -21712,7 +21727,7 @@
 	{
 		"code": "11.10.06.2021",
 		"type": "desa",
-		"name": "SANGGA B. SELULUSAN"
+		"name": "SANGGABERU SILULUSAN"
 	},
 	{
 		"code": "11.10.06.2022",
@@ -21732,7 +21747,7 @@
 	{
 		"code": "11.10.06.2025",
 		"type": "desa",
-		"name": "SIANJO ANJO MARIAH"
+		"name": "SIANJO-ANJO MERIAH"
 	},
 	{
 		"code": "11.10.09",
@@ -21797,7 +21812,7 @@
 	{
 		"code": "11.10.10.2002",
 		"type": "desa",
-		"name": "GOSONG TELAGA SEL."
+		"name": "GOSONG TELAGA SELATAN"
 	},
 	{
 		"code": "11.10.10.2003",
@@ -21837,7 +21852,7 @@
 	{
 		"code": "11.10.11.2002",
 		"type": "desa",
-		"name": "NAPA GALUH"
+		"name": "NAPAGALUH"
 	},
 	{
 		"code": "11.10.11.2003",
@@ -21847,7 +21862,7 @@
 	{
 		"code": "11.10.11.2004",
 		"type": "desa",
-		"name": "SITUBUH TUBUH"
+		"name": "SITUBUH-TUBUH"
 	},
 	{
 		"code": "11.10.11.2005",
@@ -21947,7 +21962,7 @@
 	{
 		"code": "11.10.13.2006",
 		"type": "desa",
-		"name": "SRIKAYU"
+		"name": "SRI KAYU"
 	},
 	{
 		"code": "11.10.13.2007",
@@ -21962,12 +21977,12 @@
 	{
 		"code": "11.10.14.2001",
 		"type": "desa",
-		"name": "KP. KUALA BARU LAUT"
+		"name": "KUALA BARU LAUT"
 	},
 	{
 		"code": "11.10.14.2002",
 		"type": "desa",
-		"name": "KP. KUALA BARU SUNGAI"
+		"name": "KUALA BARU SUNGAI"
 	},
 	{
 		"code": "11.10.14.2003",
@@ -21992,7 +22007,7 @@
 	{
 		"code": "11.10.16.2002",
 		"type": "desa",
-		"name": "ASAN TOLA"
+		"name": "ASANTOLA"
 	},
 	{
 		"code": "11.10.16.2003",
@@ -22042,22 +22057,22 @@
 	{
 		"code": "11.11.01.2006",
 		"type": "desa",
-		"name": "NAMP. MANYANG"
+		"name": "NAMPLOH MANYANG"
 	},
 	{
 		"code": "11.11.01.2007",
 		"type": "desa",
-		"name": "NAMP.BLANGGARANG"
+		"name": "NAMPLOH BLANGGARANG"
 	},
 	{
 		"code": "11.11.01.2008",
 		"type": "desa",
-		"name": "NAMP. KRUENG"
+		"name": "NAMPLOH KRUENG"
 	},
 	{
 		"code": "11.11.01.2009",
 		"type": "desa",
-		"name": "NAMP. PAPEUN"
+		"name": "NAMPLOH PAPEUN"
 	},
 	{
 		"code": "11.11.01.2010",
@@ -22077,7 +22092,7 @@
 	{
 		"code": "11.11.01.2013",
 		"type": "desa",
-		"name": "LAN COK"
+		"name": "LANCOK"
 	},
 	{
 		"code": "11.11.01.2014",
@@ -22142,12 +22157,12 @@
 	{
 		"code": "11.11.01.2026",
 		"type": "desa",
-		"name": "PINEUNG SERIBEE"
+		"name": "PINEUNG SIRIBEE"
 	},
 	{
 		"code": "11.11.01.2027",
 		"type": "desa",
-		"name": "GAMP. BARO"
+		"name": "GAMPONG BARO"
 	},
 	{
 		"code": "11.11.01.2028",
@@ -22157,7 +22172,7 @@
 	{
 		"code": "11.11.01.2029",
 		"type": "desa",
-		"name": "GAMP. PUTOH"
+		"name": "GAMPONG PUTOH"
 	},
 	{
 		"code": "11.11.01.2030",
@@ -22172,27 +22187,27 @@
 	{
 		"code": "11.11.01.2032",
 		"type": "desa",
-		"name": "LUENG KEUBU"
+		"name": "LUENG KEUBEU"
 	},
 	{
 		"code": "11.11.01.2033",
 		"type": "desa",
-		"name": "GLU. BUNGKOK"
+		"name": "GLUMPANG BUNGKOK"
 	},
 	{
 		"code": "11.11.01.2034",
 		"type": "desa",
-		"name": "GAMP. MEULUM"
+		"name": "GLUMPANG MEULUM"
 	},
 	{
 		"code": "11.11.01.2035",
 		"type": "desa",
-		"name": "COT M. BARAOH"
+		"name": "COT MEURAK BAROH"
 	},
 	{
 		"code": "11.11.01.2036",
 		"type": "desa",
-		"name": "COT M. BLANG"
+		"name": "COT MEURAK BLANG"
 	},
 	{
 		"code": "11.11.01.2037",
@@ -22212,7 +22227,7 @@
 	{
 		"code": "11.11.01.2040",
 		"type": "desa",
-		"name": "TJ. BARO"
+		"name": "TANJONG BARO"
 	},
 	{
 		"code": "11.11.01.2041",
@@ -22222,17 +22237,17 @@
 	{
 		"code": "11.11.01.2042",
 		"type": "desa",
-		"name": "MEUN. LINCAH"
+		"name": "MEUNASAH LINCAH"
 	},
 	{
 		"code": "11.11.01.2043",
 		"type": "desa",
-		"name": "MEUN. LANCOK"
+		"name": "MEUNASAH LANCOK"
 	},
 	{
 		"code": "11.11.01.2044",
 		"type": "desa",
-		"name": "MEUN. PUUK"
+		"name": "MEUNASAH PUUK"
 	},
 	{
 		"code": "11.11.01.2045",
@@ -22372,12 +22387,12 @@
 	{
 		"code": "11.11.02.2042",
 		"type": "desa",
-		"name": "CG"
+		"name": "COT GLUMPANG BAROH"
 	},
 	{
 		"code": "11.11.02.2043",
 		"type": "desa",
-		"name": "CG"
+		"name": "COT GLUMPANG TUNONG"
 	},
 	{
 		"code": "11.11.02.2044",
@@ -22392,12 +22407,12 @@
 	{
 		"code": "11.11.02.2046",
 		"type": "desa",
-		"name": "LHUE SIMPANG"
+		"name": "LHEU SIMPANG"
 	},
 	{
 		"code": "11.11.02.2047",
 		"type": "desa",
-		"name": "LHUE BARAT"
+		"name": "LHEU BARAT"
 	},
 	{
 		"code": "11.11.02.2048",
@@ -22422,7 +22437,7 @@
 	{
 		"code": "11.11.02.2052",
 		"type": "desa",
-		"name": "MEUNASAH TUNONG L"
+		"name": "MEUNASAH TUNONG LUENG"
 	},
 	{
 		"code": "11.11.02.2053",
@@ -22522,7 +22537,7 @@
 	{
 		"code": "11.11.03.2011",
 		"type": "desa",
-		"name": "MEUNASAH GAROT"
+		"name": "GAROT"
 	},
 	{
 		"code": "11.11.03.2012",
@@ -22562,7 +22577,7 @@
 	{
 		"code": "11.11.03.2019",
 		"type": "desa",
-		"name": "PAYA BUNOT"
+		"name": "PAYA BEUNOT"
 	},
 	{
 		"code": "11.11.03.2020",
@@ -22582,7 +22597,7 @@
 	{
 		"code": "11.11.03.2023",
 		"type": "desa",
-		"name": "MESJID"
+		"name": "GAMPONG MESJID"
 	},
 	{
 		"code": "11.11.03.2024",
@@ -22607,7 +22622,7 @@
 	{
 		"code": "11.11.03.2028",
 		"type": "desa",
-		"name": "BLANG GLEUMPANG"
+		"name": "BLANG GLUMPANG"
 	},
 	{
 		"code": "11.11.03.2029",
@@ -22707,7 +22722,7 @@
 	{
 		"code": "11.11.03.2048",
 		"type": "desa",
-		"name": "MULIA"
+		"name": "GAMPONG MULIA"
 	},
 	{
 		"code": "11.11.03.2049",
@@ -22722,7 +22737,7 @@
 	{
 		"code": "11.11.03.2051",
 		"type": "desa",
-		"name": "TGK. DI BATHON"
+		"name": "TGK. DIBATHON"
 	},
 	{
 		"code": "11.11.03.2052",
@@ -22787,12 +22802,12 @@
 	{
 		"code": "11.11.04.2044",
 		"type": "desa",
-		"name": "BLANG C BAROH"
+		"name": "BLANG COT BAROH"
 	},
 	{
 		"code": "11.11.04.2045",
 		"type": "desa",
-		"name": "BLANG C TUNONG"
+		"name": "BLANG COT TUNONG"
 	},
 	{
 		"code": "11.11.04.2046",
@@ -22942,7 +22957,7 @@
 	{
 		"code": "11.11.04.2081",
 		"type": "desa",
-		"name": "LHAKSMANA"
+		"name": "LAKSAMANA"
 	},
 	{
 		"code": "11.11.05",
@@ -22952,17 +22967,17 @@
 	{
 		"code": "11.11.05.2003",
 		"type": "desa",
-		"name": "2X"
+		"name": "MEUNASAH TIMU"
 	},
 	{
 		"code": "11.11.05.2004",
 		"type": "desa",
-		"name": "KEUDE MTG GLP DUA"
+		"name": "KEUDE MATANG GLUMPANG DUA"
 	},
 	{
 		"code": "11.11.05.2005",
 		"type": "desa",
-		"name": "MTG GLP II MNS DAYAH"
+		"name": "MEUNASAH DAYAH"
 	},
 	{
 		"code": "11.11.05.2006",
@@ -23072,12 +23087,12 @@
 	{
 		"code": "11.11.05.2027",
 		"type": "desa",
-		"name": "KR. BARO BABAH K"
+		"name": "KRUENG BARO BABAH KRUENG"
 	},
 	{
 		"code": "11.11.05.2028",
 		"type": "desa",
-		"name": "KRUENG B MESJID"
+		"name": "KRUENG BARO MESJID"
 	},
 	{
 		"code": "11.11.05.2029",
@@ -23102,12 +23117,12 @@
 	{
 		"code": "11.11.05.2033",
 		"type": "desa",
-		"name": "GAMPONG R DAGANG"
+		"name": "GAMPONG RAYA DAGANG"
 	},
 	{
 		"code": "11.11.05.2034",
 		"type": "desa",
-		"name": "GR. TAMBO"
+		"name": "GAMPONG RAYA TAMBO"
 	},
 	{
 		"code": "11.11.05.2035",
@@ -23132,12 +23147,12 @@
 	{
 		"code": "11.11.05.2040",
 		"type": "desa",
-		"name": "CR"
+		"name": "COT RABO BAROH"
 	},
 	{
 		"code": "11.11.05.2041",
 		"type": "desa",
-		"name": "CR"
+		"name": "COT RABO TUNONG"
 	},
 	{
 		"code": "11.11.05.2042",
@@ -23157,7 +23172,7 @@
 	{
 		"code": "11.11.05.2045",
 		"type": "desa",
-		"name": "ALUE GLEUMPANG"
+		"name": "ALUE GLUMPANG"
 	},
 	{
 		"code": "11.11.05.2046",
@@ -23197,12 +23212,12 @@
 	{
 		"code": "11.11.05.2054",
 		"type": "desa",
-		"name": "CB"
+		"name": "COT BADA TUNONG"
 	},
 	{
 		"code": "11.11.05.2055",
 		"type": "desa",
-		"name": "CB"
+		"name": "COT BADA BAROH"
 	},
 	{
 		"code": "11.11.05.2056",
@@ -23227,7 +23242,7 @@
 	{
 		"code": "11.11.05.2060",
 		"type": "desa",
-		"name": "CB"
+		"name": "COT BADA BARAT"
 	},
 	{
 		"code": "11.11.05.2061",
@@ -23302,7 +23317,7 @@
 	{
 		"code": "11.11.06.2001",
 		"type": "desa",
-		"name": "LEUBE ME"
+		"name": "LEUBU ME"
 	},
 	{
 		"code": "11.11.06.2002",
@@ -23357,7 +23372,7 @@
 	{
 		"code": "11.11.06.2012",
 		"type": "desa",
-		"name": "MON ARA"
+		"name": "MONA ARA"
 	},
 	{
 		"code": "11.11.06.2013",
@@ -23377,17 +23392,17 @@
 	{
 		"code": "11.11.06.2016",
 		"type": "desa",
-		"name": "SEUN. BARO"
+		"name": "SEUNEUBOK BARO"
 	},
 	{
 		"code": "11.11.06.2017",
 		"type": "desa",
-		"name": "PANTEU BRUEH"
+		"name": "PANTEU BREUH"
 	},
 	{
 		"code": "11.11.06.2018",
 		"type": "desa",
-		"name": "TJ. MULIA"
+		"name": "TANJONG MULIA"
 	},
 	{
 		"code": "11.11.06.2019",
@@ -23532,7 +23547,7 @@
 	{
 		"code": "11.11.07.2019",
 		"type": "desa",
-		"name": "BLANG KEUDE"
+		"name": "BLANG KEDE"
 	},
 	{
 		"code": "11.11.07.2020",
@@ -23552,7 +23567,7 @@
 	{
 		"code": "11.11.07.2023",
 		"type": "desa",
-		"name": "PALOH KAYEKUNYET"
+		"name": "PALOH KAYE KUNYET"
 	},
 	{
 		"code": "11.11.07.2024",
@@ -23602,12 +23617,12 @@
 	{
 		"code": "11.11.07.2033",
 		"type": "desa",
-		"name": "TJ. RAYA"
+		"name": "TANJONG RAYA"
 	},
 	{
 		"code": "11.11.07.2034",
 		"type": "desa",
-		"name": "TJ. MESJID"
+		"name": "TANJONG MESJID"
 	},
 	{
 		"code": "11.11.07.2035",
@@ -23617,7 +23632,7 @@
 	{
 		"code": "11.11.07.2036",
 		"type": "desa",
-		"name": "TJ. BUNGONG"
+		"name": "TANJONG BUNGONG"
 	},
 	{
 		"code": "11.11.07.2037",
@@ -23632,7 +23647,7 @@
 	{
 		"code": "11.11.07.2078",
 		"type": "desa",
-		"name": "MONJAMBE"
+		"name": "MON JAMBE"
 	},
 	{
 		"code": "11.11.07.2079",
@@ -23657,7 +23672,7 @@
 	{
 		"code": "11.11.08.2003",
 		"type": "desa",
-		"name": "PANDRA KANDEH"
+		"name": "PANDRAH KANDEH"
 	},
 	{
 		"code": "11.11.08.2004",
@@ -23682,7 +23697,7 @@
 	{
 		"code": "11.11.08.2008",
 		"type": "desa",
-		"name": "GAMP. BLANG"
+		"name": "GAMPONG BLANG"
 	},
 	{
 		"code": "11.11.08.2009",
@@ -23692,7 +23707,7 @@
 	{
 		"code": "11.11.08.2010",
 		"type": "desa",
-		"name": "BLANG SAMAGADENG"
+		"name": "BLANG SAMA GADENG"
 	},
 	{
 		"code": "11.11.08.2011",
@@ -23707,12 +23722,12 @@
 	{
 		"code": "11.11.08.2013",
 		"type": "desa",
-		"name": "MEUN. REUDEUP"
+		"name": "MEUNASAH REUDEUP"
 	},
 	{
 		"code": "11.11.08.2014",
 		"type": "desa",
-		"name": "MEUN. TEUNGOH"
+		"name": "MEUNASAH TEUNGOH"
 	},
 	{
 		"code": "11.11.08.2015",
@@ -23727,12 +23742,12 @@
 	{
 		"code": "11.11.08.2017",
 		"type": "desa",
-		"name": "CEUNEBOK BARO"
+		"name": "SEUNEBOK BARO"
 	},
 	{
 		"code": "11.11.08.2018",
 		"type": "desa",
-		"name": "UTEUN KRUT"
+		"name": "UTEUEN KRUET"
 	},
 	{
 		"code": "11.11.08.2019",
@@ -23767,12 +23782,12 @@
 	{
 		"code": "11.11.09.2005",
 		"type": "desa",
-		"name": "JULI TGK DI LAMPOH"
+		"name": "JULI TGK DILAMPOH"
 	},
 	{
 		"code": "11.11.09.2006",
 		"type": "desa",
-		"name": "GLEUMPANG M. JIM"
+		"name": "GLUMPANG MEU JIM JIM"
 	},
 	{
 		"code": "11.11.09.2007",
@@ -23822,7 +23837,7 @@
 	{
 		"code": "11.11.09.2016",
 		"type": "desa",
-		"name": "BEUYOT"
+		"name": "BEUNYOT"
 	},
 	{
 		"code": "11.11.09.2017",
@@ -23852,7 +23867,7 @@
 	{
 		"code": "11.11.09.2022",
 		"type": "desa",
-		"name": "JULI SEUPANG"
+		"name": "JULI SEUPENG"
 	},
 	{
 		"code": "11.11.09.2023",
@@ -23877,7 +23892,7 @@
 	{
 		"code": "11.11.09.2027",
 		"type": "desa",
-		"name": "JULI PAYA RU"
+		"name": "JULI PAYARU"
 	},
 	{
 		"code": "11.11.09.2028",
@@ -23952,12 +23967,12 @@
 	{
 		"code": "11.11.10.2005",
 		"type": "desa",
-		"name": "JANGKA A. BIE"
+		"name": "JANGKA ALUE BIE"
 	},
 	{
 		"code": "11.11.10.2006",
 		"type": "desa",
-		"name": "GAMP. MEULINTEUNG"
+		"name": "GAMPONG MEULINTEUNG"
 	},
 	{
 		"code": "11.11.10.2007",
@@ -23992,7 +24007,7 @@
 	{
 		"code": "11.11.10.2013",
 		"type": "desa",
-		"name": "KAMBOEK"
+		"name": "KAMBUEK"
 	},
 	{
 		"code": "11.11.10.2014",
@@ -24102,7 +24117,7 @@
 	{
 		"code": "11.11.10.2035",
 		"type": "desa",
-		"name": "BUGAK KRUENG MATE"
+		"name": "BUGAK KRUENG MATEE"
 	},
 	{
 		"code": "11.11.10.2036",
@@ -24142,7 +24157,7 @@
 	{
 		"code": "11.11.10.2043",
 		"type": "desa",
-		"name": "ULEE CUE"
+		"name": "ULEE CEU"
 	},
 	{
 		"code": "11.11.10.2044",
@@ -24182,12 +24197,12 @@
 	{
 		"code": "11.11.11.2004",
 		"type": "desa",
-		"name": "B. KUTA COH"
+		"name": "BLANG KUTA COH"
 	},
 	{
 		"code": "11.11.11.2005",
 		"type": "desa",
-		"name": "B. K. DUA MNS"
+		"name": "BLANG KUTA DUA MEUNASAH"
 	},
 	{
 		"code": "11.11.11.2006",
@@ -24202,7 +24217,7 @@
 	{
 		"code": "11.11.11.2008",
 		"type": "desa",
-		"name": "MEUN. MESJID"
+		"name": "MEUNASAH MESJID"
 	},
 	{
 		"code": "11.11.11.2009",
@@ -24212,12 +24227,12 @@
 	{
 		"code": "11.11.11.2010",
 		"type": "desa",
-		"name": "B. MANE DUA MNS"
+		"name": "BLANG MANE DUA MEUNASAH"
 	},
 	{
 		"code": "11.11.11.2011",
 		"type": "desa",
-		"name": "B. MANE BARAT"
+		"name": "BLANG MANE BARAT"
 	},
 	{
 		"code": "11.11.11.2012",
@@ -24262,7 +24277,7 @@
 	{
 		"code": "11.11.11.2020",
 		"type": "desa",
-		"name": "IR"
+		"name": "IE RHOB BABAH LUENG"
 	},
 	{
 		"code": "11.11.11.2021",
@@ -24337,7 +24352,7 @@
 	{
 		"code": "11.11.11.2035",
 		"type": "desa",
-		"name": "BLANG PANYANG"
+		"name": "BLANG PAYANG"
 	},
 	{
 		"code": "11.11.11.2036",
@@ -24402,17 +24417,17 @@
 	{
 		"code": "11.11.12.2006",
 		"type": "desa",
-		"name": "S. PLIMBING"
+		"name": "SEUNEUBOK PLIMBANG"
 	},
 	{
 		"code": "11.11.12.2007",
 		"type": "desa",
-		"name": "S. PUNTI"
+		"name": "SEUNEUBOK PUNTI"
 	},
 	{
 		"code": "11.11.12.2008",
 		"type": "desa",
-		"name": "UTEUN DIKUMBONG"
+		"name": "UTEUN SIKUMBONG"
 	},
 	{
 		"code": "11.11.12.2009",
@@ -24492,22 +24507,22 @@
 	{
 		"code": "11.11.13.2001",
 		"type": "desa",
-		"name": "KOTA BIREUEN"
+		"name": "BANDAR BIREUEN"
 	},
 	{
 		"code": "11.11.13.2002",
 		"type": "desa",
-		"name": "BIREUEN MNS REULET"
+		"name": "BIREUEN MEUNASAH REULET"
 	},
 	{
 		"code": "11.11.13.2003",
 		"type": "desa",
-		"name": "BIREUEN MNS BLANG"
+		"name": "BIREUEN MEUNASAH BLANG"
 	},
 	{
 		"code": "11.11.13.2004",
 		"type": "desa",
-		"name": "BIREUEN MNS CAPA"
+		"name": "BIREUEN MEUNASAH CAPA"
 	},
 	{
 		"code": "11.11.13.2005",
@@ -24517,7 +24532,7 @@
 	{
 		"code": "11.11.13.2006",
 		"type": "desa",
-		"name": "BIREUEN MNS TGK DIGADONG"
+		"name": "BIREUEN MNS. TGK DIGADON"
 	},
 	{
 		"code": "11.11.13.2007",
@@ -24527,7 +24542,7 @@
 	{
 		"code": "11.11.13.2008",
 		"type": "desa",
-		"name": "PA"
+		"name": "PULO ARA GEUDONG TEUNGOH"
 	},
 	{
 		"code": "11.11.13.2009",
@@ -24602,7 +24617,7 @@
 	{
 		"code": "11.11.13.2023",
 		"type": "desa",
-		"name": "BARO"
+		"name": "GAMPONG BARO"
 	},
 	{
 		"code": "11.11.14",
@@ -24622,7 +24637,7 @@
 	{
 		"code": "11.11.14.2003",
 		"type": "desa",
-		"name": "KUTA BARU"
+		"name": "KUTA BARO"
 	},
 	{
 		"code": "11.11.14.2004",
@@ -24642,7 +24657,7 @@
 	{
 		"code": "11.11.14.2007",
 		"type": "desa",
-		"name": "KRUENG J TIMU"
+		"name": "KRUENG JULI TIMU"
 	},
 	{
 		"code": "11.11.14.2008",
@@ -24657,12 +24672,12 @@
 	{
 		"code": "11.11.14.2010",
 		"type": "desa",
-		"name": "LA"
+		"name": "LHOK AWE AWE"
 	},
 	{
 		"code": "11.11.14.2011",
 		"type": "desa",
-		"name": "COT L SAWA"
+		"name": "COT LAGA SAWA"
 	},
 	{
 		"code": "11.11.14.2012",
@@ -24687,7 +24702,7 @@
 	{
 		"code": "11.11.14.2016",
 		"type": "desa",
-		"name": "BALE KUNYUENO"
+		"name": "BALE KUNYUEN"
 	},
 	{
 		"code": "11.11.14.2017",
@@ -24757,17 +24772,17 @@
 	{
 		"code": "11.11.15.2009",
 		"type": "desa",
-		"name": "PANTE B. GLE SIBLAH"
+		"name": "PANTE BARO GLE SIBLAH"
 	},
 	{
 		"code": "11.11.15.2010",
 		"type": "desa",
-		"name": "PANTE B. KUMBANG"
+		"name": "PANTE BARO KUMBANG"
 	},
 	{
 		"code": "11.11.15.2011",
 		"type": "desa",
-		"name": "PANTE B. BKT. PANYANG"
+		"name": "PANTE BARO BUKET PANYANG"
 	},
 	{
 		"code": "11.11.15.2012",
@@ -24777,7 +24792,7 @@
 	{
 		"code": "11.11.15.2013",
 		"type": "desa",
-		"name": "ALUE LET"
+		"name": "ALUE IET"
 	},
 	{
 		"code": "11.11.15.2014",
@@ -24802,7 +24817,7 @@
 	{
 		"code": "11.11.15.2018",
 		"type": "desa",
-		"name": "ALUE GLEUMPANG"
+		"name": "ALUE GLUMPANG"
 	},
 	{
 		"code": "11.11.15.2019",
@@ -24837,7 +24852,7 @@
 	{
 		"code": "11.11.16.2003",
 		"type": "desa",
-		"name": "TJ. BEURIDI"
+		"name": "TANJONG BEURIDI"
 	},
 	{
 		"code": "11.11.16.2004",
@@ -24872,7 +24887,7 @@
 	{
 		"code": "11.11.16.2010",
 		"type": "desa",
-		"name": "ME RA YEUK"
+		"name": "ME RAYEUK"
 	},
 	{
 		"code": "11.11.16.2011",
@@ -24882,7 +24897,7 @@
 	{
 		"code": "11.11.16.2012",
 		"type": "desa",
-		"name": "LUNGKULI"
+		"name": "LUNG KULI"
 	},
 	{
 		"code": "11.11.16.2013",
@@ -24892,7 +24907,7 @@
 	{
 		"code": "11.11.16.2014",
 		"type": "desa",
-		"name": "MATE LE"
+		"name": "MATA IE"
 	},
 	{
 		"code": "11.11.16.2015",
@@ -24912,7 +24927,7 @@
 	{
 		"code": "11.11.16.2018",
 		"type": "desa",
-		"name": "CEUREK"
+		"name": "CEUBREK"
 	},
 	{
 		"code": "11.11.16.2019",
@@ -25087,12 +25102,12 @@
 	{
 		"code": "11.11.17.2031",
 		"type": "desa",
-		"name": "GEULANG. MEUNJEE"
+		"name": "GEULANGGANG MEUNJEE"
 	},
 	{
 		"code": "11.11.17.2032",
 		"type": "desa",
-		"name": "GEUNLANG. PANAH"
+		"name": "GEULANGGANG PANAH"
 	},
 	{
 		"code": "11.11.17.2033",
@@ -25102,7 +25117,7 @@
 	{
 		"code": "11.11.17.2034",
 		"type": "desa",
-		"name": "GEULANG RAYEUK"
+		"name": "GEULANGGANG RAYEUK"
 	},
 	{
 		"code": "11.11.17.2035",
@@ -25232,7 +25247,7 @@
 	{
 		"code": "11.12.01.2026",
 		"type": "desa",
-		"name": "PASAR BLANG PIDIE"
+		"name": "PASAR BLANGPIDIE"
 	},
 	{
 		"code": "11.12.01.2028",
@@ -25243,6 +25258,11 @@
 		"code": "11.12.01.2029",
 		"type": "desa",
 		"name": "GUDANG"
+	},
+	{
+		"code": "11.12.01.2030",
+		"type": "desa",
+		"name": "BABAH LHUENG"
 	},
 	{
 		"code": "11.12.02",
@@ -25320,6 +25340,11 @@
 		"name": "KUTA BAK DRIEN"
 	},
 	{
+		"code": "11.12.02.2020",
+		"type": "desa",
+		"name": "IE LHOB"
+	},
+	{
 		"code": "11.12.03",
 		"type": "kecamatan",
 		"name": "MANGGENG"
@@ -25352,7 +25377,7 @@
 	{
 		"code": "11.12.03.2007",
 		"type": "desa",
-		"name": "LHOK PUNTOL"
+		"name": "LHOK PUNTOY"
 	},
 	{
 		"code": "11.12.03.2009",
@@ -25370,19 +25395,9 @@
 		"name": "PANTON MAKMUR"
 	},
 	{
-		"code": "11.12.03.2018",
-		"type": "desa",
-		"name": "LADANG TUHA I"
-	},
-	{
-		"code": "11.12.03.2019",
-		"type": "desa",
-		"name": "LADANG TUHA II"
-	},
-	{
 		"code": "11.12.03.2022",
 		"type": "desa",
-		"name": "LHUNG BARO"
+		"name": "LHUENG BARO"
 	},
 	{
 		"code": "11.12.03.2023",
@@ -25410,11 +25425,6 @@
 		"name": "LHOK PAWOH"
 	},
 	{
-		"code": "11.12.03.2028",
-		"type": "desa",
-		"name": "ALUE RAMBOT"
-	},
-	{
 		"code": "11.12.03.2029",
 		"type": "desa",
 		"name": "PANTE PIRAK"
@@ -25425,6 +25435,11 @@
 		"name": "UJUNG TANAH"
 	},
 	{
+		"code": "11.12.03.2031",
+		"type": "desa",
+		"name": "PANTE CERMIN"
+	},
+	{
 		"code": "11.12.04",
 		"type": "kecamatan",
 		"name": "SUSOH"
@@ -25432,7 +25447,7 @@
 	{
 		"code": "11.12.04.2001",
 		"type": "desa",
-		"name": "PANTE PERAK"
+		"name": "PANTAI PERAK"
 	},
 	{
 		"code": "11.12.04.2002",
@@ -25527,7 +25542,7 @@
 	{
 		"code": "11.12.04.2020",
 		"type": "desa",
-		"name": "TENGAH"
+		"name": "TANGAH"
 	},
 	{
 		"code": "11.12.04.2021",
@@ -25570,6 +25585,11 @@
 		"name": "COT MANCANG"
 	},
 	{
+		"code": "11.12.04.2029",
+		"type": "desa",
+		"name": "GEULIMA JAYA"
+	},
+	{
 		"code": "11.12.05",
 		"type": "kecamatan",
 		"name": "KUALA BATEE"
@@ -25592,7 +25612,7 @@
 	{
 		"code": "11.12.05.2004",
 		"type": "desa",
-		"name": "KUALA TEURUBUE"
+		"name": "KUALA TERUBUE"
 	},
 	{
 		"code": "11.12.05.2005",
@@ -25602,7 +25622,7 @@
 	{
 		"code": "11.12.05.2006",
 		"type": "desa",
-		"name": "PONTO CUT"
+		"name": "PANTO CUT"
 	},
 	{
 		"code": "11.12.05.2007",
@@ -25627,7 +25647,7 @@
 	{
 		"code": "11.12.05.2011",
 		"type": "desa",
-		"name": "KAMPUNG TEUNGOH"
+		"name": "KAMPUNG TENGAH"
 	},
 	{
 		"code": "11.12.05.2012",
@@ -25665,6 +25685,21 @@
 		"name": "LAMA TUHA"
 	},
 	{
+		"code": "11.12.05.2019",
+		"type": "desa",
+		"name": "DRIEN BEURUMBANG"
+	},
+	{
+		"code": "11.12.05.2020",
+		"type": "desa",
+		"name": "RUMOH PANYANG"
+	},
+	{
+		"code": "11.12.05.2021",
+		"type": "desa",
+		"name": "KRUENG PANTO"
+	},
+	{
 		"code": "11.12.06",
 		"type": "kecamatan",
 		"name": "BABAH ROT"
@@ -25687,7 +25722,7 @@
 	{
 		"code": "11.12.06.2004",
 		"type": "desa",
-		"name": "ALUE JEUREJAK"
+		"name": "ALUE JEURUEJAK"
 	},
 	{
 		"code": "11.12.06.2005",
@@ -25703,6 +25738,41 @@
 		"code": "11.12.06.2007",
 		"type": "desa",
 		"name": "PANTE CERMIN"
+	},
+	{
+		"code": "11.12.06.2008",
+		"type": "desa",
+		"name": "BLANG RAJA"
+	},
+	{
+		"code": "11.12.06.2009",
+		"type": "desa",
+		"name": "RUKOEN DAME"
+	},
+	{
+		"code": "11.12.06.2010",
+		"type": "desa",
+		"name": "SIMPANG GADENG"
+	},
+	{
+		"code": "11.12.06.2011",
+		"type": "desa",
+		"name": "TELADAN JAYA"
+	},
+	{
+		"code": "11.12.06.2012",
+		"type": "desa",
+		"name": "LHOK GAYO"
+	},
+	{
+		"code": "11.12.06.2013",
+		"type": "desa",
+		"name": "ALUE DAWAH"
+	},
+	{
+		"code": "11.12.06.2014",
+		"type": "desa",
+		"name": "COT SEUMANTOK"
 	},
 	{
 		"code": "11.12.07",
@@ -25727,7 +25797,7 @@
 	{
 		"code": "11.12.07.2004",
 		"type": "desa",
-		"name": "UJUNG TANAH"
+		"name": "UJONG TANOH"
 	},
 	{
 		"code": "11.12.07.2005",
@@ -25735,14 +25805,24 @@
 		"name": "ALUE DAMA"
 	},
 	{
-		"code": "11.12.07.2006",
-		"type": "desa",
-		"name": "IE LHOB"
-	},
-	{
 		"code": "11.12.07.2007",
 		"type": "desa",
 		"name": "TANGAN-TANGAN CUT"
+	},
+	{
+		"code": "11.12.07.2008",
+		"type": "desa",
+		"name": "MON MAMEH"
+	},
+	{
+		"code": "11.12.07.2009",
+		"type": "desa",
+		"name": "CINTA MAKMUR"
+	},
+	{
+		"code": "11.12.07.2010",
+		"type": "desa",
+		"name": "KUTA MURNI"
 	},
 	{
 		"code": "11.12.08",
@@ -25800,6 +25880,16 @@
 		"name": "KUTA MAKMUR"
 	},
 	{
+		"code": "11.12.08.2011",
+		"type": "desa",
+		"name": "JEUMPA BARAT"
+	},
+	{
+		"code": "11.12.08.2012",
+		"type": "desa",
+		"name": "ALUE SEULASEH"
+	},
+	{
 		"code": "11.12.09",
 		"type": "kecamatan",
 		"name": "LEMBAH SABIL"
@@ -25850,6 +25940,31 @@
 		"name": "PADANG KEULELE"
 	},
 	{
+		"code": "11.12.09.2010",
+		"type": "desa",
+		"name": "ALUE RAMBOT"
+	},
+	{
+		"code": "11.12.09.2011",
+		"type": "desa",
+		"name": "LADANG TUHA I"
+	},
+	{
+		"code": "11.12.09.2012",
+		"type": "desa",
+		"name": "LADANG TUHA II"
+	},
+	{
+		"code": "11.12.09.2013",
+		"type": "desa",
+		"name": "TOKOH II"
+	},
+	{
+		"code": "11.12.09.2014",
+		"type": "desa",
+		"name": "KAYEE ACEH"
+	},
+	{
 		"code": "11.13",
 		"type": "kabupaten",
 		"name": "KAB. GAYO LUES"
@@ -25862,7 +25977,7 @@
 	{
 		"code": "11.13.01.2001",
 		"type": "desa",
-		"name": "KOTA BLANG KEJERAN"
+		"name": "KOTA BLANGKEJEREN"
 	},
 	{
 		"code": "11.13.01.2002",
@@ -25977,7 +26092,7 @@
 	{
 		"code": "11.13.02.2005",
 		"type": "desa",
-		"name": "ULUN TANAH"
+		"name": "ULUN TANOH"
 	},
 	{
 		"code": "11.13.02.2006",
@@ -26012,7 +26127,7 @@
 	{
 		"code": "11.13.02.2016",
 		"type": "desa",
-		"name": "KERUKUNAN KUTA PJG."
+		"name": "KERUKUNAN KUTA PANJANG"
 	},
 	{
 		"code": "11.13.02.2020",
@@ -26127,12 +26242,12 @@
 	{
 		"code": "11.13.04.2008",
 		"type": "desa",
-		"name": "TERANGON"
+		"name": "TERANGUN"
 	},
 	{
 		"code": "11.13.04.2010",
 		"type": "desa",
-		"name": "REMPELAN PINANG"
+		"name": "REMPELAM PINANG"
 	},
 	{
 		"code": "11.13.04.2011",
@@ -26147,7 +26262,7 @@
 	{
 		"code": "11.13.04.2013",
 		"type": "desa",
-		"name": "KUTE REJE"
+		"name": "KUTEREJE"
 	},
 	{
 		"code": "11.13.04.2014",
@@ -26197,7 +26312,7 @@
 	{
 		"code": "11.13.04.2026",
 		"type": "desa",
-		"name": "RIME JAYA"
+		"name": "RIME RAYA"
 	},
 	{
 		"code": "11.13.04.2027",
@@ -26277,7 +26392,7 @@
 	{
 		"code": "11.13.06.2002",
 		"type": "desa",
-		"name": "KUTA BUKIT"
+		"name": "KUTEBUKIT"
 	},
 	{
 		"code": "11.13.06.2003",
@@ -26287,7 +26402,7 @@
 	{
 		"code": "11.13.06.2004",
 		"type": "desa",
-		"name": "BLANGBENGKIK"
+		"name": "BLANG BENGKIK"
 	},
 	{
 		"code": "11.13.06.2005",
@@ -26342,7 +26457,7 @@
 	{
 		"code": "11.13.07.2002",
 		"type": "desa",
-		"name": "MARPUNGE"
+		"name": "MARPUNGE GABUNGAN"
 	},
 	{
 		"code": "11.13.07.2003",
@@ -26407,7 +26522,7 @@
 	{
 		"code": "11.13.08.2005",
 		"type": "desa",
-		"name": "PANGLIME LINTING"
+		"name": "PANGLIMA LINTING"
 	},
 	{
 		"code": "11.13.08.2006",
@@ -26512,12 +26627,12 @@
 	{
 		"code": "11.13.10.2005",
 		"type": "desa",
-		"name": "UPT PAYA KUMER"
+		"name": "UPT. PAYA KUMER"
 	},
 	{
 		"code": "11.13.10.2006",
 		"type": "desa",
-		"name": "UPT PANTAN KELA"
+		"name": "UPT. PANTAN KELA"
 	},
 	{
 		"code": "11.13.10.2007",
@@ -26547,7 +26662,7 @@
 	{
 		"code": "11.13.11.2001",
 		"type": "desa",
-		"name": "SENERAN"
+		"name": "SENEREN"
 	},
 	{
 		"code": "11.13.11.2002",
@@ -26562,7 +26677,7 @@
 	{
 		"code": "11.13.11.2004",
 		"type": "desa",
-		"name": "TETINGGI"
+		"name": "TETINGI"
 	},
 	{
 		"code": "11.13.11.2005",
@@ -26577,7 +26692,7 @@
 	{
 		"code": "11.13.11.2007",
 		"type": "desa",
-		"name": "UPT AIH SELAH"
+		"name": "UPT. AIH SELAH"
 	},
 	{
 		"code": "11.13.11.2008",
@@ -26622,12 +26737,12 @@
 	{
 		"code": "11.14.01.2005",
 		"type": "desa",
-		"name": "PASI TOLAK BALA"
+		"name": "PASI TULAK BALA"
 	},
 	{
 		"code": "11.14.01.2006",
 		"type": "desa",
-		"name": "GAMPONG BARU"
+		"name": "GAMPONG BARO"
 	},
 	{
 		"code": "11.14.01.2007",
@@ -26677,7 +26792,7 @@
 	{
 		"code": "11.14.01.2016",
 		"type": "desa",
-		"name": "ALUE MEURAXA"
+		"name": "ALUE MEURAKSA"
 	},
 	{
 		"code": "11.14.01.2017",
@@ -26747,7 +26862,7 @@
 	{
 		"code": "11.14.02.2007",
 		"type": "desa",
-		"name": "KEUDE KRUENG SABE"
+		"name": "KEUDE KRUENG SABEE"
 	},
 	{
 		"code": "11.14.02.2008",
@@ -26837,7 +26952,7 @@
 	{
 		"code": "11.14.03.2007",
 		"type": "desa",
-		"name": "GLE SEUBAK"
+		"name": "GLEE SEUBAK"
 	},
 	{
 		"code": "11.14.03.2008",
@@ -26912,7 +27027,7 @@
 	{
 		"code": "11.14.04.2008",
 		"type": "desa",
-		"name": "JEUMPEUK"
+		"name": "JEUMPHEUK"
 	},
 	{
 		"code": "11.14.04.2009",
@@ -26927,7 +27042,7 @@
 	{
 		"code": "11.14.04.2011",
 		"type": "desa",
-		"name": "BLANG MONLUENG"
+		"name": "BLANG MONLUNG"
 	},
 	{
 		"code": "11.14.04.2012",
@@ -27032,7 +27147,7 @@
 	{
 		"code": "11.14.05.2022",
 		"type": "desa",
-		"name": "KREUNG TUNONG"
+		"name": "KRUENG TUNONG"
 	},
 	{
 		"code": "11.14.05.2023",
@@ -27232,7 +27347,7 @@
 	{
 		"code": "11.14.06.2018",
 		"type": "desa",
-		"name": "TUWI EMPEUK"
+		"name": "TUWI EUMPEUK"
 	},
 	{
 		"code": "11.14.06.2019",
@@ -27257,12 +27372,12 @@
 	{
 		"code": "11.14.07.2001",
 		"type": "desa",
-		"name": "UJUNG MULOH"
+		"name": "UJONG MULOH"
 	},
 	{
 		"code": "11.14.07.2002",
 		"type": "desa",
-		"name": "JANGEUT"
+		"name": "JANGUET"
 	},
 	{
 		"code": "11.14.07.2003",
@@ -27372,7 +27487,7 @@
 	{
 		"code": "11.14.08.2009",
 		"type": "desa",
-		"name": "KREUNG THO"
+		"name": "KRUENG THO"
 	},
 	{
 		"code": "11.14.08.2010",
@@ -27407,7 +27522,7 @@
 	{
 		"code": "11.14.08.2016",
 		"type": "desa",
-		"name": "GAMPONG BARO LAMTENGOH"
+		"name": "GAMPONG BARO LAMTEUNGOH"
 	},
 	{
 		"code": "11.14.08.2017",
@@ -27447,7 +27562,7 @@
 	{
 		"code": "11.14.09.2004",
 		"type": "desa",
-		"name": "TIMPLENG"
+		"name": "TIMPLEUNG"
 	},
 	{
 		"code": "11.14.09.2005",
@@ -27482,7 +27597,7 @@
 	{
 		"code": "11.14.09.2011",
 		"type": "desa",
-		"name": "CEURACEE"
+		"name": "CEURACEU"
 	},
 	{
 		"code": "11.14.09.2012",
@@ -27497,7 +27612,7 @@
 	{
 		"code": "11.14.09.2014",
 		"type": "desa",
-		"name": "BUKET KEUMUNING"
+		"name": "BUKET KEUMUNENG"
 	},
 	{
 		"code": "11.15",
@@ -27702,7 +27817,7 @@
 	{
 		"code": "11.15.02.2021",
 		"type": "desa",
-		"name": "COT LELE"
+		"name": "COT LHE-LHE"
 	},
 	{
 		"code": "11.15.02.2022",
@@ -27782,7 +27897,7 @@
 	{
 		"code": "11.15.03.2001",
 		"type": "desa",
-		"name": "BLANG PENYANG"
+		"name": "BLANG PANYANG"
 	},
 	{
 		"code": "11.15.03.2002",
@@ -27992,7 +28107,7 @@
 	{
 		"code": "11.15.04.2008",
 		"type": "desa",
-		"name": "BLANG BARO P. RAGA"
+		"name": "BLANG BARO PULO RAGA"
 	},
 	{
 		"code": "11.15.04.2009",
@@ -28067,7 +28182,7 @@
 	{
 		"code": "11.15.04.2023",
 		"type": "desa",
-		"name": "KULAM JERNEH"
+		"name": "KULAM JEUREUNEH"
 	},
 	{
 		"code": "11.15.04.2028",
@@ -28092,7 +28207,7 @@
 	{
 		"code": "11.15.05.2014",
 		"type": "desa",
-		"name": "GELANGGANG GAJAH"
+		"name": "GEULANGGANG GAJAH"
 	},
 	{
 		"code": "11.15.05.2015",
@@ -28162,7 +28277,7 @@
 	{
 		"code": "11.15.05.2028",
 		"type": "desa",
-		"name": "KRUENG SEUMANYAM"
+		"name": "KRUENG SEUMAYAM"
 	},
 	{
 		"code": "11.15.05.2029",
@@ -28172,7 +28287,7 @@
 	{
 		"code": "11.15.05.2030",
 		"type": "desa",
-		"name": "KARANG ANYER"
+		"name": "KARANG ANYAR"
 	},
 	{
 		"code": "11.15.05.2031",
@@ -28217,7 +28332,7 @@
 	{
 		"code": "11.15.05.2039",
 		"type": "desa",
-		"name": "SIDO JADI"
+		"name": "SIDOJADI"
 	},
 	{
 		"code": "11.15.05.2040",
@@ -28232,7 +28347,7 @@
 	{
 		"code": "11.15.05.2042",
 		"type": "desa",
-		"name": "SP. DELI KILANG"
+		"name": "SIMPANG DELI KILANG"
 	},
 	{
 		"code": "11.15.05.2043",
@@ -28262,7 +28377,7 @@
 	{
 		"code": "11.15.05.2048",
 		"type": "desa",
-		"name": "SP. DELI KAMPONG"
+		"name": "SIMPANG DELI KAMPONG"
 	},
 	{
 		"code": "11.15.05.2049",
@@ -28497,7 +28612,7 @@
 	{
 		"code": "11.15.08.2006",
 		"type": "desa",
-		"name": "GUNONG KEUPOK"
+		"name": "GUNONG KUPOK"
 	},
 	{
 		"code": "11.15.08.2007",
@@ -28542,7 +28657,7 @@
 	{
 		"code": "11.15.08.2015",
 		"type": "desa",
-		"name": "RANTO SELAMAT"
+		"name": "RANTAU SELAMAT"
 	},
 	{
 		"code": "11.15.08.2016",
@@ -28602,7 +28717,7 @@
 	{
 		"code": "11.15.09.2004",
 		"type": "desa",
-		"name": "LUENG KEUBE JAGAT"
+		"name": "LUENG KEUBEU JAGAT"
 	},
 	{
 		"code": "11.15.09.2005",
@@ -28692,7 +28807,7 @@
 	{
 		"code": "11.16.01.2004",
 		"type": "desa",
-		"name": "SEUNEUBOK BARO"
+		"name": "SEUNEUBOK BARU"
 	},
 	{
 		"code": "11.16.01.2005",
@@ -28767,7 +28882,7 @@
 	{
 		"code": "11.16.01.2019",
 		"type": "desa",
-		"name": "TANJONG NEURACA"
+		"name": "TANJUNG NERACA"
 	},
 	{
 		"code": "11.16.01.2020",
@@ -28817,7 +28932,7 @@
 	{
 		"code": "11.16.01.2029",
 		"type": "desa",
-		"name": "UJONG TANJONG"
+		"name": "UJUNG TANJUNG"
 	},
 	{
 		"code": "11.16.01.2030",
@@ -28867,17 +28982,17 @@
 	{
 		"code": "11.16.02.2002",
 		"type": "desa",
-		"name": "ALUE CANTEK"
+		"name": "ALUR CANTEK"
 	},
 	{
 		"code": "11.16.02.2003",
 		"type": "desa",
-		"name": "TANJONG LIPAT I"
+		"name": "TANJUNG LIPAT I"
 	},
 	{
 		"code": "11.16.02.2004",
 		"type": "desa",
-		"name": "TANJONG LIPAT II"
+		"name": "TANJUNG LIPAT II"
 	},
 	{
 		"code": "11.16.02.2005",
@@ -28922,7 +29037,7 @@
 	{
 		"code": "11.16.02.2013",
 		"type": "desa",
-		"name": "PERK. SUNGAI IYU"
+		"name": "PERKEBUNAN SUNGAI IYU"
 	},
 	{
 		"code": "11.16.02.2014",
@@ -28937,7 +29052,7 @@
 	{
 		"code": "11.16.02.2016",
 		"type": "desa",
-		"name": "LUBOK BATHIL"
+		"name": "LUBUK BATIL"
 	},
 	{
 		"code": "11.16.02.2017",
@@ -28947,12 +29062,12 @@
 	{
 		"code": "11.16.02.2018",
 		"type": "desa",
-		"name": "TANJONG PARIT"
+		"name": "TANJUNG PARIT"
 	},
 	{
 		"code": "11.16.02.2019",
 		"type": "desa",
-		"name": "TANJONG"
+		"name": "TANJUNG"
 	},
 	{
 		"code": "11.16.02.2020",
@@ -28962,7 +29077,7 @@
 	{
 		"code": "11.16.02.2021",
 		"type": "desa",
-		"name": "TUMPOK TEUNGOH"
+		"name": "TUMPOK TENGOH"
 	},
 	{
 		"code": "11.16.02.2029",
@@ -28972,12 +29087,12 @@
 	{
 		"code": "11.16.02.2030",
 		"type": "desa",
-		"name": "PERK. UPAH"
+		"name": "PERKEBUNAN UPAH"
 	},
 	{
 		"code": "11.16.02.2031",
 		"type": "desa",
-		"name": "MATANG TEUPAH"
+		"name": "MATANG TEPAH"
 	},
 	{
 		"code": "11.16.02.2035",
@@ -29012,12 +29127,12 @@
 	{
 		"code": "11.16.02.2041",
 		"type": "desa",
-		"name": "TANJONG BINJEI"
+		"name": "TANJUNG BINJAI"
 	},
 	{
 		"code": "11.16.02.2042",
 		"type": "desa",
-		"name": "TANJONG MULIA"
+		"name": "TANJUNG MULIA"
 	},
 	{
 		"code": "11.16.02.2043",
@@ -29047,7 +29162,7 @@
 	{
 		"code": "11.16.03.2007",
 		"type": "desa",
-		"name": "TANJONG KARANG"
+		"name": "TANJUNG KARANG"
 	},
 	{
 		"code": "11.16.03.2009",
@@ -29062,7 +29177,7 @@
 	{
 		"code": "11.16.03.2012",
 		"type": "desa",
-		"name": "TANA TERBAN"
+		"name": "TANAH TERBAN"
 	},
 	{
 		"code": "11.16.03.2013",
@@ -29092,7 +29207,7 @@
 	{
 		"code": "11.16.03.2018",
 		"type": "desa",
-		"name": "MEUDANG ARA"
+		"name": "MEDANG ARA"
 	},
 	{
 		"code": "11.16.03.2019",
@@ -29102,7 +29217,7 @@
 	{
 		"code": "11.16.03.2020",
 		"type": "desa",
-		"name": "ALUR SELARAS"
+		"name": "ALUR SELALAS"
 	},
 	{
 		"code": "11.16.03.2021",
@@ -29117,7 +29232,7 @@
 	{
 		"code": "11.16.03.2023",
 		"type": "desa",
-		"name": "KEBUN T. TERBAN"
+		"name": "KEBUN TANAH TERBAN"
 	},
 	{
 		"code": "11.16.03.2024",
@@ -29127,7 +29242,7 @@
 	{
 		"code": "11.16.03.2025",
 		"type": "desa",
-		"name": "KEBUN AFDELING S"
+		"name": "KEBUN AFDELING SELELEH"
 	},
 	{
 		"code": "11.16.03.2026",
@@ -29162,12 +29277,12 @@
 	{
 		"code": "11.16.03.2032",
 		"type": "desa",
-		"name": "KEBUN BUKIT KERANJI"
+		"name": "BUKIT KERANJI"
 	},
 	{
 		"code": "11.16.03.2033",
 		"type": "desa",
-		"name": "KB TJ. SEUMENTOTOH"
+		"name": "KEBUN TANJUNG SEUMANTOH"
 	},
 	{
 		"code": "11.16.03.2034",
@@ -29182,7 +29297,7 @@
 	{
 		"code": "11.16.03.2036",
 		"type": "desa",
-		"name": "SUKAJADI PAYA BJ"
+		"name": "SUKAJADI PAYA BUJOK"
 	},
 	{
 		"code": "11.16.04",
@@ -29192,7 +29307,7 @@
 	{
 		"code": "11.16.04.2002",
 		"type": "desa",
-		"name": "SERUWAY/PEUKAN"
+		"name": "PEKAN SERUWAY"
 	},
 	{
 		"code": "11.16.04.2003",
@@ -29202,7 +29317,7 @@
 	{
 		"code": "11.16.04.2004",
 		"type": "desa",
-		"name": "PANTAI BALEE"
+		"name": "PANTAI BALAI"
 	},
 	{
 		"code": "11.16.04.2005",
@@ -29257,7 +29372,7 @@
 	{
 		"code": "11.16.04.2015",
 		"type": "desa",
-		"name": "PERKEBUNAN GD BIARA"
+		"name": "PERK. GEDUNG BIARA"
 	},
 	{
 		"code": "11.16.04.2016",
@@ -29282,7 +29397,7 @@
 	{
 		"code": "11.16.04.2020",
 		"type": "desa",
-		"name": "KUALA PUSONG KAPAL"
+		"name": "KUALA PUSUNG KAPAL"
 	},
 	{
 		"code": "11.16.04.2021",
@@ -29382,7 +29497,7 @@
 	{
 		"code": "11.16.06.2008",
 		"type": "desa",
-		"name": "ALUR SELABU"
+		"name": "ALUR SELEBU"
 	},
 	{
 		"code": "11.16.06.2010",
@@ -29402,12 +29517,12 @@
 	{
 		"code": "11.16.06.2013",
 		"type": "desa",
-		"name": "KP. JAWA SUNGAI L"
+		"name": "JAWA"
 	},
 	{
 		"code": "11.16.06.2014",
 		"type": "desa",
-		"name": "SIDODADI S LIPUT"
+		"name": "SIDODADI"
 	},
 	{
 		"code": "11.16.06.2015",
@@ -29427,12 +29542,12 @@
 	{
 		"code": "11.16.07.2001",
 		"type": "desa",
-		"name": "ALUR TANI I"
+		"name": "ALUR TANI SATU"
 	},
 	{
 		"code": "11.16.07.2002",
 		"type": "desa",
-		"name": "ALUR TANI II"
+		"name": "ALUR TANI DUA"
 	},
 	{
 		"code": "11.16.07.2003",
@@ -29447,7 +29562,7 @@
 	{
 		"code": "11.16.07.2005",
 		"type": "desa",
-		"name": "PERK. PULAI TIGA"
+		"name": "PERKEBUNAN PULAU TIGA"
 	},
 	{
 		"code": "11.16.07.2006",
@@ -29507,7 +29622,7 @@
 	{
 		"code": "11.16.08.2007",
 		"type": "desa",
-		"name": "KAMPONG DURIAN"
+		"name": "DURIAN"
 	},
 	{
 		"code": "11.16.08.2008",
@@ -29577,7 +29692,7 @@
 	{
 		"code": "11.16.09.2004",
 		"type": "desa",
-		"name": "TANJONG KEURAMAT"
+		"name": "TANJUNG KERAMAT"
 	},
 	{
 		"code": "11.16.09.2005",
@@ -29587,7 +29702,7 @@
 	{
 		"code": "11.16.09.2006",
 		"type": "desa",
-		"name": "KAMPUNG BESAR"
+		"name": "BESAR"
 	},
 	{
 		"code": "11.16.09.2007",
@@ -29602,7 +29717,7 @@
 	{
 		"code": "11.16.09.2009",
 		"type": "desa",
-		"name": "SUKA MULIA"
+		"name": "SUKA MULIA UPAH"
 	},
 	{
 		"code": "11.16.09.2010",
@@ -29622,7 +29737,7 @@
 	{
 		"code": "11.16.10.2002",
 		"type": "desa",
-		"name": "JAMBO RAMBONG"
+		"name": "JAMBU RAMBONG"
 	},
 	{
 		"code": "11.16.10.2003",
@@ -29637,7 +29752,7 @@
 	{
 		"code": "11.16.10.2005",
 		"type": "desa",
-		"name": "PERK. ALUR JAMBU"
+		"name": "PERKEBUNAN ALUR JAMBU"
 	},
 	{
 		"code": "11.16.10.2006",
@@ -29672,7 +29787,7 @@
 	{
 		"code": "11.16.10.2012",
 		"type": "desa",
-		"name": "PANTAI CAMPA"
+		"name": "PANTAI CEMPA"
 	},
 	{
 		"code": "11.16.10.2013",
@@ -29767,7 +29882,7 @@
 	{
 		"code": "11.16.12.2009",
 		"type": "desa",
-		"name": "TJ. GELUMPANG"
+		"name": "TANJUNG GELUMPANG"
 	},
 	{
 		"code": "11.16.12.2010",
@@ -29812,7 +29927,7 @@
 	{
 		"code": "11.17.01.2002",
 		"type": "desa",
-		"name": "NEGER ANTARA"
+		"name": "NEGERI ANTARA"
 	},
 	{
 		"code": "11.17.01.2003",
@@ -29822,12 +29937,12 @@
 	{
 		"code": "11.17.01.2004",
 		"type": "desa",
-		"name": "PANTAI SINAKU"
+		"name": "PANTAN SINAKU"
 	},
 	{
 		"code": "11.17.01.2005",
 		"type": "desa",
-		"name": "BINTANG BERINGIN"
+		"name": "BINTANG BERANGUN"
 	},
 	{
 		"code": "11.17.01.2006",
@@ -29867,7 +29982,7 @@
 	{
 		"code": "11.17.01.2013",
 		"type": "desa",
-		"name": "RIMBA RAYA"
+		"name": "RIME RAYA"
 	},
 	{
 		"code": "11.17.01.2014",
@@ -29892,7 +30007,7 @@
 	{
 		"code": "11.17.01.2018",
 		"type": "desa",
-		"name": "MUSARA-58"
+		"name": "MUSARA 58"
 	},
 	{
 		"code": "11.17.01.2019",
@@ -29947,12 +30062,12 @@
 	{
 		"code": "11.17.02.2005",
 		"type": "desa",
-		"name": "DARUL AMAN RAMUNG"
+		"name": "DARUL AMAN"
 	},
 	{
 		"code": "11.17.02.2006",
 		"type": "desa",
-		"name": "GLP WIH TENAG UKEN"
+		"name": "GLP. WIH TENANG UKEN"
 	},
 	{
 		"code": "11.17.02.2007",
@@ -29987,7 +30102,7 @@
 	{
 		"code": "11.17.02.2013",
 		"type": "desa",
-		"name": "WIH TENANG UKEN"
+		"name": "WEH TENANG UKEN"
 	},
 	{
 		"code": "11.17.02.2014",
@@ -30007,7 +30122,7 @@
 	{
 		"code": "11.17.02.2017",
 		"type": "desa",
-		"name": "SUKU SARA TENGKE"
+		"name": "SUKU SARA TANGKE"
 	},
 	{
 		"code": "11.17.02.2018",
@@ -30032,7 +30147,7 @@
 	{
 		"code": "11.17.02.2022",
 		"type": "desa",
-		"name": "PEMANGGO"
+		"name": "PEMANGO"
 	},
 	{
 		"code": "11.17.02.2023",
@@ -30067,7 +30182,7 @@
 	{
 		"code": "11.17.03.2001",
 		"type": "desa",
-		"name": "BELANG PANU"
+		"name": "BLANG PANU"
 	},
 	{
 		"code": "11.17.03.2003",
@@ -30087,7 +30202,7 @@
 	{
 		"code": "11.17.03.2008",
 		"type": "desa",
-		"name": "KUTE LAH LANE"
+		"name": "KUTELAH LANE"
 	},
 	{
 		"code": "11.17.03.2009",
@@ -30117,7 +30232,7 @@
 	{
 		"code": "11.17.03.2016",
 		"type": "desa",
-		"name": "WIHNI DURIN"
+		"name": "WEHNI DURIN"
 	},
 	{
 		"code": "11.17.03.2017",
@@ -30152,7 +30267,7 @@
 	{
 		"code": "11.17.04.2004",
 		"type": "desa",
-		"name": "BLANG PULO"
+		"name": "BELANG PULO"
 	},
 	{
 		"code": "11.17.04.2009",
@@ -30167,7 +30282,7 @@
 	{
 		"code": "11.17.04.2011",
 		"type": "desa",
-		"name": "JANA RATA"
+		"name": "JANARATA"
 	},
 	{
 		"code": "11.17.04.2012",
@@ -30197,7 +30312,7 @@
 	{
 		"code": "11.17.04.2018",
 		"type": "desa",
-		"name": "PETUKEL BLANG JORONG"
+		"name": "BELANG JORONG"
 	},
 	{
 		"code": "11.17.04.2019",
@@ -30310,6 +30425,11 @@
 		"name": "MAKMUR SENTOSA"
 	},
 	{
+		"code": "11.17.04.2047",
+		"type": "desa",
+		"name": "RINGKEL"
+	},
+	{
 		"code": "11.17.05",
 		"type": "kecamatan",
 		"name": "BUKIT"
@@ -30332,7 +30452,7 @@
 	{
 		"code": "11.17.05.2004",
 		"type": "desa",
-		"name": "BLANG ARA"
+		"name": "BELANG ARA"
 	},
 	{
 		"code": "11.17.05.2005",
@@ -30348,11 +30468,6 @@
 		"code": "11.17.05.2007",
 		"type": "desa",
 		"name": "BUJANG"
-	},
-	{
-		"code": "11.17.05.2008",
-		"type": "desa",
-		"name": "BURNI TELONG"
 	},
 	{
 		"code": "11.17.05.2009",
@@ -30372,7 +30487,7 @@
 	{
 		"code": "11.17.05.2012",
 		"type": "desa",
-		"name": "KENAWAT REDLONG"
+		"name": "KENAWAT REDELONG"
 	},
 	{
 		"code": "11.17.05.2013",
@@ -30407,7 +30522,7 @@
 	{
 		"code": "11.17.05.2019",
 		"type": "desa",
-		"name": "SIDIE JADI"
+		"name": "SEDIE JADI"
 	},
 	{
 		"code": "11.17.05.2020",
@@ -30437,7 +30552,7 @@
 	{
 		"code": "11.17.05.2025",
 		"type": "desa",
-		"name": "UNING TERITIT"
+		"name": "GUNUNG TERITIT"
 	},
 	{
 		"code": "11.17.05.2026",
@@ -30457,7 +30572,7 @@
 	{
 		"code": "11.17.05.2029",
 		"type": "desa",
-		"name": "KUTE TANJUNG"
+		"name": "KUTE TANYUNG"
 	},
 	{
 		"code": "11.17.05.2030",
@@ -30515,6 +30630,11 @@
 		"name": "GODANG"
 	},
 	{
+		"code": "11.17.05.2041",
+		"type": "desa",
+		"name": "KARANG REJO"
+	},
+	{
 		"code": "11.17.06",
 		"type": "kecamatan",
 		"name": "WIH PESAM"
@@ -30525,16 +30645,6 @@
 		"name": "BLANG PAKU"
 	},
 	{
-		"code": "11.17.06.2002",
-		"type": "desa",
-		"name": "BANDAR BARU"
-	},
-	{
-		"code": "11.17.06.2003",
-		"type": "desa",
-		"name": "KARANG REJO"
-	},
-	{
 		"code": "11.17.06.2004",
 		"type": "desa",
 		"name": "PANTE RAYA"
@@ -30542,12 +30652,12 @@
 	{
 		"code": "11.17.06.2005",
 		"type": "desa",
-		"name": "SIMPANG BOLEK"
+		"name": "SIMPANG BALEK"
 	},
 	{
 		"code": "11.17.06.2006",
 		"type": "desa",
-		"name": "SIMPANG TERIRIT"
+		"name": "SIMPANG TERITIT"
 	},
 	{
 		"code": "11.17.06.2007",
@@ -30562,12 +30672,12 @@
 	{
 		"code": "11.17.06.2009",
 		"type": "desa",
-		"name": "SUKA RAMI ATAS"
+		"name": "SUKA RAMAI ATAS"
 	},
 	{
 		"code": "11.17.06.2010",
 		"type": "desa",
-		"name": "SUKA RAMI BAWAH"
+		"name": "SUKA RAMAI BAWAH"
 	},
 	{
 		"code": "11.17.06.2011",
@@ -30592,7 +30702,7 @@
 	{
 		"code": "11.17.06.2015",
 		"type": "desa",
-		"name": "BLANG MENARA"
+		"name": "BLANG BENARA"
 	},
 	{
 		"code": "11.17.06.2016",
@@ -30612,7 +30722,7 @@
 	{
 		"code": "11.17.06.2019",
 		"type": "desa",
-		"name": "MEKAR JADI AYU"
+		"name": "BENER AYU"
 	},
 	{
 		"code": "11.17.06.2020",
@@ -30653,6 +30763,11 @@
 		"code": "11.17.06.2027",
 		"type": "desa",
 		"name": "SUKA MAKMUR TIMUR"
+	},
+	{
+		"code": "11.17.06.2028",
+		"type": "desa",
+		"name": "BURNI TELONG"
 	},
 	{
 		"code": "11.17.07",
@@ -30742,17 +30857,17 @@
 	{
 		"code": "11.17.07.2022",
 		"type": "desa",
-		"name": "KAMPUNG BARU"
+		"name": "KAMPUNG BARU 76"
 	},
 	{
 		"code": "11.17.07.2023",
 		"type": "desa",
-		"name": "PANTAI PEDIANGIN"
+		"name": "PANTAN PEDIANGAN"
 	},
 	{
 		"code": "11.17.07.2024",
 		"type": "desa",
-		"name": "BUMI AYU"
+		"name": "SIMPANG BUMI AYU"
 	},
 	{
 		"code": "11.17.07.2025",
@@ -30817,7 +30932,7 @@
 	{
 		"code": "11.17.08.2001",
 		"type": "desa",
-		"name": "BATIN BANDAR JAYA"
+		"name": "BANDAR JAYA"
 	},
 	{
 		"code": "11.17.08.2002",
@@ -30847,7 +30962,7 @@
 	{
 		"code": "11.17.08.2007",
 		"type": "desa",
-		"name": "BINTANG MUSARA"
+		"name": "BENER BINTANG MUSARA"
 	},
 	{
 		"code": "11.17.08.2008",
@@ -30882,7 +30997,7 @@
 	{
 		"code": "11.17.09.2001",
 		"type": "desa",
-		"name": "CEMPARAN LAMA"
+		"name": "CEMPARAM LAMA"
 	},
 	{
 		"code": "11.17.09.2002",
@@ -30907,7 +31022,7 @@
 	{
 		"code": "11.17.09.2006",
 		"type": "desa",
-		"name": "JAMUR ATU"
+		"name": "JAMUR ATU JAYA"
 	},
 	{
 		"code": "11.17.09.2007",
@@ -31027,7 +31142,7 @@
 	{
 		"code": "11.18.01.2002",
 		"type": "desa",
-		"name": "KOTA MEURENDU"
+		"name": "KOTA MEUREUDU"
 	},
 	{
 		"code": "11.18.01.2003",
@@ -31047,7 +31162,7 @@
 	{
 		"code": "11.18.01.2006",
 		"type": "desa",
-		"name": "MAYANG LANCOT"
+		"name": "MANYANG LANCOK"
 	},
 	{
 		"code": "11.18.01.2007",
@@ -31067,12 +31182,12 @@
 	{
 		"code": "11.18.01.2010",
 		"type": "desa",
-		"name": "RING KRUENG"
+		"name": "RHING KRUENG"
 	},
 	{
 		"code": "11.18.01.2011",
 		"type": "desa",
-		"name": "RHING TUNONG"
+		"name": "RHING MANCANG"
 	},
 	{
 		"code": "11.18.01.2012",
@@ -31097,7 +31212,7 @@
 	{
 		"code": "11.18.01.2016",
 		"type": "desa",
-		"name": "DAYAH TIMUR"
+		"name": "DAYAH TIMU"
 	},
 	{
 		"code": "11.18.01.2017",
@@ -31107,7 +31222,7 @@
 	{
 		"code": "11.18.01.2018",
 		"type": "desa",
-		"name": "GLIMPANG TUTONG"
+		"name": "GLUMPANG TUTONG"
 	},
 	{
 		"code": "11.18.01.2019",
@@ -31177,7 +31292,7 @@
 	{
 		"code": "11.18.02.2001",
 		"type": "desa",
-		"name": "DAYAH BOROH"
+		"name": "DAYAH BAROH"
 	},
 	{
 		"code": "11.18.02.2002",
@@ -31192,7 +31307,7 @@
 	{
 		"code": "11.18.02.2004",
 		"type": "desa",
-		"name": "TIJIEM HUSEN"
+		"name": "TIJIEN HUSEN"
 	},
 	{
 		"code": "11.18.02.2005",
@@ -31222,7 +31337,7 @@
 	{
 		"code": "11.18.02.2010",
 		"type": "desa",
-		"name": "TIJIEM DABOH"
+		"name": "TIJIEN DABOH"
 	},
 	{
 		"code": "11.18.02.2011",
@@ -31257,7 +31372,7 @@
 	{
 		"code": "11.18.02.2017",
 		"type": "desa",
-		"name": "MESJID ULOM TUNONG"
+		"name": "MESJID ULIM TUNONG"
 	},
 	{
 		"code": "11.18.02.2018",
@@ -31277,22 +31392,22 @@
 	{
 		"code": "11.18.02.2021",
 		"type": "desa",
-		"name": "PANTE COT BALOI"
+		"name": "PANTANG COT BALOI"
 	},
 	{
 		"code": "11.18.02.2022",
 		"type": "desa",
-		"name": "MEUNESAH PUPU"
+		"name": "MEUNASAH PUPU"
 	},
 	{
 		"code": "11.18.02.2023",
 		"type": "desa",
-		"name": "NANGGROE BARAT"
+		"name": "NANGRHOE BARAT"
 	},
 	{
 		"code": "11.18.02.2024",
 		"type": "desa",
-		"name": "NANGGROE TIMUR"
+		"name": "NANGRHOE TIMU"
 	},
 	{
 		"code": "11.18.02.2025",
@@ -31317,7 +31432,7 @@
 	{
 		"code": "11.18.02.2029",
 		"type": "desa",
-		"name": "ALUE KEMIKI"
+		"name": "ALUE KEUMIKI"
 	},
 	{
 		"code": "11.18.02.2030",
@@ -31332,7 +31447,7 @@
 	{
 		"code": "11.18.03.2001",
 		"type": "desa",
-		"name": "MUKO JURONG"
+		"name": "MEUKO JURONG"
 	},
 	{
 		"code": "11.18.03.2002",
@@ -31342,7 +31457,7 @@
 	{
 		"code": "11.18.03.2003",
 		"type": "desa",
-		"name": "MUKO MEUGIT"
+		"name": "MEUKO MEUGIT"
 	},
 	{
 		"code": "11.18.03.2004",
@@ -31357,17 +31472,17 @@
 	{
 		"code": "11.18.03.2006",
 		"type": "desa",
-		"name": "KIRAN MEUNASAH RAYA"
+		"name": "KEURISI MEUNASAH RAYA"
 	},
 	{
 		"code": "11.18.03.2007",
 		"type": "desa",
-		"name": "KIRAN MEUNASAH LUENG"
+		"name": "KEURISI MEUNASAH LUENG"
 	},
 	{
 		"code": "11.18.03.2008",
 		"type": "desa",
-		"name": "K. MNS. BEUREUMBANG"
+		"name": "KEURISI MEUNASAH BEUREMBANG"
 	},
 	{
 		"code": "11.18.03.2009",
@@ -31382,7 +31497,7 @@
 	{
 		"code": "11.18.03.2011",
 		"type": "desa",
-		"name": "MEUNASAH KRUENG"
+		"name": "KIRAN KRUENG"
 	},
 	{
 		"code": "11.18.03.2012",
@@ -31392,7 +31507,7 @@
 	{
 		"code": "11.18.03.2013",
 		"type": "desa",
-		"name": "REULEU MANGAT"
+		"name": "REULUI MANGAT"
 	},
 	{
 		"code": "11.18.03.2014",
@@ -31432,7 +31547,7 @@
 	{
 		"code": "11.18.04.2002",
 		"type": "desa",
-		"name": "GAMPONG ULE GLE"
+		"name": "GAMPONG ULEE GLE"
 	},
 	{
 		"code": "11.18.04.2003",
@@ -31452,7 +31567,7 @@
 	{
 		"code": "11.18.04.2006",
 		"type": "desa",
-		"name": "MUKO KUTHANG"
+		"name": "MEUKO KUTHANG"
 	},
 	{
 		"code": "11.18.04.2007",
@@ -31477,7 +31592,7 @@
 	{
 		"code": "11.18.04.2011",
 		"type": "desa",
-		"name": "BABAH KREUNG"
+		"name": "BABAH KRUENG"
 	},
 	{
 		"code": "11.18.04.2012",
@@ -31512,7 +31627,7 @@
 	{
 		"code": "11.18.04.2018",
 		"type": "desa",
-		"name": "GAHARU"
+		"name": "GAHRU"
 	},
 	{
 		"code": "11.18.04.2019",
@@ -31527,7 +31642,7 @@
 	{
 		"code": "11.18.04.2021",
 		"type": "desa",
-		"name": "COT GEUREUFAI"
+		"name": "COT GEUREFAI"
 	},
 	{
 		"code": "11.18.04.2022",
@@ -31537,7 +31652,7 @@
 	{
 		"code": "11.18.04.2023",
 		"type": "desa",
-		"name": "MUKO BULOH"
+		"name": "MEUKO BULOH"
 	},
 	{
 		"code": "11.18.04.2024",
@@ -31552,7 +31667,7 @@
 	{
 		"code": "11.18.04.2026",
 		"type": "desa",
-		"name": "MEUGIT K. PANYANG"
+		"name": "MEUGIT KAYEE PANYANG"
 	},
 	{
 		"code": "11.18.04.2027",
@@ -31642,12 +31757,12 @@
 	{
 		"code": "11.18.04.2044",
 		"type": "desa",
-		"name": "MUKO BAROH"
+		"name": "MEUKO BAROH"
 	},
 	{
 		"code": "11.18.04.2045",
 		"type": "desa",
-		"name": "KUTO KRUENG"
+		"name": "KUTA KRUENG"
 	},
 	{
 		"code": "11.18.05",
@@ -31662,7 +31777,7 @@
 	{
 		"code": "11.18.05.2002",
 		"type": "desa",
-		"name": "SARA MANE"
+		"name": "SARAH MANE"
 	},
 	{
 		"code": "11.18.05.2003",
@@ -31672,7 +31787,7 @@
 	{
 		"code": "11.18.05.2004",
 		"type": "desa",
-		"name": "LAMCOK"
+		"name": "LANCOK"
 	},
 	{
 		"code": "11.18.05.2005",
@@ -31702,12 +31817,12 @@
 	{
 		"code": "11.18.05.2010",
 		"type": "desa",
-		"name": "KAMPONG BLANG"
+		"name": "GAMPONG BLANG"
 	},
 	{
 		"code": "11.18.05.2011",
 		"type": "desa",
-		"name": "MEUNASAH BLANG CUT"
+		"name": "BLANG CUT"
 	},
 	{
 		"code": "11.18.05.2012",
@@ -31722,7 +31837,7 @@
 	{
 		"code": "11.18.05.2014",
 		"type": "desa",
-		"name": "MENSH. DAYAH USEN"
+		"name": "DAYAH USEN"
 	},
 	{
 		"code": "11.18.05.2015",
@@ -31737,17 +31852,17 @@
 	{
 		"code": "11.18.05.2017",
 		"type": "desa",
-		"name": "BUANGA"
+		"name": "BUANGAN"
 	},
 	{
 		"code": "11.18.05.2018",
 		"type": "desa",
-		"name": "JURONG"
+		"name": "MEUNASAH JURONG"
 	},
 	{
 		"code": "11.18.05.2019",
 		"type": "desa",
-		"name": "PANTE BEUREUNEE"
+		"name": "PANTE BEUREUNE"
 	},
 	{
 		"code": "11.18.06",
@@ -31757,212 +31872,212 @@
 	{
 		"code": "11.18.06.2001",
 		"type": "desa",
-		"name": "MNS. CUT NYONG"
+		"name": "CUT NYONG"
 	},
 	{
 		"code": "11.18.06.2002",
 		"type": "desa",
-		"name": "MNS. GAMPONG"
+		"name": "MEUNASAH GAMPONG"
 	},
 	{
 		"code": "11.18.06.2003",
 		"type": "desa",
-		"name": "MNS. BARO"
+		"name": "BARO"
 	},
 	{
 		"code": "11.18.06.2004",
 		"type": "desa",
-		"name": "MNS.PULO RHENG"
+		"name": "PULO RHENG"
 	},
 	{
 		"code": "11.18.06.2005",
 		"type": "desa",
-		"name": "MNS DAYANG NYONG"
+		"name": "DAYAH NYONG"
 	},
 	{
 		"code": "11.18.06.2006",
 		"type": "desa",
-		"name": "MNS DABOIH"
+		"name": "DABOIH"
 	},
 	{
 		"code": "11.18.06.2007",
 		"type": "desa",
-		"name": "MNS. BEURANDEH"
+		"name": "BEURANDEH"
 	},
 	{
 		"code": "11.18.06.2008",
 		"type": "desa",
-		"name": "MNS. KAYE RAYA"
+		"name": "KAYE RAYA"
 	},
 	{
 		"code": "11.18.06.2009",
 		"type": "desa",
-		"name": "MNS. BLANG GLONG"
+		"name": "BLANG GLONG"
 	},
 	{
 		"code": "11.18.06.2010",
 		"type": "desa",
-		"name": "MEUNASAH TUTONG"
+		"name": "TUTONG"
 	},
 	{
 		"code": "11.18.06.2011",
 		"type": "desa",
-		"name": "MEUNASAH SIREN"
+		"name": "SIREN"
 	},
 	{
 		"code": "11.18.06.2012",
 		"type": "desa",
-		"name": "MEUNASAH KEUDE"
+		"name": "KEUDE LUENG PUTU"
 	},
 	{
 		"code": "11.18.06.2013",
 		"type": "desa",
-		"name": "MNS PUP/LUENG NIBONG"
+		"name": "PEUB LUENG NIBONG"
 	},
 	{
 		"code": "11.18.06.2014",
 		"type": "desa",
-		"name": "MNS. BAROH MUSA"
+		"name": "BAROH MUSA"
 	},
 	{
 		"code": "11.18.06.2015",
 		"type": "desa",
-		"name": "MNS TEUNGOH"
+		"name": "MUSA TEUNGOH"
 	},
 	{
 		"code": "11.18.06.2016",
 		"type": "desa",
-		"name": "MNS BALEE"
+		"name": "BALEE"
 	},
 	{
 		"code": "11.18.06.2017",
 		"type": "desa",
-		"name": "MNS UDEUNG"
+		"name": "UDEUNG"
 	},
 	{
 		"code": "11.18.06.2018",
 		"type": "desa",
-		"name": "MEUNASAH ARA"
+		"name": "ARA"
 	},
 	{
 		"code": "11.18.06.2019",
 		"type": "desa",
-		"name": "MNS BAROH LANCOK"
+		"name": "BAROH LANCOK"
 	},
 	{
 		"code": "11.18.06.2020",
 		"type": "desa",
-		"name": "MNS MANYANG"
+		"name": "MANYANG"
 	},
 	{
 		"code": "11.18.06.2021",
 		"type": "desa",
-		"name": "MNS MESJID"
+		"name": "MESJID"
 	},
 	{
 		"code": "11.18.06.2022",
 		"type": "desa",
-		"name": "MNS PULO PUEB"
+		"name": "PULO PUEB"
 	},
 	{
 		"code": "11.18.06.2023",
 		"type": "desa",
-		"name": "MNS SAWANG"
+		"name": "SAWANG"
 	},
 	{
 		"code": "11.18.06.2024",
 		"type": "desa",
-		"name": "MNS TUHA LADA"
+		"name": "TUHA LADA"
 	},
 	{
 		"code": "11.18.06.2025",
 		"type": "desa",
-		"name": "MNS CUT LANGGIENG"
+		"name": "CUT LANGGIEN"
 	},
 	{
 		"code": "11.18.06.2026",
 		"type": "desa",
-		"name": "MNS SAGOU"
+		"name": "SAGOE"
 	},
 	{
 		"code": "11.18.06.2027",
 		"type": "desa",
-		"name": "MNS DAYAH LANGGIENG"
+		"name": "DAYAH LANGGIEN"
 	},
 	{
 		"code": "11.18.06.2028",
 		"type": "desa",
-		"name": "MNS BAROH COT"
+		"name": "BAROH COT"
 	},
 	{
 		"code": "11.18.06.2029",
 		"type": "desa",
-		"name": "MNS BLANG IBOH"
+		"name": "BLANG IBOH"
 	},
 	{
 		"code": "11.18.06.2030",
 		"type": "desa",
-		"name": "MNS BLANG SUKON"
+		"name": "BLANG SUKON"
 	},
 	{
 		"code": "11.18.06.2031",
 		"type": "desa",
-		"name": "MNS KAYEE JATOU"
+		"name": "KAYEE JATOE"
 	},
 	{
 		"code": "11.18.06.2032",
 		"type": "desa",
-		"name": "MNS BLANG BARO"
+		"name": "BLANG BARO"
 	},
 	{
 		"code": "11.18.06.2033",
 		"type": "desa",
-		"name": "MNS LANCANG"
+		"name": "LANCANG"
 	},
 	{
 		"code": "11.18.06.2034",
 		"type": "desa",
-		"name": "MNS PARU KEUDE"
+		"name": "KEUDE PARU"
 	},
 	{
 		"code": "11.18.06.2035",
 		"type": "desa",
-		"name": "MNS BLANG KRUENG"
+		"name": "BLANG KRUENG"
 	},
 	{
 		"code": "11.18.06.2036",
 		"type": "desa",
-		"name": "MNS JIJIEUM"
+		"name": "JIJIEM"
 	},
 	{
 		"code": "11.18.06.2037",
 		"type": "desa",
-		"name": "MNS SARAH PANYANG"
+		"name": "SARAH PANYANG"
 	},
 	{
 		"code": "11.18.06.2038",
 		"type": "desa",
-		"name": "MNS ABAH LUENG"
+		"name": "ABAH LUENG"
 	},
 	{
 		"code": "11.18.06.2039",
 		"type": "desa",
-		"name": "MNS AKI NEUNGOH"
+		"name": "AKI NEUNGOH"
 	},
 	{
 		"code": "11.18.06.2040",
 		"type": "desa",
-		"name": "MNS UJONG LEBAT"
+		"name": "UJONG LEBAT"
 	},
 	{
 		"code": "11.18.06.2041",
 		"type": "desa",
-		"name": "MEUNASAH ALUE"
+		"name": "ALUE"
 	},
 	{
 		"code": "11.18.06.2042",
 		"type": "desa",
-		"name": "MNS TANOH MIRAH"
+		"name": "TANOH MIRAH"
 	},
 	{
 		"code": "11.18.06.2043",
@@ -31977,12 +32092,12 @@
 	{
 		"code": "11.18.07.2001",
 		"type": "desa",
-		"name": "KEUDE"
+		"name": "KEUDE PANTERAJA"
 	},
 	{
 		"code": "11.18.07.2002",
 		"type": "desa",
-		"name": "TU PANTE RAJA"
+		"name": "TU"
 	},
 	{
 		"code": "11.18.07.2003",
@@ -32002,7 +32117,7 @@
 	{
 		"code": "11.18.07.2006",
 		"type": "desa",
-		"name": "MESJ. P. RAJA TIMUR"
+		"name": "MESJID"
 	},
 	{
 		"code": "11.18.07.2007",
@@ -32022,7 +32137,7 @@
 	{
 		"code": "11.18.07.2010",
 		"type": "desa",
-		"name": "REUDEP/PEUD.BAROH"
+		"name": "REUDEUP"
 	},
 	{
 		"code": "11.18.08",
@@ -32037,12 +32152,12 @@
 	{
 		"code": "11.18.08.2002",
 		"type": "desa",
-		"name": "MEUNASAH MEE"
+		"name": "MEE PEUDUEK"
 	},
 	{
 		"code": "11.18.08.2003",
 		"type": "desa",
-		"name": "MESJID PEUDUK BAROH"
+		"name": "MESJID PEUDUEK"
 	},
 	{
 		"code": "11.18.08.2004",
@@ -32052,12 +32167,12 @@
 	{
 		"code": "11.18.08.2005",
 		"type": "desa",
-		"name": "REUSEP"
+		"name": "REUSEB"
 	},
 	{
 		"code": "11.18.08.2006",
 		"type": "desa",
-		"name": "DEEPEUDUK TUNONG"
+		"name": "DEE"
 	},
 	{
 		"code": "11.18.08.2007",
@@ -32067,7 +32182,7 @@
 	{
 		"code": "11.18.08.2008",
 		"type": "desa",
-		"name": "DAYAH TEUMAMAH"
+		"name": "DEAH TEUMANAH"
 	},
 	{
 		"code": "11.18.08.2009",
@@ -32077,17 +32192,17 @@
 	{
 		"code": "11.18.08.2010",
 		"type": "desa",
-		"name": "K. KRIENG GADENG"
+		"name": "KEUDE TRIENGGADENG"
 	},
 	{
 		"code": "11.18.08.2011",
 		"type": "desa",
-		"name": "RAYA TRIENG GD."
+		"name": "RAYA"
 	},
 	{
 		"code": "11.18.08.2012",
 		"type": "desa",
-		"name": "PAYA TRIENG GD."
+		"name": "PAYA"
 	},
 	{
 		"code": "11.18.08.2013",
@@ -32097,12 +32212,12 @@
 	{
 		"code": "11.18.08.2014",
 		"type": "desa",
-		"name": "MJD. TRIENG GADENG"
+		"name": "MESJID TRIENGGADENG"
 	},
 	{
 		"code": "11.18.08.2015",
 		"type": "desa",
-		"name": "TEUNGKLUT RAYA SARI MATANG"
+		"name": "TEUNGKLUET"
 	},
 	{
 		"code": "11.18.08.2016",
@@ -32112,7 +32227,7 @@
 	{
 		"code": "11.18.08.2017",
 		"type": "desa",
-		"name": "DAYAH UJONG BAROH"
+		"name": "DEAH UJONG BAROH"
 	},
 	{
 		"code": "11.18.08.2018",
@@ -32127,7 +32242,7 @@
 	{
 		"code": "11.18.08.2020",
 		"type": "desa",
-		"name": "DAYAH"
+		"name": "DEAH PANGWA"
 	},
 	{
 		"code": "11.18.08.2021",
@@ -32147,22 +32262,22 @@
 	{
 		"code": "11.18.08.2024",
 		"type": "desa",
-		"name": "MEE PUNGWA"
+		"name": "MEE PANGWA"
 	},
 	{
 		"code": "11.18.08.2025",
 		"type": "desa",
-		"name": "KUTA"
+		"name": "KUTA PANGWA"
 	},
 	{
 		"code": "11.18.08.2026",
 		"type": "desa",
-		"name": "COT LHEU RHENG"
+		"name": "COT LHEUE RHENG"
 	},
 	{
 		"code": "11.18.08.2027",
 		"type": "desa",
-		"name": "RAWA SARI"
+		"name": "RAWASARI"
 	},
 	{
 		"code": "11.71",
@@ -32187,12 +32302,12 @@
 	{
 		"code": "11.71.01.2003",
 		"type": "desa",
-		"name": "SUKA RAMAI"
+		"name": "SUKARAMAI"
 	},
 	{
 		"code": "11.71.01.2004",
 		"type": "desa",
-		"name": "SETUI"
+		"name": "SEUTUI"
 	},
 	{
 		"code": "11.71.01.2005",
@@ -32217,7 +32332,7 @@
 	{
 		"code": "11.71.01.2009",
 		"type": "desa",
-		"name": "ATEUK DAYAH TANOH"
+		"name": "ATEUK DEAH TANOH"
 	},
 	{
 		"code": "11.71.01.2010",
@@ -32242,7 +32357,7 @@
 	{
 		"code": "11.71.02.2003",
 		"type": "desa",
-		"name": "KP. LAKSANA"
+		"name": "LAKSANA"
 	},
 	{
 		"code": "11.71.02.2004",
@@ -32277,7 +32392,7 @@
 	{
 		"code": "11.71.02.2010",
 		"type": "desa",
-		"name": "LAMPULA"
+		"name": "LAMPULO"
 	},
 	{
 		"code": "11.71.02.2011",
@@ -32307,17 +32422,17 @@
 	{
 		"code": "11.71.03.2004",
 		"type": "desa",
-		"name": "DEYAH GELUMPANG"
+		"name": "DEAH GLUMPANG"
 	},
 	{
 		"code": "11.71.03.2005",
 		"type": "desa",
-		"name": "DEYAH BARO"
+		"name": "DEAH BARO"
 	},
 	{
 		"code": "11.71.03.2006",
 		"type": "desa",
-		"name": "ALUE DEYAH TENGOH"
+		"name": "ALUE DEAH TEUNGOH"
 	},
 	{
 		"code": "11.71.03.2007",
@@ -32332,7 +32447,7 @@
 	{
 		"code": "11.71.03.2009",
 		"type": "desa",
-		"name": "ASOI NANGGROI"
+		"name": "ASOE NANGGROE"
 	},
 	{
 		"code": "11.71.03.2010",
@@ -32387,7 +32502,7 @@
 	{
 		"code": "11.71.04.2003",
 		"type": "desa",
-		"name": "DEYAH RAYA"
+		"name": "DEAH RAYA"
 	},
 	{
 		"code": "11.71.04.2004",
@@ -32397,7 +32512,7 @@
 	{
 		"code": "11.71.04.2005",
 		"type": "desa",
-		"name": "IE MASEN K ADANG"
+		"name": "IE MASEN KAYEE ADANG"
 	},
 	{
 		"code": "11.71.04.2006",
@@ -32407,7 +32522,7 @@
 	{
 		"code": "11.71.04.2007",
 		"type": "desa",
-		"name": "LAMGUGOP"
+		"name": "LAMGUGOB"
 	},
 	{
 		"code": "11.71.04.2008",
@@ -32422,7 +32537,7 @@
 	{
 		"code": "11.71.04.2010",
 		"type": "desa",
-		"name": "GAMPONG PEURADA"
+		"name": "PEURADA"
 	},
 	{
 		"code": "11.71.05",
@@ -32502,12 +32617,12 @@
 	{
 		"code": "11.71.06.2005",
 		"type": "desa",
-		"name": "GAMPONG PANDEE"
+		"name": "GAMPONG PANDE"
 	},
 	{
 		"code": "11.71.06.2006",
 		"type": "desa",
-		"name": "GAMPONG JAWO"
+		"name": "GAMPONG JAWA"
 	},
 	{
 		"code": "11.71.07",
@@ -32552,7 +32667,7 @@
 	{
 		"code": "11.71.07.2008",
 		"type": "desa",
-		"name": "PEUNYERET"
+		"name": "PEUNYERAT"
 	},
 	{
 		"code": "11.71.07.2009",
@@ -32562,7 +32677,7 @@
 	{
 		"code": "11.71.07.2010",
 		"type": "desa",
-		"name": "LAMPEU OT"
+		"name": "LAMPEOUT"
 	},
 	{
 		"code": "11.71.08",
@@ -32582,7 +32697,7 @@
 	{
 		"code": "11.71.08.2003",
 		"type": "desa",
-		"name": "LAM JAMEE"
+		"name": "LAMJAMEE"
 	},
 	{
 		"code": "11.71.08.2004",
@@ -32597,12 +32712,12 @@
 	{
 		"code": "11.71.08.2006",
 		"type": "desa",
-		"name": "EMPEEROM"
+		"name": "EMPEROM"
 	},
 	{
 		"code": "11.71.08.2007",
 		"type": "desa",
-		"name": "GEUCEUN MEUNARA"
+		"name": "GEUCEU MEUNARA"
 	},
 	{
 		"code": "11.71.08.2008",
@@ -32642,7 +32757,7 @@
 	{
 		"code": "11.71.09.2005",
 		"type": "desa",
-		"name": "PANGO DEYAH"
+		"name": "PANGO DEAH"
 	},
 	{
 		"code": "11.71.09.2006",
@@ -32652,7 +32767,7 @@
 	{
 		"code": "11.71.09.2007",
 		"type": "desa",
-		"name": "DOI"
+		"name": "DOY"
 	},
 	{
 		"code": "11.71.09.2008",
@@ -32662,7 +32777,7 @@
 	{
 		"code": "11.71.09.2009",
 		"type": "desa",
-		"name": "IE MU KARENG"
+		"name": "IE MASEN ULEE KARENG"
 	},
 	{
 		"code": "11.72",
@@ -32682,7 +32797,7 @@
 	{
 		"code": "11.72.01.2002",
 		"type": "desa",
-		"name": "BATEE SHOK"
+		"name": "BATEE SHOEK"
 	},
 	{
 		"code": "11.72.01.2003",
@@ -32702,17 +32817,17 @@
 	{
 		"code": "11.72.01.2006",
 		"type": "desa",
-		"name": "KOTA BAWAH TIMUR"
+		"name": "KUTA TIMU"
 	},
 	{
 		"code": "11.72.01.2007",
 		"type": "desa",
-		"name": "KOTA BAWAH BARAT"
+		"name": "KUTA BARAT"
 	},
 	{
 		"code": "11.72.01.2008",
 		"type": "desa",
-		"name": "KOTA ATAS"
+		"name": "KUTA ATEUH"
 	},
 	{
 		"code": "11.72.02",
@@ -32747,7 +32862,7 @@
 	{
 		"code": "11.72.02.2006",
 		"type": "desa",
-		"name": "COT ABEUEK"
+		"name": "COT ABEUK"
 	},
 	{
 		"code": "11.72.02.2007",
@@ -32762,12 +32877,12 @@
 	{
 		"code": "11.72.02.2009",
 		"type": "desa",
-		"name": "UJONG KAREUENG"
+		"name": "UJOENG KAREUNG"
 	},
 	{
 		"code": "11.72.02.2010",
 		"type": "desa",
-		"name": "ANOI ITAM"
+		"name": "ANOE ITAM"
 	},
 	{
 		"code": "11.73",
@@ -32792,7 +32907,7 @@
 	{
 		"code": "11.73.01.2004",
 		"type": "desa",
-		"name": "COT MAMPLAM"
+		"name": "CUT MAMPLAM"
 	},
 	{
 		"code": "11.73.01.2005",
@@ -32812,7 +32927,7 @@
 	{
 		"code": "11.73.01.2008",
 		"type": "desa",
-		"name": "MNS UTEUNKO CUNDA"
+		"name": "UTEUNKOT"
 	},
 	{
 		"code": "11.73.01.2009",
@@ -32827,12 +32942,12 @@
 	{
 		"code": "11.73.01.2011",
 		"type": "desa",
-		"name": "MEUNASAH PANGGOI"
+		"name": "MNS. PANGGOI"
 	},
 	{
 		"code": "11.73.01.2013",
 		"type": "desa",
-		"name": "MNSH PAYA BILI"
+		"name": "PAYA BILI"
 	},
 	{
 		"code": "11.73.01.2014",
@@ -32842,7 +32957,7 @@
 	{
 		"code": "11.73.01.2015",
 		"type": "desa",
-		"name": "PAYA PUNTEET"
+		"name": "PAYA PUNTEUET"
 	},
 	{
 		"code": "11.73.01.2016",
@@ -32862,7 +32977,7 @@
 	{
 		"code": "11.73.01.2026",
 		"type": "desa",
-		"name": "PALOH BATE"
+		"name": "PALOH BATEE"
 	},
 	{
 		"code": "11.73.02",
@@ -32887,7 +33002,7 @@
 	{
 		"code": "11.73.02.2004",
 		"type": "desa",
-		"name": "KAMPONG JAWA"
+		"name": "KAMPUNG JAWA LHOKSEUMAWE"
 	},
 	{
 		"code": "11.73.02.2005",
@@ -32952,7 +33067,7 @@
 	{
 		"code": "11.73.02.2017",
 		"type": "desa",
-		"name": "KP. JAWA BAROE"
+		"name": "JAWA BARU"
 	},
 	{
 		"code": "11.73.02.2018",
@@ -32977,7 +33092,7 @@
 	{
 		"code": "11.73.03.2003",
 		"type": "desa",
-		"name": "MESJID MEURAYA"
+		"name": "JAMBO MESJID"
 	},
 	{
 		"code": "11.73.03.2004",
@@ -33002,7 +33117,7 @@
 	{
 		"code": "11.73.03.2008",
 		"type": "desa",
-		"name": "BALOY"
+		"name": "BALOI"
 	},
 	{
 		"code": "11.73.03.2009",
@@ -33042,7 +33157,7 @@
 	{
 		"code": "11.73.03.2016",
 		"type": "desa",
-		"name": "KEUDE PANTEUET"
+		"name": "KEUDE PUNTEUET"
 	},
 	{
 		"code": "11.73.03.2017",
@@ -33057,7 +33172,7 @@
 	{
 		"code": "11.73.03.2019",
 		"type": "desa",
-		"name": "BLANG WEU PANJOU"
+		"name": "BLANG WEU PANJOE"
 	},
 	{
 		"code": "11.73.03.2020",
@@ -33097,7 +33212,7 @@
 	{
 		"code": "11.73.04.2004",
 		"type": "desa",
-		"name": "PALOH PANTI"
+		"name": "PALOH PUNTI"
 	},
 	{
 		"code": "11.73.04.2005",
@@ -33112,7 +33227,7 @@
 	{
 		"code": "11.73.04.2007",
 		"type": "desa",
-		"name": "BLANG N. MAMEH"
+		"name": "BLANG NALEUNG MAMEH"
 	},
 	{
 		"code": "11.73.04.2008",
@@ -33132,7 +33247,7 @@
 	{
 		"code": "11.73.04.2011",
 		"type": "desa",
-		"name": "UJONG PANCU"
+		"name": "UJONG PACU"
 	},
 	{
 		"code": "11.74",
@@ -33237,12 +33352,12 @@
 	{
 		"code": "11.74.02.2006",
 		"type": "desa",
-		"name": "PAYA BUJOKTEUNGOH"
+		"name": "PB. TEUNGOH"
 	},
 	{
 		"code": "11.74.02.2007",
 		"type": "desa",
-		"name": "PAYA BUJOK BEURAMO"
+		"name": "PB. BEURAMO"
 	},
 	{
 		"code": "11.74.02.2008",
@@ -33272,7 +33387,7 @@
 	{
 		"code": "11.74.02.2018",
 		"type": "desa",
-		"name": "TELAGA TUJUH"
+		"name": "TEULAGA TUJUH"
 	},
 	{
 		"code": "11.74.02.2019",
@@ -33282,17 +33397,17 @@
 	{
 		"code": "11.74.02.2020",
 		"type": "desa",
-		"name": "SUNGAI PAUS PUSAKA"
+		"name": "SUNGAI PAUH PUSAKA"
 	},
 	{
 		"code": "11.74.02.2021",
 		"type": "desa",
-		"name": "SUNGAI PAUS TANJONG"
+		"name": "SUNGAI PAUH TANJONG"
 	},
 	{
 		"code": "11.74.02.2022",
 		"type": "desa",
-		"name": "SUNGAI PAUS FIRDAUS"
+		"name": "SUNGAI PAUH FIRDAUS"
 	},
 	{
 		"code": "11.74.03",
@@ -33302,7 +33417,7 @@
 	{
 		"code": "11.74.03.2001",
 		"type": "desa",
-		"name": "GAMPONG TEUNGOH"
+		"name": "TEUNGOH"
 	},
 	{
 		"code": "11.74.03.2002",
@@ -33312,12 +33427,12 @@
 	{
 		"code": "11.74.03.2004",
 		"type": "desa",
-		"name": "GAMPONG JAWA"
+		"name": "JAWA"
 	},
 	{
 		"code": "11.74.03.2005",
 		"type": "desa",
-		"name": "PB. BLANG PASE"
+		"name": "PAYA BUJOK BLANG PASE"
 	},
 	{
 		"code": "11.74.03.2006",
@@ -33407,12 +33522,12 @@
 	{
 		"code": "11.74.04.2011",
 		"type": "desa",
-		"name": "SUKA JD KBN IRENG"
+		"name": "SUKAJADI KEBUN IRENG"
 	},
 	{
 		"code": "11.74.04.2012",
 		"type": "desa",
-		"name": "MEURANDEH TEUNGOH"
+		"name": "MEURANDEH TENGAH"
 	},
 	{
 		"code": "11.74.04.2013",
@@ -33427,7 +33542,7 @@
 	{
 		"code": "11.74.04.2015",
 		"type": "desa",
-		"name": "BATE PUTEH"
+		"name": "BATEE PUTEH"
 	},
 	{
 		"code": "11.74.05",
@@ -33482,7 +33597,7 @@
 	{
 		"code": "11.74.05.2010",
 		"type": "desa",
-		"name": "ALUE DUA BAKARAN BATE"
+		"name": "ALUE DUA BAKARAN BATEE"
 	},
 	{
 		"code": "11.74.05.2011",
@@ -33492,7 +33607,7 @@
 	{
 		"code": "11.74.05.2012",
 		"type": "desa",
-		"name": "SUKA JADI MAKMUR"
+		"name": "SUKAJADI MAKMUR"
 	},
 	{
 		"code": "11.75",
@@ -33517,7 +33632,7 @@
 	{
 		"code": "11.75.01.2003",
 		"type": "desa",
-		"name": "SIKELONDANG"
+		"name": "SIKALONDANG"
 	},
 	{
 		"code": "11.75.01.2004",
@@ -33557,7 +33672,7 @@
 	{
 		"code": "11.75.01.2011",
 		"type": "desa",
-		"name": "PASIR PANJANG"
+		"name": "PASAR PANJANG"
 	},
 	{
 		"code": "11.75.01.2012",
@@ -33737,17 +33852,17 @@
 	{
 		"code": "11.75.03.2015",
 		"type": "desa",
-		"name": "KAMPONG BADAR"
+		"name": "BADAR"
 	},
 	{
 		"code": "11.75.03.2016",
 		"type": "desa",
-		"name": "LAE PEMUALAN"
+		"name": "LAE PEMULAAN"
 	},
 	{
 		"code": "11.75.03.2017",
 		"type": "desa",
-		"name": "PANGLIMA SAHMAN"
+		"name": "PANGLIMA SAMAN"
 	},
 	{
 		"code": "11.75.03.2018",
@@ -33832,12 +33947,12 @@
 	{
 		"code": "11.75.04.2010",
 		"type": "desa",
-		"name": "PULAU KEDEP"
+		"name": "PULO KEDEP"
 	},
 	{
 		"code": "11.75.04.2011",
 		"type": "desa",
-		"name": "PULAU BELEN"
+		"name": "PULO BELEN"
 	},
 	{
 		"code": "11.75.04.2012",
@@ -33852,7 +33967,7 @@
 	{
 		"code": "11.75.04.2014",
 		"type": "desa",
-		"name": "CIPARE-PARE"
+		"name": "CIPARE PARE"
 	},
 	{
 		"code": "11.75.04.2015",
@@ -33862,7 +33977,7 @@
 	{
 		"code": "11.75.04.2016",
 		"type": "desa",
-		"name": "CIPAR PARI TIMUR"
+		"name": "CIPAR-PARI TIMUR"
 	},
 	{
 		"code": "11.75.04.2018",
@@ -33922,7 +34037,7 @@
 	{
 		"code": "11.75.05.2008",
 		"type": "desa",
-		"name": "DARUL AMAN GINANSING"
+		"name": "DARUL AMAN"
 	},
 	{
 		"code": "11.75.05.2009",

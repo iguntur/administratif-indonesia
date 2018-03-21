@@ -5670,11 +5670,6 @@
 		"name": "TATELU RONDOR"
 	},
 	{
-		"code": "71.06.05.2022",
-		"type": "desa",
-		"name": "PANIKI BARU"
-	},
-	{
 		"code": "71.06.06",
 		"type": "kecamatan",
 		"name": "LIKUPANG BARAT"
@@ -6917,7 +6912,7 @@
 	{
 		"code": "71.08.01.2016",
 		"type": "desa",
-		"name": "SANGLUP EMPAT"
+		"name": "SANGKUB EMPAT"
 	},
 	{
 		"code": "71.08.02",
@@ -8080,16 +8075,6 @@
 		"name": "NUANGAN"
 	},
 	{
-		"code": "71.10.03.2004",
-		"type": "desa",
-		"name": "MOLOBOG"
-	},
-	{
-		"code": "71.10.03.2005",
-		"type": "desa",
-		"name": "MOTONGKAD"
-	},
-	{
 		"code": "71.10.03.2006",
 		"type": "desa",
 		"name": "BAI"
@@ -8098,16 +8083,6 @@
 		"code": "71.10.03.2007",
 		"type": "desa",
 		"name": "JIKO BELANGA"
-	},
-	{
-		"code": "71.10.03.2008",
-		"type": "desa",
-		"name": "JIKO"
-	},
-	{
-		"code": "71.10.03.2009",
-		"type": "desa",
-		"name": "ATOGA"
 	},
 	{
 		"code": "71.10.03.2010",
@@ -8125,29 +8100,9 @@
 		"name": "LOYOW"
 	},
 	{
-		"code": "71.10.03.2013",
-		"type": "desa",
-		"name": "MOTONGKAD UTARA"
-	},
-	{
 		"code": "71.10.03.2014",
 		"type": "desa",
 		"name": "MATABULU TIMUR"
-	},
-	{
-		"code": "71.10.03.2015",
-		"type": "desa",
-		"name": "MOTONGKAD SELATAN"
-	},
-	{
-		"code": "71.10.03.2016",
-		"type": "desa",
-		"name": "MOTONGKAD TENGAH"
-	},
-	{
-		"code": "71.10.03.2017",
-		"type": "desa",
-		"name": "JIKO UTARA"
 	},
 	{
 		"code": "71.10.03.2018",
@@ -8158,21 +8113,6 @@
 		"code": "71.10.03.2019",
 		"type": "desa",
 		"name": "NUANGAN SELATAN"
-	},
-	{
-		"code": "71.10.03.2020",
-		"type": "desa",
-		"name": "ATOGA TIMUR"
-	},
-	{
-		"code": "71.10.03.2021",
-		"type": "desa",
-		"name": "MOLOBOG TIMUR"
-	},
-	{
-		"code": "71.10.03.2022",
-		"type": "desa",
-		"name": "MOLOBOG BARAT"
 	},
 	{
 		"code": "71.10.04",
@@ -8193,21 +8133,6 @@
 		"code": "71.10.04.2003",
 		"type": "desa",
 		"name": "PURWOREJO"
-	},
-	{
-		"code": "71.10.04.2004",
-		"type": "desa",
-		"name": "MOAT"
-	},
-	{
-		"code": "71.10.04.2005",
-		"type": "desa",
-		"name": "GUAAN"
-	},
-	{
-		"code": "71.10.04.2006",
-		"type": "desa",
-		"name": "BONGKUDAI BARU"
 	},
 	{
 		"code": "71.10.04.2007",
@@ -8250,34 +8175,9 @@
 		"name": "LIBERIA TIMUR"
 	},
 	{
-		"code": "71.10.04.2015",
-		"type": "desa",
-		"name": "BONGKUDAI UTARA"
-	},
-	{
 		"code": "71.10.04.2016",
 		"type": "desa",
 		"name": "PURWOREJO TENGAH"
-	},
-	{
-		"code": "71.10.04.2017",
-		"type": "desa",
-		"name": "KOKAPOI"
-	},
-	{
-		"code": "71.10.04.2018",
-		"type": "desa",
-		"name": "MOKITOMPIA"
-	},
-	{
-		"code": "71.10.04.2019",
-		"type": "desa",
-		"name": "MOTOTOMPIAN"
-	},
-	{
-		"code": "71.10.04.2020",
-		"type": "desa",
-		"name": "BONGKUDAI TIMUR"
 	},
 	{
 		"code": "71.10.04.2021",
@@ -8288,16 +8188,6 @@
 		"code": "71.10.04.2022",
 		"type": "desa",
 		"name": "SUMBER REJO"
-	},
-	{
-		"code": "71.10.04.2023",
-		"type": "desa",
-		"name": "KOKAPOI TIMUR"
-	},
-	{
-		"code": "71.10.04.2024",
-		"type": "desa",
-		"name": "BONGKUDAI SELATAN"
 	},
 	{
 		"code": "71.10.05",
@@ -8355,6 +8245,121 @@
 		"name": "TANGATON"
 	},
 	{
+		"code": "71.10.06",
+		"type": "kecamatan",
+		"name": "MOTONGKAD"
+	},
+	{
+		"code": "71.10.06.2001",
+		"type": "desa",
+		"name": "MOTONGKAD UTARA"
+	},
+	{
+		"code": "71.10.06.2002",
+		"type": "desa",
+		"name": "MOTONGKAD"
+	},
+	{
+		"code": "71.10.06.2003",
+		"type": "desa",
+		"name": "MOTONGKAD SELATAN"
+	},
+	{
+		"code": "71.10.06.2004",
+		"type": "desa",
+		"name": "ATOGA"
+	},
+	{
+		"code": "71.10.06.2005",
+		"type": "desa",
+		"name": "ATOGA TIMUR"
+	},
+	{
+		"code": "71.10.06.2006",
+		"type": "desa",
+		"name": "MOTONGKAD TENGAH"
+	},
+	{
+		"code": "71.10.06.2007",
+		"type": "desa",
+		"name": "MOLOBOG"
+	},
+	{
+		"code": "71.10.06.2008",
+		"type": "desa",
+		"name": "MOLOBOG BARAT"
+	},
+	{
+		"code": "71.10.06.2009",
+		"type": "desa",
+		"name": "JIKO"
+	},
+	{
+		"code": "71.10.06.2010",
+		"type": "desa",
+		"name": "JIKO UTARA"
+	},
+	{
+		"code": "71.10.06.2011",
+		"type": "desa",
+		"name": "MOLOBOG TIMUR"
+	},
+	{
+		"code": "71.10.07",
+		"type": "kecamatan",
+		"name": "MOOAT"
+	},
+	{
+		"code": "71.10.07.2001",
+		"type": "desa",
+		"name": "MOOAT"
+	},
+	{
+		"code": "71.10.07.2002",
+		"type": "desa",
+		"name": "BONGKUDAI SELATAN"
+	},
+	{
+		"code": "71.10.07.2003",
+		"type": "desa",
+		"name": "BONGKUDAI BARU"
+	},
+	{
+		"code": "71.10.07.2004",
+		"type": "desa",
+		"name": "BONGKUDAI UTARA"
+	},
+	{
+		"code": "71.10.07.2005",
+		"type": "desa",
+		"name": "BONGKUDAI TIMUR"
+	},
+	{
+		"code": "71.10.07.2006",
+		"type": "desa",
+		"name": "GUAAN"
+	},
+	{
+		"code": "71.10.07.2007",
+		"type": "desa",
+		"name": "MOTOTOMPIAN"
+	},
+	{
+		"code": "71.10.07.2008",
+		"type": "desa",
+		"name": "MOKITOMPIA"
+	},
+	{
+		"code": "71.10.07.2009",
+		"type": "desa",
+		"name": "KOKAPOI"
+	},
+	{
+		"code": "71.10.07.2010",
+		"type": "desa",
+		"name": "KOKAPOI TIMUR"
+	},
+	{
 		"code": "71.11",
 		"type": "kabupaten",
 		"name": "KAB. BOLAANG MONGONDOW SELATAN"
@@ -8363,21 +8368,6 @@
 		"code": "71.11.01",
 		"type": "kecamatan",
 		"name": "BOLAANG UKI"
-	},
-	{
-		"code": "71.11.01.2001",
-		"type": "desa",
-		"name": "BAKIDA"
-	},
-	{
-		"code": "71.11.01.2002",
-		"type": "desa",
-		"name": "DUMINANGA"
-	},
-	{
-		"code": "71.11.01.2003",
-		"type": "desa",
-		"name": "BINIHA"
 	},
 	{
 		"code": "71.11.01.2004",
@@ -8415,11 +8405,6 @@
 		"name": "TABILAA"
 	},
 	{
-		"code": "71.11.01.2011",
-		"type": "desa",
-		"name": "PANGIA"
-	},
-	{
 		"code": "71.11.01.2012",
 		"type": "desa",
 		"name": "SONDANA"
@@ -8445,29 +8430,9 @@
 		"name": "TOLONDADU II"
 	},
 	{
-		"code": "71.11.01.2017",
-		"type": "desa",
-		"name": "SINANDAKA"
-	},
-	{
-		"code": "71.11.01.2018",
-		"type": "desa",
-		"name": "SOPUTA"
-	},
-	{
-		"code": "71.11.01.2019",
-		"type": "desa",
-		"name": "BINIHA TIMUR"
-	},
-	{
 		"code": "71.11.01.2020",
 		"type": "desa",
 		"name": "SOGUO"
-	},
-	{
-		"code": "71.11.01.2021",
-		"type": "desa",
-		"name": "MOTOLOHU"
 	},
 	{
 		"code": "71.11.01.2022",
@@ -8478,21 +8443,6 @@
 		"code": "71.11.01.2023",
 		"type": "desa",
 		"name": "SALONGO TIMUR"
-	},
-	{
-		"code": "71.11.01.2024",
-		"type": "desa",
-		"name": "TRANS PATOA"
-	},
-	{
-		"code": "71.11.01.2025",
-		"type": "desa",
-		"name": "HALABOLU"
-	},
-	{
-		"code": "71.11.01.2026",
-		"type": "desa",
-		"name": "BINIHA SELATAN"
 	},
 	{
 		"code": "71.11.01.2027",
@@ -8530,16 +8480,6 @@
 		"name": "SAIBUAH"
 	},
 	{
-		"code": "71.11.02.2005",
-		"type": "desa",
-		"name": "TOLUTU"
-	},
-	{
-		"code": "71.11.02.2006",
-		"type": "desa",
-		"name": "MILANGODAA"
-	},
-	{
 		"code": "71.11.02.2007",
 		"type": "desa",
 		"name": "SINOMBAYUGA"
@@ -8553,11 +8493,6 @@
 		"code": "71.11.02.2009",
 		"type": "desa",
 		"name": "MOMALIA I"
-	},
-	{
-		"code": "71.11.02.2010",
-		"type": "desa",
-		"name": "MILANGODAA BARAT"
 	},
 	{
 		"code": "71.11.02.2011",
@@ -8580,11 +8515,6 @@
 		"name": "TONALA"
 	},
 	{
-		"code": "71.11.02.2015",
-		"type": "desa",
-		"name": "BOTULIODU"
-	},
-	{
 		"code": "71.11.02.2016",
 		"type": "desa",
 		"name": "ILOHELUMA"
@@ -8595,24 +8525,9 @@
 		"name": "MEYAMBANGA TIMUR"
 	},
 	{
-		"code": "71.11.02.2018",
-		"type": "desa",
-		"name": "MILANGODAA UTARA"
-	},
-	{
 		"code": "71.11.02.2019",
 		"type": "desa",
 		"name": "MOLOSIPAT"
-	},
-	{
-		"code": "71.11.02.2020",
-		"type": "desa",
-		"name": "NUNUKA RAYA"
-	},
-	{
-		"code": "71.11.02.2021",
-		"type": "desa",
-		"name": "PAKUKU JAYA"
 	},
 	{
 		"code": "71.11.02.2022",
@@ -8777,7 +8692,7 @@
 	{
 		"code": "71.11.05.2010",
 		"type": "desa",
-		"name": "MOTAINDO SELATAN"
+		"name": "MATANDOI SELATAN"
 	},
 	{
 		"code": "71.11.05.2011",
@@ -8788,6 +8703,106 @@
 		"code": "71.11.05.2012",
 		"type": "desa",
 		"name": "ONGGUNOI SELATAN"
+	},
+	{
+		"code": "71.11.06",
+		"type": "kecamatan",
+		"name": "HELUMO"
+	},
+	{
+		"code": "71.11.06.2001",
+		"type": "desa",
+		"name": "BINIHA TIMUR"
+	},
+	{
+		"code": "71.11.06.2002",
+		"type": "desa",
+		"name": "BINIHA"
+	},
+	{
+		"code": "71.11.06.2003",
+		"type": "desa",
+		"name": "BINIHA SELATAN"
+	},
+	{
+		"code": "71.11.06.2004",
+		"type": "desa",
+		"name": "DUMINANGA"
+	},
+	{
+		"code": "71.11.06.2005",
+		"type": "desa",
+		"name": "HALABOLU"
+	},
+	{
+		"code": "71.11.06.2006",
+		"type": "desa",
+		"name": "TRANS PATOA"
+	},
+	{
+		"code": "71.11.06.2007",
+		"type": "desa",
+		"name": "BAKIDA"
+	},
+	{
+		"code": "71.11.06.2008",
+		"type": "desa",
+		"name": "SINANDAKA"
+	},
+	{
+		"code": "71.11.06.2009",
+		"type": "desa",
+		"name": "SOPUTA"
+	},
+	{
+		"code": "71.11.06.2010",
+		"type": "desa",
+		"name": "PANGIA"
+	},
+	{
+		"code": "71.11.06.2011",
+		"type": "desa",
+		"name": "MOTOLOHU"
+	},
+	{
+		"code": "71.11.07",
+		"type": "kecamatan",
+		"name": "TOMINI"
+	},
+	{
+		"code": "71.11.07.2001",
+		"type": "desa",
+		"name": "BOTULIODU"
+	},
+	{
+		"code": "71.11.07.2002",
+		"type": "desa",
+		"name": "NUNUKA RAYA"
+	},
+	{
+		"code": "71.11.07.2003",
+		"type": "desa",
+		"name": "TOLUTU"
+	},
+	{
+		"code": "71.11.07.2004",
+		"type": "desa",
+		"name": "MILANGODAA"
+	},
+	{
+		"code": "71.11.07.2005",
+		"type": "desa",
+		"name": "MILANGODAA BARAT"
+	},
+	{
+		"code": "71.11.07.2006",
+		"type": "desa",
+		"name": "MILANGODAA UTARA"
+	},
+	{
+		"code": "71.11.07.2007",
+		"type": "desa",
+		"name": "PAKUKU JAYA"
 	},
 	{
 		"code": "71.71",
@@ -9970,6 +9985,11 @@
 		"name": "SIA"
 	},
 	{
+		"code": "71.74.01.2008",
+		"type": "desa",
+		"name": "PONTODON TIMUR"
+	},
+	{
 		"code": "71.74.02",
 		"type": "kecamatan",
 		"name": "KOTAMOBAGU TIMUR"
@@ -10013,6 +10033,16 @@
 		"code": "71.74.02.2002",
 		"type": "desa",
 		"name": "KOBO KECIL"
+	},
+	{
+		"code": "71.74.02.2009",
+		"type": "desa",
+		"name": "MOYAG TAMPOAN"
+	},
+	{
+		"code": "71.74.02.2010",
+		"type": "desa",
+		"name": "MOYAG TODULAN"
 	},
 	{
 		"code": "71.74.03",

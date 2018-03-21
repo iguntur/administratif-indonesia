@@ -2402,7 +2402,7 @@
 	{
 		"code": "33.02.14.2005",
 		"type": "desa",
-		"name": "BANJARSARI KIDUL"
+		"name": "BANJARSARI"
 	},
 	{
 		"code": "33.02.14.2006",
@@ -2887,7 +2887,7 @@
 	{
 		"code": "33.02.20.2004",
 		"type": "desa",
-		"name": "KARANGTENGAH"
+		"name": "KARANG TENGAH"
 	},
 	{
 		"code": "33.02.20.2005",
@@ -3087,7 +3087,7 @@
 	{
 		"code": "33.02.22.2007",
 		"type": "desa",
-		"name": "KARANGTENGAH"
+		"name": "KARANG TENGAH"
 	},
 	{
 		"code": "33.02.22.2008",
@@ -3217,7 +3217,7 @@
 	{
 		"code": "33.02.24.1005",
 		"type": "kelurahan",
-		"name": "PURWEKERTO KULON"
+		"name": "PURWOKERTO KULON"
 	},
 	{
 		"code": "33.02.24.1006",
@@ -5767,7 +5767,7 @@
 	{
 		"code": "33.04.15.2008",
 		"type": "desa",
-		"name": "DERMAYASA"
+		"name": "DARMAYASA"
 	},
 	{
 		"code": "33.04.15.2009",
@@ -6407,7 +6407,7 @@
 	{
 		"code": "33.05.03.2014",
 		"type": "desa",
-		"name": "PASURUHAN"
+		"name": "PESURUHAN"
 	},
 	{
 		"code": "33.05.03.2015",
@@ -6782,7 +6782,7 @@
 	{
 		"code": "33.05.06.2018",
 		"type": "desa",
-		"name": "KLAPASAWIT"
+		"name": "KLOPOSAWIT"
 	},
 	{
 		"code": "33.05.06.2019",
@@ -7372,7 +7372,7 @@
 	{
 		"code": "33.05.12.2002",
 		"type": "desa",
-		"name": "MUKTIREJO"
+		"name": "MURTIREJO"
 	},
 	{
 		"code": "33.05.12.2003",
@@ -7572,7 +7572,7 @@
 	{
 		"code": "33.05.14.2003",
 		"type": "desa",
-		"name": "SIDOHARJO"
+		"name": "SIDOARJO"
 	},
 	{
 		"code": "33.05.14.2004",
@@ -8392,7 +8392,7 @@
 	{
 		"code": "33.05.24.2002",
 		"type": "desa",
-		"name": "BELINGASAL"
+		"name": "BALINGASAL"
 	},
 	{
 		"code": "33.05.24.2003",
@@ -10207,7 +10207,7 @@
 	{
 		"code": "33.06.11.2004",
 		"type": "desa",
-		"name": "TANJUNGTEJO"
+		"name": "TUNJUNGTEJO"
 	},
 	{
 		"code": "33.06.11.2005",
@@ -10272,7 +10272,7 @@
 	{
 		"code": "33.06.11.2017",
 		"type": "desa",
-		"name": "DLISENWETAN"
+		"name": "DLISEN WETAN"
 	},
 	{
 		"code": "33.06.11.2018",
@@ -10302,7 +10302,7 @@
 	{
 		"code": "33.06.11.2023",
 		"type": "desa",
-		"name": "LUWENGKIDUL"
+		"name": "LUWENG KIDUL"
 	},
 	{
 		"code": "33.06.11.2024",
@@ -10477,7 +10477,7 @@
 	{
 		"code": "33.06.12.2008",
 		"type": "desa",
-		"name": "KEMIRIKIDUL"
+		"name": "KEMIRI KIDUL"
 	},
 	{
 		"code": "33.06.12.2009",
@@ -10562,7 +10562,7 @@
 	{
 		"code": "33.06.12.2025",
 		"type": "desa",
-		"name": "KEMIRI LOR"
+		"name": "KEMIRILOR"
 	},
 	{
 		"code": "33.06.12.2026",
@@ -10572,7 +10572,7 @@
 	{
 		"code": "33.06.12.2027",
 		"type": "desa",
-		"name": "KROYO LOR"
+		"name": "KROYOLOR"
 	},
 	{
 		"code": "33.06.12.2028",
@@ -10912,7 +10912,7 @@
 	{
 		"code": "33.06.15.2009",
 		"type": "desa",
-		"name": "BANYUASINSEPARE"
+		"name": "BANYUASIN SEPARE"
 	},
 	{
 		"code": "33.06.15.2010",
@@ -10962,7 +10962,7 @@
 	{
 		"code": "33.06.15.2019",
 		"type": "desa",
-		"name": "BANYUASINKEMBARAN"
+		"name": "BANYUASIN KEMBARAN"
 	},
 	{
 		"code": "33.06.15.2020",
@@ -14672,7 +14672,7 @@
 	{
 		"code": "33.09.03.2002",
 		"type": "desa",
-		"name": "JOMBANG"
+		"name": "JOMBONG"
 	},
 	{
 		"code": "33.09.03.2003",
@@ -16262,7 +16262,7 @@
 	{
 		"code": "33.10.04.2011",
 		"type": "desa",
-		"name": "GUNUNG GAJAH"
+		"name": "GUNUNGGAJAH"
 	},
 	{
 		"code": "33.10.04.2012",
@@ -16572,7 +16572,7 @@
 	{
 		"code": "33.10.08.2006",
 		"type": "desa",
-		"name": "TANGKISANPOS"
+		"name": "TANGKISAN POS"
 	},
 	{
 		"code": "33.10.08.2007",
@@ -16812,7 +16812,7 @@
 	{
 		"code": "33.10.11.2003",
 		"type": "desa",
-		"name": "JAMBU KIDUL"
+		"name": "JAMBUKIDUL"
 	},
 	{
 		"code": "33.10.11.2004",
@@ -16852,7 +16852,7 @@
 	{
 		"code": "33.10.11.2011",
 		"type": "desa",
-		"name": "JAMBU KULON"
+		"name": "JAMBUKULON"
 	},
 	{
 		"code": "33.10.11.2012",
@@ -17472,7 +17472,7 @@
 	{
 		"code": "33.10.18.2006",
 		"type": "desa",
-		"name": "BLANCIRAN"
+		"name": "BLANCERAN"
 	},
 	{
 		"code": "33.10.18.2007",
@@ -17537,7 +17537,7 @@
 	{
 		"code": "33.10.18.2019",
 		"type": "desa",
-		"name": "JEBLOK"
+		"name": "JEBLOG"
 	},
 	{
 		"code": "33.10.19",
@@ -20532,7 +20532,7 @@
 	{
 		"code": "33.12.24.2008",
 		"type": "desa",
-		"name": "GENDAYAAN"
+		"name": "GENDAYAKAN"
 	},
 	{
 		"code": "33.12.25",
@@ -22797,7 +22797,7 @@
 	{
 		"code": "33.15.02.2007",
 		"type": "desa",
-		"name": "KARANGRANYAR"
+		"name": "KARANGANYAR"
 	},
 	{
 		"code": "33.15.02.2008",
@@ -23467,7 +23467,7 @@
 	{
 		"code": "33.15.10.2012",
 		"type": "desa",
-		"name": "KARANG ASEM"
+		"name": "KARANGASEM"
 	},
 	{
 		"code": "33.15.10.2013",
@@ -25787,7 +25787,7 @@
 	{
 		"code": "33.17.01.2006",
 		"type": "desa",
-		"name": "KEDUNGTULUP"
+		"name": "KEDUNG TULUP"
 	},
 	{
 		"code": "33.17.01.2007",
@@ -25817,7 +25817,7 @@
 	{
 		"code": "33.17.01.2012",
 		"type": "desa",
-		"name": "RANDUANGUNG"
+		"name": "RANDUAGUNG"
 	},
 	{
 		"code": "33.17.01.2013",
@@ -26017,7 +26017,7 @@
 	{
 		"code": "33.17.03.2016",
 		"type": "desa",
-		"name": "SAMBONGPAYAK"
+		"name": "SAMBUNGPAYAK"
 	},
 	{
 		"code": "33.17.04",
@@ -26292,7 +26292,7 @@
 	{
 		"code": "33.17.06.2014",
 		"type": "desa",
-		"name": "LEMAHPUTIH"
+		"name": "LEMAH PUTIH"
 	},
 	{
 		"code": "33.17.06.2015",
@@ -26842,12 +26842,12 @@
 	{
 		"code": "33.17.10.2032",
 		"type": "desa",
-		"name": "KABONGANLOR"
+		"name": "KABONGAN LOR"
 	},
 	{
 		"code": "33.17.10.2033",
 		"type": "desa",
-		"name": "KABONGANKIDUL"
+		"name": "KABONGAN KIDUL"
 	},
 	{
 		"code": "33.17.10.2034",
@@ -28442,7 +28442,7 @@
 	{
 		"code": "33.18.10.2027",
 		"type": "desa",
-		"name": "NGEPUNGREJO"
+		"name": "NGEPUNGROJO"
 	},
 	{
 		"code": "33.18.10.2028",
@@ -28602,7 +28602,7 @@
 	{
 		"code": "33.18.12.2004",
 		"type": "desa",
-		"name": "SUKOKULON"
+		"name": "SOKOKULON"
 	},
 	{
 		"code": "33.18.12.2005",
@@ -28927,7 +28927,7 @@
 	{
 		"code": "33.18.16.2003",
 		"type": "desa",
-		"name": "TUNJUNGREJO"
+		"name": "TANJUNGREJO"
 	},
 	{
 		"code": "33.18.16.2004",
@@ -30367,7 +30367,7 @@
 	{
 		"code": "33.20.03.2011",
 		"type": "desa",
-		"name": "GIDANGELO"
+		"name": "GIDANGLELO"
 	},
 	{
 		"code": "33.20.03.2012",
@@ -31062,7 +31062,7 @@
 	{
 		"code": "33.20.14.2001",
 		"type": "desa",
-		"name": "DUDAK AWU"
+		"name": "DUDAKAWU"
 	},
 	{
 		"code": "33.20.14.2002",
@@ -35432,7 +35432,7 @@
 	{
 		"code": "33.24.02.2003",
 		"type": "desa",
-		"name": "PARAKANSEBARAN"
+		"name": "PARAKAN SEBARAN"
 	},
 	{
 		"code": "33.24.02.2004",
@@ -35587,7 +35587,7 @@
 	{
 		"code": "33.24.03.2018",
 		"type": "desa",
-		"name": "KALOBOGOR"
+		"name": "KALIBOGOR"
 	},
 	{
 		"code": "33.24.04",
@@ -35817,7 +35817,7 @@
 	{
 		"code": "33.24.06.2016",
 		"type": "desa",
-		"name": "PEGERWOJO"
+		"name": "PAGERWOJO"
 	},
 	{
 		"code": "33.24.07",
@@ -36237,7 +36237,7 @@
 	{
 		"code": "33.24.12.2011",
 		"type": "desa",
-		"name": "SAMBUNGSARI"
+		"name": "SAMBONGSARI"
 	},
 	{
 		"code": "33.24.12.2012",
@@ -36422,12 +36422,12 @@
 	{
 		"code": "33.24.14.2015",
 		"type": "desa",
-		"name": "PIDODO WETAN"
+		"name": "PIDODOWETAN"
 	},
 	{
 		"code": "33.24.14.2016",
 		"type": "desa",
-		"name": "PIDODO KULON"
+		"name": "PIDODOKULON"
 	},
 	{
 		"code": "33.24.14.2017",
@@ -36437,7 +36437,7 @@
 	{
 		"code": "33.24.14.2018",
 		"type": "desa",
-		"name": "KARTIKA JAYA"
+		"name": "KARTIKAJAYA"
 	},
 	{
 		"code": "33.24.15",
@@ -36477,7 +36477,7 @@
 	{
 		"code": "33.24.15.1007",
 		"type": "kelurahan",
-		"name": "KALIBUNTUN"
+		"name": "KALIBUTUWETAN"
 	},
 	{
 		"code": "33.24.15.1008",
@@ -36487,7 +36487,7 @@
 	{
 		"code": "33.24.15.1009",
 		"type": "kelurahan",
-		"name": "TUNGGUL REJO"
+		"name": "TUNGGULREJO"
 	},
 	{
 		"code": "33.24.15.1010",
@@ -36537,7 +36537,7 @@
 	{
 		"code": "33.24.15.1019",
 		"type": "kelurahan",
-		"name": "BANDEGAN"
+		"name": "BANDENGAN"
 	},
 	{
 		"code": "33.24.15.1020",
@@ -36617,7 +36617,7 @@
 	{
 		"code": "33.24.16.2014",
 		"type": "desa",
-		"name": "GEBANGANOM KULON"
+		"name": "GEBANGANOM"
 	},
 	{
 		"code": "33.24.16.2015",
@@ -36627,7 +36627,7 @@
 	{
 		"code": "33.24.16.2016",
 		"type": "desa",
-		"name": "SENDANG SIKUCING"
+		"name": "SENDANGSIKUCING"
 	},
 	{
 		"code": "33.24.17",
@@ -36652,7 +36652,7 @@
 	{
 		"code": "33.24.17.2004",
 		"type": "desa",
-		"name": "GEMBONGANOM WETAN"
+		"name": "GEMBONGANOMWETAN"
 	},
 	{
 		"code": "33.24.17.2005",
@@ -36667,12 +36667,12 @@
 	{
 		"code": "33.24.17.2007",
 		"type": "desa",
-		"name": "SENDANG KULON"
+		"name": "SENDANGKULON"
 	},
 	{
 		"code": "33.24.17.2008",
 		"type": "desa",
-		"name": "SENDANG DAWUNG"
+		"name": "SENDANGDAWUNG"
 	},
 	{
 		"code": "33.24.17.2009",
@@ -36682,7 +36682,7 @@
 	{
 		"code": "33.24.17.2010",
 		"type": "desa",
-		"name": "KARANGMALANG WETAN"
+		"name": "KARANGMALANGWETAN"
 	},
 	{
 		"code": "33.24.17.2011",
@@ -36722,7 +36722,7 @@
 	{
 		"code": "33.24.18.2002",
 		"type": "desa",
-		"name": "KEDUNGASRI"
+		"name": "KEDUNGSARI"
 	},
 	{
 		"code": "33.24.18.2003",
@@ -36812,7 +36812,7 @@
 	{
 		"code": "33.24.19.2007",
 		"type": "desa",
-		"name": "BOJONG GEDE"
+		"name": "BOJONGGEDE"
 	},
 	{
 		"code": "33.24.19.2008",
@@ -37247,7 +37247,7 @@
 	{
 		"code": "33.25.04.2018",
 		"type": "desa",
-		"name": "SOKOMANGLI"
+		"name": "SUKOMANGLI"
 	},
 	{
 		"code": "33.25.04.2019",
@@ -38592,7 +38592,7 @@
 	{
 		"code": "33.26.06.2012",
 		"type": "desa",
-		"name": "KALIMOJOSAR"
+		"name": "KALIMOJOSARI"
 	},
 	{
 		"code": "33.26.06.2013",
@@ -39067,7 +39067,7 @@
 	{
 		"code": "33.26.11.2008",
 		"type": "desa",
-		"name": "DUWED"
+		"name": "DUWET"
 	},
 	{
 		"code": "33.26.11.2009",
@@ -39077,7 +39077,7 @@
 	{
 		"code": "33.26.11.2010",
 		"type": "desa",
-		"name": "KETITANG KIDUL"
+		"name": "KETITANGKIDUL"
 	},
 	{
 		"code": "33.26.11.2011",
@@ -39087,7 +39087,7 @@
 	{
 		"code": "33.26.11.2012",
 		"type": "desa",
-		"name": "KETITANG LOR"
+		"name": "KETITANGLOR"
 	},
 	{
 		"code": "33.26.11.2013",
@@ -39122,12 +39122,12 @@
 	{
 		"code": "33.26.11.2019",
 		"type": "desa",
-		"name": "BABALAN LOR"
+		"name": "BABALANLOR"
 	},
 	{
 		"code": "33.26.11.2020",
 		"type": "desa",
-		"name": "BABALAN KIDUL"
+		"name": "BABALANKIDUL"
 	},
 	{
 		"code": "33.26.11.2021",
@@ -39137,7 +39137,7 @@
 	{
 		"code": "33.26.11.2022",
 		"type": "desa",
-		"name": "SEMBUNG JAMBU"
+		"name": "SEMBUNGJAMBU"
 	},
 	{
 		"code": "33.26.12",
@@ -39212,7 +39212,7 @@
 	{
 		"code": "33.26.12.2014",
 		"type": "desa",
-		"name": "SURABAYAN"
+		"name": "SUROBAYAN"
 	},
 	{
 		"code": "33.26.13",
@@ -39302,7 +39302,7 @@
 	{
 		"code": "33.26.13.2016",
 		"type": "desa",
-		"name": "BUNGANGAN"
+		"name": "BUGANGAN"
 	},
 	{
 		"code": "33.26.13.2017",
@@ -39562,7 +39562,7 @@
 	{
 		"code": "33.26.17.2004",
 		"type": "desa",
-		"name": "TANJUNGSARI"
+		"name": "TUNJUNGSARI"
 	},
 	{
 		"code": "33.26.17.2005",
@@ -39787,7 +39787,7 @@
 	{
 		"code": "33.27.01.2010",
 		"type": "desa",
-		"name": "GENDOWANG"
+		"name": "GENDOANG"
 	},
 	{
 		"code": "33.27.02",
@@ -39987,7 +39987,7 @@
 	{
 		"code": "33.27.04.2013",
 		"type": "desa",
-		"name": "GAPURO"
+		"name": "GAPURA"
 	},
 	{
 		"code": "33.27.04.2014",
@@ -40177,7 +40177,7 @@
 	{
 		"code": "33.27.06.2015",
 		"type": "desa",
-		"name": "KEBONGEDE"
+		"name": "KEBON GEDE"
 	},
 	{
 		"code": "33.27.06.2016",
@@ -40592,7 +40592,7 @@
 	{
 		"code": "33.27.10.2018",
 		"type": "desa",
-		"name": "KLAYERAN"
+		"name": "KLAREYAN"
 	},
 	{
 		"code": "33.27.10.2019",
@@ -40982,7 +40982,7 @@
 	{
 		"code": "33.28.01.2012",
 		"type": "desa",
-		"name": "PRUPUK UTATA"
+		"name": "PRUPUK UTARA"
 	},
 	{
 		"code": "33.28.01.2013",
@@ -42607,7 +42607,7 @@
 	{
 		"code": "33.29.02.2009",
 		"type": "desa",
-		"name": "KARANGAPRI"
+		"name": "KARANGPARI"
 	},
 	{
 		"code": "33.29.02.2010",
@@ -42807,7 +42807,7 @@
 	{
 		"code": "33.29.05.2001",
 		"type": "desa",
-		"name": "BATUSARI"
+		"name": "BATURSARI"
 	},
 	{
 		"code": "33.29.05.2002",
@@ -43557,7 +43557,7 @@
 	{
 		"code": "33.29.13.2006",
 		"type": "desa",
-		"name": "KUBANGPUTAT"
+		"name": "KUPANGPUTAT"
 	},
 	{
 		"code": "33.29.13.2007",
@@ -45027,7 +45027,7 @@
 	{
 		"code": "33.74.09.1003",
 		"type": "kelurahan",
-		"name": "BEDAN NGISOR"
+		"name": "BENDAN NGISOR"
 	},
 	{
 		"code": "33.74.09.1004",
@@ -45047,7 +45047,7 @@
 	{
 		"code": "33.74.09.1007",
 		"type": "kelurahan",
-		"name": "PETAMPON"
+		"name": "PETOMPON"
 	},
 	{
 		"code": "33.74.09.1008",
@@ -45487,7 +45487,7 @@
 	{
 		"code": "33.74.16.1001",
 		"type": "kelurahan",
-		"name": "JRAKAH"
+		"name": "JERAKAH"
 	},
 	{
 		"code": "33.74.16.1002",
