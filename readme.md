@@ -10,6 +10,8 @@
 - [Install](#install)
 - [Usage](#usage)
 - [API](#api)
+    - [Examples](#examples)
+- [Browser](#browser)
 - [Source](#source)
 
 ---
@@ -17,15 +19,15 @@
 
 ## Install
 
-Using [__`npm`__](https://npmjs.com)
+Install via [__`npm`__](https://npmjs.com) package manager
 
-```
+```console
 $ npm install administratif-indonesia
 ```
 
 or if you prefer using [__`yarn`__](https://yarnpkg.com) package manager
 
-```
+```console
 $ yarn add administratif-indonesia
 ```
 
@@ -84,9 +86,43 @@ Returns a `boolean` value if key has exists.
 - Default: `undefined`
 
 
+### Examples
+
+> __NOTE:__ Jika ukuran (size) data sangat besar, gunakanlah [`ReadableStreams`](https://nodejs.org/api/fs.html#fs_fs_createreadstream_path_options).
+
+#### Basic
+
+```js
+const ai = new AdministratifIndonesia();
+
+// synchronous output
+console.log(fs.readFileSync(ai.get('31-dki-jakarta'), 'utf8'));
+
+// Readable Streams
+fs.createReadStream(ai.get('31-dki-jakarta')).pipe(process.stdout);
+```
+
+#### Server
+
+```js
+const ai = new AdministratifIndonesia();
+
+app.get('/api/administratif-indonesia/:identifier', (request, response) => {
+    fs.createReadStream(ai.get(request.params.identifier))
+        .pipe(response);
+});
+```
+
+
+## Browser
+
+Semua file [Administratif Indonesia](https://unpkg.com/administratif-indonesia/storages/) dapat di akses langsung via browser melalui [unpkg.com](https://unpkg.com).
+
+👉 [https://unpkg.com/administratif-indonesia/storages/](https://unpkg.com/administratif-indonesia/storages/)
+
 ## Source
 
-Mempertimbangkan beberapa sumber yang ada, librari ini menggunakan data yang bersumber dari [**Ditjen PUM Kemendagri**](http://www.kemendagri.go.id/pages/data-wilayah) (Permendagri No. 56-2015).
+Mempertimbangkan beberapa sumber yang ada, librari ini menggunakan data yang bersumber dari [**Ditjen PUM Kemendagri**](http://www.kemendagri.go.id/pages/data-wilayah) (__Permendagri No. 137-2017__).
 
 
 ## Conclusions
