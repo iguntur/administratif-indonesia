@@ -18,6 +18,8 @@ const fsP = {
 	readdir: util.promisify(fs.readdir)
 };
 
+const argv = process.argv.slice(2);
+
 class StringifyStream extends Transform {
 	constructor() {
 		super();
@@ -59,8 +61,14 @@ const tasks = new Listr([
 	{
 		title: 'Create cache files',
 		skip: () => {
-			if (!fs.existsSync(PDF_DIR) || fs.readdirSync(PDF_DIR).length !== 34) {
-				return `PDF files doesn't exists or some files missing. Try to download 'npm run download'`;
+			let files;
+
+			if (argv.includes('--force')) {
+				return;
+			}
+
+			if (!fs.existsSync(PDF_DIR) || (files = fs.readdirSync(PDF_DIR), files.length !== 34)) {
+				return `PDF files not completed, got [${files.length}] files. Try to download 'npm run download'`;
 			}
 		},
 		task: async () => {

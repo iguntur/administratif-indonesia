@@ -2,12 +2,14 @@ import path from 'path';
 import test from 'ava';
 import fn from '../lib/builder';
 
-test('should return array[34] with attributes', async t => {
-	const x = await fn.run();
+const fixturesPath = path.resolve(__dirname, 'fixtures');
+
+test('should return array with attributes', async t => {
+	const x = await fn.run(fixturesPath);
 
 	t.true(typeof x === 'object');
 	t.true(Array.isArray(x));
-	t.true(x.length === 34);
+	t.true(x.length === 1);
 
 	x.forEach(res => {
 		t.true('path' in res);
@@ -18,7 +20,7 @@ test('should return array[34] with attributes', async t => {
 });
 
 test('validate context', async t => {
-	const x = await fn.run();
+	const x = await fn.run(fixturesPath);
 
 	x.forEach(res => {
 		res.data.forEach(o => {

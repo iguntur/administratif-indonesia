@@ -3,8 +3,13 @@ const fs = require('fs');
 const path = require('path');
 const util = require('util');
 const del = require('del');
+const sortBy = require('lodash.sortby');
 const pathEnsure = require('path-ensure');
+const findCacheDir = require('find-cache-dir');
+const pkg = require('../package.json');
 const builder = require('../lib/builder');
+
+const CACHE_DIR = findCacheDir({name: pkg.name});
 
 const fsP = {
 	writeFile: util.promisify(fs.writeFile)
@@ -29,7 +34,7 @@ const buildIndexProvince = stats => {
 		.map(stat => stat.data.filter(x => x.type === 'provinsi'))
 		.reduce((p, c) => p.concat(c));
 
-	storage.write('index.json', JSON.stringify(data, null, '\t'));
+	storage.write('index.json', JSON.stringify(sortBy(data, 'code'), null, '\t'));
 };
 
 const buildDist = stats => {
@@ -40,7 +45,7 @@ const buildDist = stats => {
 
 del([path.join(storage.dir, '*')]);
 
-builder.run()
+builder.run(CACHE_DIR)
 	.then(stats => {
 		buildDist(stats);
 		buildIndexProvince(stats);
